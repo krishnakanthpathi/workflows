@@ -3,9 +3,10 @@
 Daily Morning Executive Briefing Cron Job (Armin Agent)
 - Curates top 5 AI, tech, and world events via live search.
 - Synthesizes audio briefing using macOS Tara (en-IN) voice model.
-- Fetches a curated daily 16:9 Anime Desktop Wallpaper (Attack on Titan, Bleach, Naruto, Tokyo Ghoul, etc.).
+- Fetches a curated daily 16:9 Anime Desktop Wallpaper (Attack on Titan, Bleach, Naruto, etc.).
+- Creates today's Daily Note in the Obsidian Vault (/Daily/YYYY-MM-DD.md).
 - Creates a dedicated daily public thread in Discord.
-- Posts single-payload Blockquote Bullet Card briefing with in-line playable audio and full-res wallpaper attachment.
+- Posts single-payload Blockquote Bullet Card briefing with in-line playable audio and wallpaper attachment.
 """
 
 import os
@@ -25,8 +26,10 @@ DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN", "YOUR_DISCORD_BOT_TOKEN")
 CHANNEL_ID = os.getenv("DISCORD_CHANNEL_ID", "1543265750414790737")
 VOICE_NAME = "Tara"
 ASSETS_OUTPUT_DIR = "/tmp/armin_briefings"
+OBSIDIAN_DAILY_DIR = "/Users/krishnakanth/Documents/Obsidian Vault/Daily"
 
 os.makedirs(ASSETS_OUTPUT_DIR, exist_ok=True)
+os.makedirs(OBSIDIAN_DAILY_DIR, exist_ok=True)
 
 def live_web_search(query, max_results=5):
     """Zero-dependency live web search to retrieve top news headlines."""
@@ -66,7 +69,7 @@ def live_web_search(query, max_results=5):
     return results
 
 def fetch_daily_anime_wallpaper(output_path):
-    """Searches and downloads a desktop anime wallpaper (Attack on Titan, Bleach, Naruto, Tokyo Ghoul, etc.)."""
+    """Searches and downloads a desktop anime wallpaper (Attack on Titan, Bleach, Naruto, etc.)."""
     anime_pool = [
         "Attack on Titan",
         "Bleach",
@@ -115,6 +118,120 @@ def synthesize_voice(text, output_m4a_path):
     cmd = ["say", "-v", VOICE_NAME, "-o", output_m4a_path, text]
     subprocess.run(cmd, check=True)
     print(f"✅ Audio generated successfully: {output_m4a_path} ({os.path.getsize(output_m4a_path)} bytes)")
+
+def create_obsidian_daily_note(today, top_5_items, anime_title, resolution):
+    """Automatically creates today's Daily Note in the Obsidian Vault."""
+    filename = today.strftime("%Y-%m-%d.md")
+    note_path = os.path.join(OBSIDIAN_DAILY_DIR, filename)
+    date_display = today.strftime("%A, %B %d, %Y")
+    
+    lines = [
+        f"# Daily Tasks - {date_display}",
+        "",
+        "> [!info] Morning Briefing & Workflow Generated",
+        f"> **Date:** {date_display}",
+        "> **Tags:** #daily #tasks #briefing #automation",
+        "",
+        "---",
+        "",
+        "## 📋 Today's Tasks",
+        "",
+        "### 🏃 Morning (7:00 AM - 12:00 PM)",
+        f"- [x] Daily automated Discord executive briefing delivered ✅ {today.strftime('%Y-%m-%d')}",
+        "- [ ] Review morning radar & security advisories",
+        "- [ ] LeetCode / DSA problem solving",
+        "- [ ] System design & architecture study",
+        "",
+        "### 🔧 Afternoon (12:00 PM - 6:00 PM)",
+        "- [ ] Lunch & mid-day recharge",
+        "- [ ] Deep Work Block: Core project engineering & MCP development",
+        "- [ ] Code reviews & PR audits",
+        "- [ ] Evening walk / Flex time",
+        "",
+        "### 🌙 Evening (6:00 PM - 10:00 PM)",
+        "- [ ] Social / Free time / Hobbies",
+        "- [ ] Gaming session 🎮",
+        "- [ ] End-of-day review & tomorrow's milestone setup",
+        "",
+        "---",
+        "",
+        f"## 📰 Tech News Highlights ({today.strftime('%B %d, %Y')})",
+        ""
+    ]
+    
+    for idx, item in enumerate(top_5_items, 1):
+        bullets_text = " ".join(item["bullets"])
+        lines.append(f"{idx}. **{item['title']}** — {bullets_text}")
+        
+    lines.extend([
+        "",
+        "---",
+        "",
+        "## 🖼️ Daily Anime Wallpaper",
+        "",
+        "> [!tip] Featured Series",
+        f"> **{anime_title if anime_title else 'Anime Art'}** ({resolution if resolution else 'High-Res Widescreen'})",
+        "> Delivered to Discord daily thread.",
+        "",
+        "---",
+        "",
+        "## 🏋️ Today's Workout Plan",
+        "",
+        "**Duration:** 30-45 min  ",
+        "**Focus:** Conditioning & Core Strength",
+        "",
+        "### Warm-up (5 min)",
+        "- Jumping jacks: 30 sec",
+        "- Arm circles: 30 sec forward + 30 sec backward",
+        "- High knees: 30 sec",
+        "- Bodyweight squats: 10 reps",
+        "",
+        "### Main Circuit (3 rounds)",
+        "1. Dumbbell Goblet Squats: 12 reps",
+        "2. Push-ups: 10-12 reps",
+        "3. Dumbbell Romanian Deadlifts: 10 reps",
+        "4. Plank hold: 30 sec",
+        "5. Dumbbell Rows: 10 reps per arm",
+        "6. Mountain Climbers: 30 sec",
+        "",
+        "### Cool-down (5 min)",
+        "- Hamstring stretch: 30 sec per leg",
+        "- Chest stretch: 30 sec",
+        "- Child's pose: 45 sec",
+        "",
+        "---",
+        "",
+        "## 📅 Daily Timetable",
+        "",
+        "```text",
+        "07:00 AM ─ 🌅 Morning Kickoff & Briefing Review",
+        "08:00 AM ─ 🤖 Automated Daily Discord Briefing & Audio Delivery",
+        "08:30 AM ─ 🏃 Morning Workout & Freshen Up",
+        "09:30 AM ─ 🎯 DSA Practice (LeetCode / Codeforces)",
+        "11:00 AM ─ 📝 System Design & Tech Research",
+        "12:30 PM ─ 🍽️ Lunch & Recharge",
+        "02:00 PM ─ 🔧 Project Engineering / Deep Work",
+        "04:30 PM ─ 🌳 Evening Walk & Break",
+        "06:00 PM ─ ☕ Social / Free Time",
+        "08:00 PM ─ 🎮 Gaming Session",
+        "10:00 PM ─ 🌙 Review & Sleep Prep",
+        "```",
+        "",
+        "---",
+        "",
+        "## 📝 End-of-Day Review",
+        "*Fill this in tonight before bed:*",
+        "- Tasks completed:",
+        "- What went well:",
+        "- What to improve:",
+        "- Tomorrow's priority:",
+        ""
+    ])
+    
+    with open(note_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+    print(f"📝 Obsidian Daily Note successfully created: {note_path}")
+    return note_path
 
 def create_discord_thread(thread_name):
     """Creates a public thread in the target Discord channel."""
@@ -245,8 +362,9 @@ def get_todays_news():
     ]
 
 def run_pipeline():
-    today_date_str = datetime.datetime.now().strftime("%B %d, %Y")
-    today_file_tag = datetime.datetime.now().strftime("%Y%m%d")
+    today = datetime.datetime.now()
+    today_date_str = today.strftime("%B %d, %Y")
+    today_file_tag = today.strftime("%Y%m%d")
     thread_title = f"📅 Daily Briefing – {today_date_str}"
     audio_path = os.path.join(ASSETS_OUTPUT_DIR, f"daily_briefing_{today_file_tag}.m4a")
     wallpaper_path = os.path.join(ASSETS_OUTPUT_DIR, f"daily_wallpaper_{today_file_tag}.jpg")
@@ -263,7 +381,11 @@ def run_pipeline():
     # 3. Structured Top 5 Events
     top_5_items = get_todays_news()
 
-    # 4. Build Option 1 Blockquote Card Markdown
+    # 4. Automatically Create Today's Daily Note in Obsidian Vault
+    print("📝 Generating today's Obsidian daily note...")
+    create_obsidian_daily_note(today, top_5_items, anime_title, resolution)
+
+    # 5. Build Option 1 Blockquote Card Markdown
     markdown_lines = [
         f"## 📅 Daily Executive Briefing — {today_date_str}",
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n",
@@ -289,9 +411,9 @@ def run_pipeline():
     ])
     full_markdown = "\n".join(markdown_lines)
 
-    # 5. Synthesize Voice Script
+    # 6. Synthesize Voice Script
     voice_script_parts = [
-        f"Good morning! Here is your daily briefing for {datetime.datetime.now().strftime('%A, %B %d, %Y')}.",
+        f"Good morning! Here is your daily briefing for {today.strftime('%A, %B %d, %Y')}.",
         "Here are today's top five world and technology breakthroughs:"
     ]
     for item in top_5_items:
@@ -303,7 +425,7 @@ def run_pipeline():
 
     synthesize_voice(full_voice_script, audio_path)
 
-    # 6. Create Thread & Deliver Single Payload (Text + Audio + Wallpaper)
+    # 7. Create Thread & Deliver Single Payload (Text + Audio + Wallpaper)
     thread_id = create_discord_thread(thread_title)
     send_briefing_to_discord(thread_id, full_markdown, audio_path, wallpaper_path if anime_title else None)
     print("🎉 Pipeline finished successfully!")
