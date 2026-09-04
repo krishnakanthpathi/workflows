@@ -97,21 +97,6 @@ python3 /Users/krishnakanth/Projects/workflow/.agents/skills/exam-paper-generato
 python3 scripts/render_paper.py my_paper.json -d ./dist --open
 ```
 
-### 4. Messaging Platform Delivery (WhatsApp, Telegram, Discord)
-When the user asks via WhatsApp or any chat interface to create an exam paper:
-1. Generate the structured JSON and save it to `/tmp/exam_paper.json` (or inside the skill directory).
-2. Run the compiler:
-   ```bash
-   python3 scripts/render_paper.py /tmp/exam_paper.json
-   ```
-3. Deliver the PDF directly to the user by ending your response with the `MEDIA:` directive:
-   ```text
-   Here is your question paper!
-   MEDIA:/tmp/exam_paper.pdf
-   ```
-   > [!NOTE]
-   > The Hermes platform gateway automatically intercepts `MEDIA:<path>` directives, strips the tag from the text, and delivers the file as a native attachment (PDF document) to the chat.
-
 ---
 
 ## 🤖 Prompt Guide for Low-Tier Models (Hermes / Llama / Mistral)
