@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "board_title": "BOARD OF SECONDARY EDUCATION, A.P. :: VIJAYAWADA\nSSC PUBLIC EXAMINATIONS - MODEL ASSESSMENT",
+    "class": "CLASS X (10th)",
+    "subject": "MATHEMATICS (PAPER I & II)",
+    "chapter_name": "SUMMATIVE / MODEL QUESTION PAPER",
+    "paper_code": "15E (MATHS)",
+    "medium": "ENGLISH MEDIUM",
+    "time": "2 hours 45 minutes",
+    "max_marks": 50,
+    "instructions": [
+      "First 15 minutes are strictly allocated for reading the question paper thoroughly.",
+      "Answer all the questions in the provided answer booklet.",
+      "The paper contains 4 Sections: Section I, II, III and IV.",
+      "Internal choice is provided in Section IV (8 Marks questions).",
+      "Rough work must be shown in the margin of the answer sheet.",
+      "Use of mathematical instruments/geometry box is permitted."
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "I",
+      "title": "SECTION - I",
+      "instruction": "Note: Answer ALL questions. Each question carries 1 Mark.",
+      "marks_total": "6 x 1 = 6M",
+      "questions": [
+        {
+          "q_no": 1,
+          "type": "short_answer",
+          "question": "Express the number $140$ as a product of its prime factors using fundamental theorem of arithmetic.",
+          "marks": "1M"
+        },
+        {
+          "q_no": 2,
+          "type": "short_answer",
+          "question": "Find a quadratic polynomial whose sum of zeroes is $-3$ and product of zeroes is $2$.",
+          "marks": "1M"
+        },
+        {
+          "q_no": 3,
+          "type": "mcq",
+          "question": "If $\\tan\\theta = \\frac{3}{4}$, then what is the value of $\\cos\\theta$?",
+          "marks": "1M",
+          "options": [
+            "A) $\\frac{4}{5}$",
+            "B) $\\frac{3}{5}$",
+            "C) $\\frac{5}{4}$",
+            "D) $\\frac{4}{3}$"
+          ]
+        },
+        {
+          "q_no": 4,
+          "type": "mcq",
+          "question": "The discriminant ($D = b^2 - 4ac$) of the quadratic equation $2x^2 - 4x + 3 = 0$ is:",
+          "marks": "1M",
+          "options": [
+            "A) $-8$",
+            "B) $8$",
+            "C) $-16$",
+            "D) $16$"
+          ]
+        },
+        {
+          "q_no": 5,
+          "type": "short_answer",
+          "question": "Find the distance of the point $P(3, 4)$ from the origin $O(0, 0)$ on the coordinate plane.",
+          "marks": "1M"
+        },
+        {
+          "q_no": 6,
+          "type": "short_answer",
+          "question": "A fair six-sided die is rolled once. What is the probability of getting an odd prime number?",
+          "marks": "1M"
+        }
+      ]
+    },
+    {
+      "section_id": "II",
+      "title": "SECTION - II",
+      "instruction": "Note: Answer ALL questions in 3 to 4 steps. Each question carries 2 Marks.",
+      "marks_total": "4 x 2 = 8M",
+      "questions": [
+        {
+          "q_no": 7,
+          "type": "short_answer",
+          "question": "Prove that $\\sqrt{5}$ is an irrational number by method of contradiction.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 8,
+          "type": "short_answer",
+          "question": "Find the zeroes of the quadratic polynomial $p(x) = x^2 - 2x - 8$, and verify the relationship between the zeroes and its coefficients.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 9,
+          "type": "short_answer",
+          "question": "In an Arithmetic Progression (AP), given the first term $a = 5$, common difference $d = 3$, and $n$-th term $a_n = 50$. Find $n$ and the sum of the first $n$ terms ($S_n$).",
+          "marks": "2M"
+        },
+        {
+          "q_no": 10,
+          "type": "short_answer",
+          "question": "If $\\sin(A - B) = \\frac{1}{2}$ and $\\cos(A + B) = \\frac{1}{2}$, where $0^\\circ < A + B \\le 90^\\circ$ and $A > B$, find the values of acute angles $A$ and $B$.",
+          "marks": "2M"
+        }
+      ]
+    },
+    {
+      "section_id": "III",
+      "title": "SECTION - III",
+      "instruction": "Note: Answer ALL questions. Each question carries 4 Marks.",
+      "marks_total": "4 x 4 = 16M",
+      "questions": [
+        {
+          "q_no": 11,
+          "type": "short_answer",
+          "question": "Find the coordinates of the points of trisection (i.e. points dividing into three equal segments) of the line segment joining $A(2, -2)$ and $B(-7, 4)$.",
+          "marks": "4M"
+        },
+        {
+          "q_no": 12,
+          "type": "data_analysis",
+          "heading": "The frequency distribution below shows the marks obtained by 50 students in a mathematics test. Calculate the arithmetic Mean ($\\bar{x}$) of the data:",
+          "table": {
+            "headers": ["Class Interval (Marks)", "Number of Students ($f_i$)", "Class Mark ($x_i$)", "$f_i x_i$"],
+            "rows": [
+              ["10 - 25", "2", "17.5", "35.0"],
+              ["25 - 40", "3", "32.5", "97.5"],
+              ["40 - 55", "7", "47.5", "332.5"],
+              ["55 - 70", "6", "62.5", "375.0"],
+              ["70 - 85", "6", "77.5", "465.0"],
+              ["85 - 100", "6", "92.5", "555.0"]
+            ]
+          },
+          "sub_questions": [
+            "i) Compute $\\sum f_i$ and $\\sum f_i x_i$.",
+            "ii) Find the Mean marks using the formula $\\bar{x} = \\frac{\\sum f_i x_i}{\\sum f_i}$."
+          ],
+          "marks": "4M"
+        },
+        {
+          "q_no": 13,
+          "type": "short_answer",
+          "question": "Prove the following trigonometric identity for acute angle $A$:\n$$\\frac{\\cos A}{1 + \\sin A} + \\frac{1 + \\sin A}{\\cos A} = 2\\sec A$$",
+          "marks": "4M"
+        },
+        {
+          "q_no": 14,
+          "type": "short_answer",
+          "question": "A solid toy is in the form of a hemisphere surmounted by a right circular cone of the same radius. The height of the cone is $2\\text{ cm}$ and the diameter of the base is $4\\text{ cm}$. Determine the volume of the toy. (Take $\\pi = 3.14$).",
+          "marks": "4M"
+        }
+      ]
+    },
+    {
+      "section_id": "IV",
+      "title": "SECTION - IV",
+      "instruction": "Note: Answer ALL questions. Each question carries 8 Marks. There is an INTERNAL CHOICE (A or B) for each question.",
+      "marks_total": "2 x 8 = 16M",
+      "questions": [
+        {
+          "q_no": 15,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "title": "A) Basic Proportionality Theorem (Thales Theorem)",
+            "format": "State and prove the Basic Proportionality Theorem (B.P.T.).\n\nYour proof must include:\n• Statement: If a line is drawn parallel to one side of a triangle to intersect the other two sides in distinct points, then the other two sides are divided in the same ratio.\n• Given diagram & data for $\\triangle ABC$ with line $DE \\parallel BC$.\n• Construction: Join $BE$ and $CD$, and draw perpendiculars $DM \\perp AC$ and $EN \\perp AB$.\n• Complete step-by-step mathematical proof showing $\\frac{AD}{DB} = \\frac{AE}{EC}$."
+          },
+          "choice_b": {
+            "title": "B) Applications of Trigonometry (Heights and Distances)",
+            "format": "From the top of a $7\\text{ m}$ high building, the angle of elevation of the top of a cable tower is $60^\\circ$ and the angle of depression of its foot is $45^\\circ$.\n\nTasks:\n• Draw a neat geometric sketch representing the building, tower, and observer lines of sight.\n• Calculate the horizontal distance between the building and the cable tower.\n• Calculate the total vertical height of the cable tower. (Take $\\sqrt{3} \\approx 1.732$)."
+          }
+        },
+        {
+          "q_no": 16,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "title": "A) Graphical Solution of Pair of Linear Equations",
+            "format": "Solve the following system of linear equations graphically on a Cartesian plane:\n$$2x + y - 6 = 0$$\n$$4x - 2y - 4 = 0$$\n\nTasks:\n• Form value tables for each equation with at least 3 pairs of coordinates $(x, y)$.\n• Plot both straight lines on graph grid and find their point of intersection.\n• Write down the unique solution $(x, y)$ of the system.\n• Determine the vertices of the triangle formed by these two lines and the y-axis."
+          },
+          "choice_b": {
+            "title": "B) Statistics - Median & Mode of Grouped Data",
+            "format": "The following frequency distribution gives the monthly electricity consumption (in units) of $68$ consumers of a locality:\n\n• Class 65-85: $4$ consumers\n• Class 85-105: $5$ consumers\n• Class 105-125: $13$ consumers\n• Class 125-145: $20$ consumers\n• Class 145-165: $14$ consumers\n• Class 165-185: $8$ consumers\n• Class 185-205: $4$ consumers\n\nTasks:\n• Construct the cumulative frequency distribution table.\n• Identify the Median class and calculate the **Median** consumption using the formula:\n$$\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right) \\times h$$\n• Find the **Mode** of the given distribution."
+          }
+        }
+      ]
+    }
+  ]
+}

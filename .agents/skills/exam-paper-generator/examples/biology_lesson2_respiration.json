@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "board_title": "BOARD OF SECONDARY EDUCATION, A.P. :: VIJAYAWADA\nSSC PUBLIC EXAMINATIONS - FORMATIVE & MODEL ASSESSMENT",
+    "class": "CLASS X (10th)",
+    "subject": "GENERAL SCIENCE - PAPER II (BIOLOGICAL SCIENCE)",
+    "chapter_name": "CHAPTER 2 : RESPIRATION - THE ENERGY RELEASING SYSTEM",
+    "paper_code": "20E (BIO)",
+    "medium": "ENGLISH MEDIUM",
+    "time": "1 hour 15 minutes",
+    "max_marks": 50,
+    "instructions": [
+      "Read the question paper carefully during the 15 minutes allotted reading time.",
+      "All answers should be written in the answer booklet provided.",
+      "The question paper consists of 4 Sections (Section I, II, III and IV).",
+      "Internal choice is available in Section IV (Long Answer / Essay Questions).",
+      "Draw neat, well-labeled diagrams wherever necessary."
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "I",
+      "title": "SECTION - I",
+      "instruction": "Note: Answer ALL the questions. Each question carries 1 Mark.",
+      "marks_total": "6 x 1 = 6M",
+      "questions": [
+        {
+          "q_no": 1,
+          "type": "short_answer",
+          "question": "What is the role of the epiglottis during the process of swallowing food and breathing?",
+          "marks": "1M"
+        },
+        {
+          "q_no": 2,
+          "type": "short_answer",
+          "question": "Why does a person feel muscle fatigue and severe cramps after vigorous physical exercise?",
+          "marks": "1M"
+        },
+        {
+          "q_no": 3,
+          "type": "mcq",
+          "question": "Which of the following represents the correct respiratory organ in Earthworm and Cockroach respectively?",
+          "marks": "1M",
+          "options": [
+            "A) Lungs and Gills",
+            "B) Skin (Moist cuticle) and Trachea",
+            "C) Gills and Trachea",
+            "D) Skin and Book lungs"
+          ]
+        },
+        {
+          "q_no": 4,
+          "type": "mcq",
+          "question": "In the experiment demonstrating anaerobic respiration in yeast, why is liquid paraffin wax poured over the glucose solution?",
+          "marks": "1M",
+          "options": [
+            "A) To supply additional nutrients to yeast",
+            "B) To prevent atmospheric oxygen from entering the solution",
+            "C) To absorb carbon dioxide gas",
+            "D) To maintain high temperature"
+          ]
+        },
+        {
+          "q_no": 5,
+          "type": "short_answer",
+          "question": "Identify the indicator dye (Janus Green B / Diazine Green) used to test the absence of oxygen in anaerobic respiration experiments. What color change indicates absence of oxygen?",
+          "marks": "1M"
+        },
+        {
+          "q_no": 6,
+          "type": "short_answer",
+          "question": "Name the tiny grape-like structural and functional units of the human lungs where gaseous exchange takes place.",
+          "marks": "1M"
+        }
+      ]
+    },
+    {
+      "section_id": "II",
+      "title": "SECTION - II",
+      "instruction": "Note: Answer ALL questions in 3-4 sentences each. Each question carries 2 Marks.",
+      "marks_total": "4 x 2 = 8M",
+      "questions": [
+        {
+          "q_no": 7,
+          "type": "short_answer",
+          "question": "Write the correct chronological pathway of air movement in human respiratory system from nostrils to cellular level.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 8,
+          "type": "short_answer",
+          "question": "Differentiate between Aerobic Respiration and Anaerobic Respiration based on end products and energy released (number of ATP molecules).",
+          "marks": "2M"
+        },
+        {
+          "q_no": 9,
+          "type": "short_answer",
+          "question": "Plants respire through stomata on leaves. What specialized structures do woody stems and mangrove aerial roots use for gaseous exchange?",
+          "marks": "2M"
+        },
+        {
+          "q_no": 10,
+          "type": "short_answer",
+          "question": "Why is ATP often referred to as the 'Universal Energy Currency' of the cell? How much energy is stored in one ATP molecule?",
+          "marks": "2M"
+        }
+      ]
+    },
+    {
+      "section_id": "III",
+      "title": "SECTION - III",
+      "instruction": "Note: Answer ALL questions in 5-6 sentences each. Each question carries 4 Marks.",
+      "marks_total": "4 x 4 = 16M",
+      "questions": [
+        {
+          "q_no": 11,
+          "type": "data_analysis",
+          "heading": "Analyze the given table showing the percentage composition of gases in Inhaled Air and Exhaled Air, then answer the following questions:",
+          "table": {
+            "headers": ["Gas / Component", "Inhaled Air (%)", "Exhaled Air (%)"],
+            "rows": [
+              ["Oxygen (O2)", "21%", "16%"],
+              ["Carbon dioxide (CO2)", "0.04%", "4.4%"],
+              ["Nitrogen (N2)", "78%", "78%"],
+              ["Water Vapour", "Variable (Lower)", "Saturated (Higher)"]
+            ]
+          },
+          "sub_questions": [
+            "i) Why does the percentage of Oxygen decrease from 21% to 16% in exhaled air?",
+            "ii) Why does Carbon dioxide show a dramatic increase from 0.04% to 4.4%?",
+            "iii) Why does the percentage of Nitrogen remain unchanged (78%) in both inhaled and exhaled air?",
+            "iv) What is the biological significance of exhaled air containing higher moisture and heat?"
+          ],
+          "marks": "4M"
+        },
+        {
+          "q_no": 12,
+          "type": "short_answer",
+          "question": "Tabulate four clear differences between Respiration (biological oxidation) and Combustion (burning of sugar).",
+          "marks": "4M"
+        },
+        {
+          "q_no": 13,
+          "type": "diagram_task",
+          "question": "Draw a neat, well-labeled diagram of a single Mitochondrion ('Powerhouse of the Cell'). Label the following parts:\ni) Outer membrane  ii) Inner membrane  iii) Cristae  iv) Matrix.",
+          "marks": "4M"
+        },
+        {
+          "q_no": 14,
+          "type": "short_answer",
+          "question": "Describe how gaseous exchange takes place across the alveolar membrane into pulmonary blood capillaries by simple diffusion.",
+          "marks": "4M"
+        }
+      ]
+    },
+    {
+      "section_id": "IV",
+      "title": "SECTION - IV",
+      "instruction": "Note: Answer ALL questions. Each question carries 8 Marks. There is an INTERNAL CHOICE (A or B) for each question.",
+      "marks_total": "2 x 8 = 16M",
+      "questions": [
+        {
+          "q_no": 15,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "type": "experiment",
+            "title": "A) Explain an experiment to demonstrate the evolution of Carbon Dioxide (CO2) during Anaerobic Respiration (Fermentation) in yeast.",
+            "format": "Write your answer under the following headings:\n• Aim of the Experiment\n• Apparatus & Materials Required\n• Experimental Procedure (including role of liquid paraffin wax and diazine green)\n• Observations (Lime water test result)\n• Precautions to be taken"
+          },
+          "choice_b": {
+            "type": "experiment",
+            "title": "B) Describe an experiment to prove that Heat is liberated during cellular respiration using germinating seeds.",
+            "format": "Write your answer under the following headings:\n• Aim\n• Apparatus Required (Thermos flasks, Thermometer, Cotton wool, Germinating seeds vs Boiled seeds)\n• Step-by-step Procedure\n• Observations recorded at regular intervals\n• Conclusion & Precautions"
+          }
+        },
+        {
+          "q_no": 16,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "type": "essay",
+            "title": "A) Draw a neat and labeled diagram of the Human Respiratory System.",
+            "sub_tasks": [
+              "Label the following parts: Larynx, Trachea, Bronchi, Lungs, Alveoli, and Diaphragm.",
+              "Explain the mechanism of Breathing (Inspiration and Expiration) with the role of the Diaphragm and Intercostal muscles."
+            ]
+          },
+          "choice_b": {
+            "type": "essay",
+            "title": "B) Explain the complete biochemical stages of Cellular Respiration in eukaryotic organisms.",
+            "sub_tasks": [
+              "Describe the three main stages: Glycolysis (in cytoplasm), Krebs Cycle (in mitochondrial matrix), and Electron Transport System (in cristae).",
+              "Provide the overall balanced chemical equation of aerobic respiration and calculate the total net gain of ATP molecules produced per molecule of glucose oxidized."
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

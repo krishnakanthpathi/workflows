@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "board_title": "BOARD OF SECONDARY EDUCATION, A.P. :: VIJAYAWADA\nSSC PUBLIC EXAMINATIONS - MODEL ASSESSMENT",
+    "class": "CLASS X (10th)",
+    "subject": "GENERAL SCIENCE - PAPER I (PHYSICAL SCIENCE : PHYSICS)",
+    "chapter_name": "LIGHT, ELECTRICITY & ELECTROMAGNETISM",
+    "paper_code": "19E (PHY)",
+    "medium": "ENGLISH MEDIUM",
+    "time": "1 hour 15 minutes",
+    "max_marks": 50,
+    "instructions": [
+      "First 15 minutes are allotted for reading the question paper thoroughly.",
+      "All answers must be written in the answer booklet provided.",
+      "The paper consists of 4 Sections: Section I, II, III and IV.",
+      "Internal choice is available in Section IV (8 Marks questions).",
+      "Draw neat, labeled circuit diagrams and ray diagrams wherever required."
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "I",
+      "title": "SECTION - I",
+      "instruction": "Note: Answer ALL questions. Each question carries 1 Mark.",
+      "marks_total": "6 x 1 = 6M",
+      "questions": [
+        {
+          "q_no": 1,
+          "type": "short_answer",
+          "question": "State Ohm's law and write its fundamental mathematical relationship at constant temperature.",
+          "marks": "1M"
+        },
+        {
+          "q_no": 2,
+          "type": "short_answer",
+          "question": "Why is tungsten metal exclusively used for the filament of incandescent electric lamps?",
+          "marks": "1M"
+        },
+        {
+          "q_no": 3,
+          "type": "mcq",
+          "question": "A convex lens has a focal length of $f = +20\\text{ cm}$. What is the optical power ($P$) of this lens?",
+          "marks": "1M",
+          "options": [
+            "A) $+5\\text{ D}$",
+            "B) $-5\\text{ D}$",
+            "C) $+0.05\\text{ D}$",
+            "D) $-0.05\\text{ D}$"
+          ]
+        },
+        {
+          "q_no": 4,
+          "type": "mcq",
+          "question": "Which of the following physical rules is applied to determine the direction of induced electric current in an AC generator?",
+          "marks": "1M",
+          "options": [
+            "A) Fleming's Left-Hand Rule",
+            "B) Fleming's Right-Hand Rule",
+            "C) Right-Hand Thumb Rule",
+            "D) Maxwell's Corkscrew Rule"
+          ]
+        },
+        {
+          "q_no": 5,
+          "type": "short_answer",
+          "question": "Name the eye defect in which a person can see distant objects clearly but cannot see nearby objects distinctly. Which corrective lens is prescribed?",
+          "marks": "1M"
+        },
+        {
+          "q_no": 6,
+          "type": "short_answer",
+          "question": "Why does the clear sky appear blue during the daytime? State Rayleigh's law of scattering ($I \\propto \\frac{1}{\\lambda^4}$).",
+          "marks": "1M"
+        }
+      ]
+    },
+    {
+      "section_id": "II",
+      "title": "SECTION - II",
+      "instruction": "Note: Answer ALL questions in 3 to 4 sentences/steps. Each question carries 2 Marks.",
+      "marks_total": "4 x 2 = 8M",
+      "questions": [
+        {
+          "q_no": 7,
+          "type": "short_answer",
+          "question": "An object $5\\text{ cm}$ in height is placed at a distance of $30\\text{ cm}$ in front of a convex lens of focal length $20\\text{ cm}$. Use the lens formula $\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}$ to find the position ($v$) and nature of the image.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 8,
+          "type": "short_answer",
+          "question": "Differentiate between Ohmic Conductors and Non-Ohmic Conductors with two suitable examples for each.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 9,
+          "type": "short_answer",
+          "question": "Why are electrical appliances in domestic household circuits connected in parallel rather than in series? Give two important practical reasons.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 10,
+          "type": "short_answer",
+          "question": "What is a Solenoid? How does the magnetic field inside a current-carrying long cylindrical solenoid behave?",
+          "marks": "2M"
+        }
+      ]
+    },
+    {
+      "section_id": "III",
+      "title": "SECTION - III",
+      "instruction": "Note: Answer ALL questions in 5 to 6 sentences/steps. Each question carries 4 Marks.",
+      "marks_total": "4 x 4 = 16M",
+      "questions": [
+        {
+          "q_no": 11,
+          "type": "diagram_task",
+          "question": "Draw neat ray diagrams showing the formation of image by a convex lens when an object is placed:\ni) At the center of curvature ($2F_1$)\nii) Between the optical center ($O$) and the principal focus ($F_1$).\nIn each case, specify the position, relative size, and real/virtual nature of the image.",
+          "marks": "4M"
+        },
+        {
+          "q_no": 12,
+          "type": "data_analysis",
+          "heading": "The following experimental observations of potential difference ($V$) and current ($I$) were recorded to verify Ohm's Law:",
+          "table": {
+            "headers": ["S.No.", "Potential Difference $V$ (Volts)", "Current $I$ (Amperes)", "Resistance $R = \\frac{V}{I}\\ (\\Omega)$"],
+            "rows": [
+              ["1", "1.5 V", "0.3 A", "5.0 Ω"],
+              ["2", "3.0 V", "0.6 A", "5.0 Ω"],
+              ["3", "4.5 V", "0.9 A", "5.0 Ω"],
+              ["4", "6.0 V", "1.2 A", "5.0 Ω"]
+            ]
+          },
+          "sub_questions": [
+            "i) What conclusion do you infer regarding the relationship between $V$ and $I$?",
+            "ii) What physical property is represented by the constant ratio $\\frac{V}{I}$?",
+            "iii) Calculate the electrical resistance of the given conductor wire.",
+            "iv) What will be the geometric nature and slope of the $V\\text{-}I$ graph plotted from this data?"
+          ],
+          "marks": "4M"
+        },
+        {
+          "q_no": 13,
+          "type": "short_answer",
+          "question": "Explain the vision defect Myopia (Near-sightedness):\ni) State two physiological causes of Myopia.\nii) Draw two neat ray diagrams: one showing a myopic eye, and the second showing its optical correction using a concave lens.",
+          "marks": "4M"
+        },
+        {
+          "q_no": 14,
+          "type": "short_answer",
+          "question": "An electric iron of resistance $20\\ \\Omega$ takes a current of $5\\text{ A}$. Calculate the heat energy ($H = I^2 R t$) developed in $30\\text{ seconds}$. If two such heaters and four $50\\text{ W}$ bulbs run for $4\\text{ hours}$ daily, calculate the total electrical energy consumed in kWh (commercial units) in a $30$-day month.",
+          "marks": "4M"
+        }
+      ]
+    },
+    {
+      "section_id": "IV",
+      "title": "SECTION - IV",
+      "instruction": "Note: Answer ALL questions. Each question carries 8 Marks. There is an INTERNAL CHOICE (A or B) for each question.",
+      "marks_total": "2 x 8 = 16M",
+      "questions": [
+        {
+          "q_no": 15,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "title": "A) Laboratory Experiment to Verify Ohm's Law",
+            "format": "Describe an experiment to verify that the current flowing through a metallic conductor is directly proportional to the potential difference across its ends ($V \\propto I$) at constant temperature.\n\nStructure your answer under the following headings:\n• Aim of the experiment\n• Apparatus Required (Battery, Key, Ammeter, Voltmeter, Rheostat, Nichrome wire)\n• Circuit Diagram description (Series and Parallel connections)\n• Step-by-step Experimental Procedure\n• Tabular form for recording $V$ and $I$ observations\n• Graph plotting & Precautions to avoid heating the conductor"
+          },
+          "choice_b": {
+            "title": "B) Faraday's Electromagnetic Induction Experiment",
+            "format": "Describe an experiment to demonstrate the phenomenon of Electromagnetic Induction using a wire coil and a bar magnet.\n\nStructure your answer under the following headings:\n• Aim of the activity\n• Apparatus Required (Insulated copper wire coil, Sensitive Galvanometer, Strong Bar Magnet)\n• Step-by-step Procedure\n• Observations: (i) When North pole is pushed into coil, (ii) When magnet is held stationary, (iii) When magnet is pulled out\n• Conclusion and statement of Faraday's Law of Induction ($e = -N \\frac{\\Delta \\Phi}{\\Delta t}$)"
+          }
+        },
+        {
+          "q_no": 16,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "title": "A) Electric Motor (DC Motor): Principle, Construction & Working",
+            "format": "Explain the working of an Electric Motor (DC Motor) which converts electrical energy into mechanical energy.\n\nStructure your answer as follows:\n• Working Principle (Magnetic force on a current-carrying conductor in a magnetic field)\n• Construction: Explain functions of (i) Rectangular Armature Coil, (ii) Strong Permanent Horseshoe Magnet, (iii) Split-Ring Commutator, (iv) Carbon Brushes\n• Step-by-step Working Mechanism over a half-rotation and role of commutator in reversing current\n• State Fleming's Left-Hand Rule used to determine the force on arms of the coil"
+          },
+          "choice_b": {
+            "title": "B) Refraction and Dispersion of Light through a Triangular Glass Prism",
+            "format": "Explain the behavior of light when passing through a triangular glass prism.\n\nStructure your answer as follows:\n• State Snell's Law of Refraction ($n = \\frac{\\sin i}{\\sin r}$)\n• Describe an activity to trace the path of a ray of light through a glass prism, labeling Angle of Incidence ($i$), Angle of Refraction ($r$), Angle of Emergence ($e$), and Angle of Deviation ($D$)\n• Explain the phenomenon of Dispersion of White Light into seven constituent colours (VIBGYOR)\n• Explain why violet light deviates the most while red light deviates the least in terms of wavelength ($\\lambda$) and refractive index ($n$)"
+          }
+        }
+      ]
+    }
+  ]
+}
