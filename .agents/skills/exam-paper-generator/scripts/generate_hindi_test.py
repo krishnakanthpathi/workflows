@@ -1,0 +1,192 @@
+#!/usr/bin/env python3
+"""
+Automated Hindi Unit Test Paper Generator
+Generates an authentic 25M or 50M AP/TS State Board Hindi test paper using ground-truth textbook references.
+
+Usage:
+    python3 generate_hindi_test.py [--marks 25|50] [--open]
+"""
+
+import argparse
+import json
+import os
+import subprocess
+import sys
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+SKILL_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
+REF_FILE = os.path.join(SKILL_ROOT, "references", "hindi", "class10_textbook.json")
+RENDER_SCRIPT = os.path.join(SCRIPT_DIR, "render_paper.py")
+
+def load_textbook():
+    if not os.path.exists(REF_FILE):
+        print(f"[!] References file not found: {REF_FILE}")
+        sys.exit(1)
+    with open(REF_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def build_25m_paper(tb):
+    ch1 = tb["chapters"]["chapter_1"]
+    ch2 = tb["chapters"]["chapter_2"]
+
+    paper = {
+        "metadata": {
+            "board_title": "BOARD OF SECONDARY EDUCATION, A.P. :: VIJAYAWADA\nSSC 10th CLASS - FORMATIVE / UNIT ASSESSMENT",
+            "class": "CLASS X (10th)",
+            "subject": "द्वितीय भाषा हिंदी (HINDI SECOND LANGUAGE)",
+            "chapter_name": "पाठ 1 : बरसते बादल & पाठ 2 : ईदगाह",
+            "paper_code": "02H (HINDI SL)",
+            "medium": "HINDI / TELUGU / ENGLISH",
+            "time": "45 मिनट (45 Minutes)",
+            "max_marks": 25,
+            "instructions": [
+                "सभी प्रश्नों के उत्तर दी गई उत्तर-पुस्तिका में साफ़-सुथरे अक्षरों में लिखिए।",
+                "प्रश्न-पत्र में 4 भाग (SECTION - I, II, III, IV) हैं।",
+                "प्रश्नों के अंक उनके सामने दाहिनी ओर दिए गए हैं।"
+            ]
+        },
+        "sections": [
+            {
+                "section_id": "I",
+                "title": "SECTION - I",
+                "instruction": "सूचना: पद्यांश पढ़कर पूछे गए प्रश्नों के उत्तर लिखिए। प्रत्येक प्रश्न के लिए 1 अंक है।",
+                "marks_total": "5 x 1 = 5M",
+                "questions": [
+                    {
+                        "q_no": 1,
+                        "type": "short_answer",
+                        "question": "पद्यांश:\n" + ch1["poem_stanzas"][0]["text"] + "\n\nउपर्युक्त पद्यांश के आधार पर निम्नलिखित प्रश्नों के उत्तर एक-एक वाक्य में दीजिए:\n"
+                        "i) सावन के महीने में मेघ कैसे बरसते हैं?\n"
+                        "ii) बूँदें पेड़ों से छनकर कैसे गिरती हैं?\n"
+                        "iii) बादलों के हृदय में क्या चमकती है?\n"
+                        "iv) 'उर' शब्द का अर्थ क्या है?\n"
+                        "v) इस पद्यांश के रचयिता कौन हैं?",
+                        "marks": "5M"
+                    }
+                ]
+            },
+            {
+                "section_id": "II",
+                "title": "SECTION - II",
+                "instruction": "सूचना: गद्यांश पढ़कर पूछे गए प्रश्नों के उत्तर लिखिए। प्रत्येक प्रश्न के लिए 1 अंक है।",
+                "marks_total": "5 x 1 = 5M",
+                "questions": [
+                    {
+                        "q_no": 2,
+                        "type": "short_answer",
+                        "question": "गद्यांश:\n"
+                        "\"रमज़ान के पूरे तीस रोज़ों के बाद आज ईद आयी है। कितना मनोहर, कितना सुहावना प्रभात! वृक्षों पर कुछ अजीब हरियाली है। खेतों में कुछ अजीब रौनक है, आसमान पर कुछ अजीब लालिमा है। आज का सूर्य देखो, कितना प्यारा, कितना शीतल है! मानो संसार को ईद की बधाई दे रहा है! ईदगाह जाने की तैयारियाँ हो रही हैं।\"\n\n"
+                        "प्रश्नों के उत्तर दीजिए:\n"
+                        "i) ईद का त्यौहार कितने रोज़ों के बाद आया है?\n"
+                        "ii) ईद की सुबह का वातावरण कैसा है?\n"
+                        "iii) सूर्य संसार को क्या दे रहा है?\n"
+                        "iv) लोग कहाँ जाने की तैयारियाँ कर रहे हैं?\n"
+                        "v) 'प्रभात' शब्द का पर्यायवाची शब्द लिखिए।",
+                        "marks": "5M"
+                    }
+                ]
+            },
+            {
+                "section_id": "III",
+                "title": "SECTION - III",
+                "instruction": "सूचना: व्याकरण संबंधी प्रश्नों के उत्तर निर्देशानुसार लिखिए। प्रत्येक प्रश्न के लिए 1 अंक है।",
+                "marks_total": "7 x 1 = 7M",
+                "questions": [
+                    {
+                        "q_no": 3,
+                        "type": "mcq",
+                        "question": "'तरु' शब्द का उचित पर्यायवाची शब्द पहचानिए:",
+                        "marks": "1M",
+                        "options": ["A) वृक्ष, पेड़", "B) गगन, नभ", "C) जल, नीर", "D) बादल, घन"]
+                    },
+                    {
+                        "q_no": 4,
+                        "type": "mcq",
+                        "question": "'सावन' शब्द का सही तत्सम रूप क्या है?",
+                        "marks": "1M",
+                        "options": ["A) श्रावण", "B) स्वप्न", "C) सूर्य", "D) श्याम"]
+                    },
+                    {
+                        "q_no": 5,
+                        "type": "mcq",
+                        "question": "'पेड़-पौधे' शब्द में कौन-सा समास है?",
+                        "marks": "1M",
+                        "options": ["A) तत्पुरुष समास", "B) द्वंद्व समास", "C) द्विगु समास", "D) कर्मधारय समास"]
+                    },
+                    {
+                        "q_no": 6,
+                        "type": "mcq",
+                        "question": "'मन को भाने वाला' - वाक्यांश के लिए एक शब्द लिखिए:",
+                        "marks": "1M",
+                        "options": ["A) मनभावन", "B) मनोहर", "C) मनपसंद", "D) मनमोहक"]
+                    },
+                    {
+                        "q_no": 7,
+                        "type": "mcq",
+                        "question": "'बेसमझ' शब्द में उपसर्ग पहचानिए:",
+                        "marks": "1M",
+                        "options": ["A) समझ", "B) बे", "C) सम", "D) बेस"]
+                    },
+                    {
+                        "q_no": 8,
+                        "type": "mcq",
+                        "question": "'चिमटा' शब्द का सही वचन बदलकर लिखिए:",
+                        "marks": "1M",
+                        "options": ["A) चिमटियाँ", "B) चिमटे", "C) चिमटों", "D) चिमटी"]
+                    },
+                    {
+                        "q_no": 9,
+                        "type": "mcq",
+                        "question": "'कलेजा मज़बूत करना' - मुहावरे का सही अर्थ क्या है?",
+                        "marks": "1M",
+                        "options": ["A) निराश होना", "B) साहस जुटाना", "C) गुस्सा होना", "D) डर जाना"]
+                    }
+                ]
+            },
+            {
+                "section_id": "IV",
+                "title": "SECTION - IV",
+                "instruction": "सूचना: इन प्रश्नों के उत्तर 4-5 वाक्यों में लिखिए। प्रत्येक प्रश्न के लिए 4 अंक हैं।",
+                "marks_total": "2 x 4 = 8M",
+                "questions": [
+                    {
+                        "q_no": 10,
+                        "type": "short_answer",
+                        "question": "कवि सुमित्रानंदन पंत जी का साहित्यिक परिचय संक्षेप में दीजिए। (जन्म, पुरस्कार और प्रमुख रचनाएँ)",
+                        "marks": "4M"
+                    },
+                    {
+                        "q_no": 11,
+                        "type": "short_answer",
+                        "question": "हामिद ने मेले में खिलौनों और मिठाइयों के स्थान पर चिमटा ही क्यों खरीदा? इससे उसके चरित्र की कौन-सी विशेषता प्रकट होती है?",
+                        "marks": "4M"
+                    }
+                ]
+            }
+        ]
+    }
+    return paper
+
+def main():
+    parser = argparse.ArgumentParser(description="Generate Hindi Unit Test Paper")
+    parser.add_argument("--marks", type=int, default=25, choices=[25, 50], help="Total exam marks (25 or 50)")
+    parser.add_argument("-o", "--open", action="store_true", help="Open generated PDF on macOS")
+    args = parser.parse_args()
+
+    tb = load_textbook()
+    paper_data = build_25m_paper(tb)
+    
+    out_dir = os.path.join(SKILL_ROOT, "examples")
+    out_json = os.path.join(out_dir, f"hindi_class10_unit_test_{args.marks}m.json")
+
+    with open(out_json, "w", encoding="utf-8") as f:
+        json.dump(paper_data, f, ensure_ascii=False, indent=2)
+    print(f"[+] Generated ground-truth test JSON: {out_json}")
+
+    cmd = ["python3", RENDER_SCRIPT, out_json]
+    if args.open:
+        cmd.append("--open")
+    subprocess.run(cmd)
+
+if __name__ == "__main__":
+    main()
