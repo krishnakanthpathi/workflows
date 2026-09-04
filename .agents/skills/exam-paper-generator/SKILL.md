@@ -1,7 +1,7 @@
 ---
 name: exam-paper-generator
-description: Automated Question Paper Generator (AQPG). Converts structured JSON into authentic, state-board compliant, print-ready examination PDFs with KaTeX math typesetting, right-aligned section marks, centered section headers, and official A4 pagination.
-version: 1.0.0
+description: CRITICAL MUST-USE: Use whenever the user asks to create, generate, or prepare ANY school examination paper, question paper, unit test, model paper, or assessment (e.g. Hindi, Science, Maths, Social). NEVER type or output questions or tests as raw chat text. You MUST run generate_hindi_test.py or render_paper.py via terminal and return the compiled PDF with MEDIA:<path_to_pdf>.
+version: 1.1.0
 author: Krishna Kanth
 license: MIT
 metadata:
@@ -12,6 +12,28 @@ hermes:
 ---
 
 # Exam Question Paper Generator (AQPG)
+
+> [!CRITICAL]
+> **STRICT EXECUTION PROTOCOL — NEVER OUTPUT RAW EXAM TEXT IN CHAT**:
+> When the user asks to create, generate, or prepare an exam paper, question paper, unit test, or assessment:
+> 1. **DO NOT** type out questions, stanzas, passages, or paper sections in your response.
+> 2. **RUN THE TERMINAL COMMAND IMMEDIATELY**:
+>    - **For Hindi (Class 10 SSC)**:
+>      Run:
+>      ```bash
+>      python3 /Users/krishnakanth/.hermes/skills/productivity/exam-paper-generator/scripts/generate_hindi_test.py --chapters "<chapters>" --marks <marks>
+>      ```
+>      *(Examples: `--chapters "2,3" --marks 100`, `--chapters "1,2" --marks 25`, `--chapters "4,5" --marks 50`, `--chapters "all" --marks 100`)*
+>    - **For Other Subjects (Physics, Maths, Biology, etc.)**:
+>      Save structured JSON and run:
+>      ```bash
+>      python3 /Users/krishnakanth/.hermes/skills/productivity/exam-paper-generator/scripts/render_paper.py <paper.json> -d /Users/krishnakanth/Projects/workflow/dist
+>      ```
+> 3. **RETURN MEDIA DISPATCH**:
+>    The CLI compiler compiles an authentic A4 PDF and outputs `MEDIA:<absolute_path_to_pdf>`.
+>    In your reply, provide a 1-sentence confirmation and print the exact line:
+>    `MEDIA:<absolute_path_to_pdf>`
+>    The platform gateway (WhatsApp bridge / Discord / Web) will automatically deliver the PDF file directly to the user!
 
 A production-grade, autonomous skill to generate authentic, print-ready school board examination papers (CBSE, AP SSC, TS SSC, ICSE) directly from structured JSON data.
 
