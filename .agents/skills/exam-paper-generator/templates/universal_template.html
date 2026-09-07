@@ -1,0 +1,489 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ metadata.subject }} - {{ metadata.chapter_name or metadata.paper_code }}</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- KaTeX for publication-quality mathematical notation -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/contrib/auto-render.min.js"></script>
+
+  <style>
+    @page {
+      size: A4 portrait;
+      margin: 15mm 16mm 15mm 16mm;
+      @bottom-center {
+        content: "Page " counter(page);
+        font-size: 9.5pt;
+        font-family: 'Inter', Arial, sans-serif;
+      }
+    }
+
+    * {
+      box-sizing: border-box;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+
+    body {
+      font-family: 'Inter', 'Noto Sans Devanagari', Arial, sans-serif;
+      font-size: 11.5pt;
+      line-height: 1.5;
+      color: #111827;
+      background-color: #f3f4f6;
+      margin: 0;
+      padding: 20px 0;
+    }
+
+    .paper-container {
+      width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto 25px auto;
+      background: #ffffff;
+      padding: 16mm 18mm 16mm 18mm;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+      position: relative;
+    }
+
+    @media print {
+      body {
+        background: transparent;
+        padding: 0;
+        margin: 0;
+      }
+      .paper-container {
+        width: 100% !important;
+        min-height: auto !important;
+        height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        box-shadow: none !important;
+        page-break-after: auto;
+        break-after: auto;
+      }
+      .no-print {
+        display: none !important;
+      }
+    }
+
+    .toolbar {
+      position: fixed;
+      top: 15px;
+      right: 20px;
+      z-index: 1000;
+      display: flex;
+      gap: 10px;
+      background: rgba(17, 24, 39, 0.95);
+      backdrop-filter: blur(8px);
+      padding: 10px 18px;
+      border-radius: 30px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+    }
+
+    .toolbar button {
+      background: #2563eb;
+      color: #fff;
+      border: none;
+      padding: 8px 16px;
+      font-size: 13.5px;
+      font-weight: 600;
+      border-radius: 20px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .header-box {
+      text-align: center;
+      border-bottom: 1px solid #000;
+      padding-bottom: 8px;
+      margin-bottom: 10px;
+    }
+
+    .board-title {
+      font-size: 11.5pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+      white-space: pre-line;
+      line-height: 1.35;
+    }
+
+    .subject-title {
+      font-size: 13.5pt;
+      font-weight: 800;
+      margin: 6px 0 2px 0;
+      color: #000;
+    }
+
+    .chapter-title {
+      font-size: 11pt;
+      font-weight: 700;
+      color: #000;
+      margin-bottom: 4px;
+    }
+
+    .meta-bar {
+      display: flex;
+      justify-content: space-between;
+      font-size: 11pt;
+      font-weight: 700;
+      margin-top: 6px;
+      padding-top: 6px;
+      border-top: 1px dashed #6b7280;
+    }
+
+    .instructions-box {
+      background: transparent;
+      border: none;
+      padding: 2px 0;
+      margin-bottom: 10px;
+      font-size: 10.5pt;
+    }
+
+    .instructions-box ol {
+      margin: 4px 0 2px 20px;
+      padding: 0;
+    }
+
+    .instructions-box li {
+      margin-bottom: 2px;
+    }
+
+    .section-container {
+      margin-top: 18px;
+      margin-bottom: 12px;
+      page-break-inside: avoid !important;
+      break-inside: avoid !important;
+      page-break-after: avoid !important;
+      break-after: avoid !important;
+    }
+
+    .instructions-box + .section-container,
+    .section-container:first-of-type {
+      margin-top: 12px;
+    }
+
+    .section-header-bar {
+      position: relative;
+      text-align: center;
+      line-height: 1.4;
+      padding: 2px 0;
+    }
+
+    .section-title {
+      display: inline-block;
+      font-size: 12.5pt;
+      font-weight: 700;
+      color: #000;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      letter-spacing: 0.5px;
+    }
+
+    .section-marks {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      font-weight: 700;
+      font-size: 11pt;
+      color: #000;
+      white-space: nowrap;
+    }
+
+    .section-note {
+      text-align: left;
+      font-size: 10.5pt;
+      font-style: italic;
+      color: #1f2937;
+      margin-top: 4px;
+      margin-bottom: 2px;
+    }
+
+    .question-row {
+      margin-bottom: 12px;
+      page-break-inside: avoid;
+      break-inside: avoid;
+    }
+
+    .question-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 12px;
+    }
+
+    .q-text {
+      flex: 1;
+      font-size: 11.5pt;
+      line-height: 1.5;
+    }
+
+    .marks-pill {
+      font-weight: 700;
+      font-size: 10.5pt;
+      white-space: nowrap;
+    }
+
+    .mcq-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 6px 20px;
+      margin: 6px 0 6px 24px;
+      font-size: 11pt;
+    }
+
+    .or-divider-box {
+      text-align: center;
+      font-weight: 700;
+      font-size: 11pt;
+      color: #000;
+      margin: 8px 0;
+    }
+
+    .choice-card {
+      background: transparent;
+      border: none;
+      padding: 0;
+      margin: 4px 0;
+    }
+
+    .choice-title {
+      font-weight: 700;
+      font-size: 11.5pt;
+      margin-bottom: 4px;
+    }
+
+    .choice-format {
+      font-size: 10.5pt;
+      color: #374151;
+      white-space: pre-line;
+      line-height: 1.45;
+    }
+
+    .choice-tasks {
+      margin: 4px 0 0 20px;
+      padding: 0;
+      font-size: 10.5pt;
+      line-height: 1.45;
+    }
+
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 8px 0;
+      font-size: 10.5pt;
+      text-align: center;
+    }
+
+    .data-table th, .data-table td {
+      border: 1px solid #000;
+      padding: 6px 8px;
+    }
+
+    .data-table th {
+      background: #ffffff;
+      font-weight: 700;
+    }
+
+    .sub-questions-list {
+      margin: 6px 0 4px 20px;
+      padding: 0;
+      list-style-type: none;
+      font-size: 10.5pt;
+      line-height: 1.5;
+    }
+
+    .sub-questions-list li {
+      margin-bottom: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="toolbar no-print">
+    <button onclick="window.print()">
+      <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M19 8H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-3-3-3zm-3 11H8v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm-1-9H6v4h12V3z"/></svg>
+      Print / Save as PDF
+    </button>
+  </div>
+
+  <div class="paper-container">
+    
+    <!-- HEADER -->
+    <div class="header-box">
+      <div class="board-title">{{ metadata.board_title }}</div>
+      <div class="subject-title">{{ metadata.subject }}</div>
+      {% if metadata.chapter_name %}
+      <div class="chapter-title">{{ metadata.chapter_name }}</div>
+      {% endif %}
+      <div class="meta-bar">
+        <span>Class: {{ metadata.class }}</span>
+        <span>Paper Code: {{ metadata.paper_code }}</span>
+        <span>Time: {{ metadata.time }}</span>
+        <span>Max. Marks: {{ metadata.max_marks }}</span>
+      </div>
+    </div>
+
+    <!-- INSTRUCTIONS -->
+    {% if metadata.instructions %}
+    <div class="instructions-box">
+      <strong>General Instructions:</strong>
+      <ol>
+        {% for ins in metadata.instructions %}
+        <li>{{ ins }}</li>
+        {% endfor %}
+      </ol>
+    </div>
+    {% endif %}
+
+    <!-- DYNAMIC SECTIONS LOOP (WORKS FOR ANY SUBJECT) -->
+    {% for sec in sections %}
+    <div class="section-container">
+      <div class="section-header-bar">
+        <span class="section-title">{{ sec.title.split('(')[0].strip() }}</span>
+        {% if sec.marks_total %}
+        <span class="section-marks">{{ sec.marks_total }}</span>
+        {% endif %}
+      </div>
+      {% if sec.instruction %}
+      <div class="section-note">{{ sec.instruction }}</div>
+      {% endif %}
+    </div>
+
+    <!-- QUESTIONS IN SECTION -->
+    {% for q in sec.questions %}
+    <div class="question-row">
+      
+      <!-- MCQ TYPE -->
+      {% if q.type == 'mcq' %}
+      <div class="question-top">
+        <div class="q-text"><strong>{{ q.q_no }}.</strong> {{ q.question }}</div>
+        <div class="marks-pill">{{ q.marks }}</div>
+      </div>
+      <div class="mcq-grid">
+        {% for opt in q.options %}
+        <div>{{ opt }}</div>
+        {% endfor %}
+      </div>
+
+      <!-- SHORT ANSWER / VSAQ -->
+      {% elif q.type == 'short_answer' or q.type == 'diagram_task' %}
+      <div class="question-top">
+        <div class="q-text" style="white-space: pre-line;"><strong>{{ q.q_no }}.</strong> {{ q.question }}</div>
+        <div class="marks-pill">{{ q.marks }}</div>
+      </div>
+
+      <!-- DATA ANALYSIS / TABLE QUESTION -->
+      {% elif q.type == 'data_analysis' %}
+      <div class="question-top">
+        <div class="q-text"><strong>{{ q.q_no }}.</strong> {{ q.heading }}</div>
+        <div class="marks-pill">{{ q.marks }}</div>
+      </div>
+      {% if q.table %}
+      <table class="data-table">
+        <thead>
+          <tr>
+            {% for th in q.table.headers %}
+            <th>{{ th }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in q.table.rows %}
+          <tr>
+            {% for cell in row %}
+            <td>{{ cell }}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
+      {% if q.sub_questions %}
+      <ul class="sub-questions-list">
+        {% for sub in q.sub_questions %}
+        <li>{{ sub }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <!-- ESSAY / EXPERIMENT WITH INTERNAL CHOICE (A or B) -->
+      {% elif q.choice_a and q.choice_b %}
+      <div class="question-top">
+        <div class="q-text"><strong>{{ q.q_no }}.</strong> {{ q.heading or 'Answer either (A) or (B):' }}</div>
+        <div class="marks-pill">{{ q.marks }}</div>
+      </div>
+      
+      <!-- CHOICE A -->
+      <div class="choice-card">
+        <div class="choice-title">{{ q.choice_a.title }}</div>
+        {% if q.choice_a.format %}
+        <div class="choice-format">{{ q.choice_a.format }}</div>
+        {% endif %}
+        {% if q.choice_a.sub_tasks %}
+        <ul class="choice-tasks">
+          {% for st in q.choice_a.sub_tasks %}
+          <li>{{ st }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+
+      <div class="or-divider-box">OR</div>
+
+      <!-- CHOICE B -->
+      <div class="choice-card">
+        <div class="choice-title">{{ q.choice_b.title }}</div>
+        {% if q.choice_b.format %}
+        <div class="choice-format">{{ q.choice_b.format }}</div>
+        {% endif %}
+        {% if q.choice_b.sub_tasks %}
+        <ul class="choice-tasks">
+          {% for st in q.choice_b.sub_tasks %}
+          <li>{{ st }}</li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+
+      <!-- GENERIC FALLBACK -->
+      {% else %}
+      <div class="question-top">
+        <div class="q-text"><strong>{{ q.q_no }}.</strong> {{ q.question or q.heading }}</div>
+        {% if q.marks %}<div class="marks-pill">{{ q.marks }}</div>{% endif %}
+      </div>
+      {% endif %}
+
+    </div>
+    {% endfor %}
+
+    {% endfor %}
+
+  </div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      if (typeof renderMathInElement !== 'undefined') {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+            {left: "\\[", right: "\\]", display: true},
+            {left: "$", right: "$", display: false},
+            {left: "\\(", right: "\\)", display: false}
+          ],
+          throwOnError: false
+        });
+      }
+    });
+  </script>
+</body>
+</html>

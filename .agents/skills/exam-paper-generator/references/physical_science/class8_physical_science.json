@@ -1,0 +1,906 @@
+{
+  "book_metadata": {
+    "title_en": "Physical Science - Class 8 (AP SCERT 2024-25)",
+    "title_te": "భౌతిక రసాయన శాస్త్రం - ఎనిమిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 11,
+    "branches": [
+      "Physics",
+      "Chemistry"
+    ],
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "source_pdfs": [
+      "8_Physics_SEM-1_Textbook.pdf",
+      "8_Physics_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Asking Questions and Making Hypothesis",
+    "AS3": "Experimentation and Field Investigation",
+    "AS4": "Information Skills and Projects",
+    "AS5": "Communication through Drawing and Model Making",
+    "AS6": "Daily Life Application and Concern to Biodiversity",
+    "AS7": "Appreciation and Aesthetic Sense / Values"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Force and Pressure",
+      "title_te": "బలము మరియు పీడనము",
+      "branch": "Physics",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Force is a push or pull upon an object resulting from its interaction with another object.",
+        "Forces are due to an interaction: at least two objects must interact for a force to come into play.",
+        "Forces applied in the same direction add up; forces in opposite directions result in net difference.",
+        "Force can change the state of motion (speed and direction) and can change the shape of an object.",
+        "Contact forces: Muscular force, Friction, Normal force, Tension.",
+        "Non-contact forces: Magnetic force, Electrostatic force, Gravitational force.",
+        "Pressure is force per unit area. Atmospheric pressure is exerted by the envelope of air surrounding Earth."
+      ],
+      "learning_outcomes": [
+        "Identify contact and non-contact forces in daily life.",
+        "Calculate pressure given force and contact area.",
+        "Demonstrate that liquids and gases exert pressure on the walls of containers."
+      ],
+      "key_formulas_and_equations": [
+        "P = \\frac{F}{A}",
+        "F_{\\text{net}} = F_1 + F_2 \\quad (\\text{Same direction})",
+        "F_{\\text{net}} = |F_1 - F_2| \\quad (\\text{Opposite directions})",
+        "1\\text{ Pa} = 1\\text{ N/m}^2",
+        "P_{\\text{liquid}} = h \\rho g"
+      ],
+      "activities": [
+        {
+          "activity_no": "1.1",
+          "title": "Demonstrating Atmospheric Pressure with a Rubber Sucker",
+          "aim": "To demonstrate the existence and enormous magnitude of atmospheric pressure using a rubber sucker.",
+          "apparatus": [
+            "Rubber suction cup",
+            "Smooth clean flat glass plate or tiled wall"
+          ],
+          "procedure": [
+            "Take a good quality rubber sucker and press it firmly against a smooth, flat glass plate.",
+            "Observe that most of the air trapped between the sucker and the flat surface escapes.",
+            "Try pulling the rubber sucker straight off the surface using your hand."
+          ],
+          "precautions": [
+            "Ensure the glass plate surface is smooth, clean, and free of dust.",
+            "Press evenly so that maximum air is evacuated from underneath the sucker."
+          ],
+          "observations": "The rubber sucker sticks tenaciously to the surface and requires an immense pulling force to detach.",
+          "conclusion": "Atmospheric pressure acting from the outside presses the sucker firmly against the surface, demonstrating that atmosphere exerts huge pressure."
+        },
+        {
+          "activity_no": "1.2",
+          "title": "Variation of Liquid Pressure with Depth",
+          "aim": "To observe that pressure exerted by liquids increases with increasing depth.",
+          "apparatus": [
+            "Tall transparent plastic cylinder or bottle",
+            "Adhesive tape",
+            "Pin or nail",
+            "Water"
+          ],
+          "procedure": [
+            "Punch three small holes along a vertical line at different heights in the cylinder.",
+            "Cover the holes with adhesive tape and fill the cylinder with water.",
+            "Remove the tape quickly and observe the jets of water shooting out from the three holes."
+          ],
+          "precautions": [
+            "Holes must be of identical diameter.",
+            "Maintain a constant water level by slowly pouring water if needed."
+          ],
+          "observations": "Water from the bottom-most hole travels the greatest horizontal distance, while water from the top hole falls closest to the cylinder.",
+          "conclusion": "Liquid pressure increases with depth below the free surface of the liquid."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Define Pressure. State its SI unit.",
+          "question_text_te": "పీడనాన్ని నిర్వచించండి. దాని SI ప్రమాణాన్ని రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are shoulder bags provided with broad straps rather than thin strings?",
+          "question_text_te": "భుజానికి తగిలించే బ్యాగులకు సన్నని తాడులకు బదులుగా వెడల్పాటి పట్టీలు ఎందుకు ఏర్పాటు చేస్తారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to prove that liquids exert equal pressure at the same depth.",
+          "question_text_te": "ఒకే లోతు వద్ద ద్రవాలు సమాన పీడనాన్ని కలుగజేస్తాయని నిరూపించడానికి ఒక ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Tabulate three examples each of contact forces and non-contact forces encountered in daily life.",
+          "question_text_te": "నిత్యజీవితంలో మనం గమనించే స్పర్శ బలాలు మరియు క్షేత్ర బలాలకు మూడేసి ఉదాహరణలను పట్టిక రూపంలో రాయండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram of an open tube manometer measuring liquid pressure.",
+          "question_text_te": "ద్రవ పీడనాన్ని కొలిచే ఓపెన్ ట్యూబ్ మానోమీటర్ యొక్క చక్కని నామకరణం చేసిన చిత్రాన్ని గీయండి."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do deep-sea divers wear specially designed pressurized suits?",
+          "question_text_te": "సముద్రపు లోతుల్లోకి వెళ్ళే గజ ఈతగాళ్ళు ప్రత్యేక పీడన కవచ దుస్తులను ఎందుకు ధరిస్తారు?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS7_appreciation_and_values",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the role of Earth's gravitational pull in sustaining life and holding the atmospheric blanket.",
+          "question_text_te": "భూమిపై జీవం మనుగడకు మరియు వాతావరణాన్ని పట్టి ఉంచడంలో గురుత్వాకర్షణ బల ప్రాముఖ్యతను అభినందించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Friction",
+      "title_te": "ఘర్షణ",
+      "branch": "Physics",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Friction is the opposing force that comes into play when two surfaces in contact slide or tend to slide across each other.",
+        "Friction always opposes the relative motion between the surfaces in contact.",
+        "Friction is caused by the interlocking of microscopic irregularities on the two surfaces.",
+        "Factors affecting friction: nature of surfaces and the normal force pressing the surfaces together.",
+        "Static friction, sliding friction, and rolling friction: Static > Sliding > Rolling.",
+        "Friction is a necessary evil: allows walking, writing, braking, but causes wear and tear and energy loss.",
+        "Methods of increasing friction (treads on tyres, spikes on shoes) and decreasing friction (lubricants, ball bearings)."
+      ],
+      "learning_outcomes": [
+        "Compare static, sliding, and rolling friction.",
+        "Identify advantages and disadvantages of friction.",
+        "Demonstrate use of ball bearings to convert sliding friction into rolling friction."
+      ],
+      "key_formulas_and_equations": [
+        "f_s \\leq \\mu_s N \\quad (\\text{Static Friction})",
+        "f_k = \\mu_k N \\quad (\\text{Kinetic/Sliding Friction})",
+        "\\mu_r < \\mu_k < \\mu_s \\quad (\\text{Coefficient hierarchy})"
+      ],
+      "activities": [
+        {
+          "activity_no": "2.1",
+          "title": "Comparing Sliding and Rolling Friction",
+          "aim": "To verify that rolling friction is significantly less than sliding friction.",
+          "apparatus": [
+            "Heavy book",
+            "Spring balance",
+            "Set of cylindrical pencils or rollers"
+          ],
+          "procedure": [
+            "Place a thick heavy book on a horizontal table and tie a string around it.",
+            "Pull the book across the table with a spring balance and record the reading (sliding friction).",
+            "Now place 3 to 4 round pencils underneath the book parallel to each other.",
+            "Pull the book again gently and record the spring balance reading as it rolls."
+          ],
+          "precautions": [
+            "Pull steadily and horizontally at uniform speed.",
+            "Ensure the pencils are round and smooth."
+          ],
+          "observations": "The spring balance reading while rolling over pencils is much smaller than when sliding directly on the tabletop.",
+          "conclusion": "Rolling friction is substantially smaller than sliding friction, which is why ball bearings and wheels are used."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why sliding friction is less than static friction.",
+          "question_text_te": "స్థితిక ఘర్షణ కంటే జారుడు ఘర్షణ ఎందుకు తక్కువగా ఉంటుందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What would happen to vehicles moving on roads if friction between tyres and the road suddenly vanished?",
+          "question_text_te": "రహదారి మరియు టైర్ల మధ్య ఘర్షణ అకస్మాత్తుగా శూన్యమైతే రోడ్డుపై ప్రయాణించే వాహనాలకు ఏమి జరుగుతుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to demonstrate that friction depends on the nature of the surfaces in contact.",
+          "question_text_te": "ఘర్షణ అనేది సంపర్కంలో ఉన్న తలాల స్వభావంపై ఆధారపడి ఉంటుందని నిరూపించడానికి ఒక కృత్యాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are tyres of automobiles and soles of shoes treaded?",
+          "question_text_te": "వాహనాల టైర్లు మరియు పాదరక్షల అడుగుభాగాలలో గాడులు (ట్రెడ్స్) ఎందుకు ఏర్పాటు చేస్తారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Coal and Petroleum",
+      "title_te": "నేలబొగ్గు మరియు పెట్రోలియం",
+      "branch": "Chemistry",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Natural resources: Inexhaustible (Sunlight, Air) and Exhaustible (Fossil fuels, Forests).",
+        "Fossil fuels are formed from the dead remains of living organisms buried millions of years ago.",
+        "Coal: Carbonisation process; Products of coal: Coke, Coal tar, Coal gas.",
+        "Petroleum: Origin from sea organisms, drilling of crude oil, refining (fractional distillation).",
+        "Petroleum fractions: Petroleum gas (LPG), Petrol, Kerosene, Diesel, Lubricating oil, Paraffin wax, Bitumen.",
+        "Natural gas: Clean burning fuel stored under high pressure as Compressed Natural Gas (CNG).",
+        "Environmental impacts of fossil fuels and PCRA guidelines for fuel conservation."
+      ],
+      "learning_outcomes": [
+        "Explain the carbonisation process in coal formation.",
+        "List products obtained from fractional distillation of petroleum and their uses.",
+        "Suggest conservation practices to reduce fossil fuel consumption."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Dead Vegetation} \\xrightarrow[\\text{Millions of Years}]{\\text{High Temp, High Pressure}} \\text{Coal} \\quad (\\text{Carbonisation})",
+        "\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O} + \\text{Heat energy} \\quad (\\text{CNG combustion})"
+      ],
+      "activities": [
+        {
+          "activity_no": "3.1",
+          "title": "Demonstration of Destructive Distillation of Coal",
+          "aim": "To observe the thermal decomposition of powdered coal in the absence of air.",
+          "apparatus": [
+            "Hard glass boiling tube",
+            "Delivery tube",
+            "Burner",
+            "Water trough",
+            "Crushed coal"
+          ],
+          "procedure": [
+            "Take crushed coal in a hard glass boiling tube and fit a cork with a delivery tube.",
+            "Heat the tube strongly over a Bunsen burner flame.",
+            "Pass the evolved vapours through water and test the emerging gas with a flame."
+          ],
+          "precautions": [
+            "Use a hard borosilicate boiling tube.",
+            "Ensure the apparatus is airtight."
+          ],
+          "observations": "A black porous residue (coke) remains in the tube; a thick black liquid (coal tar) condenses in water, and flammable coal gas burns at the jet.",
+          "conclusion": "Destructive distillation of coal yields coke, coal tar, and coal gas."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the advantages of using CNG and LPG as fuels?",
+          "question_text_te": "ఇంధనాలుగా సి.ఎన్.జి (CNG) మరియు ఎల్.పి.జి (LPG) లను ఉపయోగించడం వల్ల కలిగే ప్రయోజనాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "List four fractions of petroleum along with one primary use for each.",
+          "question_text_te": "పెట్రోలియం యొక్క నాలుగు అంశీభూతాలను పేర్కొని, ప్రతిదాని యొక్క ముఖ్యమైన ఉపయోగాన్ని రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State three guidelines suggested by PCRA to save petrol and diesel while driving.",
+          "question_text_te": "వాహనాలు నడిపేటప్పుడు పెట్రోల్, డీజిల్‌ను ఆదా చేయడానికి PCRA సూచించిన మూడు సలహాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Synthetic Fibres and Plastics",
+      "title_te": "కృత్రిమ దారాలు మరియు ప్లాస్టిక్కులు",
+      "branch": "Chemistry",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "A synthetic fibre is a chain of small units (monomers) joined together to form a polymer.",
+        "Rayon (artificial silk): prepared from chemical treatment of wood pulp.",
+        "Nylon: first fully synthetic fibre made without natural raw material (coal, water, air); strong, elastic, light.",
+        "Polyester and Acrylic: Terylene, PET bottles, acrylic (artificial wool).",
+        "Characteristics of synthetic fibres: high tensile strength, quick drying, durable, affordable.",
+        "Plastics: linear and cross-linked arrangements.",
+        "Thermoplastics (Polythene, PVC) vs Thermosetting plastics (Bakelite, Melamine).",
+        "Plastics and Environment: non-biodegradable nature, 4R principle (Reduce, Reuse, Recycle, Recover)."
+      ],
+      "learning_outcomes": [
+        "Distinguish between natural and synthetic fibres.",
+        "Compare thermoplastics and thermosetting plastics.",
+        "Adopt the 4R principle in daily plastic management."
+      ],
+      "key_formulas_and_equations": [
+        "n \\cdot [\\text{Monomer}] \\xrightarrow{\\text{Polymerisation}} -[\\text{Polymer}]_n-",
+        "\\text{Ester} + \\text{Ester} \\rightarrow \\text{Polyester} + \\text{H}_2\\text{O}"
+      ],
+      "activities": [
+        {
+          "activity_no": "4.1",
+          "title": "Testing the Tensile Strength of Different Fibres",
+          "aim": "To compare the tensile strength of cotton, wool, silk, and nylon threads of identical length and thickness.",
+          "apparatus": [
+            "Iron stand with clamp",
+            "Pan",
+            "Weights (10g, 20g, 50g, 100g)",
+            "Threads of cotton, wool, silk, and nylon of equal length and thickness"
+          ],
+          "procedure": [
+            "Tie a 60 cm piece of cotton thread to the clamp so that it hangs freely.",
+            "Suspend a light pan at the free end and add weights one by one until the thread breaks.",
+            "Note the total weight required to break the thread.",
+            "Repeat the procedure with wool, silk, and nylon threads."
+          ],
+          "precautions": [
+            "All threads must be of identical length and thickness.",
+            "Add weights gently without jerking."
+          ],
+          "observations": "Nylon thread requires the maximum weight to break, followed by silk, cotton, and wool.",
+          "conclusion": "Nylon possesses the highest tensile strength among the tested fibres."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the difference between thermoplastic and thermosetting plastics with examples.",
+          "question_text_te": "థర్మోప్లాస్టిక్ మరియు థర్మోసెట్టింగ్ ప్లాస్టిక్‌ల మధ్య గల తేడాలను ఉదాహరణలతో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why synthetic clothes should not be worn while cooking in the kitchen.",
+          "question_text_te": "వంటగదిలో పనిచేసేటప్పుడు సింథటిక్ (కృత్రిమ) దుస్తులను ఎందుకు ధరించకూడదో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Sound",
+      "title_te": "ధ్వని",
+      "branch": "Physics",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Sound is produced by vibrating bodies.",
+        "In humans, sound is produced by the voice box or larynx; vocal cords vibrate when air passes.",
+        "Sound requires a material medium (solid, liquid, or gas) to travel; it cannot travel through vacuum.",
+        "Human ear structure: outer ear (pinna), ear canal, eardrum (tympanum), middle ear bones, inner ear (cochlea).",
+        "Characteristics of sound waves: Amplitude, Frequency, Time period.",
+        "Loudness is proportional to square of amplitude; Pitch (shrillness) is determined by frequency.",
+        "Audible range of human hearing: 20 Hz to 20,000 Hz. Infrasonic (< 20 Hz) and Ultrasonic (> 20 kHz).",
+        "Noise vs Music; Noise pollution, health hazards, and mitigation measures."
+      ],
+      "learning_outcomes": [
+        "Demonstrate that vibrating bodies produce sound.",
+        "Explain how sound propagates through solids, liquids, and gases.",
+        "Distinguish between loudness and pitch."
+      ],
+      "key_formulas_and_equations": [
+        "f = \\frac{1}{T}",
+        "v = f \\lambda",
+        "\\text{Loudness} \\propto (\\text{Amplitude})^2",
+        "\\text{Audible Frequency Range}: 20\\text{ Hz} \\leq f \\leq 20{,}000\\text{ Hz}"
+      ],
+      "activities": [
+        {
+          "activity_no": "5.1",
+          "title": "Demonstrating that Sound Cannot Travel Through Vacuum",
+          "aim": "To show that a material medium is essential for the propagation of sound.",
+          "apparatus": [
+            "Electric bell",
+            "Bell jar",
+            "Vacuum pump",
+            "Connecting wires and battery"
+          ],
+          "procedure": [
+            "Suspend an electric bell inside an airtight glass bell jar connected to a vacuum pump.",
+            "Switch on the bell and listen to the clear ringing sound.",
+            "Start the vacuum pump to gradually evacuate air from the jar while the hammer keeps striking."
+          ],
+          "precautions": [
+            "The bell jar base must be sealed airtight with grease.",
+            "The bell must hang freely without touching jar walls."
+          ],
+          "observations": "As air is pumped out, the sound of the bell becomes feebler and eventually fades into silence, even though the hammer is seen striking.",
+          "conclusion": "Sound requires a material medium to propagate and cannot travel through vacuum."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A pendulum oscillates 40 times in 4 seconds. Find its time period and frequency.",
+          "question_text_te": "ఒక లోలకం 4 సెకన్లలో 40 డోలనాలు చేస్తుంది. దాని డోలన వర్తమాన కాలం మరియు పౌనఃపున్యాలను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat diagram of the human ear and label: Pinna, Eardrum, Cochlea, Auditory nerve.",
+          "question_text_te": "మానవ చెవి అంతర్నిర్మాణ చక్కని చిత్రాన్ని గీసి భాగాలను గుర్తించండి: బాహ్యచెవి, కర్ణభేరి, కాక్లియా, శ్రవణ నాడి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Suggest three practical measures to control noise pollution in residential colonies.",
+          "question_text_te": "నివాస ప్రాంతాలలో శబ్ద కాలుష్యాన్ని నియంత్రించడానికి మూడు ఆచరణాత్మక చర్యలను సూచించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Materials: Metals and Non-Metals",
+      "title_te": "పదార్థాలు : లోహాలు మరియు అలోహాలు",
+      "branch": "Chemistry",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Physical properties of metals: Malleability, Ductility, Sonorousness, Lustre, Good conductivity of heat and electricity.",
+        "Physical properties of non-metals: Brittle, Dull appearance, Poor conductors (except graphite).",
+        "Chemical properties: Reaction with oxygen to form oxides (Metal oxides are basic; Non-metal oxides are acidic).",
+        "Reaction with water: Metals form hydroxides and hydrogen gas (Sodium reacts vigorously).",
+        "Reaction with acids: Active metals displace hydrogen gas with a pop sound.",
+        "Displacement reactions: A more reactive metal displaces a less reactive metal from its salt solution.",
+        "Uses of metals and non-metals in machinery, fertilisers, water purification, crackers, and medicines."
+      ],
+      "learning_outcomes": [
+        "Compare physical and chemical properties of metals and non-metals.",
+        "Demonstrate acidic nature of non-metal oxides and basic nature of metal oxides.",
+        "Predict displacement reactions using reactivity series."
+      ],
+      "key_formulas_and_equations": [
+        "2\\text{Mg(s)} + \\text{O}_2\\text{(g)} \\rightarrow 2\\text{MgO(s)} \\quad (\\text{Basic oxide})",
+        "\\text{S(s)} + \\text{O}_2\\text{(g)} \\rightarrow \\text{SO}_2\\text{(g)} \\quad (\\text{Acidic oxide})",
+        "\\text{SO}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{H}_2\\text{SO}_3 \\quad (\\text{Sulphurous acid})",
+        "\\text{Fe(s)} + \\text{CuSO}_4\\text{(aq)} \\rightarrow \\text{FeSO}_4\\text{(aq)} + \\text{Cu(s)} \\quad (\\text{Displacement})"
+      ],
+      "activities": [
+        {
+          "activity_no": "6.1",
+          "title": "Displacement Reaction Between Iron and Copper Sulphate",
+          "aim": "To demonstrate that iron displaces copper from copper sulphate solution.",
+          "apparatus": [
+            "Test tube",
+            "Iron nails",
+            "Copper sulphate solution (blue)",
+            "Sandpaper"
+          ],
+          "procedure": [
+            "Clean two iron nails thoroughly with sandpaper.",
+            "Take 10 mL of blue copper sulphate solution in a test tube.",
+            "Immerse one iron nail into the solution and leave undisturbed for 20 minutes.",
+            "Compare the colour of the solution and the nail with the control set."
+          ],
+          "precautions": [
+            "Clean iron nails to remove any surface rust or grease.",
+            "Handle copper sulphate carefully as it is toxic."
+          ],
+          "observations": "The blue colour of copper sulphate solution fades to light green (FeSO4), and a reddish-brown coating of copper deposits on the iron nail.",
+          "conclusion": "Iron, being more reactive than copper, displaces copper from copper sulphate solution."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What happens when dilute sulphuric acid is poured on a copper plate? Write the equation.",
+          "question_text_te": "రాగి రేకుపై సజల సల్ఫ్యూరిక్ ఆమ్లాన్ని పోసినప్పుడు ఏమి జరుగుతుంది? సమీకరణాన్ని రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is sodium stored in kerosene oil while phosphorus is stored in water?",
+          "question_text_te": "సోడియంను కిరోసిన్‌లో మరియు భాస్వరమును నీటిలో ఎందుకు భద్రపరుస్తారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to test the electrical conductivity of materials (iron rod, sulphur, coal piece, copper wire).",
+          "question_text_te": "వివిధ పదార్థాల (ఇనుప ముక్క, గంధకం, బొగ్గు, రాగి తీగ) విద్యుత్ వాహకతను పరీక్షించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Light",
+      "title_te": "కాంతి",
+      "branch": "Physics",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Laws of Reflection: 1. Angle of incidence equals angle of reflection; 2. Incident ray, normal, and reflected ray lie in the same plane.",
+        "Regular and Diffuse reflection.",
+        "Characteristics of image formed by a plane mirror: Virtual, erect, laterally inverted, same size, equidistant.",
+        "Multiple reflections and Kaleidoscope: Number of images n = (360 / theta) - 1.",
+        "Dispersion of light: Splitting of white light into constituent colours (VIBGYOR) through a prism.",
+        "Structure of human eye: Cornea, Iris, Pupil, Lens, Retina (Rods and Cones), Blind spot.",
+        "Care of the eyes and Braille system for visually challenged persons."
+      ],
+      "learning_outcomes": [
+        "Verify the laws of reflection experimentally.",
+        "Calculate the number of images formed by inclined plane mirrors.",
+        "Explain the structure of the human eye and mechanism of vision."
+      ],
+      "key_formulas_and_equations": [
+        "\\angle i = \\angle r \\quad (\\text{Law of Reflection})",
+        "n = \\frac{360^\\circ}{\\theta} - 1 \\quad (\\text{Number of images between inclined mirrors})"
+      ],
+      "activities": [
+        {
+          "activity_no": "7.1",
+          "title": "Verifying the Laws of Reflection of Light",
+          "aim": "To verify that angle of incidence equals angle of reflection on a plane mirror.",
+          "apparatus": [
+            "Plane mirror strip with stand",
+            "Drawing board",
+            "White sheet of paper",
+            "Optical pins",
+            "Protractor and ruler"
+          ],
+          "procedure": [
+            "Fix a white paper on the drawing board and draw a line MM' to place the mirror vertically.",
+            "Draw a normal ON and an incident ray AO at an angle of 30 degrees.",
+            "Fix two pins P and Q vertically on the incident ray line.",
+            "Look at the images of P and Q in the mirror and fix two more pins R and S such that R, S and images of P, Q lie in a straight line.",
+            "Remove the mirror and pins, join RS to O to get reflected ray OB, and measure angle of reflection r."
+          ],
+          "precautions": [
+            "Pins must be fixed vertically.",
+            "Mirror must be perfectly perpendicular to paper."
+          ],
+          "observations": "The measured angle of reflection r is found to be exactly equal to angle of incidence i (30 degrees).",
+          "conclusion": "The angle of incidence is always equal to the angle of reflection, verifying the first law of reflection."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Two plane mirrors are placed at an angle of 60 degrees. Find the number of images formed of an object placed between them.",
+          "question_text_te": "రెండు సమతల దర్పణాలను 60 డిగ్రీల కోణంలో ఉంచినప్పుడు, వాటి మధ్య ఉంచిన వస్తువు యొక్క ఎన్ని ప్రతిబింబాలు ఏర్పడతాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram of the human eye showing Cornea, Iris, Pupil, Crystalline lens, Retina, and Optic nerve.",
+          "question_text_te": "మానవ నేత్రం చక్కని పటం గీసి కార్నియా, ఐరిస్, కంటిపాప, కటకం, రెటీనా మరియు దృక్ నాడి భాగాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Chemical Effects of Electric Current",
+      "title_te": "విద్యుత్ ప్రవాహం - రసాయన ఫలితాలు",
+      "branch": "Chemistry",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Liquids that conduct electricity: Solutions of acids, bases, and salts.",
+        "Pure distilled water is a poor conductor; adding salt makes it a good conductor.",
+        "Electrolysis: Chemical decomposition produced by passing electric current through a conducting liquid.",
+        "Electrolysis of water: Evolving Oxygen gas at anode (+) and Hydrogen gas at cathode (-).",
+        "Electroplating: The process of depositing a thin layer of any desired metal on another material by means of electricity.",
+        "Applications of electroplating: Chromium plating for lustre and scratch resistance, Gold/Silver plating on jewellery, Tin plating on cans, Zinc galvanisation on iron."
+      ],
+      "learning_outcomes": [
+        "Test electrical conductivity of various liquids using an LED tester.",
+        "Explain electrolysis of water and identify products at electrodes.",
+        "Demonstrate copper electroplating on an iron object."
+      ],
+      "key_formulas_and_equations": [
+        "2\\text{H}_2\\text{O(l)} \\xrightarrow{\\text{Electric Current}} 2\\text{H}_2\\text{(g)} \\uparrow + \\text{O}_2\\text{(g)} \\uparrow",
+        "\\text{At Anode (+)}: 2\\text{H}_2\\text{O} \\rightarrow \\text{O}_2 + 4\\text{H}^+ + 4e^-",
+        "\\text{At Cathode (-)}: 4\\text{H}^+ + 4e^- \\rightarrow 2\\text{H}_2"
+      ],
+      "activities": [
+        {
+          "activity_no": "8.1",
+          "title": "Electroplating of Copper on an Iron Key",
+          "aim": "To deposit a uniform coating of copper on an iron key by electroplating.",
+          "apparatus": [
+            "Beaker",
+            "Copper sulphate solution",
+            "Dilute sulphuric acid",
+            "Copper plate (anode)",
+            "Clean iron key (cathode)",
+            "Battery (9V) and connecting wires"
+          ],
+          "procedure": [
+            "Dissolve two teaspoonfuls of copper sulphate in 250 mL of distilled water in a beaker, and add a few drops of dilute sulphuric acid to enhance conductivity.",
+            "Clean a copper plate and an iron key with sandpaper.",
+            "Connect the copper plate to the positive terminal of the battery (anode) and the iron key to the negative terminal (cathode).",
+            "Immerse both electrodes in the copper sulphate solution and pass current for 15 minutes."
+          ],
+          "precautions": [
+            "Clean electrodes thoroughly to remove oxide layers.",
+            "Do not allow electrodes to touch each other in the solution."
+          ],
+          "observations": "A reddish-brown, shiny layer of copper is deposited on the iron key.",
+          "conclusion": "Electric current causes copper ions from the solution to deposit on the negative cathode, while copper from the anode replenishes the solution (electroplating)."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is electroplating? Give two practical reasons for electroplating articles.",
+          "question_text_te": "విద్యుత్ విశ్లేషణం (ఎలక్ట్రోప్లేటింగ్) అంటే ఏమిటి? వస్తువులపై విద్యుల్లేపనం చేయడానికి రెండు ఆచరణాత్మక కారణాలను తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to demonstrate the chemical effect of electric current on water.",
+          "question_text_te": "నీటిపై విద్యుత్ ప్రవాహ రసాయన ఫలితాన్ని నిరూపించే ఒక ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Some Natural Phenomena",
+      "title_te": "కొన్ని సహజ దృగ్విషయాలు",
+      "branch": "Physics",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Charging by friction: Like charges repel and unlike charges attract.",
+        "Two types of electrical charges: Positive and Negative.",
+        "Gold-leaf electroscope: Device used to test whether an object is carrying electric charge.",
+        "Lightning: Giant electric discharge between oppositely charged clouds or between cloud and earth.",
+        "Lightning safety measures and Lightning conductors invented by Benjamin Franklin.",
+        "Earthquakes: Sudden shaking or trembling of the earth caused by disturbance deep inside Earth's crust (tectonic plates).",
+        "Richter scale (logarithmic magnitude scale) and Seismograph. Safety measures during earthquakes."
+      ],
+      "learning_outcomes": [
+        "Construct an improvised electroscope using a glass jar and aluminium foil.",
+        "Explain the phenomenon of lightning and action of lightning conductors.",
+        "Describe precautions to be taken during an earthquake."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Magnitude on Richter Scale} = \\log_{10}\\left(\\frac{A}{A_0}\\right)",
+        "\\text{Each unit increase on Richter scale corresponds to } 30\\text{-fold increase in energy}"
+      ],
+      "activities": [
+        {
+          "activity_no": "9.1",
+          "title": "Making a Simple Electroscope",
+          "aim": "To construct a simple electroscope to detect electric charge.",
+          "apparatus": [
+            "Empty jam bottle with plastic lid",
+            "Paper clip (metal)",
+            "Aluminium foil strips (4 cm x 1 cm each)",
+            "Charged plastic refill or comb"
+          ],
+          "procedure": [
+            "Make a hole in the plastic lid of the bottle and insert the unbent paper clip.",
+            "Hang two identical aluminium foil strips from the bottom hook of the paper clip.",
+            "Fit the lid tightly on the bottle.",
+            "Touch the top end of the paper clip with a charged plastic comb."
+          ],
+          "precautions": [
+            "Ensure aluminium foil leaves are lightweight and clean.",
+            "Do not touch the leaves with bare hands to avoid discharge."
+          ],
+          "observations": "The two aluminium foil leaves diverge (spread apart) when touched by the charged comb.",
+          "conclusion": "Like charges transferred to both foil strips repel each other, confirming the presence of charge."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain how a lightning conductor protects a tall building from lightning damage.",
+          "question_text_te": "తటిద్వాహకం (లైట్నింగ్ కండక్టర్) ఎత్తైన భవనాలను పిడుగుపాటు నుండి ఎలా రక్షిస్తుందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What safety measures should you take if you are caught outdoors during an earthquake?",
+          "question_text_te": "భూకంపం సంభవించినప్పుడు మీరు ఆరుబయట ఉంటే తీసుకోవలసిన రక్షణ చర్యలు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Combustion and Flame",
+      "title_te": "దహనము మరియు జ్వాల",
+      "branch": "Chemistry",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Combustion is a chemical process in which a substance reacts with oxygen to give off heat and light.",
+        "Combustible vs non-combustible substances.",
+        "Conditions necessary for combustion: Combustible substance, supporter of combustion (oxygen/air), and attainment of ignition temperature.",
+        "Ignition temperature is the lowest temperature at which a substance catches fire.",
+        "Inflammable substances have low ignition temperature (petrol, alcohol, LPG).",
+        "How we control fire: Fire extinguishers, role of carbon dioxide in smothering fire.",
+        "Types of combustion: Rapid combustion, Spontaneous combustion, Explosion.",
+        "Structure of flame: Dark inner zone, luminous middle zone, non-luminous outer zone (hottest).",
+        "Calorific value of fuel (kJ/kg) and harmful products of burning fuels (CO, CO2, SO2, acid rain)."
+      ],
+      "learning_outcomes": [
+        "Identify essential conditions for combustion.",
+        "Draw and label the three zones of a candle flame.",
+        "Calculate calorific value of fuels."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Fuel} + \\text{O}_2 \\rightarrow \\text{CO}_2 + \\text{H}_2\\text{O} + \\text{Heat} + \\text{Light}",
+        "\\text{Calorific Value} = \\frac{\\text{Heat Produced (kJ)}}{\\text{Mass of Fuel (kg)}} \\quad (\\text{Unit: kJ/kg})"
+      ],
+      "activities": [
+        {
+          "activity_no": "10.1",
+          "title": "Demonstration that Air (Oxygen) is Necessary for Combustion",
+          "aim": "To show that continuous supply of air is necessary for combustion of a candle.",
+          "apparatus": [
+            "Candle",
+            "Wooden blocks",
+            "Glass chimney",
+            "Glass plate"
+          ],
+          "procedure": [
+            "Fix a lighted candle on a table and place a glass chimney over it resting on two wooden blocks so air can enter from below.",
+            "Now remove the blocks and let the chimney rest on the table (cutting off bottom air).",
+            "Finally, cover the top of the chimney with a glass plate."
+          ],
+          "precautions": [
+            "Ensure the candle flame does not touch the sides of the chimney.",
+            "Perform carefully to avoid burns."
+          ],
+          "observations": "In case 1, the candle burns steadily. In case 2, the flame flickers and produces smoke. In case 3, the flame completely extinguishes.",
+          "conclusion": "Continuous supply of oxygen (air) is indispensable for combustion."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "In an experiment, 4.5 kg of a fuel was completely burnt. The heat produced was measured to be 180,000 kJ. Calculate calorific value.",
+          "question_text_te": "ఒక ప్రయోగంలో 4.5 కిలోగ్రాముల ఇంధనం సంపూర్ణంగా దహనం చెంది 180,000 kJ ఉష్ణశక్తిని విడుదల చేసింది. ఆ ఇంధన కెలోరిఫిక్ విలువను లెక్కించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram of a candle flame showing its three zones.",
+          "question_text_te": "కొవ్వొత్తి జ్వాల యొక్క చక్కని పటం గీసి మూడు మండలాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Stars and the Solar System",
+      "title_te": "నక్షత్రాలు మరియు సౌరకుటుంబం",
+      "branch": "Physics",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Celestial objects: Stars, planets, moons, asteroids, comets, meteors, and meteorites.",
+        "Moon: Phases of moon caused by changing visible illuminated portion; 29.5 days lunar cycle.",
+        "Stars: Giant balls of glowing gas emitting light through nuclear fusion; Sun is the nearest star.",
+        "Light year: Distance travelled by light in one year = 9.46 * 10^12 km.",
+        "Pole Star (Dhruva Tara): Situated in line with Earth's rotational axis, appears stationary.",
+        "Constellations: Recognisable patterns formed by groups of stars (Ursa Major/Great Bear, Orion, Cassiopeia).",
+        "The Solar System: Sun and eight revolving planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune).",
+        "Artificial satellites and their applications in communication, weather remote sensing, and navigation."
+      ],
+      "learning_outcomes": [
+        "Explain the phases of the moon with a diagram.",
+        "Locate the Pole star with the help of Ursa Major constellation.",
+        "Describe the distinguishing features of the eight planets in the solar system."
+      ],
+      "key_formulas_and_equations": [
+        "1\\text{ Light Year} = 9.46 \\times 10^{12}\\text{ km} = 9.46 \\times 10^{15}\\text{ m}",
+        "v_{\\text{light}} = 3 \\times 10^8\\text{ m/s}"
+      ],
+      "activities": [
+        {
+          "activity_no": "11.1",
+          "title": "Locating the Pole Star using Ursa Major (Saptarshi)",
+          "aim": "To identify and locate the Pole Star in the northern night sky using the pointer stars of Ursa Major.",
+          "apparatus": [
+            "Clear moonless night sky",
+            "Compass"
+          ],
+          "procedure": [
+            "Look towards the northern part of the night sky during summer and spot the seven prominent stars of Ursa Major (Saptarshi).",
+            "Identify the two pointer stars at the end of the bowl of Ursa Major.",
+            "Imagine a straight line passing through these two pointer stars and extend it towards the north.",
+            "Look for a moderately bright star along this line."
+          ],
+          "precautions": [
+            "Choose a clear night away from bright city streetlights.",
+            "Ensure you are facing true North."
+          ],
+          "observations": "A solitary star of moderate brightness shines steadily along the extension of the pointer stars.",
+          "conclusion": "The star located is the Pole Star (Polaris), which appears stationary because it lies along the rotational axis of Earth."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why the Pole Star appears stationary in the night sky while other stars appear to move from east to west.",
+          "question_text_te": "ఇతర నక్షత్రాలన్నీ తూర్పు నుండి పడమరకు కదులుతున్నట్లు కనిపించినప్పటికీ ధ్రువ నక్షత్రం నిశ్చలంగా ఎందుకు కనిపిస్తుందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a sketch of the Ursa Major constellation and show how to locate the Pole Star.",
+          "question_text_te": "సప్తర్షి మండల (ఉర్సా మేజర్) నక్షత్ర రాశి పటం గీసి, ధ్రువ నక్షత్రాన్ని ఎలా గుర్తిస్తారో సూచించండి."
+        }
+      ]
+    }
+  ]
+}

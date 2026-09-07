@@ -1,2 +1,6 @@
-*.html
+# Ignore rendered outputs, but preserve templates
 *.pdf
+*.html
+!templates/
+!templates/*.html
+

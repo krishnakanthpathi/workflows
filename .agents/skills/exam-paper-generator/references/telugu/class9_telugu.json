@@ -1,0 +1,1310 @@
+{
+  "book_metadata": {
+    "title_te": "తెలుగు వాచకం - తొమ్మిదవ తరగతి (AP SCERT 2024-25)",
+    "title_en": "Telugu Reader - Class 9 (First Language)",
+    "board": "ఆంధ్రప్రదేశ్ ప్రభుత్వం (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9వ తరగతి",
+    "medium": "తెలుగు ప్రథమ భాష (First Language)",
+    "total_chapters": 12,
+    "total_main_lessons": 12,
+    "source_pdfs": [
+      "9_Telugu_Textbook.pdf",
+      "9_Telugu_Nonditail.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "అవగాహన - ప్రతిస్పందన",
+    "AS2": "వ్యక్తీకరణ - సృజనాత్మకత",
+    "AS3": "భాషాంశాలు",
+    "AS4": "వ్యాకరణాంశాలు"
+  },
+  "main_lessons": [
+    {
+      "chapter_no": 1,
+      "lesson_no": 1,
+      "title": "ధర్మార్జునులు",
+      "title_en": "Dharmarjunulu",
+      "prakriya": "ఇతిహాస కవిత / ప్రబంధ కవిత",
+      "ithivrittam": "ధర్మనిష్ఠ / ఆదర్శ నాయకత్వం",
+      "kavi": "చేమకూర వేంకటకవి (విజయవిలాసము)",
+      "page_no": 1,
+      "theme": "పాండవ అగ్రజుడైన ధర్మరాజు సద్గుణాలు, అర్జునుని అజేయ పరాక్రమం, ఇంద్రప్రస్థ నగర వైభవం మరియు ప్రజానురంజక పాలన వర్ణన.",
+      "learning_outcomes": [
+        "ప్రాచీన కావ్య భాషను అర్థం చేసుకోవడం, పద్య పఠనం మరియు భావగ్రహణం.",
+        "ధర్మరాజు ఆదర్శ నాయకత్వ గుణాలను, అర్జునుని శౌర్య పరాక్రమాలను అభినందించడం.",
+        "సంధులు, సమాసాలు, అలంకారాలను గుర్తించి ప్రయోగించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "పురం": [
+            "నగరం",
+            "పట్టణం"
+          ],
+          "ధర్మరాజు": [
+            "యుధిష్ఠిరుడు",
+            "అజాతశత్రువు"
+          ],
+          "అర్జునుడు": [
+            "పార్థుడు",
+            "కిరీటి",
+            "సవ్యసాచి"
+          ]
+        },
+        "nanarthalu": {
+          "హరి": [
+            "విష్ణువు",
+            "ఇంద్రుడు",
+            "కోతి",
+            "సూర్యుడు"
+          ],
+          "కవి": [
+            "పండితుడు",
+            "శుక్రుడు",
+            "నీటి కాకి"
+          ]
+        },
+        "prakriti_vikruti": {
+          "ధర్మము": "దమ్మము",
+          "ఆశ్చర్యము": "అచ్చెరువు",
+          "పురం": "ప్రోలు"
+        },
+        "jathiyalu": [
+          "కంటికి రెప్పలా",
+          "తలమునకలగు",
+          "చెవికిల్లు కట్టుకొని"
+        ]
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి",
+          "ఉత్వ సంధి",
+          "త్రిక సంధి"
+        ],
+        "samasalu": [
+          "ద్వంద్వ సమాసం",
+          "కర్మధారయ సమాసం",
+          "షష్ఠీ తత్పురుష సమాసం"
+        ],
+        "chandassu": [
+          "ఉత్పలమాల",
+          "చంపకమాల",
+          "శార్దూలము"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the noble qualities of Dharmaraja as described by Chemakura Venkatakavi.",
+          "question_text_te": "చేమకూర వేంకటకవి వర్ణించిన ధర్మరాజు సద్గుణాలను మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write an analytical essay on why Dharmarjunulu serve as role models for ideal governance.",
+          "question_text_te": "ఆదర్శ ప్రజాపాలనకు ధర్మార్జునులు ఎలా మార్గదర్శకులో విశ్లేషిస్తూ వ్యాసం రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write synonyms for: పురం, హరి; and Prakriti-Vikriti for ధర్మము.",
+          "question_text_te": "క్రింది పదాలకు పర్యాయపదాలు రాయండి: పురం, హరి; మరియు 'ధర్మము' పదానికి వికృతి పదం రాయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the samasa: ధర్మార్జునులు, ఇంద్రప్రస్థము.",
+          "question_text_te": "సమాసాలను గుర్తించి విగ్రహవాక్యాలు రాయండి: ధర్మార్జునులు, ఇంద్రప్రస్థము."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "lesson_no": 2,
+      "title": "ప్రేరణ",
+      "title_en": "Prerana",
+      "prakriya": "ఆత్మకథ",
+      "ithivrittam": "వ్యక్తిత్వ వికాసం / వైజ్ఞానిక దృక్పథం",
+      "kavi": "డాక్టర్ ఎ.పి.జె. అబ్దుల్ కలామ్ ('ఒక విజేత ఆత్మకథ')",
+      "page_no": 15,
+      "theme": "రామేశ్వరం గ్రామం నుండి భారత క్షిపణి పితామహుడు, రాష్ట్రపతిగా ఎదిగిన అబ్దుల్ కలామ్ బాల్యం, విద్యాభ్యాసం, తల్లిదండ్రులు మరియు ఉపాధ్యాయుల నుండి పొందిన స్ఫూర్తి.",
+      "learning_outcomes": [
+        "ఆత్మకథ ప్రక్రియ లక్షణాలను గ్రహించడం.",
+        "లక్ష్య సాధనలో పట్టుదల, కష్టపడే తత్వం, సమయపాలన విలువలను అలవర్చుకోవడం.",
+        "జాతి నిర్మాణంలో శాస్త్ర సాంకేతిక రంగాల ప్రాధాన్యతను గుర్తించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "ఆకాశం": [
+            "గగనం",
+            "అంబరం"
+          ],
+          "మిత్రుడు": [
+            "స్నేహితుడు",
+            "సఖుడు"
+          ]
+        },
+        "nanarthalu": {
+          "పక్షం": [
+            "వైపు",
+            "పక్షుల రెక్క",
+            "పదిహేను రోజులు"
+          ]
+        },
+        "prakriti_vikruti": {
+          "విద్య": "విద్దె",
+          "దిశ": "దిస"
+        },
+        "jathiyalu": [
+          "వెన్నతో పెట్టిన విద్య",
+          "అహర్నిశలు",
+          "చేదోడు వాదోడు"
+        ]
+      },
+      "grammar": {
+        "sandhulu": [
+          "గుణ సంధి",
+          "యడాగమ సంధి"
+        ],
+        "samasalu": [
+          "ద్విగు సమాసం",
+          "రూపక సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Abdul Kalam's teachers inspire him to pursue aerospace engineering?",
+          "question_text_te": "అబ్దుల్ కలామ్‌ను ఏరోస్పేస్ ఇంజనీరింగ్ వైపు మళ్లించడంలో ఆయన ఉపాధ్యాయులు ఎలా ప్రేరణ నింపారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a letter to your friend explaining the inspiring message of Dr. APJ Abdul Kalam's life.",
+          "question_text_te": "డాక్టర్ ఎ.పి.జె. అబ్దుల్ కలామ్ జీవితం అందించే స్ఫూర్తిదాయక సందేశాన్ని వివరిస్తూ మిత్రునికి లేఖ రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write sentences using idioms: వెన్నతో పెట్టిన విద్య, చేదోడు వాదోడు.",
+          "question_text_te": "జాతీయాలను సొంత వాక్యాలలో ప్రయోగించండి: వెన్నతో పెట్టిన విద్య, చేదోడు వాదోడు."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "lesson_no": 3,
+      "title": "స్వామి వివేకానంద",
+      "title_en": "Swami Vivekananda",
+      "prakriya": "జీవిత చరిత్ర",
+      "ithivrittam": "మానవతా విలువలు / దేశభక్తి",
+      "kavi": "తెలుగు వాచక సంపాదక మండలి",
+      "page_no": 28,
+      "theme": "చికాగో సర్వమత మహాసభలలో భారతదేశ సనాతన ధర్మ వైశిష్ట్యాన్ని చాటిన స్వామి వివేకానందుని జీవితం, యువతకు ఆయన ఇచ్చిన పిలుపు.",
+      "learning_outcomes": [
+        "జీవిత చరిత్ర ప్రక్రియ విశేషాలను తెలుసుకోవడం.",
+        "భారతీయ సంస్కృతి, సేవాభావం, సమైక్యతా స్ఫూర్తిని పెంపొందించుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "గురువు": [
+            "ఉపాధ్యాయుడు",
+            "ఆచార్యుడు"
+          ],
+          "కీర్తి": [
+            "యశస్సు",
+            "ఖ్యాతి"
+          ]
+        },
+        "prakriti_vikruti": {
+          "యశస్సు": "జసము",
+          "భక్తి": "బత్తి"
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "వృద్ది సంధి",
+          "యణాదేశ సంధి"
+        ],
+        "samasalu": [
+          "కర్మధారయ సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe Swami Vivekananda's historic address at the Chicago Parliament of Religions.",
+          "question_text_te": "చికాగో సర్వమత మహాసభలో స్వామి వివేకానందుడు చేసిన చారిత్రాత్మక ప్రసంగ విశేషాలను తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write five slogans based on Swami Vivekananda's message to youth: 'Arise, awake, and stop not till the goal is reached.'",
+          "question_text_te": "'లెండి, మేల్కొనండి, గమ్యం చేరేవరకు విశ్రమించకండి' అనే వివేకానందుని సందేశం ఆధారంగా ఐదు నినాదాలు రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "lesson_no": 4,
+      "title": "ప్రబోధం",
+      "title_en": "Prabodham",
+      "prakriya": "వచన కవిత",
+      "ithivrittam": "సామాజిక చైతన్యం",
+      "kavi": "మహాకవి శ్రీశ్రీ (శ్రీరంగం శ్రీనివాసరావు)",
+      "page_no": 40,
+      "theme": "శ్రామికులు, పీడితుల పక్షాన నిలబడి నవయుగ నిర్మాణానికి సమరశంఖం పూరించిన ప్రగతిశీల కవితా ధార.",
+      "learning_outcomes": [
+        "అభ్యుదయ కవిత్వ లక్షణాలు, సామాజిక దృక్పథం అవగతం చేసుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "రక్తం": [
+            "నెత్తురు",
+            "రుధిరం"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "ద్విరుక్తటకార సంధి",
+          "రుగాగమ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How does the poet awaken the working class through his progressive poem?",
+          "question_text_te": "కవి శ్రామిక వర్గాన్ని తన కవిత ద్వారా ఎలా చైతన్యపరిచాడో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Compose a poem or essay on social justice and the dignity of labour.",
+          "question_text_te": "సామాజిక న్యాయం మరియు శ్రమ గౌరవంపై ఒక కవిత లేదా లఘు వ్యాసం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "lesson_no": 5,
+      "title": "శివతాండవం",
+      "title_en": "Shivatandavam",
+      "prakriya": "గేయం",
+      "ithivrittam": "కళా సౌందర్యం / భక్తి",
+      "kavi": "పుట్టపర్తి నారాయణాచార్యులు",
+      "page_no": 52,
+      "theme": "పరమశివుని ఆనంద తాండవ లయాత్మక సౌందర్యం, నవ రసాల ఆవిష్కరణ, తెలుగు నుడికారపు లలిత పదాల నర్తన.",
+      "learning_outcomes": [
+        "గేయ కవిత్వంలోని లయ, శబ్దాలంకారాల సొగసులను ఆస్వాదించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "శివుడు": [
+            "శంకరుడు",
+            "మహేశ్వరుడు",
+            "ఈశ్వరుడు"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "ఆమ్రేడిత సంధి"
+        ],
+        "samasalu": [
+          "బహువ్రీహి సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the rhythmic dance of Lord Shiva as depicted by Puttaparthi Narayanacharyulu.",
+          "question_text_te": "పుట్టపర్తి నారాయణాచార్యులు వర్ణించిన శివతాండవ లయ సౌందర్యాన్ని వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the figure of speech (alankaram) in the rhythmic lines of the poem.",
+          "question_text_te": "గేయంలోని లయాత్మక పదాలలోని శబ్దాలంకారాన్ని గుర్తించి లక్షణం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "lesson_no": 6,
+      "title": "చెలిమి",
+      "title_en": "Chelimi",
+      "prakriya": "కథానిక",
+      "ithivrittam": "స్నేహం / మానవీయ విలువలు",
+      "kavi": "తెలుగు కథా రచయితల బృందం",
+      "page_no": 65,
+      "theme": "కులమతాలకతీతంగా నిలిచే నిజమైన స్నేహం, ఆపదలో ఆదుకునే మిత్రధర్మం గొప్పతనం.",
+      "learning_outcomes": [
+        "కథానిక శిల్పం, పాత్ర చిత్రణ, సంభాషణ చాతుర్యం గ్రహించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "స్నేహం": [
+            "చెలిమి",
+            "నెయ్యము",
+            "మైత్రి"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సరళాదేశ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the characteristics of true friendship highlighted in the story?",
+          "question_text_te": "కథానికలో పేర్కొన్న నిజమైన స్నేహం లక్షణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Narrate an incident where your friend helped you during a difficult situation.",
+          "question_text_te": "మీ జీవితంలో ఆపద సమయంలో మీ మిత్రుడు మీకు సహాయం చేసిన సందర్భాన్ని వివరిస్తూ వ్యాసం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "lesson_no": 7,
+      "title": "ఉద్యమస్ఫూర్తి",
+      "title_en": "Udyamasphoorti",
+      "prakriya": "వ్యాసం",
+      "ithivrittam": "చారిత్రక చైతన్యం / స్వతంత్ర సమరం",
+      "kavi": "సంపాదక మండలి",
+      "page_no": 78,
+      "theme": "ఆంధ్రదేశంలో స్వాతంత్య్రోద్యమం, అల్లూరి సీతారామరాజు, పొట్టి శ్రీరాములు త్యాగాలు, భాషా ప్రయుక్త రాష్ట్ర సాధన.",
+      "learning_outcomes": [
+        "వ్యాస రచన పద్ధతి మరియు చారిత్రక అంశాల వివరణ నైపుణ్యం పెంపొందించుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "సమరం": [
+            "యుద్ధం",
+            "పోరాటం"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "గసడదవాదేశ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the sacrifices made by Andhra leaders during the freedom struggle.",
+          "question_text_te": "స్వాతంత్ర్య సమరంలో ఆంధ్ర నాయకులు చేసిన త్యాగాలను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "lesson_no": 8,
+      "title": "కోర్కె",
+      "title_en": "Korke",
+      "prakriya": "ఖండకావ్యం",
+      "ithivrittam": "ఆశావాదం / మానవతా విలువలు",
+      "kavi": "దేవులపల్లి వేంకట కృష్ణశాస్త్రి",
+      "page_no": 90,
+      "theme": "భావకవితా సౌకుమార్యం, ప్రకృతితో మమేకమై జీవించాలనే కవి అంతరంగ తపన.",
+      "learning_outcomes": [
+        "భావకవిత్వపు రసజ్ఞత, ప్రకృతి ఆరాధనను ఆస్వాదించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "కోరిక": [
+            "వాంఛ",
+            "ఈప్సితం"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "టుగాగమ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the poet's desires and love for nature in the poem Korke.",
+          "question_text_te": "'కోర్కె' ఖండకావ్యంలో కృష్ణశాస్త్రి వ్యక్తం చేసిన ప్రకృతి ప్రేమను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "lesson_no": 9,
+      "title": "హరివిల్లు",
+      "title_en": "Harivillu",
+      "prakriya": "వ్యాసం",
+      "ithivrittam": "పర్యావరణ స్పృహ / ప్రకృతి సౌందర్యం",
+      "kavi": "సంపాదక మండలి",
+      "page_no": 102,
+      "theme": "వర్షరుతువు వైభవం, ఇంద్రధనుస్సు సప్తవర్ణాల రమణీయత, పర్యావరణ పరిరక్షణ ఆవశ్యకత.",
+      "learning_outcomes": [
+        "ప్రకృతి సౌందర్యాన్ని ఆస్వాదించడం మరియు పర్యావరణ పరిరక్షణ స్పృహ పెంపొందించుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "వర్షం": [
+            "వాన",
+            "వృష్టి"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "లులనల సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the beauty of the rainbow and its ecological significance in rainy season.",
+          "question_text_te": "వర్షాకాలంలో ఇంద్రధనుస్సు అందం మరియు దాని పర్యావరణ విశిష్టతను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "lesson_no": 10,
+      "title": "భూమిపుత్రుడు",
+      "title_en": "Bhoomiputrudu",
+      "prakriya": "పద్య కవిత",
+      "ithivrittam": "రైతు జీవితం / శ్రమ గౌరవం",
+      "kavi": "గుర్రం జాషువా",
+      "page_no": 115,
+      "theme": "అన్నదాత అయిన రైతు నిస్వార్థ సేవ, కష్టాలు, సమాజం అతనికి ఇవ్వాల్సిన గౌరవం.",
+      "learning_outcomes": [
+        "రైతు శ్రమ విలువను గుర్తించడం, ఆధునిక సమాజంలో వ్యవసాయ ప్రాధాన్యతను గ్రహించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "రైతు": [
+            "కర్షకుడు",
+            "హాలికుడు",
+            "వ్యవసాయదారుడు"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "పుంప్వాదేశ సంధి"
+        ],
+        "samasalu": [
+          "తత్పురుష సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How does the poet Jashuva glorify the role of the farmer as 'Bhoomiputrudu'?",
+          "question_text_te": "జాషువా కవి రైతును 'భూమిపుత్రుడు'గా ఎలా కొనియాడారో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "lesson_no": 11,
+      "title": "ఆశావాదం",
+      "title_en": "Aashavadam",
+      "prakriya": "లలిత వ్యాసం",
+      "ithivrittam": "జీవన దృక్పథం / ఆత్మవిశ్వాసం",
+      "kavi": "తెలుగు వ్యాసకర్తలు",
+      "page_no": 128,
+      "theme": "వైఫల్యాలకు కుంగిపోకుండా నిరంతర ఆశావాదంతో విజయం సాధించే మార్గం.",
+      "learning_outcomes": [
+        "ఆశావాద దృక్పథాన్ని అలవర్చుకోవడం, ఆత్మవిశ్వాసాన్ని నింపుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "ఆశ": [
+            "వాంఛ",
+            "కోరిక"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is optimism essential to overcome life's obstacles and achieve success?",
+          "question_text_te": "జీవితంలో అడ్డంకులను అధిగమించి విజయం సాధించడానికి ఆశావాదం ఎందుకు అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "lesson_no": 12,
+      "title": "రత్నత్రయం",
+      "title_en": "Ratnatrayam",
+      "prakriya": "పద్య కవిత",
+      "ithivrittam": "ప్రాచీన కావ్య పరిచయం / నీతి",
+      "kavi": "కవిత్రయం (నన్నయ, తిక్కన, ఎఱ్ఱన) & పోతన",
+      "page_no": 140,
+      "theme": "మహాభారతం మరియు భాగవతాల నుండి సేకరించిన ఆణిముత్యాల వంటి పద్యాలు, సత్యం, ధర్మం, లోకజ్ఞానం.",
+      "learning_outcomes": [
+        "ప్రాచీన కవుల శైలీ వైభవాన్ని, పద్య రసజ్ఞతను, నైతిక విలువలను తెలుసుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "సత్యము": [
+            "నిజము",
+            "తథ్యము"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "ఉత్వ సంధి",
+          "ఇత్వ సంధి"
+        ],
+        "chandassu": [
+          "తేటగీతి",
+          "ఆటవెలది",
+          "కందం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the moral teachings imparted by the Kavithrayam poems in Ratnatrayam.",
+          "question_text_te": "రత్నత్రయం పద్యాల ద్వారా కవిత్రయం బోధించిన నైతిక విలువలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the metre (chandassu) of the given poem and identify gana division.",
+          "question_text_te": "ఇచ్చిన పద్యానికి గణ విభజన చేసి ఛందస్సును గుర్తించండి."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "lesson_no": 1,
+      "title": "ధర్మార్జునులు",
+      "title_en": "Dharmarjunulu",
+      "prakriya": "ఇతిహాస కవిత / ప్రబంధ కవిత",
+      "ithivrittam": "ధర్మనిష్ఠ / ఆదర్శ నాయకత్వం",
+      "kavi": "చేమకూర వేంకటకవి (విజయవిలాసము)",
+      "page_no": 1,
+      "theme": "పాండవ అగ్రజుడైన ధర్మరాజు సద్గుణాలు, అర్జునుని అజేయ పరాక్రమం, ఇంద్రప్రస్థ నగర వైభవం మరియు ప్రజానురంజక పాలన వర్ణన.",
+      "learning_outcomes": [
+        "ప్రాచీన కావ్య భాషను అర్థం చేసుకోవడం, పద్య పఠనం మరియు భావగ్రహణం.",
+        "ధర్మరాజు ఆదర్శ నాయకత్వ గుణాలను, అర్జునుని శౌర్య పరాక్రమాలను అభినందించడం.",
+        "సంధులు, సమాసాలు, అలంకారాలను గుర్తించి ప్రయోగించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "పురం": [
+            "నగరం",
+            "పట్టణం"
+          ],
+          "ధర్మరాజు": [
+            "యుధిష్ఠిరుడు",
+            "అజాతశత్రువు"
+          ],
+          "అర్జునుడు": [
+            "పార్థుడు",
+            "కిరీటి",
+            "సవ్యసాచి"
+          ]
+        },
+        "nanarthalu": {
+          "హరి": [
+            "విష్ణువు",
+            "ఇంద్రుడు",
+            "కోతి",
+            "సూర్యుడు"
+          ],
+          "కవి": [
+            "పండితుడు",
+            "శుక్రుడు",
+            "నీటి కాకి"
+          ]
+        },
+        "prakriti_vikruti": {
+          "ధర్మము": "దమ్మము",
+          "ఆశ్చర్యము": "అచ్చెరువు",
+          "పురం": "ప్రోలు"
+        },
+        "jathiyalu": [
+          "కంటికి రెప్పలా",
+          "తలమునకలగు",
+          "చెవికిల్లు కట్టుకొని"
+        ]
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి",
+          "ఉత్వ సంధి",
+          "త్రిక సంధి"
+        ],
+        "samasalu": [
+          "ద్వంద్వ సమాసం",
+          "కర్మధారయ సమాసం",
+          "షష్ఠీ తత్పురుష సమాసం"
+        ],
+        "chandassu": [
+          "ఉత్పలమాల",
+          "చంపకమాల",
+          "శార్దూలము"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the noble qualities of Dharmaraja as described by Chemakura Venkatakavi.",
+          "question_text_te": "చేమకూర వేంకటకవి వర్ణించిన ధర్మరాజు సద్గుణాలను మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write an analytical essay on why Dharmarjunulu serve as role models for ideal governance.",
+          "question_text_te": "ఆదర్శ ప్రజాపాలనకు ధర్మార్జునులు ఎలా మార్గదర్శకులో విశ్లేషిస్తూ వ్యాసం రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write synonyms for: పురం, హరి; and Prakriti-Vikriti for ధర్మము.",
+          "question_text_te": "క్రింది పదాలకు పర్యాయపదాలు రాయండి: పురం, హరి; మరియు 'ధర్మము' పదానికి వికృతి పదం రాయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the samasa: ధర్మార్జునులు, ఇంద్రప్రస్థము.",
+          "question_text_te": "సమాసాలను గుర్తించి విగ్రహవాక్యాలు రాయండి: ధర్మార్జునులు, ఇంద్రప్రస్థము."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "lesson_no": 2,
+      "title": "ప్రేరణ",
+      "title_en": "Prerana",
+      "prakriya": "ఆత్మకథ",
+      "ithivrittam": "వ్యక్తిత్వ వికాసం / వైజ్ఞానిక దృక్పథం",
+      "kavi": "డాక్టర్ ఎ.పి.జె. అబ్దుల్ కలామ్ ('ఒక విజేత ఆత్మకథ')",
+      "page_no": 15,
+      "theme": "రామేశ్వరం గ్రామం నుండి భారత క్షిపణి పితామహుడు, రాష్ట్రపతిగా ఎదిగిన అబ్దుల్ కలామ్ బాల్యం, విద్యాభ్యాసం, తల్లిదండ్రులు మరియు ఉపాధ్యాయుల నుండి పొందిన స్ఫూర్తి.",
+      "learning_outcomes": [
+        "ఆత్మకథ ప్రక్రియ లక్షణాలను గ్రహించడం.",
+        "లక్ష్య సాధనలో పట్టుదల, కష్టపడే తత్వం, సమయపాలన విలువలను అలవర్చుకోవడం.",
+        "జాతి నిర్మాణంలో శాస్త్ర సాంకేతిక రంగాల ప్రాధాన్యతను గుర్తించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "ఆకాశం": [
+            "గగనం",
+            "అంబరం"
+          ],
+          "మిత్రుడు": [
+            "స్నేహితుడు",
+            "సఖుడు"
+          ]
+        },
+        "nanarthalu": {
+          "పక్షం": [
+            "వైపు",
+            "పక్షుల రెక్క",
+            "పదిహేను రోజులు"
+          ]
+        },
+        "prakriti_vikruti": {
+          "విద్య": "విద్దె",
+          "దిశ": "దిస"
+        },
+        "jathiyalu": [
+          "వెన్నతో పెట్టిన విద్య",
+          "అహర్నిశలు",
+          "చేదోడు వాదోడు"
+        ]
+      },
+      "grammar": {
+        "sandhulu": [
+          "గుణ సంధి",
+          "యడాగమ సంధి"
+        ],
+        "samasalu": [
+          "ద్విగు సమాసం",
+          "రూపక సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Abdul Kalam's teachers inspire him to pursue aerospace engineering?",
+          "question_text_te": "అబ్దుల్ కలామ్‌ను ఏరోస్పేస్ ఇంజనీరింగ్ వైపు మళ్లించడంలో ఆయన ఉపాధ్యాయులు ఎలా ప్రేరణ నింపారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a letter to your friend explaining the inspiring message of Dr. APJ Abdul Kalam's life.",
+          "question_text_te": "డాక్టర్ ఎ.పి.జె. అబ్దుల్ కలామ్ జీవితం అందించే స్ఫూర్తిదాయక సందేశాన్ని వివరిస్తూ మిత్రునికి లేఖ రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write sentences using idioms: వెన్నతో పెట్టిన విద్య, చేదోడు వాదోడు.",
+          "question_text_te": "జాతీయాలను సొంత వాక్యాలలో ప్రయోగించండి: వెన్నతో పెట్టిన విద్య, చేదోడు వాదోడు."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "lesson_no": 3,
+      "title": "స్వామి వివేకానంద",
+      "title_en": "Swami Vivekananda",
+      "prakriya": "జీవిత చరిత్ర",
+      "ithivrittam": "మానవతా విలువలు / దేశభక్తి",
+      "kavi": "తెలుగు వాచక సంపాదక మండలి",
+      "page_no": 28,
+      "theme": "చికాగో సర్వమత మహాసభలలో భారతదేశ సనాతన ధర్మ వైశిష్ట్యాన్ని చాటిన స్వామి వివేకానందుని జీవితం, యువతకు ఆయన ఇచ్చిన పిలుపు.",
+      "learning_outcomes": [
+        "జీవిత చరిత్ర ప్రక్రియ విశేషాలను తెలుసుకోవడం.",
+        "భారతీయ సంస్కృతి, సేవాభావం, సమైక్యతా స్ఫూర్తిని పెంపొందించుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "గురువు": [
+            "ఉపాధ్యాయుడు",
+            "ఆచార్యుడు"
+          ],
+          "కీర్తి": [
+            "యశస్సు",
+            "ఖ్యాతి"
+          ]
+        },
+        "prakriti_vikruti": {
+          "యశస్సు": "జసము",
+          "భక్తి": "బత్తి"
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "వృద్ది సంధి",
+          "యణాదేశ సంధి"
+        ],
+        "samasalu": [
+          "కర్మధారయ సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe Swami Vivekananda's historic address at the Chicago Parliament of Religions.",
+          "question_text_te": "చికాగో సర్వమత మహాసభలో స్వామి వివేకానందుడు చేసిన చారిత్రాత్మక ప్రసంగ విశేషాలను తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write five slogans based on Swami Vivekananda's message to youth: 'Arise, awake, and stop not till the goal is reached.'",
+          "question_text_te": "'లెండి, మేల్కొనండి, గమ్యం చేరేవరకు విశ్రమించకండి' అనే వివేకానందుని సందేశం ఆధారంగా ఐదు నినాదాలు రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "lesson_no": 4,
+      "title": "ప్రబోధం",
+      "title_en": "Prabodham",
+      "prakriya": "వచన కవిత",
+      "ithivrittam": "సామాజిక చైతన్యం",
+      "kavi": "మహాకవి శ్రీశ్రీ (శ్రీరంగం శ్రీనివాసరావు)",
+      "page_no": 40,
+      "theme": "శ్రామికులు, పీడితుల పక్షాన నిలబడి నవయుగ నిర్మాణానికి సమరశంఖం పూరించిన ప్రగతిశీల కవితా ధార.",
+      "learning_outcomes": [
+        "అభ్యుదయ కవిత్వ లక్షణాలు, సామాజిక దృక్పథం అవగతం చేసుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "రక్తం": [
+            "నెత్తురు",
+            "రుధిరం"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "ద్విరుక్తటకార సంధి",
+          "రుగాగమ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How does the poet awaken the working class through his progressive poem?",
+          "question_text_te": "కవి శ్రామిక వర్గాన్ని తన కవిత ద్వారా ఎలా చైతన్యపరిచాడో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Compose a poem or essay on social justice and the dignity of labour.",
+          "question_text_te": "సామాజిక న్యాయం మరియు శ్రమ గౌరవంపై ఒక కవిత లేదా లఘు వ్యాసం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "lesson_no": 5,
+      "title": "శివతాండవం",
+      "title_en": "Shivatandavam",
+      "prakriya": "గేయం",
+      "ithivrittam": "కళా సౌందర్యం / భక్తి",
+      "kavi": "పుట్టపర్తి నారాయణాచార్యులు",
+      "page_no": 52,
+      "theme": "పరమశివుని ఆనంద తాండవ లయాత్మక సౌందర్యం, నవ రసాల ఆవిష్కరణ, తెలుగు నుడికారపు లలిత పదాల నర్తన.",
+      "learning_outcomes": [
+        "గేయ కవిత్వంలోని లయ, శబ్దాలంకారాల సొగసులను ఆస్వాదించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "శివుడు": [
+            "శంకరుడు",
+            "మహేశ్వరుడు",
+            "ఈశ్వరుడు"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "ఆమ్రేడిత సంధి"
+        ],
+        "samasalu": [
+          "బహువ్రీహి సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the rhythmic dance of Lord Shiva as depicted by Puttaparthi Narayanacharyulu.",
+          "question_text_te": "పుట్టపర్తి నారాయణాచార్యులు వర్ణించిన శివతాండవ లయ సౌందర్యాన్ని వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the figure of speech (alankaram) in the rhythmic lines of the poem.",
+          "question_text_te": "గేయంలోని లయాత్మక పదాలలోని శబ్దాలంకారాన్ని గుర్తించి లక్షణం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "lesson_no": 6,
+      "title": "చెలిమి",
+      "title_en": "Chelimi",
+      "prakriya": "కథానిక",
+      "ithivrittam": "స్నేహం / మానవీయ విలువలు",
+      "kavi": "తెలుగు కథా రచయితల బృందం",
+      "page_no": 65,
+      "theme": "కులమతాలకతీతంగా నిలిచే నిజమైన స్నేహం, ఆపదలో ఆదుకునే మిత్రధర్మం గొప్పతనం.",
+      "learning_outcomes": [
+        "కథానిక శిల్పం, పాత్ర చిత్రణ, సంభాషణ చాతుర్యం గ్రహించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "స్నేహం": [
+            "చెలిమి",
+            "నెయ్యము",
+            "మైత్రి"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సరళాదేశ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the characteristics of true friendship highlighted in the story?",
+          "question_text_te": "కథానికలో పేర్కొన్న నిజమైన స్నేహం లక్షణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Narrate an incident where your friend helped you during a difficult situation.",
+          "question_text_te": "మీ జీవితంలో ఆపద సమయంలో మీ మిత్రుడు మీకు సహాయం చేసిన సందర్భాన్ని వివరిస్తూ వ్యాసం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "lesson_no": 7,
+      "title": "ఉద్యమస్ఫూర్తి",
+      "title_en": "Udyamasphoorti",
+      "prakriya": "వ్యాసం",
+      "ithivrittam": "చారిత్రక చైతన్యం / స్వతంత్ర సమరం",
+      "kavi": "సంపాదక మండలి",
+      "page_no": 78,
+      "theme": "ఆంధ్రదేశంలో స్వాతంత్య్రోద్యమం, అల్లూరి సీతారామరాజు, పొట్టి శ్రీరాములు త్యాగాలు, భాషా ప్రయుక్త రాష్ట్ర సాధన.",
+      "learning_outcomes": [
+        "వ్యాస రచన పద్ధతి మరియు చారిత్రక అంశాల వివరణ నైపుణ్యం పెంపొందించుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "సమరం": [
+            "యుద్ధం",
+            "పోరాటం"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "గసడదవాదేశ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the sacrifices made by Andhra leaders during the freedom struggle.",
+          "question_text_te": "స్వాతంత్ర్య సమరంలో ఆంధ్ర నాయకులు చేసిన త్యాగాలను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "lesson_no": 8,
+      "title": "కోర్కె",
+      "title_en": "Korke",
+      "prakriya": "ఖండకావ్యం",
+      "ithivrittam": "ఆశావాదం / మానవతా విలువలు",
+      "kavi": "దేవులపల్లి వేంకట కృష్ణశాస్త్రి",
+      "page_no": 90,
+      "theme": "భావకవితా సౌకుమార్యం, ప్రకృతితో మమేకమై జీవించాలనే కవి అంతరంగ తపన.",
+      "learning_outcomes": [
+        "భావకవిత్వపు రసజ్ఞత, ప్రకృతి ఆరాధనను ఆస్వాదించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "కోరిక": [
+            "వాంఛ",
+            "ఈప్సితం"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "టుగాగమ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the poet's desires and love for nature in the poem Korke.",
+          "question_text_te": "'కోర్కె' ఖండకావ్యంలో కృష్ణశాస్త్రి వ్యక్తం చేసిన ప్రకృతి ప్రేమను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "lesson_no": 9,
+      "title": "హరివిల్లు",
+      "title_en": "Harivillu",
+      "prakriya": "వ్యాసం",
+      "ithivrittam": "పర్యావరణ స్పృహ / ప్రకృతి సౌందర్యం",
+      "kavi": "సంపాదక మండలి",
+      "page_no": 102,
+      "theme": "వర్షరుతువు వైభవం, ఇంద్రధనుస్సు సప్తవర్ణాల రమణీయత, పర్యావరణ పరిరక్షణ ఆవశ్యకత.",
+      "learning_outcomes": [
+        "ప్రకృతి సౌందర్యాన్ని ఆస్వాదించడం మరియు పర్యావరణ పరిరక్షణ స్పృహ పెంపొందించుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "వర్షం": [
+            "వాన",
+            "వృష్టి"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "లులనల సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the beauty of the rainbow and its ecological significance in rainy season.",
+          "question_text_te": "వర్షాకాలంలో ఇంద్రధనుస్సు అందం మరియు దాని పర్యావరణ విశిష్టతను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "lesson_no": 10,
+      "title": "భూమిపుత్రుడు",
+      "title_en": "Bhoomiputrudu",
+      "prakriya": "పద్య కవిత",
+      "ithivrittam": "రైతు జీవితం / శ్రమ గౌరవం",
+      "kavi": "గుర్రం జాషువా",
+      "page_no": 115,
+      "theme": "అన్నదాత అయిన రైతు నిస్వార్థ సేవ, కష్టాలు, సమాజం అతనికి ఇవ్వాల్సిన గౌరవం.",
+      "learning_outcomes": [
+        "రైతు శ్రమ విలువను గుర్తించడం, ఆధునిక సమాజంలో వ్యవసాయ ప్రాధాన్యతను గ్రహించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "రైతు": [
+            "కర్షకుడు",
+            "హాలికుడు",
+            "వ్యవసాయదారుడు"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "పుంప్వాదేశ సంధి"
+        ],
+        "samasalu": [
+          "తత్పురుష సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How does the poet Jashuva glorify the role of the farmer as 'Bhoomiputrudu'?",
+          "question_text_te": "జాషువా కవి రైతును 'భూమిపుత్రుడు'గా ఎలా కొనియాడారో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "lesson_no": 11,
+      "title": "ఆశావాదం",
+      "title_en": "Aashavadam",
+      "prakriya": "లలిత వ్యాసం",
+      "ithivrittam": "జీవన దృక్పథం / ఆత్మవిశ్వాసం",
+      "kavi": "తెలుగు వ్యాసకర్తలు",
+      "page_no": 128,
+      "theme": "వైఫల్యాలకు కుంగిపోకుండా నిరంతర ఆశావాదంతో విజయం సాధించే మార్గం.",
+      "learning_outcomes": [
+        "ఆశావాద దృక్పథాన్ని అలవర్చుకోవడం, ఆత్మవిశ్వాసాన్ని నింపుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "ఆశ": [
+            "వాంఛ",
+            "కోరిక"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is optimism essential to overcome life's obstacles and achieve success?",
+          "question_text_te": "జీవితంలో అడ్డంకులను అధిగమించి విజయం సాధించడానికి ఆశావాదం ఎందుకు అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "lesson_no": 12,
+      "title": "రత్నత్రయం",
+      "title_en": "Ratnatrayam",
+      "prakriya": "పద్య కవిత",
+      "ithivrittam": "ప్రాచీన కావ్య పరిచయం / నీతి",
+      "kavi": "కవిత్రయం (నన్నయ, తిక్కన, ఎఱ్ఱన) & పోతన",
+      "page_no": 140,
+      "theme": "మహాభారతం మరియు భాగవతాల నుండి సేకరించిన ఆణిముత్యాల వంటి పద్యాలు, సత్యం, ధర్మం, లోకజ్ఞానం.",
+      "learning_outcomes": [
+        "ప్రాచీన కవుల శైలీ వైభవాన్ని, పద్య రసజ్ఞతను, నైతిక విలువలను తెలుసుకోవడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "సత్యము": [
+            "నిజము",
+            "తథ్యము"
+          ]
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "ఉత్వ సంధి",
+          "ఇత్వ సంధి"
+        ],
+        "chandassu": [
+          "తేటగీతి",
+          "ఆటవెలది",
+          "కందం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the moral teachings imparted by the Kavithrayam poems in Ratnatrayam.",
+          "question_text_te": "రత్నత్రయం పద్యాల ద్వారా కవిత్రయం బోధించిన నైతిక విలువలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the metre (chandassu) of the given poem and identify gana division.",
+          "question_text_te": "ఇచ్చిన పద్యానికి గణ విభజన చేసి ఛందస్సును గుర్తించండి."
+        }
+      ]
+    }
+  ],
+  "upavachakam_ramayanam": [
+    {
+      "kanda_no": 1,
+      "name": "బాలకాండ",
+      "name_en": "Balakanda"
+    },
+    {
+      "kanda_no": 2,
+      "name": "అయోధ్యాకాండ",
+      "name_en": "Ayodhyakanda"
+    },
+    {
+      "kanda_no": 3,
+      "name": "అరణ్యకాండ",
+      "name_en": "Aranyakanda"
+    },
+    {
+      "kanda_no": 4,
+      "name": "కిష్కింధకాండ",
+      "name_en": "Kishkindhakanda"
+    },
+    {
+      "kanda_no": 5,
+      "name": "సుందరకాండ",
+      "name_en": "Sundarakanda"
+    },
+    {
+      "kanda_no": 6,
+      "name": "యుద్ధకాండ",
+      "name_en": "Yuddhakanda"
+    }
+  ]
+}

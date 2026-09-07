@@ -1,0 +1,359 @@
+{
+  "book_metadata": {
+    "title_en": "Beehive - English Reader Class 9 (AP SCERT)",
+    "title_te": "ఇంగ్లీషు రీడర్ - తొమ్మిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9th Class",
+    "medium": "English",
+    "total_chapters": 11,
+    "source_pdfs": [
+      "9_English_Textbook.pdf",
+      "9_English_Nonditail.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Reading Comprehension",
+    "AS2": "Vocabulary and Grammar",
+    "AS3": "Creative Discourses"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "The Fun They Had",
+      "title_te": "ది ఫన్ దే హాడ్",
+      "author": "Isaac Asimov",
+      "poem": {
+        "title": "The Road Not Taken",
+        "poet": "Robert Frost"
+      },
+      "learning_outcomes": [
+        "Comprehend science fiction prose contrasting futuristic computerised education with traditional human schooling.",
+        "Interpret Robert Frost's poem on making life choices and handling dilemmas.",
+        "Master vocabulary relating to digital tools, adjectives, and adverbs."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What kind of teachers did Margie and Tommy have? How were they different from traditional human teachers?",
+          "question_text_te": "మార్జీ మరియు టామీలకు ఎలాంటి ఉపాధ్యాయులు ఉన్నారు? వారు సాంప్రదాయ మానవ ఉపాధ్యాయులతో పోలిస్తే ఎలా విభిన్నమైనవారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Margie hate school, especially the mechanical teacher?",
+          "question_text_te": "మార్జీ పాఠశాలను, ప్రత్యేకించి మెకానికల్ టీచర్‌ను ఎందుకు ద్వేషించింది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Convert the following adjectives into adverbs: angry, gentle, solemn, cheerful.",
+          "question_text_te": "క్రింది విశేషణాలను క్రియావిశేషణములుగా (adverbs) మార్చండి: angry, gentle, solemn, cheerful."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Imagine you are Margie. Write a diary entry expressing your excitement and wonder on discovering Tommy's real paper book describing old schools.",
+          "question_text_te": "మిమ్మల్ని మార్జీగా ఊహించుకుని, పాత కాలపు పాఠశాలలను వర్ణించే పుస్తకాన్ని చూసినప్పుడు మీ భావాలను వ్యక్తం చేస్తూ డైరీ ఎంట్రీ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "The Sound of Music",
+      "title_te": "ది సౌండ్ ఆఫ్ మ్యూజిక్",
+      "author": "Deborah Cowley",
+      "part_1": "Evelyn Glennie Listens to Sound without Hearing It",
+      "part_2": "The Shehnai of Bismillah Khan",
+      "poem": {
+        "title": "Wind",
+        "poet": "Subramania Bharati"
+      },
+      "learning_outcomes": [
+        "Appreciate how Evelyn Glennie overcame profound deafness to become a world-renowned percussionist.",
+        "Understand the rich heritage of Indian classical music through the life of Ustad Bismillah Khan (Bharat Ratna).",
+        "Appreciate Subramania Bharati's poem symbolising adversity and inner resilience."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Evelyn Glennie learn to 'hear' and feel musical vibrations despite losing her hearing?",
+          "question_text_te": "వినికిడి శక్తిని కోల్పోయినప్పటికీ ఎవెలిన్ గ్లెన్నీ సంగీత ప్రకంపనలను ఎలా అనుభవించి సాధన చేసింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Bismillah Khan transform the shehnai from an instrument played in royal courts into a classical concert instrument?",
+          "question_text_te": "ఉస్తాద్ బిస్మిల్లా ఖాన్ షెహనాయిని శాస్త్రీయ సంగీత వాయిద్యంగా ఎలా తీర్చిదిద్దారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a speech for your school assembly on the topic: 'Determined perseverance can overcome any physical disability.'",
+          "question_text_te": "దృఢ సంకల్పంతో శారీరక వైకల్యాన్ని కూడా జయించవచ్చనే అంశంపై పాఠశాల సమావేశంలో ప్రసంగించడానికి ఒక ప్రసంగ వ్యాసాన్ని రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "The Little Girl",
+      "title_te": "ది లిటిల్ గర్ల్",
+      "author": "Katherine Mansfield",
+      "poem": {
+        "title": "Rain on the Roof",
+        "poet": "Coates Kinney"
+      },
+      "learning_outcomes": [
+        "Understand parent-child relationships and emotional bonding.",
+        "Analyze Kezia's transformation from fear of her stern father to understanding his caring love.",
+        "Appreciate sensory imagery in poetry."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Kezia's perception of her father change from a terrifying figure to an affectionate protector?",
+          "question_text_te": "కెజియా తన తండ్రి పట్ల ఉన్న భయాన్ని విడిచిపెట్టి, ఆయనలోని ఆప్యాయతను ఎలా అర్థం చేసుకుంది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the reported speech conversions in dialogue extracts from the text.",
+          "question_text_te": "పాఠంలోని సంభాషణలను పరోక్ష కథనంలోకి (Indirect Speech) మార్చండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "A Truly Beautiful Mind",
+      "title_te": "ఎ ట్రూలీ బ్యూటిఫుల్ మైండ్",
+      "author": "Biographical Essay on Albert Einstein",
+      "poem": {
+        "title": "The Lake Isle of Innisfree",
+        "poet": "William Butler Yeats"
+      },
+      "learning_outcomes": [
+        "Trace Albert Einstein's revolutionary contributions to physics (Special Theory of Relativity, E = mc^2, Nobel Prize 1921).",
+        "Understand Einstein as a champion of world peace, democracy, and nuclear disarmament."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the world remember Albert Einstein not only as a great scientist but also as a 'world citizen'?",
+          "question_text_te": "ప్రపంచం ఆల్బర్ట్ ఐన్‌స్టీన్‌ను కేవలం గొప్ప శాస్త్రవేత్తగానే కాకుండా 'విశ్వ పౌరుడు'గా ఎందుకు గుర్తుంచుకుంది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a formal letter to a newspaper editor appealing for global nuclear disarmament following Einstein's principles of human brotherhood.",
+          "question_text_te": "ఐన్‌స్టీన్ సూచించిన శాంతి సందేశాన్ని ప్రస్తావిస్తూ ప్రపంచ అణ్వాయుధ నిరాయుధీకరణ కోరుతూ వార్తాపత్రిక సంపాదకునికి లేఖ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "The Snake and the Mirror",
+      "title_te": "ది స్నేక్ అండ్ ది మిర్రర్",
+      "author": "Vaikom Muhammad Basheer",
+      "poem": {
+        "title": "A Legend of the Northland",
+        "poet": "Phoebe Cary"
+      },
+      "learning_outcomes": [
+        "Enjoy humorous storytelling and suspense narration in prose.",
+        "Appreciate Phoebe Cary's ballad teaching compassion towards the hungry and elderly."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the humorous climax when the cobra sees its reflection in the mirror and leaves the homeopathic doctor unharmed.",
+          "question_text_te": "నాగుపాము అద్దంలో తన ప్రతిబింబాన్ని చూసి హోమియోపతి వైద్యుడిని విడిచిపెట్టి వెళ్లిన హాస్యభరిత సన్నివేశాన్ని వర్ణించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "My Childhood",
+      "title_te": "మై చైల్డ్‌హుడ్",
+      "author": "Dr. A.P.J. Abdul Kalam",
+      "poem": {
+        "title": "No Men Are Foreign",
+        "poet": "James Kirkup"
+      },
+      "learning_outcomes": [
+        "Understand communal harmony, friendship, and family values in Dr. Kalam's childhood at Rameswaram.",
+        "Reflect on James Kirkup's message of universal brotherhood in 'No Men Are Foreign'."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Lakshmana Sastry handle the new communal school teacher who separated Kalam from Ramanadha Sastry?",
+          "question_text_te": "కలాం మరియు రామానాధ శాస్త్రిలను వేరుచేసిన కొత్త ఉపాధ్యాయుడికి లక్ష్మణ శాస్త్రి ఎలా బుద్ధి చెప్పారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write an essay on the importance of communal harmony and secular values in schools based on Dr. Kalam's childhood experiences.",
+          "question_text_te": "కలాం బాల్య అనుభవాల ఆధారంగా పాఠశాలల్లో మత సామరస్యం మరియు లౌకిక విలువల ప్రాముఖ్యతపై వ్యాసం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Reach for the Top",
+      "title_te": "రీచ్ ఫర్ ది టాప్",
+      "part_1": "Santosh Yadav",
+      "part_2": "Maria Sharapova",
+      "poem": {
+        "title": "On Killing a Tree",
+        "poet": "Gieve Patel"
+      },
+      "learning_outcomes": [
+        "Draw inspiration from Santosh Yadav (the only woman to scale Everest twice) and Maria Sharapova (tennis champion).",
+        "Sensitize students to tree preservation through Gieve Patel's poem."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What environmental initiative did Santosh Yadav undertake during her mountaineering expedition to Everest?",
+          "question_text_te": "ఎవరెస్ట్ అధిరోహణ సమయంలో సంతోష్ యాదవ్ చేపట్టిన పర్యావరణ పరిరక్షణ కార్యక్రమం ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What sacrifices did Maria Sharapova make in her childhood to reach the pinnacle of women's professional tennis?",
+          "question_text_te": "టెన్నిస్ ప్రపంచంలో అగ్రస్థానాన్ని అధిరోహించడానికి మరియా షరపోవా బాల్యంలో చేసిన త్యాగాలు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Kathmandu",
+      "title_te": "ఖాట్మండు",
+      "author": "Vikram Seth",
+      "poem": {
+        "title": "A Slumber Did My Spirit Seal",
+        "poet": "William Wordsworth"
+      },
+      "learning_outcomes": [
+        "Experience vivid travelogue descriptions contrasting Pashupatinath temple and Baudhnath stupa in Nepal.",
+        "Appreciate William Wordsworth's elegy on eternal nature."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Contrast the atmosphere inside the Pashupatinath temple with that at the Baudhnath stupa in Kathmandu.",
+          "question_text_te": "ఖాట్మండులోని పశుపతినాథ్ దేవాలయ వాతావరణాన్ని బౌద్ధనాథ్ స్థూప ప్రశాంతతతో పోల్చి వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "If I Were You",
+      "title_te": "ఇఫ్ ఐ వర్ యు",
+      "author": "Douglas James",
+      "learning_outcomes": [
+        "Understand one-act play structure, suspense, dialogue, and wit.",
+        "Analyze how Gerrard outsmarts an armed intruder through calm presence of mind."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Gerrard cleverly trick the intruder and lock him in the cupboard?",
+          "question_text_te": "గెరార్డ్ తన సమయస్ఫూర్తితో చొరబాటుదారుడిని మోసగించి అల్మారాలో ఎలా బంధించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a conversation between Gerrard and the police inspector when the inspector arrives to arrest the trapped criminal.",
+          "question_text_te": "పోలీస్ ఇన్‌స్పెక్టర్ వచ్చినప్పుడు గెరార్డ్ మరియు ఇన్‌స్పెక్టర్ మధ్య జరిగే సంభాషణను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "The Lost Child",
+      "title_te": "ది లాస్ట్ చైల్డ్ (సప్లిమెంటరీ రీడర్ - మూమెంట్స్)",
+      "author": "Mulk Raj Anand (Moments)",
+      "learning_outcomes": [
+        "Understand child psychology and the supreme value of parental love over material temptations."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the lost child refuse all the toys, sweets, and flowers offered by the kind stranger?",
+          "question_text_te": "దారితప్పిన బాలుడు దయగల అపరిచితుడు ఇచ్చిన బొమ్మలు, మిఠాయిలు, పూలను ఎందుకు తిరస్కరించాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "The Adventures of Toto & The Last Leaf",
+      "title_te": "ది అడ్వెంచర్స్ ఆఫ్ టోటో / ది లాస్ట్ లీఫ్",
+      "author": "Ruskin Bond & O. Henry (Moments)",
+      "learning_outcomes": [
+        "Appreciate humorous animal mischief in Ruskin Bond's prose.",
+        "Understand supreme self-sacrifice and art in O. Henry's masterpiece 'The Last Leaf'."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is Behrman's painted ivy leaf considered a true masterpiece in 'The Last Leaf'?",
+          "question_text_te": "'ది లాస్ట్ లీఫ్' కథలో బెహ్రమన్ గీసిన ఐవీ ఆకు నిజమైన కళాఖండంగా ఎందుకు పరిగణించబడింది?"
+        }
+      ]
+    }
+  ]
+}

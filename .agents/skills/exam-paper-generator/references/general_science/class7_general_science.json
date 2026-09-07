@@ -1,0 +1,1286 @@
+{
+  "book_metadata": {
+    "title_en": "General Science - Class 7 (AP SCERT 2024-25)",
+    "title_te": "సాధారణ శాస్త్రం - ఏడవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "7th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 13,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "semester_2": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "source_pdfs": [
+      "7_Science_SEM-1_Textbook.pdf",
+      "7_Science_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Asking Questions and Making Hypothesis",
+    "AS3": "Experimentation and Field Investigation",
+    "AS4": "Information Skills and Projects",
+    "AS5": "Communication through Drawing and Model Making",
+    "AS6": "Daily Life Application and Concern to Biodiversity",
+    "AS7": "Appreciation and Aesthetic Sense / Values"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Nutrition in Plants",
+      "title_te": "మొక్కలలో పోషణ",
+      "semester": 1,
+      "learning_outcomes": [
+        "Differentiate between autotrophic and heterotrophic modes of nutrition.",
+        "Explain the process of photosynthesis and essential raw materials.",
+        "Understand parasitic, saprotrophic, and insectivorous plant adaptations.",
+        "Explain symbiotic relationship between algae and fungi in lichens."
+      ],
+      "theorems_and_key_concepts": [
+        "Autotrophs synthesise their own food using carbon dioxide, water, and sunlight in the presence of chlorophyll.",
+        "Stomata are tiny pores on the leaf surface flanked by guard cells for gaseous exchange.",
+        "Heterotrophic plants include parasites (Cuscuta), insectivorous plants (Pitcher plant), and saprotrophs (Fungi).",
+        "Symbiosis: Organisms live together and share both shelter and nutrients (e.g., Lichens, Rhizobium in legume root nodules)."
+      ],
+      "key_formulas_and_equations": [
+        "6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\xrightarrow[\\text{Chlorophyll}]{\\text{Sunlight}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2",
+        "\\text{Starch} + \\text{Iodine solution} \\rightarrow \\text{Blue-black colour}"
+      ],
+      "activities": [
+        {
+          "activity_no": "1.1",
+          "title": "Testing presence of starch in leaves (Photosynthesis test)",
+          "title_te": "ఆకులలో పిండిపదార్థం ఉనికిని పరీక్షించే ప్రయోగం",
+          "aim": "To prove that green leaves synthesise starch in the presence of sunlight through photosynthesis.",
+          "apparatus": [
+            "Two potted plants of same kind",
+            "Iodine solution",
+            "Test tube and beaker",
+            "Water and alcohol (spirit)",
+            "Bunsen burner with tripod stand and wire gauze",
+            "Petri dish and dropper"
+          ],
+          "procedure": [
+            "Keep one potted plant in dark for 72 hours and the other in bright sunlight.",
+            "Pluck a leaf from each plant and boil them in water for a few minutes to soften tissues.",
+            "Immerse the leaf in a test tube containing alcohol and place the tube in a boiling water bath until green chlorophyll is completely bleached.",
+            "Wash the decolorized leaf with cold water and place it on a petri dish.",
+            "Add 2-3 drops of dilute iodine solution onto each leaf using a dropper and observe colour change."
+          ],
+          "precautions": [
+            "Never heat alcohol directly on the flame as it is highly flammable; always use a water bath.",
+            "Handle hot glassware and burner carefully with test tube holders."
+          ],
+          "observations": "The leaf kept in sunlight turns blue-black upon adding iodine, confirming the presence of starch. The leaf kept in the dark shows no blue-black colour change.",
+          "conclusion": "Sunlight is essential for green plants to carry out photosynthesis and synthesise starch."
+        },
+        {
+          "activity_no": "1.2",
+          "title": "Growing fungi on moist bread (Saprotrophic nutrition)",
+          "title_te": "తేమగల రొట్టెముక్కపై బూజు పెరగడాన్ని గమనించే ప్రయోగం",
+          "aim": "To observe the growth of saprotrophic fungi on moist bread.",
+          "apparatus": [
+            "A slice of fresh bread",
+            "Water",
+            "Petri dish or clean container with lid",
+            "Magnifying hand lens or simple microscope"
+          ],
+          "procedure": [
+            "Take a slice of bread and moisten it with a few drops of water.",
+            "Leave it in a warm, moist, dark corner inside a covered container for 2 to 3 days.",
+            "Observe the surface of the bread every day for the appearance of patches.",
+            "Examine the fluffy patches under a magnifying lens or microscope."
+          ],
+          "precautions": [
+            "Do not touch or inhale fungal spores directly to avoid allergic respiratory reactions.",
+            "Wash hands thoroughly after handling the moldy bread."
+          ],
+          "observations": "Cotton-like white, green, or brown fluffy threads develop on the bread surface. Under magnification, tiny thread-like hyphae and round spore-bearing structures are seen.",
+          "conclusion": "Fungi secrete digestive juices on dead organic matter, convert it into liquid nutrients, and absorb them through saprotrophic nutrition."
+        }
+      ],
+      "summary_points": [
+        "All organisms require food for energy, growth, and repair of damaged body parts.",
+        "Chlorophyll, sunlight, carbon dioxide, and water are essential raw materials for photosynthesis.",
+        "Leaves synthesise carbohydrates that are stored as starch."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are leaves called the food factories of plants?",
+          "question_text_te": "మొక్కలలో ఆకులను ఆహార కర్మాగారాలు అని ఎందుకు పిలుస్తారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Distinguish between a parasite and a saprotroph with examples.",
+          "question_text_te": "ఉదాహరణలతో పరాన్నజీవి మరియు పూతికపదార్థాహారుల మధ్య భేదాలను తెలపండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What will happen to the life on earth if green plants stop performing photosynthesis?",
+          "question_text_te": "ఆకుపచ్చని మొక్కలు కిరణజన్య సంయోగక్రియ జరపడం ఆపేస్తే భూమిపై జీవరాశికి ఏమి జరుగుతుంది?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to demonstrate the presence of starch in leaves undergoing photosynthesis under the headings: Aim, Apparatus, Procedure, Precautions, Observations.",
+          "question_text_te": "కిరణజన్య సంయోగక్రియ జరిపే ఆకులలో పిండిపదార్థం ఉనికిని నిరూపించే ప్రయోగాన్ని ఉద్దేశం, పరికరాలు, విధానం, జాగ్రత్తలు, పరిశీలనలు శీర్షికల క్రింద వివరించండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram showing the section of a leaf with stomata and guard cells.",
+          "question_text_te": "పత్రరంధ్రాలు మరియు రక్షక కణాలను చూపే ఆకు అంతర్నిర్మాణ చక్కని పటాన్ని గీసి భాగాలు గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Nutrition in Animals",
+      "title_te": "జంతువులలో పోషణ",
+      "semester": 1,
+      "learning_outcomes": [
+        "Identify the five stages of holozoic nutrition: Ingestion, Digestion, Absorption, Assimilation, Egestion.",
+        "Describe the human alimentary canal and associated digestive glands.",
+        "Explain ruminant digestion and role of rumen and cellulose-digesting bacteria.",
+        "Understand feeding and digestion in Amoeba using pseudopodia and food vacuoles."
+      ],
+      "theorems_and_key_concepts": [
+        "Human digestive system consists of alimentary canal (buccal cavity, oesophagus, stomach, small intestine, large intestine, rectum, anus) and glands (salivary glands, liver, pancreas).",
+        "Saliva contains amylase enzyme which breaks starch into simple sugars.",
+        "Stomach secretes hydrochloric acid (kills bacteria) and pepsin (digests proteins).",
+        "Liver secretes bile juice to emulsify fats; pancreas secretes pancreatic juice for proteins, carbohydrates, and fats.",
+        "Villi in small intestine increase surface area for nutrient absorption."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Starch} + \\text{Salivary Amylase} \\rightarrow \\text{Maltose (Sugar)}",
+        "\\text{Fats} + \\text{Bile Juice} \\rightarrow \\text{Emulsified Fat Droplets}",
+        "\\text{Proteins} + \\text{Pepsin / Trypsin} \\rightarrow \\text{Amino Acids}"
+      ],
+      "activities": [
+        {
+          "activity_no": "2.1",
+          "title": "Action of saliva on starch (Boiled rice test)",
+          "title_te": "పిండి పదార్థంపై లాలాజలం చర్యను నిరూపించే ప్రయోగం",
+          "aim": "To demonstrate that salivary amylase present in human saliva digests starch into simpler sugars.",
+          "apparatus": [
+            "Two clean test tubes (marked A and B)",
+            "Boiled rice",
+            "Chewed boiled rice",
+            "Water",
+            "Iodine solution and dropper"
+          ],
+          "procedure": [
+            "Take one teaspoonful of boiled rice in test tube A.",
+            "Take one teaspoonful of boiled rice, chew it thoroughly for 3 to 5 minutes, and place it in test tube B.",
+            "Add 3-4 mL of water to both test tubes.",
+            "Add 2-3 drops of iodine solution to each test tube and mix gently.",
+            "Observe and compare the colour change in both test tubes."
+          ],
+          "precautions": [
+            "Ensure test tubes are thoroughly washed and dry before the test.",
+            "Chew the rice well so that adequate saliva mixes with the starch."
+          ],
+          "observations": "Test tube A (boiled rice) turns deep blue-black with iodine. Test tube B (chewed rice with saliva) does not turn blue-black because starch is broken down into maltose sugar.",
+          "conclusion": "Salivary amylase breaks starch into simpler reducing sugars that do not give a positive blue-black iodine reaction."
+        }
+      ],
+      "summary_points": [
+        "Animal nutrition includes nutrient requirement, mode of intake of food and its utilisation in the body.",
+        "Digestion of carbohydrates begins in buccal cavity, proteins in stomach, and fats in small intestine."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are villi? What is their location and function in the human digestive system?",
+          "question_text_te": "చూషకాలు (విల్లి) అంటే ఏమిటి? మానవ జీర్ణవ్యవస్థలో వాటి స్థానం మరియు విధి ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Where is bile produced? Which component of the food does it help to digest?",
+          "question_text_te": "పైత్యరసం ఎక్కడ ఉత్పత్తి అవుతుంది? ఆహారంలోని ఏ భాగాన్ని జీర్ణం చేయడానికి ఇది సహాయపడుతుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to investigate the effect of saliva on starch using boiled rice and iodine solution.",
+          "question_text_te": "ఉడికించిన అన్నం మరియు అయోడిన్ ద్రావణాన్ని ఉపయోగించి పిండిపదార్థంపై లాలాజలం ప్రభావాన్ని పరిశీలించే ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram of the human digestive system and mark the stomach, liver, gall bladder, and small intestine.",
+          "question_text_te": "మానవ జీర్ణవ్యవస్థ చక్కని పటాన్ని గీసి జీర్ణాశయం, కాలేయం, పిత్తాశయం, చిన్న ప్రేగు భాగాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Heat",
+      "title_te": "ఉష్ణం",
+      "semester": 1,
+      "learning_outcomes": [
+        "Distinguish between heat energy and temperature.",
+        "Read clinical and laboratory thermometers correctly with safety precautions.",
+        "Explain the three modes of heat transfer: Conduction, Convection, and Radiation.",
+        "Relate sea breeze and land breeze to convection currents in nature."
+      ],
+      "theorems_and_key_concepts": [
+        "Temperature is a reliable measure of the hotness or coldness of an object, measured in degree Celsius (°C).",
+        "Clinical thermometer range is 35°C to 42°C (normal human body temperature is 37°C or 98.6°F) and contains a kink to prevent backflow of mercury.",
+        "Conduction: transfer of heat from hotter end to colder end in solids without actual movement of particles.",
+        "Convection: transfer of heat in fluids (liquids and gases) by the actual movement of heated particles.",
+        "Radiation: transfer of heat that does not require any material medium (e.g., solar heat reaching Earth)."
+      ],
+      "key_formulas_and_equations": [
+        "T(^\\circ\\text{F}) = \\frac{9}{5} T(^\\circ\\text{C}) + 32",
+        "T(^\\circ\\text{C}) = \\frac{5}{9}(T(^\\circ\\text{F}) - 32)",
+        "T(\\text{K}) = T(^\\circ\\text{C}) + 273.15"
+      ],
+      "activities": [
+        {
+          "activity_no": "3.1",
+          "title": "Demonstrating conduction of heat through a metal rod",
+          "title_te": "లోహపు కడ్డీ ద్వారా ఉష్ణ వాహకతను నిరూపించే ప్రయోగం",
+          "aim": "To show that heat transfers through solid metals from the hot end to the cold end by conduction.",
+          "apparatus": [
+            "An iron or aluminum flat rod (about 30 cm)",
+            "Wax and matchsticks or small iron pins",
+            "A stand with clamp",
+            "A spirit lamp or Bunsen burner"
+          ],
+          "procedure": [
+            "Fix small iron pins or matchsticks along the metal rod at equal intervals using melted wax drops.",
+            "Clamp one end of the metal rod horizontally on the stand.",
+            "Light the spirit lamp and heat the free unclamped end of the rod.",
+            "Watch the sequence in which the wax melts and the pins fall down."
+          ],
+          "precautions": [
+            "Ensure the wax drops are identical in size and spaced uniformly.",
+            "Do not touch the hot metal rod with bare hands."
+          ],
+          "observations": "The pin nearest to the flame falls first, followed successively by the next pins as heat travels along the rod.",
+          "conclusion": "Heat travels through solid metals by conduction from the hotter region to the cooler region."
+        },
+        {
+          "activity_no": "3.2",
+          "title": "Observing convection currents in water using potassium permanganate",
+          "title_te": "పొటాషియం పర్మాంగనేట్ ఉపయోగించి నీటిలో ఉష్ణ సంవహన ప్రవాహాలను గమనించడం",
+          "aim": "To demonstrate convection currents in water during heating.",
+          "apparatus": [
+            "Round-bottom glass flask",
+            "Tripod stand and wire gauze",
+            "Bunsen burner",
+            "Water",
+            "Potassium permanganate crystal and a straw"
+          ],
+          "procedure": [
+            "Fill the round-bottom flask two-thirds with clear water.",
+            "Place a single crystal of potassium permanganate gently at the bottom of the flask using a straw.",
+            "Heat the flask directly below the crystal using a slow burner flame.",
+            "Observe the movement of purple colored water streams inside the flask."
+          ],
+          "precautions": [
+            "Do not disturb or shake the water while placing the crystal.",
+            "Heat gently to make the convection currents clearly visible."
+          ],
+          "observations": "Pinkish-purple warm water rises upwards from the bottom, and cooler colourless water from the sides sinks down to take its place, forming circular convection loops.",
+          "conclusion": "Liquids transfer heat by convection through the cyclic movement of heated and cooler molecules."
+        }
+      ],
+      "summary_points": [
+        "Heat always flows from a body at higher temperature to a body at lower temperature.",
+        "Materials that allow heat to pass through easily are conductors; those that do not are insulators."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State similarities and differences between the laboratory thermometer and the clinical thermometer.",
+          "question_text_te": "ప్రయోగశాల థర్మామీటర్ మరియు క్లినికల్ థర్మామీటర్ల మధ్య పోలికలు మరియు తేడాలను తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why wearing more layers of clothing during winter keeps us warmer than wearing just one thick piece of clothing.",
+          "question_text_te": "శీతాకాలంలో ఒకే మందపాటి దుస్తులను ధరించడం కంటే బహుళ పొరల దుస్తులను ధరించడం మనల్ని ఎందుకు వెచ్చగా ఉంచుతుందో వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain how sea breeze and land breeze are caused by convection currents in coastal areas.",
+          "question_text_te": "తీర ప్రాంతాలలో ఉష్ణ సంవహనం వలన సముద్రపు గాలులు మరియు నేల గాలులు ఎలా ఏర్పడతాయో వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to demonstrate conduction of heat through a metallic strip using wax and pins.",
+          "question_text_te": "మైనం మరియు గుండుసూదులను ఉపయోగించి లోహపు కడ్డీ ద్వారా ఉష్ణ వాహకతను నిరూపించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Acids, Bases and Salts",
+      "title_te": "ఆమ్లాలు, క్షారాలు మరియు లవణాలు",
+      "semester": 1,
+      "learning_outcomes": [
+        "Identify natural and synthetic indicators (Litmus, Turmeric, China rose, Phenolphthalein).",
+        "Differentiate between acidic, basic, and neutral substances.",
+        "Explain the chemical process of neutralisation and salt formation.",
+        "Apply neutralisation in daily life (indigestion antacids, ant bite treatment, soil treatment, factory waste treatment)."
+      ],
+      "theorems_and_key_concepts": [
+        "Acids are sour in taste and turn blue litmus red (e.g., Acetic acid in vinegar, Citric acid in lemons, Lactic acid in curd).",
+        "Bases are bitter in taste, soapy to touch, and turn red litmus blue (e.g., Calcium hydroxide in lime water, Sodium hydroxide in soap).",
+        "Neutralisation is the reaction between an acid and a base with evolution of heat, forming salt and water.",
+        "Natural indicators: Litmus extracted from lichens, turmeric paste (turns red in basic solution), China rose petals (turns acid dark pink/magenta, base green)."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Acid} + \\text{Base} \\rightarrow \\text{Salt} + \\text{Water} + \\text{Heat}",
+        "\\text{HCl(aq)} + \\text{NaOH(aq)} \\rightarrow \\text{NaCl(aq)} + \\text{H}_2\\text{O(l)} + \\Delta H",
+        "\\text{HCOOH (Formic acid in ant sting)} + \\text{NaHCO}_3 \\text{ (Baking soda)} \\rightarrow \\text{Neutralised}"
+      ],
+      "activities": [
+        {
+          "activity_no": "4.1",
+          "title": "Testing substances with natural litmus paper",
+          "title_te": "సహజ లిట్మస్ కాగితంతో పదార్థాలను పరీక్షించే ప్రయోగం",
+          "aim": "To classify given household substances as acidic, basic, or neutral using red and blue litmus papers.",
+          "apparatus": [
+            "Red and blue litmus strips",
+            "Test samples: Lemon juice, tap water, detergent solution, baking soda solution, vinegar, lime water",
+            "Dropper and watch glasses"
+          ],
+          "procedure": [
+            "Place a drop of lemon juice on a strip of red litmus paper and on blue litmus paper using a dropper.",
+            "Record any color changes observed.",
+            "Repeat the test with detergent solution, lime water, baking soda solution, and tap water.",
+            "Tabulate results into acidic (turns blue litmus red), basic (turns red litmus blue), and neutral (no effect)."
+          ],
+          "precautions": [
+            "Use a clean dropper for each different test sample to prevent cross-contamination.",
+            "Dry litmus strips should not be contaminated with moist fingers."
+          ],
+          "observations": "Lemon juice and vinegar turn blue litmus red. Detergent solution, lime water, and baking soda solution turn red litmus blue. Tap water shows no colour change on either paper.",
+          "conclusion": "Substances can be classified as acidic, basic, or neutral using litmus indicator."
+        },
+        {
+          "activity_no": "4.2",
+          "title": "Neutralisation reaction between hydrochloric acid and sodium hydroxide",
+          "title_te": "హైడ్రోక్లోరిక్ ఆమ్లం మరియు సోడియం హైడ్రాక్సైడ్ మధ్య తటస్థీకరణ ప్రయోగం",
+          "aim": "To demonstrate the neutralisation reaction between an acid and a base using phenolphthalein indicator.",
+          "apparatus": [
+            "Test tube and test tube stand",
+            "Dilute hydrochloric acid (HCl)",
+            "Dilute sodium hydroxide (NaOH) solution",
+            "Phenolphthalein indicator",
+            "Dropper"
+          ],
+          "procedure": [
+            "Take 5 mL of dilute hydrochloric acid in a clean test tube.",
+            "Add 2-3 drops of phenolphthalein indicator; the solution remains colourless.",
+            "Add dilute sodium hydroxide solution drop-by-drop using a dropper while shaking gently.",
+            "Continue adding until a faint pink colour just appears.",
+            "Add one drop of dilute hydrochloric acid and see the pink colour disappear. Add one drop of sodium hydroxide and the pink colour reappears.",
+            "Touch the bottom of the test tube to feel the temperature change."
+          ],
+          "precautions": [
+            "Handle concentrated laboratory acids and bases with extreme care under teacher supervision.",
+            "Add reagent drop-by-drop to detect the exact neutralisation endpoint."
+          ],
+          "observations": "When acid and base are mixed in equivalent amounts, the solution becomes neutral (pink color vanishes) and the bottom of the test tube becomes warm due to release of heat.",
+          "conclusion": "Acid and base cancel each other's chemical effect to produce neutral salt, water, and heat."
+        }
+      ],
+      "summary_points": [
+        "Indicators show different colours in acidic and basic solutions.",
+        "Neutralisation is an exothermic reaction producing salt and water."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is neutralisation? Give one balanced chemical equation for a neutralisation reaction.",
+          "question_text_te": "తటస్థీకరణం అంటే ఏమిటి? ఒక తటస్థీకరణ చర్యకు తుల్య రసాయన సమీకరణాన్ని ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain why: (a) An antacid tablet is taken when you suffer from acidity. (b) Calamine solution is applied on the skin when an ant bites.",
+          "question_text_te": "కారణాలను వివరించండి: (a) ఎసిడిటీతో బాధపడుతున్నప్పుడు యాంటాసిడ్ మాత్ర తీసుకుంటారు. (b) చీమ కుట్టినప్పుడు చర్మంపై కాలమైన్ ద్రావణాన్ని పూస్తారు."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to demonstrate neutralisation of dilute hydrochloric acid with sodium hydroxide using phenolphthalein indicator.",
+          "question_text_te": "ఫినాప్తలీన్ సూచికను ఉపయోగించి విలీన హైడ్రోక్లోరిక్ ఆమ్లం మరియు సోడియం హైడ్రాక్సైడ్ తటస్థీకరణాన్ని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Physical and Chemical Changes",
+      "title_te": "భౌతిక మరియు రసాయన మార్పులు",
+      "semester": 1,
+      "learning_outcomes": [
+        "Distinguish between reversible physical changes and irreversible chemical changes.",
+        "Identify indicators of chemical reactions: gas evolution, heat/light, colour change, precipitate.",
+        "Explain rusting of iron and methods of prevention (painting, greasing, galvanisation).",
+        "Demonstrate crystallisation as a physical purification technique."
+      ],
+      "theorems_and_key_concepts": [
+        "Physical change: only physical properties (shape, size, state) change; no new substance is formed (e.g., melting of ice, tearing paper).",
+        "Chemical change: one or more new substances with different chemical properties are formed (e.g., burning magnesium ribbon, rusting iron).",
+        "Rusting requires both oxygen (air) and moisture (water): 4Fe + 3O2 + 2xH2O -> 2Fe2O3.xH2O.",
+        "Galvanisation: coating iron with a protective layer of zinc to prevent rust.",
+        "Crystallisation: obtaining pure substance in crystalline form from its hot saturated solution."
+      ],
+      "key_formulas_and_equations": [
+        "2\\text{Mg(s)} + \\text{O}_2\\text{(g)} \\xrightarrow{\\text{Heat}} 2\\text{MgO(s)}",
+        "\\text{MgO} + \\text{H}_2\\text{O} \\rightarrow \\text{Mg(OH)}_2 \\quad (\\text{Basic})",
+        "\\text{CuSO}_4\\text{(aq, blue)} + \\text{Fe(s)} \\rightarrow \\text{FeSO}_4\\text{(aq, green)} + \\text{Cu(s, brown deposit)}",
+        "\\text{CH}_3\\text{COOH} + \\text{NaHCO}_3 \\rightarrow \\text{CH}_3\\text{COONa} + \\text{H}_2\\text{O} + \\text{CO}_2 \\uparrow",
+        "\\text{Ca(OH)}_2 + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 \\downarrow \\text{ (milky)} + \\text{H}_2\\text{O}"
+      ],
+      "activities": [
+        {
+          "activity_no": "5.1",
+          "title": "Burning a magnesium ribbon in air",
+          "title_te": "గాలిలో మెగ్నీషియం రిబ్బన్ మండించడం",
+          "aim": "To observe the chemical change during the burning of magnesium ribbon in air.",
+          "apparatus": [
+            "Magnesium ribbon (3-4 cm)",
+            "Sandpaper",
+            "Tongs or pair of forceps",
+            "Spirit lamp or Bunsen burner",
+            "Watch glass",
+            "Red and blue litmus papers"
+          ],
+          "procedure": [
+            "Clean the surface of the magnesium ribbon by rubbing with sandpaper.",
+            "Hold the ribbon with a pair of tongs over the burner flame.",
+            "Collect the white ash in a watch glass.",
+            "Mix the white ash with a small amount of distilled water in a test tube and shake well.",
+            "Test the solution with red and blue litmus papers."
+          ],
+          "precautions": [
+            "Do not stare directly at the dazzling white flame of burning magnesium as it can harm eyes.",
+            "Clean ribbon thoroughly to remove protective oxide layer."
+          ],
+          "observations": "Magnesium burns with a brilliant dazzling white light, leaving behind a white powdery ash (magnesium oxide). The aqueous ash solution turns red litmus blue, proving it is basic.",
+          "conclusion": "Burning of magnesium ribbon is an irreversible chemical change forming a new basic substance (magnesium oxide)."
+        },
+        {
+          "activity_no": "5.2",
+          "title": "Reaction between copper sulphate and iron nail",
+          "title_te": "కాపర్ సల్ఫేట్ మరియు ఇనుప మేకు మధ్య రసాయన చర్య",
+          "aim": "To demonstrate chemical displacement and colour change between copper sulphate solution and an iron nail.",
+          "apparatus": [
+            "Two beakers or test tubes",
+            "Copper sulphate crystals (blue vitriol)",
+            "Dilute sulphuric acid drops",
+            "Water",
+            "Clean iron nails and thread"
+          ],
+          "procedure": [
+            "Dissolve a teaspoonful of copper sulphate in half a cup of water in a beaker and add a few drops of dilute sulphuric acid to get a clear blue solution.",
+            "Save a small sample of this blue solution in a test tube for comparison.",
+            "Tie a clean, rust-free iron nail with a thread and immerse it into the remaining copper sulphate solution for 30-45 minutes.",
+            "Take out the nail and compare the solution colour and nail surface with the original sample."
+          ],
+          "precautions": [
+            "Clean the iron nail with sandpaper to remove grease or rust before immersion.",
+            "Handle dilute sulphuric acid with care."
+          ],
+          "observations": "The blue solution turns light green due to formation of iron sulphate (FeSO4). A reddish-brown coating of metallic copper is deposited on the surface of the iron nail.",
+          "conclusion": "A chemical displacement reaction takes place where more reactive iron displaces copper from copper sulphate solution."
+        }
+      ],
+      "summary_points": [
+        "Changes can be broadly grouped into physical and chemical changes.",
+        "Rusting of iron causes massive economic damage and can be prevented by galvanisation."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Classify the following changes as physical or chemical: (a) Photosynthesis, (b) Dissolving sugar in water, (c) Burning of coal, (d) Melting of wax.",
+          "question_text_te": "కింది మార్పులను భౌతిక లేదా రసాయన మార్పులుగా వర్గీకరించండి: (a) కిరణజన్య సంయోగక్రియ, (b) నీటిలో చక్కెర కరగడం, (c) బొగ్గు మండడం, (d) మైనం కరగడం."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why rusting of iron objects is faster in coastal areas than in desert areas.",
+          "question_text_te": "ఎడారి ప్రాంతాల కంటే తీరప్రాంతాల్లో ఇనుప వస్తువులు త్వరగా ఎందుకు తుప్పు పడతాయో వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to show the chemical reaction between copper sulphate solution and an iron nail.",
+          "question_text_te": "కాపర్ సల్ఫేట్ ద్రావణం మరియు ఇనుప మేకు మధ్య రసాయన చర్యను ప్రదర్శించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Respiration in Organisms",
+      "title_te": "జీవులలో శ్వాసక్రియ",
+      "semester": 1,
+      "learning_outcomes": [
+        "Differentiate between cellular respiration and breathing.",
+        "Compare aerobic respiration (with oxygen) and anaerobic respiration (without oxygen).",
+        "Explain human respiratory mechanism: inhalation, exhalation, diaphragm movement.",
+        "Describe respiration in other organisms: Earthworm (skin), Cockroach (trachea), Fish (gills), Plants (stomata and lenticels)."
+      ],
+      "theorems_and_key_concepts": [
+        "Cellular respiration is the process of breakdown of food in the cell with release of energy.",
+        "Aerobic respiration: breakdown of glucose using oxygen produces carbon dioxide, water, and 38 ATP energy.",
+        "Anaerobic respiration: breakdown of glucose without oxygen produces ethyl alcohol, CO2, and energy in yeast, or lactic acid in muscle cells during heavy exercise.",
+        "Breathing involves inhalation (ribs move up and out, diaphragm moves down) and exhalation (ribs move down and in, diaphragm moves up to relaxed dome shape)."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 \\rightarrow 6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{Energy (38 ATP)} \\quad (\\text{Aerobic})",
+        "\\text{C}_6\\text{H}_{12}\\text{O}_6 \\xrightarrow{\\text{Anaerobic Yeast}} 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2 + \\text{Energy}",
+        "\\text{Glucose} \\xrightarrow{\\text{Muscle lack of Oxygen}} 2\\text{ Lactic acid} + \\text{Energy}"
+      ],
+      "activities": [
+        {
+          "activity_no": "6.1",
+          "title": "Proving that exhaled air contains carbon dioxide using lime water",
+          "title_te": "ఉచ్ఛ్వాస నిశ్వాసాలలో కార్బన్ డై ఆక్సైడ్ విడుదలవుతుందని నిరూపించే ప్రయోగం",
+          "aim": "To demonstrate that human exhaled air contains carbon dioxide by testing with freshly prepared lime water.",
+          "apparatus": [
+            "Clean test tube",
+            "Freshly prepared clear lime water (calcium hydroxide solution)",
+            "Clean plastic drinking straw"
+          ],
+          "procedure": [
+            "Pour about 5 mL of clear lime water into a clean test tube.",
+            "Insert a plastic straw into the lime water.",
+            "Blow air gently through the straw into the lime water for a few minutes.",
+            "Observe the change in appearance of the lime water."
+          ],
+          "precautions": [
+            "Use freshly prepared and filtered lime water; stale lime water will not show clear turbidity.",
+            "Blow gently to avoid splashing the solution outside."
+          ],
+          "observations": "The clear lime water turns milky and cloudy due to the reaction of carbon dioxide with calcium hydroxide forming insoluble calcium carbonate precipitate.",
+          "conclusion": "Exhaled air contains carbon dioxide produced during cellular respiration."
+        }
+      ],
+      "summary_points": [
+        "Respiration is essential for survival; it releases energy from glucose.",
+        "Gills in fish absorb oxygen dissolved in water."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do we often sneeze when we inhale a lot of dust-laden air?",
+          "question_text_te": "ధూళితో కూడిన గాలిని పీల్చినప్పుడు మనకు తరచుగా తుమ్ములు ఎందుకు వస్తాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the differences between aerobic and anaerobic respiration.",
+          "question_text_te": "వాయు సహిత మరియు అవాయు శ్వాసక్రియల మధ్య తేడాలను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to prove that carbon dioxide is released during breathing using lime water.",
+          "question_text_te": "సున్నపు నీటిని ఉపయోగించి శ్వాసక్రియలో కార్బన్ డై ఆక్సైడ్ విడుదలవుతుందని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Transportation in Animals and Plants",
+      "title_te": "మొక్కలు మరియు జంతువులలో రవాణా",
+      "semester": 1,
+      "learning_outcomes": [
+        "Explain the components of blood: RBCs (haemoglobin), WBCs, Platelets, and Plasma.",
+        "Describe the structure and functioning of human heart and double circulation.",
+        "Explain the human excretory system (Kidneys, Ureters, Urinary bladder, Urethra).",
+        "Understand water and mineral transport in plants via Xylem and food transport via Phloem."
+      ],
+      "theorems_and_key_concepts": [
+        "Blood is a fluid connective tissue consisting of plasma, red blood cells (carry oxygen via haemoglobin), white blood cells (fight infection), and platelets (clot blood).",
+        "Arteries carry oxygenated blood from heart to body at high pressure; veins carry deoxygenated blood to heart and have valves.",
+        "Human heart has four chambers: right atrium, right ventricle, left atrium, left ventricle.",
+        "Kidneys filter blood to produce urine consisting of water, urea, and other waste salts.",
+        "Vascular tissues: Xylem transports water and dissolved minerals upward from roots; Phloem translocates photosynthesised food from leaves to all plant parts."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Normal Human Resting Pulse Rate} = 72 - 80 \\text{ beats/min}",
+        "\\text{Hb} + \\text{O}_2 \\rightleftharpoons \\text{HbO}_2 \\quad (\\text{Oxyhaemoglobin})",
+        "\\text{Urine Composition} \\approx 95\\% \\text{ Water} + 2.5\\% \\text{ Urea} + 2.5\\% \\text{ Other Wastes}"
+      ],
+      "activities": [
+        {
+          "activity_no": "7.1",
+          "title": "Demonstration of water transport through Xylem using red ink",
+          "title_te": "ఎర్ర ఇంకు ఉపయోగించి దారువు ద్వారా నీటి రవాణాను నిరూపించే ప్రయోగం",
+          "aim": "To demonstrate that water and minerals are conducted upwards through xylem vessels in plant stems.",
+          "apparatus": [
+            "A tender balsam or petunia herb plant with soft stem and white flowers",
+            "Beaker or glass tumbler",
+            "Water",
+            "Red ink or eosin dye",
+            "Sharp blade and hand lens"
+          ],
+          "procedure": [
+            "Fill one-third of the beaker with water and add a few drops of red ink to make it distinctly red.",
+            "Cut the base of the tender balsam plant stem cleanly underwater with a sharp blade.",
+            "Place the cut plant stem in the colored water beaker and leave it undisturbed for 3 to 4 hours.",
+            "Observe the stem, leaf veins, and flower petals for red coloration.",
+            "Take a thin transverse section of the stem with a razor blade and examine under a hand lens."
+          ],
+          "precautions": [
+            "Cut the plant stem underwater to prevent air bubbles from entering xylem vessels.",
+            "Handle the sharp blade carefully to avoid injury."
+          ],
+          "observations": "Red colour ascends through the stem and becomes visible in the leaf veins and white flower petals. The cross section shows that only the xylem ring is stained red.",
+          "conclusion": "Water and dissolved minerals travel upwards from roots through specialised xylem vascular tissues."
+        }
+      ],
+      "summary_points": [
+        "Circulatory system transports nutrients, respiratory gases, and wastes.",
+        "Transpiration suction pulls water up to great heights in tall trees."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the components of blood? State one function of each component.",
+          "question_text_te": "రక్తం యొక్క భాగాలు ఏమిటి? ప్రతి భాగం యొక్క ఒక విధిని తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is it necessary to excrete waste products from the human body?",
+          "question_text_te": "మానవ శరీరం నుండి వ్యర్థ పదార్థాలను విసర్జించడం ఎందుకు అవసరం?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram of the human excretory system and label the kidneys, ureters, urinary bladder, and urethra.",
+          "question_text_te": "మానవ విసర్జక వ్యవస్థ చక్కని పటాన్ని గీసి మూత్రపిండాలు, మూత్రనాళాలు, మూత్రాశయం, ప్రసేకం భాగాలను గుర్తించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to show the upward conduction of water in plants using a balsam twig and red ink.",
+          "question_text_te": "బాల్సమ్ కొమ్మ మరియు ఎర్రటి ఇంకును ఉపయోగించి మొక్కలలో నీటి ఊర్ధ్వ రవాణాను నిరూపించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Reproduction in Plants",
+      "title_te": "మొక్కలలో ప్రత్యుత్పత్తి",
+      "semester": 2,
+      "learning_outcomes": [
+        "Differentiate between asexual and sexual reproduction in flowering plants.",
+        "Explain vegetative propagation methods (stems, roots, leaves, runners).",
+        "Understand asexual reproduction: Budding (yeast), Fragmentation (spirogyra), Spore formation (fungi/ferns).",
+        "Describe parts of a flower, pollination (self and cross), fertilization, and seed dispersal mechanisms."
+      ],
+      "theorems_and_key_concepts": [
+        "Asexual reproduction produces new plants without the involvement of seeds and gametes.",
+        "Vegetative propagation: New plants produced from vegetative parts like root (sweet potato), stem (rose, potato eyes), or leaf (Bryophyllum margins).",
+        "Flowers are reproductive organs: Stamens are male parts (anther, filament) producing pollen; Pistil is female part (stigma, style, ovary) containing ovules.",
+        "Fertilisation is the fusion of male and female gametes to form a diploid zygote, which develops into an embryo inside a seed.",
+        "Seed dispersal occurs by wind (winged seeds of drumstick, maple), water (coconut), animals (Xanthium with hooks), and explosive bursts (balsam, castor)."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Pollen grain (Male gamete)} + \\text{Egg cell (Female gamete)} \\xrightarrow{\\text{Fertilisation}} \\text{Zygote} \\rightarrow \\text{Embryo}"
+      ],
+      "activities": [
+        {
+          "activity_no": "8.1",
+          "title": "Dissecting and identifying parts of a bisexual flower",
+          "title_te": "ద్విలింగ పుష్పాన్ని విచ్ఛేదనం చేసి భాగాలను గుర్తించే ప్రయోగం",
+          "aim": "To dissect a flower and identify its four floral whorls: calyx, corolla, androecium, and gynoecium.",
+          "apparatus": [
+            "Hibiscus or Datura flower",
+            "Sharp razor blade or scalpel",
+            "Dissecting needle and forceps",
+            "Hand lens or simple microscope",
+            "Slide and glass watch dish"
+          ],
+          "procedure": [
+            "Take a fresh Hibiscus flower and examine its outer green sepals (calyx).",
+            "Carefully remove sepals to expose bright colored petals (corolla).",
+            "Observe the staminal column bearing multiple yellow anthers on filaments.",
+            "Use a sharp blade to make a fine longitudinal slit through the staminal tube to expose the inner style and five-lobed stigma at top.",
+            "Carefully cut open the swollen ovary at the base and view the ovules inside with a hand lens."
+          ],
+          "precautions": [
+            "Use a gentle hand while cutting the ovary to avoid crushing the tiny ovules.",
+            "Handle the razor blade carefully."
+          ],
+          "observations": "The flower contains all four essential whorls: green sepals, colored petals, stamens with pollen sacs, and a pistil with stigma, style, and ovary containing ovules.",
+          "conclusion": "Hibiscus is a complete bisexual flower with both male and female reproductive structures."
+        }
+      ],
+      "summary_points": [
+        "Reproduction is necessary for continuity of plant species.",
+        "Ovary develops into fruit and ovules develop into seeds after fertilisation."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain what you understand by sexual reproduction and how it differs from asexual reproduction.",
+          "question_text_te": "లైంగిక ప్రత్యుత్పత్తి అంటే ఏమిటో వివరించండి మరియు అది అలైంగిక ప్రత్యుత్పత్తి నుండి ఎలా భిన్నంగా ఉంటుందో తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Describe the different methods of asexual reproduction with suitable examples.",
+          "question_text_te": "తగిన ఉదాహరణలతో అలైంగిక ప్రత్యుత్పత్తి యొక్క వివిధ పద్ధతులను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram of the reproductive parts of a flower (Stamen and Pistil).",
+          "question_text_te": "పుష్పం యొక్క ప్రత్యుత్పత్తి భాగాల (కేసరం మరియు అండకోశం) చక్కని పటాన్ని గీసి భాగాలు గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Motion and Time",
+      "title_te": "చలనము మరియు కాలము",
+      "semester": 2,
+      "learning_outcomes": [
+        "Classify motion as rectilinear, circular, or periodic.",
+        "Define speed and calculate speed using distance and time measurements.",
+        "Explain oscillatory motion and measure time period of a simple pendulum.",
+        "Construct and interpret distance-time graphs for uniform and non-uniform motion."
+      ],
+      "theorems_and_key_concepts": [
+        "Motion is a change in position of an object with time.",
+        "Speed is the distance covered by an object in a unit time. SI unit is metre per second (m/s), practical unit km/h.",
+        "Uniform motion: An object moving along a straight line with a constant speed.",
+        "Non-uniform motion: An object moving along a straight line with changing speed.",
+        "Simple pendulum consists of a small metallic bob suspended by a thread; its motion back and forth about mean position is periodic / oscillatory.",
+        "Time taken to complete one full oscillation is called its time period, which depends only on length of pendulum."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Speed} = \\frac{\\text{Total Distance Covered}}{\\text{Total Time Taken}} = \\frac{d}{t}",
+        "d = \\text{Speed} \\times t, \\quad t = \\frac{d}{\\text{Speed}}",
+        "1\\text{ km/h} = \\frac{5}{18}\\text{ m/s}, \\quad 1\\text{ m/s} = \\frac{18}{5}\\text{ km/h}",
+        "T = \\frac{\\text{Total Time Taken}}{\\text{Number of Oscillations}}"
+      ],
+      "activities": [
+        {
+          "activity_no": "9.1",
+          "title": "Measuring the time period of a simple pendulum",
+          "title_te": "లాలకం యొక్క డోలనావర్తన కాలాన్ని కొలిచే ప్రయోగం",
+          "aim": "To set up a simple pendulum and determine its time period for 20 oscillations.",
+          "apparatus": [
+            "Metallic bob with a hook",
+            "Strong cotton thread (about 1 metre long)",
+            "Iron stand with clamp",
+            "Stopwatch or stopclock",
+            "Metre scale"
+          ],
+          "procedure": [
+            "Tie the thread to the bob and clamp the other end firmly to the stand so that length from suspension point to centre of bob is 100 cm.",
+            "Draw a straight reference chalk line on the floor directly below the bob at rest (mean position O).",
+            "Displace the bob slightly to one side (say position A, about 5 cm from mean position) and release gently without pushing.",
+            "Start the stopwatch when the bob crosses the mean position O going in a particular direction.",
+            "Count 20 full oscillations (O -> A -> B -> O is one oscillation) and stop the watch.",
+            "Repeat the measurement 3 times, calculate average time for 20 oscillations, and divide by 20 to get time period T."
+          ],
+          "precautions": [
+            "Do not displace the bob by a large angle (keep displacement under 10 degrees).",
+            "Ensure the bob moves in a single plane without spinning or wobbling."
+          ],
+          "observations": "For a pendulum of length 100 cm, 20 oscillations take approximately 40 seconds, giving a constant time period of T = 2.0 seconds.",
+          "conclusion": "A simple pendulum of given length has a nearly constant time period independent of small changes in initial displacement."
+        }
+      ],
+      "summary_points": [
+        "Periodic events are used for measuring time.",
+        "Distance-time graph for uniform speed is a straight sloping line."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A simple pendulum takes 32 s to complete 20 oscillations. What is the time period of the pendulum?",
+          "question_text_te": "ఒక సరళ లాలకం 20 డోలనాలను పూర్తి చేయడానికి 32 సెకన్లు తీసుకుంటుంది. లాలకం యొక్క డోలనావర్తన కాలం ఎంత?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The distance between two stations is 240 km. A train takes 4 hours to cover this distance. Calculate the speed of the train in km/h and m/s.",
+          "question_text_te": "రెండు స్టేషన్ల మధ్య దూరం 240 కి.మీ. ఒక రైలు ఈ దూరాన్ని ప్రయాణించడానికి 4 గంటల సమయం తీసుకుంటుంది. రైలు వేగాన్ని కి.మీ/గం మరియు మీ/సె లలో లెక్కించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw the distance-time graph for: (a) a car moving with a constant speed, (b) a car parked on a side road.",
+          "question_text_te": "కింది పరిస్థితులకు దూర-కాల గ్రాఫ్‌లను గీయండి: (a) స్థిర వేగంతో కదులుతున్న కారు, (b) రోడ్డు పక్కన ఆపి ఉంచిన కారు."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Electric Current and Its Effects",
+      "title_te": "విద్యుత్ ప్రవాహం మరియు దాని ప్రభావాలు",
+      "semester": 2,
+      "learning_outcomes": [
+        "Draw standard circuit symbols for electric cell, battery, bulb, switch, and connecting wires.",
+        "Explain the heating effect of electric current and its applications (electric heater, fuse, geyser).",
+        "Understand how electric fuse and miniature circuit breakers (MCBs) protect electrical appliances.",
+        "Explain the magnetic effect of electric current and construct an electromagnet."
+      ],
+      "theorems_and_key_concepts": [
+        "Heating effect of electric current: When electric current flows through a high-resistance wire (like nichrome), the wire gets hot.",
+        "Electric fuse is a safety device containing a low-melting-point wire that melts and breaks the circuit when excessive current flows.",
+        "Hans Christian Oersted discovered that an electric current flowing through a wire produces a magnetic field around it, deflecting a nearby compass needle.",
+        "Electromagnet is a temporary magnet made by coiling an insulated wire around an iron core and passing electric current; its magnetism disappears when current is turned off."
+      ],
+      "key_formulas_and_equations": [
+        "H = I^2 R t \\quad (\\text{Joule's Heating Law: Heat generated is proportional to } I^2, R, \\text{ and } t)",
+        "\\text{Battery} = \\text{Combination of two or more cells in series (+ to - terminal)}"
+      ],
+      "activities": [
+        {
+          "activity_no": "10.1",
+          "title": "Demonstrating heating effect of electric current using nichrome wire",
+          "title_te": "నైక్రోమ్ తీగను ఉపయోగించి విద్యుత్ ఉష్ణ ప్రభావాన్ని నిరూపించే ప్రయోగం",
+          "aim": "To observe that heat is generated when an electric current flows through a nichrome wire.",
+          "apparatus": [
+            "About 10 cm piece of nichrome wire (from an old heater coil)",
+            "Two iron nails fixed on a wooden board",
+            "One 1.5 V dry cell in a holder",
+            "Connecting copper wires",
+            "Key or knife switch"
+          ],
+          "procedure": [
+            "Tie the nichrome wire between the two iron nails fixed on the wooden board.",
+            "Connect the nails to an electric cell and a switch in series using copper connecting wires.",
+            "Touch the nichrome wire gently before closing the switch (it is cold).",
+            "Close the switch to turn the circuit ON for 10-15 seconds.",
+            "Touch the nichrome wire very briefly with a fingertip.",
+            "Open the switch to turn the circuit OFF and touch the wire again after a few seconds."
+          ],
+          "precautions": [
+            "Do not hold the nichrome wire for a long time as it can become burning hot and cause blisters.",
+            "Do not leave the switch ON for long periods to avoid draining the cell."
+          ],
+          "observations": "The nichrome wire becomes noticeably hot when current flows through it and cools down immediately after the current is switched off.",
+          "conclusion": "Electric current produces a heating effect in conductors having resistance."
+        },
+        {
+          "activity_no": "10.2",
+          "title": "Making an electromagnet using an iron nail and insulated copper wire",
+          "title_te": "ఇనుప మేకు మరియు రాగి తీగతో విద్యుదయస్కాంతాన్ని తయారుచేసే ప్రయోగం",
+          "aim": "To make an electromagnet and verify its magnetic effect on steel paper clips.",
+          "apparatus": [
+            "An iron nail (about 6-10 cm long)",
+            "About 75 cm long insulated flexible copper wire",
+            "Electric cell (1.5 V) in a holder",
+            "Switch",
+            "Small steel paper pins or paper clips"
+          ],
+          "procedure": [
+            "Wind the insulated wire tightly around the iron nail in the form of a coil.",
+            "Connect the free stripped ends of the wire to an electric cell through a switch.",
+            "Place a few steel paper pins near the tip of the nail.",
+            "Turn the switch ON and observe the pins.",
+            "Turn the switch OFF and observe what happens to the pins."
+          ],
+          "precautions": [
+            "Strip the insulation from the wire ends before connecting to cell terminals.",
+            "Do not keep the switch ON for more than a few seconds at a time."
+          ],
+          "observations": "When the current is switched ON, the pins cling to the tip of the nail. When switched OFF, the pins fall off instantly.",
+          "conclusion": "A current-carrying coil wound around an iron nail acts as an electromagnet, acquiring temporary magnetism only as long as current flows."
+        }
+      ],
+      "summary_points": [
+        "Circuit symbols provide convenient representation of electrical components.",
+        "Electric bells, cranes, and electric motors use powerful electromagnets."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain how an electric fuse works to prevent electrical fires and damage to appliances.",
+          "question_text_te": "విద్యుత్ ప్రమాదాలు మరియు పరికరాలు పాడవకుండా విద్యుత్ ఫ్యూజ్ ఎలా పనిచేస్తుందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to make an electromagnet using an iron nail, insulated wire, and a cell.",
+          "question_text_te": "ఇనుప మేకు, ఇన్సులేటెడ్ వైర్ మరియు బ్యాటరీని ఉపయోగించి విద్యుదయస్కాంతాన్ని తయారుచేసే ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw the circuit symbols for: (a) electric cell, (b) bulb, (c) switch in 'ON' position, (d) battery of two cells.",
+          "question_text_te": "కింది వాటికి విద్యుత్ వలయ సంకేతాలను గీయండి: (a) విద్యుత్ ఘటం, (b) బల్బ్, (c) 'ON' స్థితిలో ఉన్న స్విచ్, (d) రెండు ఘటాల బ్యాటరీ."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Light",
+      "title_te": "కాంతి",
+      "semester": 2,
+      "learning_outcomes": [
+        "Verify rectilinear propagation of light (light travels along a straight line).",
+        "State laws of reflection and describe image characteristics in a plane mirror.",
+        "Distinguish between real and virtual images.",
+        "Explain image formation by spherical mirrors (concave and convex) and spherical lenses.",
+        "Explain dispersion of white light into seven colours (VIBGYOR) using a glass prism."
+      ],
+      "theorems_and_key_concepts": [
+        "Rectilinear propagation: Light travels along straight lines; when obstructed by opaque objects, shadows are formed.",
+        "Reflection: Bouncing back of light from a polished shining surface. Laws of reflection: Angle of incidence equals angle of reflection (\\angle i = \\angle r).",
+        "Plane mirror image is virtual, erect, of same size as object, laterally inverted, and formed at same distance behind the mirror.",
+        "Concave mirror: Can form real and inverted image (used by dentists and in headlights); Convex mirror: Always forms virtual, erect, and diminished image (used as side view rear mirrors in vehicles).",
+        "White light consists of seven colors: Violet, Indigo, Blue, Green, Yellow, Orange, Red (VIBGYOR), demonstrated by Isaac Newton using glass prism and Newton's disc."
+      ],
+      "key_formulas_and_equations": [
+        "\\angle i = \\angle r \\quad (\\text{Law of Reflection: Angle of Incidence = Angle of Reflection})",
+        "\\text{White Light} \\xrightarrow{\\text{Glass Prism}} \\text{VIBGYOR (Dispersion)}"
+      ],
+      "activities": [
+        {
+          "activity_no": "11.1",
+          "title": "Demonstrating rectilinear propagation of light using bent rubber tube",
+          "title_te": "కాంతి రుజుమార్గంలో ప్రయాణిస్తుందని నిరూపించే ప్రయోగం",
+          "aim": "To show that light travels along straight lines and cannot bend around corners.",
+          "apparatus": [
+            "A lighted candle placed on a table",
+            "A straight hollow plastic or rubber pipe (about 30 cm)"
+          ],
+          "procedure": [
+            "Place a lighted candle on a table in a dark room.",
+            "Look at the candle flame through the straight pipe with one eye; the flame is clearly visible.",
+            "Now bend the pipe slightly in the middle and look at the flame again.",
+            "Note down whether the flame can still be seen."
+          ],
+          "precautions": [
+            "Do not bring the rubber tube too close to the hot flame.",
+            "Ensure the pipe is completely straight during the first observation."
+          ],
+          "observations": "The candle flame is clearly visible through the straight pipe, but completely disappears when the pipe is bent.",
+          "conclusion": "Light travels only along straight paths (rectilinear propagation)."
+        },
+        {
+          "activity_no": "11.2",
+          "title": "Dispersion of white light through a glass prism",
+          "title_te": "గాజు పట్టకం ద్వారా కాంతి విక్షేపణ ప్రయోగం",
+          "aim": "To demonstrate that white sunlight consists of seven spectrum colors using a glass prism.",
+          "apparatus": [
+            "Triangular glass prism",
+            "White screen or white sheet of card paper",
+            "Darkened room with a small pinhole in the window for sunlight beam"
+          ],
+          "procedure": [
+            "Direct a narrow beam of sunlight through the pinhole onto one face of the glass prism.",
+            "Turn the prism until the refracted light emergent from the other face falls on the white screen.",
+            "Observe the colored band appearing on the screen."
+          ],
+          "precautions": [
+            "The light beam must be very narrow to avoid overlapping spectrum bands.",
+            "The room should be dark for high contrast."
+          ],
+          "observations": "A band of seven distinct colors appears on the screen in the sequence: Violet, Indigo, Blue, Green, Yellow, Orange, and Red (VIBGYOR).",
+          "conclusion": "White light is a mixture of seven colors, which bend at different angles when passing through a prism due to dispersion."
+        }
+      ],
+      "summary_points": [
+        "A surface that reflects light can change the direction of light.",
+        "Convex lens can focus sunlight to burn paper (converging lens)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State the characteristics of the image formed by a plane mirror.",
+          "question_text_te": "సమతల దర్పణం ద్వారా ఏర్పడే ప్రతిబింబం యొక్క లక్షణాలను తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is a convex mirror preferred as a rear-view mirror in vehicles?",
+          "question_text_te": "వాహనాలలో రేర్-వ్యూ మిర్రర్‌గా కుంభాకార దర్పణాన్ని ఎందుకు ప్రాధాన్యతనిస్తారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to show that sunlight consists of seven colors using a glass prism.",
+          "question_text_te": "గాజు పట్టకాన్ని ఉపయోగించి సూర్యకాంతి ఏడు రంగులతో కూడి ఉంటుందని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Forests: Our Lifeline",
+      "title_te": "అడవులు : మన జీవనాధారం",
+      "semester": 2,
+      "learning_outcomes": [
+        "Understand forest stratification: Canopy, Understorey, Shrub layer, Forest floor.",
+        "Explain food chains and food webs in forest ecosystems.",
+        "Describe the role of decomposers (microorganisms) in recycling nutrients and producing humus.",
+        "Appreciate forests as green lungs and water purifying systems."
+      ],
+      "theorems_and_key_concepts": [
+        "Canopy: The uppermost branches and leaves of tall trees that form a continuous roof-like cover over the forest.",
+        "Understorey: Different horizontal layers formed by crowns of trees of varying heights below the canopy.",
+        "Food chain: Sequence of energy transfer from producers (green plants) to primary consumers (herbivores) to secondary/tertiary consumers (carnivores).",
+        "Decomposers: Microorganisms that convert dead plants and animal tissues into dark, nutrient-rich organic matter called humus.",
+        "Forests act as 'green lungs' by supplying oxygen and absorbing carbon dioxide, and help maintain water table through transpiration and percolation."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Grass (Producer)} \\rightarrow \\text{Insects (Herbivore)} \\rightarrow \\text{Frog (Carnivore)} \\rightarrow \\text{Snake} \\rightarrow \\text{Eagle (Apex)}",
+        "\\text{Dead Organic Matter} + \\text{Decomposers (Microorganisms)} \\rightarrow \\text{Humus (Nutrient-rich Soil)}"
+      ],
+      "activities": [
+        {
+          "activity_no": "12.1",
+          "title": "Observing the forest floor and humus in decaying organic matter",
+          "title_te": "అటవీ నేల మరియు కుళ్ళిన సేంద్రీయ పదార్థంలో హ్యూమస్ ను పరిశీలించే ప్రయోగం",
+          "aim": "To examine forest soil layers and verify the presence of dark nutrient-rich humus formed by decomposers.",
+          "apparatus": [
+            "Trowel or garden spoon",
+            "Glass beaker",
+            "Water and glass rod",
+            "Sample of decaying leaf litter from woods or garden corner",
+            "Hand magnifying lens"
+          ],
+          "procedure": [
+            "Collect a handful of topsoil rich with decaying fallen leaves and twigs.",
+            "Spread the sample on a sheet of white paper and examine under a magnifying lens.",
+            "Put 50 g of the soil sample into a glass beaker and fill with water.",
+            "Stir vigorously with a glass rod and allow it to stand undisturbed for 30 minutes.",
+            "Observe the distinct settled layers."
+          ],
+          "precautions": [
+            "Do not touch sharp broken glass or thorny plant material in wild soil.",
+            "Wash hands after handling soil samples."
+          ],
+          "observations": "Soil separates into gravel at bottom, sand, fine clay, and a floating dark top layer of partially decomposed organic matter (humus).",
+          "conclusion": "Decomposers break down dead plant matter into humus, which enriches soil fertility."
+        }
+      ],
+      "summary_points": [
+        "Forests protect soil from erosion through tree roots.",
+        "Deforestation leads to global warming, floods, and destruction of biodiversity."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain how animals dwelling in the forest help that forest grow and regenerate.",
+          "question_text_te": "అడవిలో నివసించే జంతువులు ఆ అడవి పెరగడానికి మరియు పునరుత్పత్తికి ఎలా సహాయపడతాయో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS7_appreciation_and_values",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are forests called the 'green lungs' of planet Earth?",
+          "question_text_te": "అడవులను భూమి యొక్క 'హరిత ఊపిరితిత్తులు' అని ఎందుకు పిలుస్తారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What will happen if forests disappear? List four ecological consequences of large-scale deforestation.",
+          "question_text_te": "అడవులు అంతరిస్తే ఏమి జరుగుతుంది? భారీ అటవీ నిర్మూలన వలన కలిగే నాలుగు పర్యావరణ పరిణామాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Wastewater Story",
+      "title_te": "మురుగునీటి కథ",
+      "semester": 2,
+      "learning_outcomes": [
+        "Understand sewage as liquid waste carrying dissolved and suspended contaminants.",
+        "Trace the steps in a modern Wastewater Treatment Plant (WWTP).",
+        "Distinguish physical, biological, and chemical wastewater treatment methods.",
+        "Adopt better sanitation practices to minimise domestic wastewater pollution."
+      ],
+      "theorems_and_key_concepts": [
+        "Sewage is complex wastewater containing human excreta, industrial wastes, organic impurities (oils, urea, pesticides), inorganic impurities (nitrates, phosphates, metals), and pathogenic bacteria.",
+        "Wastewater Treatment Plant (WWTP) stages: (1) Bar screens remove large solid objects (rags, plastics, cans); (2) Grit and sand removal tank; (3) Sedimentation/Clarifier tank (settled solids form sludge; skimmer removes floatable oil and grease); (4) Aeration tank (aerobic bacteria digest organic matter); (5) Secondary clarifier (activated sludge settles).",
+        "Disinfection of treated water using Chlorine tablets or Ozone before discharge into rivers.",
+        "Alternative low-cost onsite sewage disposal systems: Septic tanks, biogas plants, vermi-processing toilets."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Treated Wastewater} + \\text{Cl}_2 \\text{ (Chlorination)} \\rightarrow \\text{Disinfected Safe Effluent}",
+        "\\text{Sludge} \\xrightarrow{\\text{Anaerobic Digesters}} \\text{Biogas (Methane)} + \\text{Compost}"
+      ],
+      "activities": [
+        {
+          "activity_no": "13.1",
+          "title": "Model wastewater filtration using sand, gravel, and charcoal",
+          "title_te": "ఇసుక, గ్రావెల్ మరియు బొగ్గును ఉపయోగించి మురుగునీటి శుద్ధి నమూనా ప్రయోగం",
+          "aim": "To construct a homemade physical filtration model to clean turbid contaminated water.",
+          "apparatus": [
+            "Empty large plastic bottle (2 litre)",
+            "Cotton ball or filter paper",
+            "Clean sand, fine gravel, coarse gravel, and powdered activated charcoal",
+            "Sample of dirty water (mixed with mud, detergent, and tea leaves)",
+            "Beaker"
+          ],
+          "procedure": [
+            "Cut the plastic bottle in half to use the inverted top half as a funnel inside the lower half.",
+            "Place a cotton plug at the neck of the funnel.",
+            "Add a layer of powdered charcoal, followed by a layer of fine sand, and top it with a layer of coarse gravel.",
+            "Pour the dirty turbid water sample gently into the filter.",
+            "Observe the clarity of the water dripping into the bottom beaker."
+          ],
+          "precautions": [
+            "Pour the dirty water slowly so that layers are not disturbed.",
+            "Remember that filtered water is not potable until disinfected with chlorine."
+          ],
+          "observations": "The turbid, foul water passes through the layers, and the filtered water collected below is clear and odourless as suspended impurities and bad smells are absorbed.",
+          "conclusion": "Physical filtration using sand, gravel, and charcoal effectively removes suspended impurities from wastewater."
+        }
+      ],
+      "summary_points": [
+        "Clean water is a basic necessity; treating wastewater protects water bodies.",
+        "Do not dump cooking oil, paints, or medicines down drains."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is sewage? Explain why it is harmful to discharge untreated sewage into rivers or oceans.",
+          "question_text_te": "మురుగునీరు అంటే ఏమిటి? శుద్ధి చేయని మురుగునీటిని నదులు లేదా సముద్రాల్లోకి వదలడం ఎందుకు హానికరం?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why should oils and fats not be released in the drain? Explain.",
+          "question_text_te": "నూనెలు మరియు కొవ్వులను డ్రైనేజీలలోకి ఎందుకు పోయకూడదో వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe the various steps involved in getting clarified water from wastewater in a wastewater treatment plant (WWTP).",
+          "question_text_te": "మురుగునీటి శుద్ధి కర్మాగారంలో (WWTP) మురుగునీటి నుండి స్వచ్ఛమైన నీటిని పొందే వివిధ దశలను వివరించండి."
+        }
+      ]
+    }
+  ]
+}

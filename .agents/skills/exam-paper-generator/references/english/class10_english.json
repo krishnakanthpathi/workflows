@@ -1,0 +1,247 @@
+{
+  "book_metadata": {
+    "title_en": "English - Class 10 (AP SSC 2024-25)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "10th Class (SSC)",
+    "main_reader": "First Flight",
+    "supplementary_reader": "Footprints without Feet",
+    "workbook": "Words and Expressions 2",
+    "source_pdfs": [
+      "10_English_Textbook_2024-25.pdf",
+      "10_English_Nontail_book_2024-25.pdf",
+      "10_English_Worktbook_2024-25.pdf"
+    ]
+  },
+  "ap_ssc_question_paper_blueprint": {
+    "section_A_reading_comprehension": "30 Marks (Seen prose, Seen poem, Unseen prose, Unseen data/table/pie-chart)",
+    "section_B_grammar_and_vocabulary": "20 Marks (Editing/proofreading, Relative clauses, Reported speech, Prepositions, Voice, Degrees of comparison, Synonyms, Antonyms, Collocations)",
+    "section_C_creative_expression_discourses": "30 Marks (Major Discourses: Letter writing, Conversation, Diary Entry, Speech script, Biography, Description; Minor Discourses: Notice, Message, Profile, Poster, Invitation)"
+  },
+  "first_flight_main_reader": [
+    {
+      "unit_no": 1,
+      "prose": {
+        "title": "A Letter to God",
+        "author": "G.L. Fuentes",
+        "theme": "Unshakable faith in God, irony of human nature (Lencho, hailstorm devastating corn field, postmaster and staff collect 70 pesos, Lencho calls them a 'bunch of crooks')",
+        "key_characters": [
+          "Lencho (hardworking peasant)",
+          "Postmaster (kind, compassionate, generous)"
+        ]
+      },
+      "poems": [
+        {
+          "title": "Dust of Snow",
+          "poet": "Robert Frost",
+          "theme": "A simple act of nature (crow shaking down snow from a hemlock tree) changing a gloomy mood into joy."
+        },
+        {
+          "title": "Fire and Ice",
+          "poet": "Robert Frost",
+          "theme": "Two destructive forces capable of ending the world: Fire representing desire/lust/greed, and Ice representing hatred/indifference."
+        }
+      ]
+    },
+    {
+      "unit_no": 2,
+      "prose": {
+        "title": "Nelson Mandela: Long Walk to Freedom",
+        "author": "Nelson Rolihlahla Mandela",
+        "theme": "Inauguration of South Africa's first democratic, non-racial government (10 May 1994, Union Buildings amphitheatre Pretoria), courage is not absence of fear but triumph over it, twin obligations (family and country), oppressor must be liberated just as surely as oppressed."
+      },
+      "poems": [
+        {
+          "title": "A Tiger in the Zoo",
+          "poet": "Leslie Norris",
+          "theme": "Contrast between a majestic tiger confined in a concrete cell versus prowling freely in the wild jungle."
+        }
+      ]
+    },
+    {
+      "unit_no": 3,
+      "prose": {
+        "title": "Two Stories about Flying",
+        "subparts": [
+          {
+            "part": "I. His First Flight",
+            "author": "Liam O'Flaherty",
+            "theme": "A young seagull overcoming fear of heights through hunger and maternal provocation to take his first flight."
+          },
+          {
+            "part": "II. Black Aeroplane",
+            "author": "Frederick Forsyth",
+            "theme": "Pilot flying old Dakota from France to England caught in storm clouds, rescued by a mysterious black aeroplane with no lights."
+          }
+        ]
+      },
+      "poems": [
+        {
+          "title": "How to Tell Wild Animals",
+          "poet": "Carolyn Wells",
+          "theme": "Humorous ways of identifying dangerous wild beasts (Asian Lion, Bengal Tiger, Leopard, Bear, Crocodile, Hyena, Chameleon)."
+        },
+        {
+          "title": "The Ball Poem",
+          "poet": "John Berryman",
+          "theme": "A boy losing his ball in the harbour, learning the epistemology of loss and the responsibility of adulthood."
+        }
+      ]
+    },
+    {
+      "unit_no": 4,
+      "prose": {
+        "title": "From the Diary of Anne Frank",
+        "author": "Anne Frank",
+        "theme": "13-year-old Jewish girl in hiding in Amsterdam, named her diary 'Kitty', relationship with teachers especially Mr. Keesing (maths teacher, essays on 'A Chatterbox', 'An Incorrigible Chatterbox', 'Quack, Quack, Quack, Said Mistress Chatterbox')."
+      },
+      "poems": [
+        {
+          "title": "Amanda!",
+          "poet": "Robin Klein",
+          "theme": "A young girl constant nagging by her mother, escaping into daydreams as a mermaid, orphan, and Rapunzel."
+        }
+      ]
+    },
+    {
+      "unit_no": 5,
+      "prose": {
+        "title": "Glimpses of India",
+        "subparts": [
+          {
+            "part": "I. A Baker from Goa",
+            "author": "Lucio Rodrigues",
+            "theme": "Traditional Goan village baker (Pader), jingle of bamboo staff, traditional dress Kabai, sweet bread Bol and cakes Bolinhas."
+          },
+          {
+            "part": "II. Coorg (Kodagu)",
+            "author": "Lokesh Abrol",
+            "theme": "Coffee country in Karnataka, evergreen rainforests, martial men of Greek or Arab descent (Kuppia coat), Coorg Regiment, Kaveri river, Brahmagiri hills."
+          },
+          {
+            "part": "III. Tea from Assam",
+            "author": "Arup Kumar Dutta",
+            "theme": "Pranjol and Rajvir traveling by train to tea garden in Dhekiabari Assam, legends of Chinese emperor and Bodhidharma discovering tea."
+          }
+        ]
+      },
+      "poems": [
+        {
+          "title": "The Trees",
+          "poet": "Adrienne Rich",
+          "theme": "Trees moving out from houses into the empty forest, symbolic of women breaking free from domestic confinement."
+        }
+      ]
+    },
+    {
+      "unit_no": 6,
+      "prose": {
+        "title": "Mijbil the Otter",
+        "author": "Gavin Maxwell",
+        "theme": "Author keeping an otter (Lutrogale perspicillata maxwelli) brought from Tigris marshes to London, Mijbil's playful antics with water and ping-pong balls."
+      },
+      "poems": [
+        {
+          "title": "Fog",
+          "poet": "Carl Sandburg",
+          "theme": "Metaphor of fog arriving silently on little cat feet and moving on."
+        }
+      ]
+    },
+    {
+      "unit_no": 7,
+      "prose": {
+        "title": "Madam Rides the Bus",
+        "author": "Vallikkannan",
+        "theme": "Eight-year-old Valliammai (Valli) planning and taking her first independent bus ride to town, observing the world, confronting death of a cow."
+      },
+      "poems": [
+        {
+          "title": "The Tale of Custard the Dragon",
+          "poet": "Ogden Nash",
+          "theme": "Belinda and her pets (Ink, Blink, Mustard) bragging of bravery, but only the cowardly dragon Custard saves them from a pirate."
+        }
+      ]
+    },
+    {
+      "unit_no": 8,
+      "prose": {
+        "title": "The Sermon at Benares",
+        "author": "Betty Renshaw",
+        "theme": "Gautama Buddha preaching his first sermon at Benares to Kisa Gotami whose only son had died, realization that death is common to all mortals."
+      },
+      "poems": [
+        {
+          "title": "For Anne Gregory",
+          "poet": "William Butler Yeats",
+          "theme": "Conversation between speaker and Anne about yellow hair: only God could love a person for oneself alone and not for outward appearance."
+        }
+      ]
+    },
+    {
+      "unit_no": 9,
+      "prose": {
+        "title": "The Proposal",
+        "author": "Anton Chekhov",
+        "genre": "One-act Farce / Drama",
+        "theme": "Ivan Vassilevitch Lomov proposing to Natalya Stepanovna (daughter of Chubukov), quarrels over Oxen Meadows and hunting dogs (Guess vs Squeezer)."
+      }
+    }
+  ],
+  "footprints_without_feet_supplementary": [
+    {
+      "chapter_no": 1,
+      "title": "A Triumph of Surgery",
+      "author": "James Herriot",
+      "theme": "Pampered dog Tricki overfed by wealthy mistress Mrs. Pumphrey, cured by vet Herriot with exercise and controlled diet, not surgery."
+    },
+    {
+      "chapter_no": 2,
+      "title": "The Thief's Story",
+      "author": "Ruskin Bond",
+      "theme": "15-year-old thief Hari Singh reform through trust, kindness, and education offered by struggling writer Anil."
+    },
+    {
+      "chapter_no": 3,
+      "title": "The Midnight Visitor",
+      "author": "Robert Arthur",
+      "theme": "Quick-witted secret agent Ausable outsmarting armed rival Max using an imaginary balcony story."
+    },
+    {
+      "chapter_no": 4,
+      "title": "A Question of Trust",
+      "author": "Victor Canning",
+      "theme": "Horace Danby (lockmaker who robs safes once a year to buy rare books) tricked by a young lady thief posing as house owner."
+    },
+    {
+      "chapter_no": 5,
+      "title": "Footprints without Feet",
+      "author": "H.G. Wells",
+      "theme": "Brilliant but lawless scientist Griffin discovering invisibility formula, using it to commit theft and violence in London and Iping."
+    },
+    {
+      "chapter_no": 6,
+      "title": "The Making of a Scientist",
+      "author": "Robert W. Peterson",
+      "theme": "Richard Ebright's journey into science: collecting monarch butterflies, tagging, discovering cells and DNA blueprint with encouragement from his mother."
+    },
+    {
+      "chapter_no": 7,
+      "title": "The Necklace",
+      "author": "Guy de Maupassant",
+      "theme": "Matilda Loisel borrowing a diamond necklace from Madame Forestier, losing it, spending 10 years of grueling poverty to repay 36,000 francs, only to discover the original was fake paste worth 500 francs."
+    },
+    {
+      "chapter_no": 8,
+      "title": "Bholi",
+      "author": "K.A. Abbas",
+      "theme": "Sulekha (Bholi), neglected girl with pockmarks and stammer, transformed by teacher into an educated, confident young woman who rejects a greedy bridegroom (Bishamber Nath)."
+    },
+    {
+      "chapter_no": 9,
+      "title": "The Book That Saved the Earth",
+      "author": "Claire Boiko",
+      "theme": "25th-century Martian invasion (Think-Tank, Noodle, Captain Omega) stopped by misinterpreting 'Mother Goose' nursery rhymes as Earth's advanced warfare."
+    }
+  ]
+}

@@ -1,0 +1,735 @@
+{
+  "book_metadata": {
+    "title_en": "Mathematics - Class 8 (AP SCERT 2024-25)",
+    "title_te": "గణితం - ఎనిమిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 16,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "semester_2": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "source_pdfs": [
+      "8_Maths_SEM-1_Textbook.pdf",
+      "8_Maths_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Problem Solving",
+    "AS2": "Reasoning and Proof",
+    "AS3": "Communication",
+    "AS4": "Connections",
+    "AS5": "Representation and Visualization"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Rational Numbers",
+      "title_te": "అకరణీయ సంఖ్యలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "A number which can be written in the form p/q, where p and q are integers and q != 0, is called a rational number.",
+        "Closure property: Rational numbers are closed under addition, subtraction, and multiplication.",
+        "Commutativity: For any two rational numbers a and b, a + b = b + a and a * b = b * a.",
+        "Associativity: For any three rational numbers a, b, and c, (a + b) + c = a + (b + c) and (a * b) * c = a * (b * c).",
+        "The role of zero (0): 0 is the additive identity for rational numbers.",
+        "The role of 1: 1 is the multiplicative identity for rational numbers.",
+        "Distributivity of multiplication over addition: a(b + c) = ab + ac."
+      ],
+      "formulas_katex": [
+        "\\frac{a}{b} + \\frac{c}{d} = \\frac{ad + bc}{bd}",
+        "\\frac{a}{b} \\times \\frac{c}{d} = \\frac{ac}{bd}",
+        "a \\cdot (b + c) = a \\cdot b + a \\cdot c",
+        "x + 0 = 0 + x = x \\quad (\\text{Additive Identity})",
+        "x \\times 1 = 1 \\times x = x \\quad (\\text{Multiplicative Identity})"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find three rational numbers between 1/4 and 1/2.",
+          "question_text_te": "1/4 మరియు 1/2 మధ్య గల మూడు అకరణీయ సంఖ్యలను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Verify that -(-x) = x for x = 11/15.",
+          "question_text_te": "x = 11/15 కు -(-x) = x అవుతుందని సరిచూడండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name the property under multiplication used in: (-4/5) * 1 = 1 * (-4/5) = -4/5.",
+          "question_text_te": "(-4/5) * 1 = 1 * (-4/5) = -4/5 లో ఉపయోగించిన గుణకార ధర్మాన్ని పేర్కొనండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "The product of two rational numbers is -28/81. If one of them is 14/27, find the other.",
+          "question_text_te": "రెండు అకరణీయ సంఖ్యల లబ్ధం -28/81. అందులో ఒక సంఖ్య 14/27 అయితే, రెండవ సంఖ్యను కనుగొనండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Represent 7/4 and -5/6 on the number line.",
+          "question_text_te": "సంఖ్యా రేఖపై 7/4 మరియు -5/6 లను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Linear Equations in One Variable",
+      "title_te": "ఏక చరరాశిలో రేఖీయ సమీకరణాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "An equation is a condition on a variable such that two expressions have equal value.",
+        "A linear equation in one variable has the highest power of the variable as 1.",
+        "Solving equations having the variable on one side and both sides.",
+        "Transposition method for solving linear equations.",
+        "Cross-multiplication method for rational expressions reducible to linear form."
+      ],
+      "formulas_katex": [
+        "ax + b = 0 \\quad (a \\neq 0)",
+        "x = -\\frac{b}{a}",
+        "\\frac{ax + b}{cx + d} = \\frac{p}{q} \\implies q(ax + b) = p(cx + d)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Solve the equation: 2x - 3 = 7.",
+          "question_text_te": "2x - 3 = 7 సమీకరణాన్ని సాధించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Solve: 5t - 3 = 3t - 5.",
+          "question_text_te": "సాధించండి: 5t - 3 = 3t - 5."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Check whether x = 5 is a solution of 3(x - 1) = 2x + 2.",
+          "question_text_te": "3(x - 1) = 2x + 2 సమీకరణానికి x = 5 ఒక సాధన అవుతుందో లేదో సరిచూడండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "The perimeter of a rectangular swimming pool is 154 m. Its length is 2 m more than twice its breadth. Find length and breadth.",
+          "question_text_te": "ఒక దీర్ఘచతురస్రాకార ఈతకొలను చుట్టుకొలత 154 మీ. దాని పొడవు వెడల్పు రెట్టింపు కంటే 2 మీటర్లు ఎక్కువ. దాని పొడవు, వెడల్పులను కనుగొనండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Draw the equation 2x + 4 = 10 as a balance beam representation.",
+          "question_text_te": "2x + 4 = 10 సమీకరణాన్ని త్రాసు నమూనా ద్వారా సూచించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Understanding Quadrilaterals",
+      "title_te": "చతుర్భుజాలను అవగాహన చేసుకోవడం",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "A polygon is a simple closed curve made up of only line segments.",
+        "Convex and concave polygons; Regular and irregular polygons.",
+        "Angle sum property of a quadrilateral: The sum of the measures of the four angles of a quadrilateral is 360 degrees.",
+        "Sum of the measures of the exterior angles of any polygon is 360 degrees.",
+        "Properties of Parallelograms, Rhombus, Rectangle, Square, and Trapezium."
+      ],
+      "formulas_katex": [
+        "\\text{Sum of interior angles of an } n\\text{-gon} = (n - 2) \\times 180^\\circ",
+        "\\text{Each interior angle of a regular } n\\text{-gon} = \\frac{(n - 2) \\times 180^\\circ}{n}",
+        "\\text{Sum of exterior angles} = 360^\\circ",
+        "\\text{Each exterior angle of a regular } n\\text{-gon} = \\frac{360^\\circ}{n}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the number of sides of a regular polygon whose each exterior angle has a measure of 45 degrees.",
+          "question_text_te": "ఒక క్రమ బహుభుజి ప్రతి బాహ్యకోణం కొలత 45 డిగ్రీలు అయితే దాని భుజాల సంఖ్యను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Prove that the opposite angles of a parallelogram are equal.",
+          "question_text_te": "సమాంతర చతుర్భుజంలో ఎదురెదురు కోణాలు సమానమని నిరూపించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why a rectangle is a convex quadrilateral.",
+          "question_text_te": "దీర్ఘచతురస్రం ఒక కుంభాకార చతుర్భుజం ఎందుకవుతుందో వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a trapezium ABCD with AB parallel to DC, and mark the adjacent supplementary angles.",
+          "question_text_te": "AB సమాంతరం DC అయ్యే విధంగా ట్రెపీజియం ABCD ని గీసి, సంపూరక కోణాల జతలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Practical Geometry",
+      "title_te": "ప్రయోగాత్మక జ్యామితి",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "A quadrilateral can be uniquely constructed if five independent measurements are given.",
+        "Construction when four sides and one diagonal are given.",
+        "Construction when two diagonals and three sides are given.",
+        "Construction when two adjacent sides and three angles are given.",
+        "Construction when three sides and two included angles are given."
+      ],
+      "formulas_katex": [
+        "\\text{Minimum measurements to construct a quadrilateral} = 5",
+        "\\text{Parallelogram requires } 3 \\text{ independent measurements}",
+        "\\text{Square requires } 1 \\text{ independent measurement (side)}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Construct a quadrilateral ABCD where AB = 4.5 cm, BC = 5.5 cm, CD = 4 cm, DA = 6 cm, AC = 7 cm.",
+          "question_text_te": "AB = 4.5 సెం.మీ., BC = 5.5 సెం.మీ., CD = 4 సెం.మీ., DA = 6 సెం.మీ., AC = 7 సెం.మీ. కొలతలతో చతుర్భుజం ABCD ని నిర్మించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Can you construct a quadrilateral ABCD if AB = 3 cm, BC = 4 cm, CD = 5.5 cm, DA = 6 cm and AC = 10 cm? Give reasons.",
+          "question_text_te": "AB = 3 సెం.మీ., BC = 4 సెం.మీ., CD = 5.5 సెం.మీ., DA = 6 సెం.మీ. మరియు AC = 10 సెం.మీ. అయితే చతుర్భుజం నిర్మించగలరా? కారణాలు తెలపండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State the steps of construction for a rhombus given the lengths of its two diagonals.",
+          "question_text_te": "రెండు కర్ణాల పొడవులు ఇచ్చినప్పుడు రాంబస్ నిర్మాణ సోపానాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Data Handling",
+      "title_te": "దత్తాంశ నిర్వహణ",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Organising data using tally marks and frequency distribution tables.",
+        "Grouped frequency distributions and class intervals (class limits, class size).",
+        "Histogram with equal class widths and continuous bars.",
+        "Circle graphs or Pie charts: Representing data using central angles proportional to frequency.",
+        "Probability: Outcomes of random experiments, equally likely outcomes, and probability of an event."
+      ],
+      "formulas_katex": [
+        "\\text{Central angle for a component} = \\frac{\\text{Value of component}}{\\text{Total value}} \\times 360^\\circ",
+        "P(E) = \\frac{\\text{Number of outcomes favourable to } E}{\\text{Total number of possible outcomes}}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A bag contains 5 red balls and 3 green balls. A ball is drawn at random. What is the probability of getting a red ball?",
+          "question_text_te": "ఒక సంచిలో 5 ఎరుపు మరియు 3 ఆకుపచ్చ బంతులు ఉన్నాయి. యాదృచ్ఛికంగా ఒక బంతిని తీస్తే, అది ఎరుపు బంతి అయ్యే సంభావ్యత ఎంత?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a pie chart showing the time spent by a child during a day: Sleep 8h, School 6h, Homework 4h, Play 4h, Others 2h.",
+          "question_text_te": "ఒక విద్యార్థి రోజువారీ కాల వినియోగాన్ని చూపే పై చార్ట్ గీయండి: నిద్ర 8 గం., పాఠశాల 6 గం., హోంవర్క్ 4 గం., ఆటలు 4 గం., ఇతరాలు 2 గం."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How is probability used in daily life weather forecasts?",
+          "question_text_te": "నిత్యజీవితంలో వాతావరణ అంచనాలలో సంభావ్యతను ఎలా ఉపయోగిస్తారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Squares and Square Roots",
+      "title_te": "వర్గములు మరియు వర్గమూలాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "A natural number m can be expressed as n^2, then m is a square number (perfect square).",
+        "Properties of square numbers (ending digits 0, 1, 4, 5, 6, 9).",
+        "Pythagorean triplets: For any natural number m > 1, (2m, m^2 - 1, m^2 + 1) forms a Pythagorean triplet.",
+        "Finding square root by prime factorisation method.",
+        "Finding square root by division method for integers and decimals."
+      ],
+      "formulas_katex": [
+        "(2m)^2 + (m^2 - 1)^2 = (m^2 + 1)^2",
+        "\\sqrt{a \\times b} = \\sqrt{a} \\times \\sqrt{b}",
+        "\\sqrt{\\frac{a}{b}} = \\frac{\\sqrt{a}}{\\sqrt{b}}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the square root of 7056 using prime factorisation.",
+          "question_text_te": "ప్రధాన కారణాంకాల పద్ధతిలో 7056 యొక్క వర్గమూలాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the square root of 12.25 by division method.",
+          "question_text_te": "భాగహార పద్ధతిలో 12.25 యొక్క వర్గమూలాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Show that 2352 is not a perfect square.",
+          "question_text_te": "2352 ఖచ్చితమైన వర్గ సంఖ్య కాదని నిరూపించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Cubes and Cube Roots",
+      "title_te": "ఘనములు మరియు ఘనమూలాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "A natural number is a perfect cube if it can be expressed as n^3 for some natural number n.",
+        "Properties of cubes of even and odd numbers.",
+        "Prime factorisation method to find cube roots.",
+        "Estimation method for cube roots of large perfect cubes."
+      ],
+      "formulas_katex": [
+        "n^3 = n \\times n \\times n",
+        "\\sqrt[3]{a \\times b} = \\sqrt[3]{a} \\times \\sqrt[3]{b}",
+        "\\sqrt[3]{-a} = -\\sqrt[3]{a}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the cube root of 13824 by prime factorisation method.",
+          "question_text_te": "ప్రధాన కారణాంకాల పద్ధతి ద్వారా 13824 యొక్క ఘనమూలాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Is 392 a perfect cube? If not, find the smallest natural number by which it must be multiplied to make it a perfect cube.",
+          "question_text_te": "392 ఖచ్చితమైన ఘనమా? కాకపోతే, దానిని ఖచ్చితమైన ఘనంగా మార్చడానికి ఏ కనిష్ఠ సహజ సంఖ్యతో గుణించాలి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Comparing Quantities",
+      "title_te": "పరిమాణాలను పోల్చడం",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Ratios and percentages: Converting ratios to percentage and vice-versa.",
+        "Finding increase or decrease percentage.",
+        "Discount = Marked Price - Sale Price; Discount % = (Discount / Marked Price) * 100.",
+        "Profit and Loss, Cost Price, Selling Price, Overhead expenses.",
+        "Sales Tax, Value Added Tax (VAT), and Goods and Services Tax (GST).",
+        "Compound Interest: Compounded annually, semi-annually (half-yearly)."
+      ],
+      "formulas_katex": [
+        "\\text{Discount \\%} = \\frac{\\text{Discount}}{\\text{Marked Price}} \\times 100",
+        "A = P \\left(1 + \\frac{R}{100}\\right)^n \\quad (\\text{Compounded Annually})",
+        "A = P \\left(1 + \\frac{R/2}{100}\\right)^{2n} \\quad (\\text{Compounded Half-Yearly})",
+        "CI = A - P"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Calculate the compound interest on Rs 10,800 for 3 years at 12.5% per annum compounded annually.",
+          "question_text_te": "రూ. 10,800 పై వార్షిక చక్రవడ్డీ రేటు 12.5% చొప్పున 3 సంవత్సరాలకు అయ్యే చక్రవడ్డీని లెక్కించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "An item marked at Rs 840 is sold for Rs 714. Find the discount and discount percentage.",
+          "question_text_te": "ప్రకటన వెల రూ. 840 గల ఒక వస్తువు రూ. 714 కు అమ్మబడింది. తగ్గింపు (డిస్కౌంట్) మరియు తగ్గింపు శాతాన్ని కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Algebraic Expressions and Identities",
+      "title_te": "బీజీయ సమాసాలు మరియు సర్వసమీకరణాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Terms, factors, and coefficients in algebraic expressions.",
+        "Monomials, binomials, trinomials, and polynomials.",
+        "Like and unlike terms.",
+        "Addition, subtraction, and multiplication of algebraic expressions.",
+        "Standard algebraic identities and their geometrical verification."
+      ],
+      "formulas_katex": [
+        "(a + b)^2 = a^2 + 2ab + b^2",
+        "(a - b)^2 = a^2 - 2ab + b^2",
+        "(a + b)(a - b) = a^2 - b^2",
+        "(x + a)(x + b) = x^2 + (a + b)x + ab"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Using suitable identity, find: (2y + 5)(2y + 5).",
+          "question_text_te": "తగిన సర్వసమీకరణాన్ని ఉపయోగించి (2y + 5)(2y + 5) విలువను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Evaluate: 105 * 106 without direct multiplication.",
+          "question_text_te": "ప్రత్యక్ష గుణకారం చేయకుండా 105 * 106 విలువను కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Show that: (3x + 7)^2 - 84x = (3x - 7)^2.",
+          "question_text_te": "(3x + 7)^2 - 84x = (3x - 7)^2 అని చూపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Visualising Solid Shapes",
+      "title_te": "ఘనాకారాలను దృశ్యమానం చేయడం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Two-dimensional (2D) and three-dimensional (3D) objects.",
+        "Views of 3D shapes: Top view, Front view, Side view.",
+        "Mapping space around us: Location maps, scale, and symbols.",
+        "Polyhedrons: Faces, Vertices, and Edges.",
+        "Euler's formula for any polyhedron: F + V - E = 2."
+      ],
+      "formulas_katex": [
+        "F + V - E = 2 \\quad (\\text{Euler's Formula})",
+        "\\text{Where } F = \\text{Faces}, \\; V = \\text{Vertices}, \\; E = \\text{Edges}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Verify Euler's formula for a triangular prism having 5 faces, 6 vertices, and 9 edges.",
+          "question_text_te": "5 ముఖాలు, 6 శీర్షాలు, 9 అంచులు గల త్రిభుజాకార ప్రిజంకు ఆయిలర్ సూత్రాన్ని సరిచూడండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw the front view, side view, and top view of a brick.",
+          "question_text_te": "ఇటుక యొక్క ముందు భాగపు దృశ్యం, ప్రక్క దృశ్యం మరియు పై దృశ్యాలను గీయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Mensuration",
+      "title_te": "క్షేత్రమితి",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Area of a trapezium and area of a general quadrilateral.",
+        "Area of special quadrilaterals: Rhombus.",
+        "Surface area of a cuboid, cube, and cylinder.",
+        "Volume of cuboid, cube, and cylinder.",
+        "Volume and capacity relationships: 1 mL = 1 cm^3, 1 L = 1000 cm^3, 1 m^3 = 1000 L."
+      ],
+      "formulas_katex": [
+        "\\text{Area of Trapezium} = \\frac{1}{2} (a + b) h",
+        "\\text{Area of Rhombus} = \\frac{1}{2} d_1 d_2",
+        "\\text{Total Surface Area of Cuboid} = 2(lb + bh + hl)",
+        "\\text{Total Surface Area of Cylinder} = 2\\pi r(r + h)",
+        "\\text{Volume of Cuboid} = l \\times b \\times h",
+        "\\text{Volume of Cylinder} = \\pi r^2 h"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "The area of a trapezium is 34 cm^2 and length of one parallel side is 10 cm and height is 4 cm. Find the other parallel side.",
+          "question_text_te": "ఒక ట్రెపీజియం వైశాల్యం 34 చ.సెం.మీ., ఒక సమాంతర భుజం పొడవు 10 సెం.మీ., ఎత్తు 4 సెం.మీ. అయితే రెండవ సమాంతర భుజం పొడవు కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "A cylindrical tank has radius 7 m and depth 10 m. Find the cost of cementing its inner curved surface at Rs 35 per sq m.",
+          "question_text_te": "ఒక స్థూపాకార ట్యాంక్ వ్యాసార్థం 7 మీటర్లు, లోతు 10 మీటర్లు. దాని లోపలి ప్రక్కతల వైశాల్యానికి చదరపు మీటరుకు రూ. 35 చొప్పున సిమెంట్ పూత పూయడానికి అయ్యే ఖర్చును కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Exponents and Powers",
+      "title_te": "ఘాతాలు మరియు ఘాతాంకాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Powers with negative exponents.",
+        "Laws of exponents for integer exponents.",
+        "Expressing very large and very small numbers in standard (scientific) form.",
+        "Comparing very large and very small quantities."
+      ],
+      "formulas_katex": [
+        "a^{-m} = \\frac{1}{a^m}",
+        "a^m \\times a^n = a^{m+n}",
+        "\\frac{a^m}{a^n} = a^{m-n}",
+        "(a^m)^n = a^{mn}",
+        "(ab)^m = a^m b^m",
+        "\\left(\\frac{a}{b}\\right)^m = \\frac{a^m}{b^m}",
+        "a^0 = 1"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Evaluate: (3^0 + 4^-1) * 2^2.",
+          "question_text_te": "విలువను లెక్కించండి: (3^0 + 4^-1) * 2^2."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Express the diameter of the Sun, 1,400,000,000 m, in standard scientific notation.",
+          "question_text_te": "సూర్యుని వ్యాసం 1,400,000,000 మీటర్లను ప్రామాణిక శాస్త్రీయ రూపంలో రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Direct and Inverse Proportions",
+      "title_te": "ప్రత్యక్ష మరియు విలోమ అనుపాతాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Direct proportion: If two quantities x and y increase or decrease together such that x/y = k (constant).",
+        "Inverse proportion: If increase in x causes proportional decrease in y such that x * y = k (constant).",
+        "Real world applications of direct and inverse variation."
+      ],
+      "formulas_katex": [
+        "\\frac{x_1}{y_1} = \\frac{x_2}{y_2} \\quad (\\text{Direct Proportion})",
+        "x_1 y_1 = x_2 y_2 \\quad (\\text{Inverse Proportion})"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "If the weight of 12 sheets of thick paper is 40 grams, how many sheets would weigh 2.5 kilograms?",
+          "question_text_te": "12 మందపాటి కాగితాల బరువు 40 గ్రాములు అయితే, 2.5 కిలోగ్రాముల బరువుకు ఎన్ని కాగితాలు తూగుతాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A train travels 75 km in 60 minutes. How far will it travel in 20 minutes at the same speed?",
+          "question_text_te": "ఒక రైలు 60 నిమిషాల్లో 75 కి.మీ. ప్రయాణిస్తుంది. అదే వేగంతో 20 నిమిషాల్లో ఎంత దూరం ప్రయాణిస్తుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "Factorisation",
+      "title_te": "కారణాంక విభజన",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "What is factorisation: writing an algebraic expression as the product of its factors.",
+        "Method of common factors.",
+        "Factorisation by regrouping terms.",
+        "Factorisation using standard algebraic identities.",
+        "Factors of the form (x + a)(x + b).",
+        "Division of polynomials by monomials and binomials."
+      ],
+      "formulas_katex": [
+        "a^2 - b^2 = (a + b)(a - b)",
+        "x^2 + (a + b)x + ab = (x + a)(x + b)",
+        "a^2 + 2ab + b^2 = (a + b)^2",
+        "a^2 - 2ab + b^2 = (a - b)^2"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Factorise: 49x^2 - 36.",
+          "question_text_te": "కారణాంకాలుగా విభజించండి: 49x^2 - 36."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Factorise: x^2 + 5x + 6.",
+          "question_text_te": "కారణాంకాలుగా విభజించండి: x^2 + 5x + 6."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Divide: (5x^2 - 25x) by (x - 5).",
+          "question_text_te": "(5x^2 - 25x) ను (x - 5) చే భాగించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Introduction to Graphs",
+      "title_te": "గ్రాఫ్‌ల పరిచయం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Different types of graphs: Bar graphs, Pie graphs, Histograms, Line graphs.",
+        "Linear graphs: Points on a Cartesian plane (Coordinates: x-coordinate, y-coordinate).",
+        "Axes, origin, and plotting ordered pairs.",
+        "Applications of linear graphs: Distance-time graph, Cost-quantity relationship."
+      ],
+      "formulas_katex": [
+        "\\text{Point in Plane} = (x, y)",
+        "\\text{Origin} = (0, 0)",
+        "\\text{Speed} = \\frac{\\text{Distance}}{\\text{Time}} \\implies d = s \\cdot t"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Plot the points A(4, 0), B(4, 2), C(4, 6), D(4, 2.5) on a graph sheet. Do they lie on a line?",
+          "question_text_te": "గ్రాఫ్ పేపర్‌పై A(4, 0), B(4, 2), C(4, 6), D(4, 2.5) బిందువులను గుర్తించండి. అవి ఒకే సరళరేఖపై ఉన్నాయా?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How can a linear graph be used to predict petrol consumption during long journeys?",
+          "question_text_te": "సుదూర ప్రయాణాలలో పెట్రోల్ వినియోగాన్ని అంచనా వేయడానికి రేఖీయ గ్రాఫ్ ఎలా ఉపయోగపడుతుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "Playing with Numbers",
+      "title_te": "సంఖ్యలతో ఆడుకుందాం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "General form of numbers: Two-digit number ab = 10a + b; Three-digit number abc = 100a + 10b + c.",
+        "Games with numbers: Reversing digits and mathematical puzzles.",
+        "Letters for digits: Cryptarithms where each letter stands for only one digit.",
+        "Divisibility tests for 10, 5, 2, 9, 3, and 11 based on algebraic place value structure."
+      ],
+      "formulas_katex": [
+        "ab = 10a + b",
+        "abc = 100a + 10b + c",
+        "ab + ba = (10a + b) + (10b + a) = 11(a + b)",
+        "ab - ba = (10a + b) - (10b + a) = 9(a - b)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the values of the letters in: 3 A + 2 5 = B 2.",
+          "question_text_te": "3 A + 2 5 = B 2 లోని అక్షరాల విలువలను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "If 21y5 is a multiple of 9, where y is a digit, what is the value of y?",
+          "question_text_te": "21y5 అనేది 9 యొక్క గుణిజం మరియు y ఒక అంకె అయితే, y యొక్క విలువను కనుగొనండి."
+        }
+      ]
+    }
+  ]
+}

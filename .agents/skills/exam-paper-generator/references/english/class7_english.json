@@ -1,0 +1,406 @@
+{
+  "book_metadata": {
+    "title_en": "Honeycomb - English Reader Class 7 (AP SCERT)",
+    "title_te": "ఇంగ్లీషు రీడర్ - ఏడవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "7th Class",
+    "medium": "English",
+    "total_chapters": 10,
+    "source_pdfs": [
+      "7_English_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Reading Comprehension",
+    "AS2": "Vocabulary and Grammar",
+    "AS3": "Creative Discourses"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Three Questions",
+      "title_te": "మూడు ప్రశ్నలు",
+      "author": "Leo Tolstoy (Poem: Mildred Bowers Armstrong)",
+      "learning_outcomes": [
+        "Learn the philosophical wisdom that the most important time is 'now', the most important person is the one you are with, and the most important affair is to do good.",
+        "Appreciate the subtle observation of nature in the poem 'The Squirrel'.",
+        "Understand reported speech, phrasal verbs, and dictionary usage."
+      ],
+      "summary_points": [
+        "A king seeks answers to three questions: What is the right time to begin something? Who are the right people to listen to? What is the most important thing to do?",
+        "A wise hermit helps him realize the answers practically by nursing an injured enemy who had come to assassinate the king."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the king want to know the answers to three questions?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the king and the hermit nurse the wounded man and save his life?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "grammar_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Match the items in List A with their meanings in List B: (a) Wounded, (b) Awake, (c) Forgive, (d) Faithful."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Imagine you are the king. Write a diary entry describing your meeting with the hermit in the forest and the lessons you learned."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "A Gift of Chappals",
+      "title_te": "చెప్పుల బహుమతి",
+      "author": "Vasantha Surya (Poem: D.J. Enright)",
+      "learning_outcomes": [
+        "Understand empathy, compassion towards destitute people, and innocent generosity of children.",
+        "Enjoy the humorous contrast of adolescent non-conformism in the poem 'The Rebel'."
+      ],
+      "summary_points": [
+        "Mridu visits her aunt Rukku Manni's house in Chennai where children find a kitten hidden in the backyard.",
+        "Seeing a poor beggar with blistered feet on the hot road, the children generously give away the music master's old slippers."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What made Mridu conclude that the beggar had no money to buy chappals?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did the rebel do when everybody had short hair according to the poem?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Fill in the blanks with the correct form of the words given in brackets: (scrawny, vanished, peering)."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a short paragraph on why acts of kindness towards animals and needy people make the world a better place."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Gopal and the Hilsa Fish",
+      "title_te": "గోపాల్ మరియు హిల్సా చేప",
+      "author": "Comic Folk Tale (Poem: Frank Flynn)",
+      "learning_outcomes": [
+        "Appreciate comic strip storytelling with speech bubbles and witty humour.",
+        "Overcome irrational fears through curiosity as highlighted in the poem 'The Shed'."
+      ],
+      "summary_points": [
+        "The king challenges witty courtier Gopal to buy a huge Hilsa fish and bring it to the palace without anyone asking a word about the fish.",
+        "Gopal smears ash on his face, wears rags, and behaves like a madman so that everyone talks about his appearance rather than the fish, winning the challenge."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was the challenge given by the king to Gopal regarding the Hilsa fish?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Gopal prove that nothing is impossible when one applies intelligence and wit?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "grammar_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Change the following direct speech dialogues into indirect speech: Gopal said, 'I accept the challenge, Your Majesty.'"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "The Ashes That Made Trees Bloom",
+      "title_te": "చెట్లను చిగురింపజేసిన బూడిద",
+      "author": "William Elliot Griffis (Poem: Michael Rosen)",
+      "learning_outcomes": [
+        "Appreciate Japanese folklore celebrating honest, kind-hearted people and fidelity of pets.",
+        "Understand how adult instructions ('Chivvy') affect growing children."
+      ],
+      "summary_points": [
+        "A kind old Japanese couple loved their pet dog Muko, who led them to buried gold.",
+        "Greedy neighbours killed the dog, but the dog's spirit appeared in dreams directing them to make a mortar and spread magical ashes that made withered cherry trees bloom."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the spirit of the dog help the good old couple the second time?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the daimyo reward the good old man but punish the greedy neighbour severely?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a story on the theme 'Greed leads to ruin whereas kindness earns lasting rewards.'"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Quality",
+      "title_te": "నాణ్యత",
+      "author": "John Galsworthy (Poem: Shirley Bauer)",
+      "learning_outcomes": [
+        "Appreciate devotion, passion, and uncompromising craftsmanship over mass commercialization.",
+        "Recognize the ecological and life-giving importance of trees celebrated in Shirley Bauer's poem."
+      ],
+      "summary_points": [
+        "German bootmaker Mr. Gessler made bespoke boots of exquisite leather and everlasting quality in London.",
+        "Despite losing business to big industrial firms advertising inferior shoes, he refused to compromise on quality till his dying breath."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was Mr. Gessler's complaint against the big shoe manufacturing firms?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the author consider bootmaking an art in the hands of Mr. Gessler?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Use the following words in meaningful sentences of your own: (a) Splendid, (b) Contempt, (c) Starvation."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Expert Detectives",
+      "title_te": "నిపుణులైన డిటెక్టివ్‌లు",
+      "author": "Sharada Dwivedi (Poem: Maude Rubin)",
+      "learning_outcomes": [
+        "Develop analytical reasoning, deduction, and avoid jumping to hasty judgments.",
+        "Enjoy the playful personification of a noisy ceiling fan in 'Mystery of the Talking Fan'."
+      ],
+      "summary_points": [
+        "Ten-year-old Maya and her seven-year-old brother Nishad (Seven) investigate mysterious tenant Mr. Nath living at their mother's clinic.",
+        "Maya suspects him to be a crook on the run, while sympathetic Nishad believes he is a poor, lonely, and starving invalid needing a friend."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did Nishad find out about Mr. Nath from Ramesh, the boy who served him meals?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Maya prepare a list of facts about Mr. Nath?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Whose perspective do you agree with more — Maya's suspicious mind or Nishad's compassionate attitude? Give reasons."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "The Invention of Vita-Wonk",
+      "title_te": "వీటా-వాంక్ ఆవిష్కరణ",
+      "author": "Roald Dahl (Poems: Kit Wright, Muriel L. Sonne)",
+      "learning_outcomes": [
+        "Enjoy science fantasy, humorous exaggerations, and playful inventive language.",
+        "Understand how harmless garden snakes help control insect pests as described in 'Garden Snake'."
+      ],
+      "summary_points": [
+        "Inventor Willy Wonka invents 'Vita-Wonk' to make people older after Wonka-Vite made people so young they vanished into negative ages.",
+        "He travels the globe in the Great Glass Elevator collecting samples from the oldest living trees, animals, and reptiles to concoct an age-increasing elixir."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Mr. Willy Wonka decide to invent Vita-Wonk?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name three of the oldest living things that Mr. Wonka collected ingredients from."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Add suitable prefixes (un-, in-, dis-) to make antonyms of: (a) Possible, (b) Patient, (c) Agree, (d) Efficient."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "A Homage to our Brave Soldiers",
+      "title_te": "మన వీర సైనికులకు నివాళి",
+      "author": "Department of Military Affairs (Poem: Lois Brandt Phillips)",
+      "learning_outcomes": [
+        "Inculcate deep patriotism, respect, and gratitude towards armed forces defending national frontiers.",
+        "Discover delightful wonders of meadow ecology depicted in 'Meadow Surprises'."
+      ],
+      "summary_points": [
+        "Children visit the National War Memorial in New Delhi, observing the Amar Jawan Jyoti and four concentric chakras: Amar Chakra, Veerta Chakra, Tyag Chakra, and Raksha Chakra.",
+        "They learn about highest gallantry awards like the Param Vir Chakra (PVC) awarded to brave martyrs such as Major Somnath Sharma and Captain Vikram Batra."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the four concentric chakras of the National War Memorial in New Delhi?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the highest wartime gallantry award in India? Who was its first recipient?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a letter of gratitude to an Indian soldier posted at the Siachen Glacier thanking them for safeguarding our freedom."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "The Tiny Teacher & Bringing Up Kari",
+      "title_te": "సూక్ష్మ గురువు మరియు కరి పెంపకం",
+      "author": "Supplementary Reader: Dhan Gopal Mukerji",
+      "learning_outcomes": [
+        "Learn lessons of discipline, hard work, mutual cooperation, and duty from the life of ants.",
+        "Understand animal behaviour, empathy, and bonds of companionship between humans and elephants."
+      ],
+      "summary_points": [
+        "The Tiny Teacher shows the ant's remarkable communal life where no ant ever quarrels or shirks responsibility in the anthill.",
+        "Bringing Up Kari narrates the endearing adventures of a mischievous baby elephant who saves a drowning boy from a river."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is the tiny ant called the wisest and most hardworking teacher for mankind?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Kari save the drowning boy from the river?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write three moral qualities that human beings can learn from ants."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Stories of Courage & An Alien Hand",
+      "title_te": "ధైర్య సాహస కథలు మరియు గ్రహాంతర హస్తం",
+      "author": "Supplementary Reader: Rudyard Kipling, Zakir Husain, Axel Munthe, Jayant Narlikar",
+      "learning_outcomes": [
+        "Understand freedom, courage, and respect for wild animals.",
+        "Explore science fiction depicting subterranean planetary civilization and interplanetary exploration."
+      ],
+      "summary_points": [
+        "Chandni, Abbu Khan's little goat, chose freedom on the hills and fought a wolf bravely until death rather than living in captivity.",
+        "In 'An Alien Hand', Tilloo lives in an underground city on Mars and accidentally deactivates an unmanned exploratory rover sent from Earth by pressing the red button."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Chandni refuse to join the herd of goats and prefer to fight the fierce wolf on the hills?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What happened when Tilloo pressed the red button on the control panel in 'An Alien Hand'?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write a science fiction narrative imagining how human astronauts will interact with subterranean creatures upon landing on Mars."
+        }
+      ]
+    }
+  ]
+}

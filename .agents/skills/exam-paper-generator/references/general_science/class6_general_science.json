@@ -1,0 +1,1803 @@
+{
+  "book_metadata": {
+    "title_en": "General Science - Class 6 (AP SCERT 2024-25)",
+    "title_te": "సాధారణ శాస్త్రం - ఆరవ తరగతి (AP SCERT 2024-25)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "6th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 11,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "semester_2": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "source_pdfs": [
+      "6_Science_SEM-1_Textbook.pdf",
+      "6_Science_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Asking Questions and Making Hypothesis",
+    "AS3": "Experimentation and Field Investigation",
+    "AS4": "Information Skills and Projects",
+    "AS5": "Communication through Drawing and Model Making",
+    "AS6": "Daily Life Application and Concern to Biodiversity",
+    "AS7": "Appreciation and Aesthetic Sense / Values"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Components of Food",
+      "title_te": "ఆహారంలోని అంశాలు",
+      "semester": 1,
+      "learning_outcomes": [
+        "Identify major nutrients in food: carbohydrates, proteins, fats, vitamins, and minerals.",
+        "Conduct tests to detect presence of starch, protein, and fats in food samples.",
+        "Understand the importance of dietary fibres (roughage) and water for digestion.",
+        "Recognize deficiency diseases caused by lack of specific vitamins and minerals.",
+        "Develop healthy eating habits through balanced diet planning."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Nutrients",
+          "term_te": "పోషకాలు",
+          "definition": "Chemical components of food needed by our body for growth, maintenance, and energy."
+        },
+        {
+          "term": "Balanced Diet",
+          "term_te": "సమతుల ఆహారం",
+          "definition": "A diet that contains all essential nutrients, roughage, and water in the right proportions for healthy growth."
+        },
+        {
+          "term": "Deficiency Diseases",
+          "term_te": "లోపజనిత వ్యాధులు",
+          "definition": "Diseases that occur due to prolonged lack of one or more nutrients in the diet (e.g., Scurvy, Beriberi, Rickets)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Principle of Chemical Food Tests",
+          "statement": "Specific chemical reagents react with biochemical nutrients to yield characteristic color changes (e.g., Iodine produces blue-black complex with starch, Biuret reagent yields violet complex with peptide bonds in proteins)."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Starch} + \\text{Dilute Iodine Solution} \\rightarrow \\text{Blue-Black Complex}",
+        "\\text{Protein} + \\text{CuSO}_4\\text{(aq)} + \\text{NaOH(aq)} \\rightarrow \\text{Violet Color Complex} \\quad (\\text{Biuret Reaction})",
+        "\\text{Energy: } 1\\text{ g Fat} \\approx 9\\text{ kcal} > 1\\text{ g Carbohydrate} \\approx 4\\text{ kcal}"
+      ],
+      "key_diagrams": [
+        "Test for Starch using dropper and iodine on potato slice",
+        "Test for Protein using copper sulfate and caustic soda in test tube",
+        "Balanced diet food plate chart"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "1.1",
+          "title": "Testing for Starch in Food Samples",
+          "title_te": "ఆహార పదార్థాలలో పిండిపదార్థం (స్టార్చ్) ఉనికిని పరీక్షించుట",
+          "type": "lab_activity",
+          "aim": "To test the presence of starch in a given food sample (potato slice / boiled rice).",
+          "apparatus": [
+            "Potato slice / boiled rice",
+            "Dilute iodine solution",
+            "Dropper",
+            "Watch glass / clean white plate"
+          ],
+          "principle": "Amylose in starch reacts with iodine molecules to form a characteristic blue-black starch-iodine inclusion complex.",
+          "procedure": [
+            "Take a small slice of raw potato or mashed boiled rice on a clean watch glass.",
+            "Using a dropper, add 2 to 3 drops of dilute iodine solution onto the food sample.",
+            "Observe any color transition on the surface of the food sample."
+          ],
+          "precautions": [
+            "Use dilute iodine solution; concentrated iodine can stain or mask color change.",
+            "Do not taste any chemical reagents in the laboratory."
+          ],
+          "observations": "The surface of the potato slice / rice turns deep blue-black upon contact with iodine.",
+          "conclusion": "The appearance of blue-black color confirms the presence of starch in the food sample."
+        },
+        {
+          "activity_no": "1.2",
+          "title": "Testing for Proteins in Food Samples",
+          "title_te": "ఆహార పదార్థాలలో మాంసకృత్తుల (ప్రోటీన్లు) ఉనికిని పరీక్షించుట",
+          "type": "lab_activity",
+          "aim": "To test the presence of proteins in egg white / boiled pulse slurry.",
+          "apparatus": [
+            "Test tube",
+            "Copper sulfate solution (2%)",
+            "Caustic soda (Sodium hydroxide solution, 10%)",
+            "Dropper",
+            "Test tube stand",
+            "Egg white or ground gram powder slurry"
+          ],
+          "principle": "Proteins react with cupric ions in an alkaline medium to form a violet/purple coordination complex with peptide bonds.",
+          "procedure": [
+            "Take 2 mL of egg white or pulse paste slurry in a clean test tube.",
+            "Add 10 drops of water and shake the test tube thoroughly.",
+            "Add 2 drops of copper sulfate solution using a dropper.",
+            "Add 10 drops of caustic soda (NaOH) solution and shake well.",
+            "Allow the test tube to stand for a few minutes and observe the color."
+          ],
+          "precautions": [
+            "Handle caustic soda carefully as it is corrosive to skin and clothes.",
+            "Add exact drop counts of copper sulfate to prevent blue precipitation."
+          ],
+          "observations": "The solution in the test tube turns distinct violet/purple.",
+          "conclusion": "The emergence of violet color proves the presence of proteins in the tested food sample."
+        }
+      ],
+      "summary_points": [
+        "Major nutrients are carbohydrates, proteins, fats, vitamins, and minerals.",
+        "Carbohydrates and fats provide energy; fats provide more energy per gram than carbohydrates.",
+        "Proteins and minerals are essential for body growth, tissue repair, and maintenance.",
+        "Vitamins help in protecting our body against diseases; Vitamin C gets destroyed easily by heating.",
+        "Lack of Vitamin A causes night blindness; lack of Vitamin C causes scurvy; lack of Vitamin D causes rickets."
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name the major nutrients in our food and state which nutrient mainly provides energy to our body.",
+          "question_text_te": "మన ఆహారంలోని ప్రధాన పోషకాలను పేర్కొనండి మరియు మన శరీరానికి ప్రధానంగా శక్తినిచ్చే పోషకం ఏది?",
+          "question_text": "Name major nutrients and identify the primary energy provider."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What questions would you ask a nutritionist to understand the consequences of consuming excess junk food lacking dietary fibres?",
+          "question_text_te": "పీచు పదార్థాలు లేని జంక్ ఫుడ్ ను ఎక్కువగా తినడం వల్ల కలిగే నష్టాలను తెలుసుకోవడానికి మీరు పోషకాహార నిపుణుడిని ఏ ప్రశ్నలు అడుగుతారు?",
+          "question_text": "Formulate questions to ask a doctor about the harmful effects of fiber-deficient junk food."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to test the presence of fat in groundnut seeds. Write under headings: Aim, Apparatus, Procedure, Precautions, Observations, and Conclusion.",
+          "question_text_te": "వేరుశనగ గింజలలో కొవ్వు ఉనికిని పరీక్షించే ప్రయోగాన్ని వివరించండి. లక్ష్యం, పరికరాలు, విధానం, జాగ్రత్తలు, పరిశీలనలు మరియు ముగింపు శీర్షికల కింద రాయండి.",
+          "question_text": "Write a complete lab report on testing for fat in groundnut seeds."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Prepare a dietary table matching vitamins (A, B1, C, D) and minerals (Calcium, Iodine, Iron) with their respective deficiency diseases and common food sources.",
+          "question_text_te": "విటమిన్లు (A, B1, C, D) మరియు ఖనిజ లవణాలు (కాల్షియం, అయోడిన్, ఐరన్) వాటి లోపజనిత వ్యాధులు మరియు లభించే ఆహార వనరులతో ఒక పట్టికను రూపొందించండి.",
+          "question_text": "Tabulate vitamins, minerals, deficiency diseases, and food sources."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled sketch of a 'Balanced Diet Plate' showing appropriate portions of cereals, pulses, vegetables, fruits, and dairy products.",
+          "question_text_te": "తృణధాన్యాలు, పప్పుదినుసులు, కూరగాయలు, పండ్లు మరియు పాల ఉత్పత్తుల సరైన నిష్పత్తులను చూపే 'సమతుల ఆహార పళ్ళెం' చిత్రాన్ని గీయండి.",
+          "question_text": "Draw a labeled diagram of a Balanced Diet Plate."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are midday meals provided in government schools carefully designed to include leafy vegetables, pulses, and boiled eggs?",
+          "question_text_te": "ప్రభుత్వ పాఠశాలల్లో అందించే మధ్యాహ్న భోజనంలో ఆకుకూరలు, పప్పుదినుసులు, ఉడికించిన గుడ్లను చేర్చడానికి గల కారణం ఏమిటి?",
+          "question_text": "Explain the nutritional rationale of school midday meals."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Sorting Materials into Groups",
+      "title_te": "పదార్థాలను సమూహాలుగా వర్గీకరించుట",
+      "semester": 1,
+      "learning_outcomes": [
+        "Classify objects around us on the basis of shape, color, and materials they are made of.",
+        "Differentiate materials based on properties: lustre, hardness, solubility, density (float/sink), and transparency.",
+        "Understand the difference between transparent, translucent, and opaque materials."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Lustre",
+          "term_te": "మెరుపు (ద్యుతి)",
+          "definition": "The shiny appearance characteristic of freshly cut or polished metal surfaces."
+        },
+        {
+          "term": "Transparent Materials",
+          "term_te": "పారదర్శక పదార్థాలు",
+          "definition": "Substances through which light passes completely and objects can be clearly seen (e.g., clear glass, pure water, air)."
+        },
+        {
+          "term": "Translucent Materials",
+          "term_te": "పాక్షిక పారదర్శక పదార్థాలు",
+          "definition": "Materials through which light passes partially but objects cannot be seen clearly (e.g., butter paper, frosted glass, oiled sheet)."
+        },
+        {
+          "term": "Opaque Materials",
+          "term_te": "అపారదర్శక పదార్థాలు",
+          "definition": "Materials through which light cannot pass and through which objects cannot be seen at all (e.g., wood, cardboard, metals)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Principle of Flotation and Density",
+          "statement": "An object floats in water if its average density is less than the density of water ($\\rho_{\\text{object}} < \\rho_{\\text{water}}$); it sinks if its density is greater than water."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Density } \\rho = \\frac{\\text{Mass } m}{\\text{Volume } V}",
+        "\\rho_{\\text{object}} < \\rho_{\\text{water}} \\implies \\text{Floats}, \\quad \\rho_{\\text{object}} > \\rho_{\\text{water}} \\implies \\text{Sinks}",
+        "\\text{Refractive Index: } n = \\frac{c}{v}"
+      ],
+      "key_diagrams": [
+        "Apparatus classifying materials as transparent, translucent, and opaque using a torch",
+        "Beaker showing floating dry leaf vs sunken coin"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "2.1",
+          "title": "Testing Solubility of Solids in Water",
+          "title_te": "నీటిలో వివిధ ఘన పదార్థాల ద్రావణీయతను పరీక్షించుట",
+          "type": "lab_activity",
+          "aim": "To determine which common solid substances are soluble and which are insoluble in water.",
+          "apparatus": [
+            "Five glass beakers / tumblers",
+            "Water",
+            "Stirring spoon / glass rod",
+            "Samples: Common salt, Sugar, Chalk powder, Sand, Sawdust"
+          ],
+          "principle": "Soluble substances completely dissolve and disperse uniformly among water molecules, forming a clear single-phase solution, whereas insoluble solids settle down or float.",
+          "procedure": [
+            "Fill each beaker half with water.",
+            "Add half a teaspoon of salt to beaker 1, sugar to beaker 2, chalk powder to beaker 3, sand to beaker 4, and sawdust to beaker 5.",
+            "Stir the contents of each beaker thoroughly with a glass rod.",
+            "Wait a few minutes and observe if the substance has disappeared."
+          ],
+          "precautions": [
+            "Stir each beaker for equal duration.",
+            "Ensure beakers are clean before testing."
+          ],
+          "observations": "Salt and sugar completely dissolve and disappear in water. Chalk powder, sand, and sawdust remain visible; sand settles at the bottom while sawdust floats.",
+          "conclusion": "Salt and sugar are soluble in water; chalk powder, sand, and sawdust are insoluble in water."
+        },
+        {
+          "activity_no": "2.2",
+          "title": "Investigating Transparency of Materials",
+          "title_te": "పదార్థాల పారదర్శకతను పరిశీలించుట",
+          "type": "lab_activity",
+          "aim": "To classify given materials into transparent, translucent, and opaque using a light source.",
+          "apparatus": [
+            "Electric torch",
+            "Clear glass sheet",
+            "Oiled sheet of paper",
+            "Thick cardboard piece",
+            "Dark room / shaded area"
+          ],
+          "principle": "Transparency depends on the extent of transmission, scattering, and absorption of light rays incident on a material.",
+          "procedure": [
+            "In a dimly lit room, switch on the electric torch.",
+            "Place a clear glass sheet in front of the torch lens and look through it at a wall.",
+            "Next, replace the glass sheet with an oiled sheet of paper and observe.",
+            "Finally, place the thick cardboard piece in front of the torch beam and observe."
+          ],
+          "precautions": [
+            "Do not look directly into high-intensity torch beam.",
+            "Hold each test material at uniform distance from the torch."
+          ],
+          "observations": "Light passes completely through glass sheet forming a bright spot. Light passes partially through oiled paper forming a dim glow. No light passes through cardboard.",
+          "conclusion": "Glass sheet is transparent, oiled paper is translucent, and cardboard is opaque."
+        }
+      ],
+      "summary_points": [
+        "Materials are grouped together on the basis of similarities and differences in their properties.",
+        "Grouping materials helps in systematic study and convenient storage.",
+        "Materials can be grouped on the basis of appearance, hardness, solubility, flotation, and transparency."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between transparent, translucent, and opaque materials with two examples of each.",
+          "question_text_te": "పారదర్శక, పాక్షిక పారదర్శక మరియు అపారదర్శక పదార్థాల మధ్య గల తేడాలను రెండేసి ఉదాహరణలతో రాయండి.",
+          "question_text": "Distinguish between transparent, translucent, and opaque materials."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do shopkeepers prefer to keep biscuits, sweets, and snacks in transparent glass or plastic jars? What would happen if they used opaque tins?",
+          "question_text_te": "దుకాణదారులు బిస్కెట్లు, మిఠాయిలు, చిరుతిళ్లను పారదర్శక గాజు లేదా ప్లాస్టిక్ డబ్బాలలో ఎందుకు ఉంచుతారు? వారు అపారదర్శక డబ్బాలను ఉపయోగిస్తే ఏమవుతుంది?",
+          "question_text": "Reason about why shopkeepers use transparent jars."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe an activity to demonstrate whether oil is soluble or insoluble in water.",
+          "question_text_te": "నూనె నీటిలో కరుగుతుందో లేదో పరీక్షించే ఒక కృత్యాన్ని వివరించండి.",
+          "question_text": "Describe experiment to test solubility of cooking oil in water."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Draw a labeled diagram of an experiment showing floating and sinking of different objects in a beaker filled with water.",
+          "question_text_te": "నీటితో నిండిన బీకరులో వివిధ వస్తువులు తేలడం మరియు మునగడాన్ని చూపే చక్కని పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of floating and sinking objects in water."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are cooking utensils made of metals like aluminum, copper, or stainless steel, while their handles are made of wood or bakelite plastic?",
+          "question_text_te": "వంట పాత్రలను అల్యూమినియం, రాగి లేదా స్టెయిన్ లెస్ స్టీల్ వంటి లోహాలతో, వాటి పిడులను చెక్క లేదా ప్లాస్టిక్ తో ఎందుకు తయారు చేస్తారు?",
+          "question_text": "Explain why cooking vessels are metallic while handles are insulators."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Separation of Substances",
+      "title_te": "పదార్థాలను వేరు చేయుట",
+      "semester": 1,
+      "learning_outcomes": [
+        "Recognize the need for separating different components of a mixture.",
+        "Explain methods of separation: handpicking, threshing, winnowing, sieving, sedimentation, decantation, filtration, evaporation, and condensation.",
+        "Understand saturated and unsaturated solutions and the effect of temperature on solubility."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Sedimentation",
+          "term_te": "తేర్చుట (అవక్షేపణం)",
+          "definition": "The process by which heavier insoluble solid particles in a liquid settle down at the bottom of the container."
+        },
+        {
+          "term": "Decantation",
+          "term_te": "వంపుట",
+          "definition": "The gentle pouring off of the clear supernatant liquid without disturbing the settled sediment."
+        },
+        {
+          "term": "Filtration",
+          "term_te": "వడపోత",
+          "definition": "The process of separating fine insoluble solid particles from a liquid by passing the mixture through a porous filter paper or cloth."
+        },
+        {
+          "term": "Saturated Solution",
+          "term_te": "సంతృప్త ద్రావణం",
+          "definition": "A solution in which no more solute can be dissolved at a given temperature."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Phase Change Principles of Separation",
+          "statement": "Evaporation converts liquid into gas upon heating, leaving behind non-volatile dissolved solutes. Condensation cools vapor back into liquid upon heat removal."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Water(l)} \\xrightarrow{\\text{Evaporation / Heat}} \\text{Water Vapor(g)}",
+        "\\text{Water Vapor(g)} \\xrightarrow{\\text{Condensation / Cooling}} \\text{Water(l)}",
+        "\\text{Solubility } S = \\frac{\\text{Mass of dissolved solute (g)}}{\\text{Mass of solvent (100 g)}} \\quad (\\text{at temperature } T)"
+      ],
+      "key_diagrams": [
+        "Filtration setup showing folded filter paper cone in funnel and beaker",
+        "Evaporation and condensation of water vapor using kettle and ice plate"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "3.1",
+          "title": "Separating Salt from Saltwater by Evaporation",
+          "title_te": "బాష్పీభవనం ద్వారా ఉప్పునీటి నుండి ఉప్పును వేరుచేయుట",
+          "type": "lab_activity",
+          "aim": "To separate dissolved common salt from water using the process of evaporation.",
+          "apparatus": [
+            "Beaker (250 mL)",
+            "Tripod stand",
+            "Wire gauze",
+            "Bunsen burner / spirit lamp",
+            "Common salt solution (dissolved salt in water)",
+            "Watch glass"
+          ],
+          "principle": "Water is volatile and boils away as steam at $100^\\circ\\text{C}$, while sodium chloride is non-volatile and crystallizes as solid residue.",
+          "procedure": [
+            "Pour about 50 mL of salt solution into a clean beaker.",
+            "Place the beaker on a tripod stand with wire gauze.",
+            "Heat the beaker gently using a burner.",
+            "Allow the water to boil until all the water evaporates.",
+            "Observe the residue left at the bottom of the beaker."
+          ],
+          "precautions": [
+            "Heat gently towards the end of evaporation to prevent splattering of hot salt crystals.",
+            "Use wire gauze to ensure uniform heating of the beaker."
+          ],
+          "observations": "Water boils off completely as steam, leaving behind white crystalline solid deposits on the bottom and sides of the beaker.",
+          "conclusion": "Common salt is successfully separated from water by the process of evaporation."
+        },
+        {
+          "activity_no": "3.2",
+          "title": "Separation of Insoluble Impurities by Filtration",
+          "title_te": "వడపోత పద్ధతి ద్వారా మట్టినీటిని శుభ్రపరచుట",
+          "type": "lab_activity",
+          "aim": "To obtain clear water from muddy water using filter paper filtration.",
+          "apparatus": [
+            "Glass funnel",
+            "Circular filter paper",
+            "Conical flask / beaker",
+            "Retort stand with clamp",
+            "Muddy water sample",
+            "Glass rod"
+          ],
+          "principle": "The tiny pores in the filter paper allow water molecules to pass through as filtrate while blocking larger suspended mud particles as residue.",
+          "procedure": [
+            "Fold the circular filter paper in half, and then fold it again into a quarter.",
+            "Open one fold to form a cone and fit it into the glass funnel, moistening with a few drops of water.",
+            "Fix the funnel on the stand and place a clean beaker beneath the stem.",
+            "Pour muddy water gently down a glass rod into the filter paper cone.",
+            "Observe the liquid collecting in the beaker and the substance left on the filter paper."
+          ],
+          "precautions": [
+            "Do not pour liquid above the top rim of the filter paper cone.",
+            "Ensure the stem of the funnel touches the inner wall of the collecting beaker."
+          ],
+          "observations": "Clear liquid (filtrate) trickles into the beaker, while mud and sand particles remain behind on the filter paper as residue.",
+          "conclusion": "Filtration successfully separates insoluble suspended impurities from muddy water."
+        }
+      ],
+      "summary_points": [
+        "Handpicking, winnowing, sieving, sedimentation, decantation, and filtration are simple separation methods.",
+        "Winnowing separates heavier components from lighter components by wind or blowing air.",
+        "A mixture of salt and water is separated by evaporation.",
+        "More substance can be dissolved in a solution by heating it."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is winnowing? Where is it used?",
+          "question_text_te": "తూర్పారబట్టడం అంటే ఏమిటి? దీనిని ఎక్కడ ఉపయోగిస్తారు?",
+          "question_text": "Define winnowing and explain its practical application."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "How would you separate a mixture of sand, salt, and water? Explain the sequence of methods used.",
+          "question_text_te": "ఇసుక, ఉప్పు మరియు నీరు కలిసిన మిశ్రమాన్ని మీరు ఏ విధంగా వేరు చేస్తారు? ఉపయోగించిన పద్ధతుల క్రమాన్ని వివరించండి.",
+          "question_text": "Explain step-by-step separation of sand, salt, and water mixture."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What happens when a hot saturated sugar solution is cooled slowly without disturbance? State your hypothesis and scientific reason.",
+          "question_text_te": "వేడిగా ఉన్న సంతృప్త చక్కెర ద్రావణాన్ని కదల్చకుండా నెమ్మదిగా చల్లబరిస్తే ఏమి జరుగుతుంది? మీ పరికల్పనను, శాస్త్రీయ కారణాన్ని తెలపండి.",
+          "question_text": "Hypothesize what happens when a hot saturated sugar solution cools down."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram illustrating the filtration setup using a filter paper cone, funnel, and beaker.",
+          "question_text_te": "ఫిల్టర్ పేపర్ కోన్, గరాటు మరియు బీకరును ఉపయోగించి వడపోత అమరికను చూపే చక్కని నామకరణం చేసిన పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of laboratory filtration apparatus."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How is common salt harvested from sea water in coastal regions of Andhra Pradesh?",
+          "question_text_te": "ఆంధ్రప్రదేశ్ తీరప్రాంతాలలో సముద్రపు నీటి నుండి ఉప్పును ఏ పద్ధతి ద్వారా సేకరిస్తారు?",
+          "question_text": "Explain salt harvesting from sea water using shallow evaporation ponds."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Getting to Know Plants",
+      "title_te": "మొక్కల గురించి తెలుసుకోవడం",
+      "semester": 1,
+      "learning_outcomes": [
+        "Classify plants into herbs, shrubs, trees, climbers, and creepers based on stem height and branching.",
+        "Identify parts of a plant and parts of a leaf (petiole, lamina, veins).",
+        "Distinguish between reticulate venation and parallel venation.",
+        "Demonstrate transpiration in leaves and photosynthesis.",
+        "Differentiate taproot and fibrous root systems and link them with leaf venation.",
+        "Examine parts of a flower: sepals, petals, stamens, and pistil."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Herbs, Shrubs, Trees",
+          "term_te": "మొక్కల రకాలు (గుల్మాలు, పొదలు, వృక్షాలు)",
+          "definition": "Herbs have green, tender stems without woody growth; shrubs branch near base with hard stems; trees are tall with thick, hard woody trunks."
+        },
+        {
+          "term": "Transpiration",
+          "term_te": "బాష్పోత్సేకం",
+          "definition": "The loss of excess water in the form of water vapor from the aerial parts (stomata) of a plant."
+        },
+        {
+          "term": "Venation",
+          "term_te": "ఈనెల వ్యాపనం",
+          "definition": "The arrangement and pattern of veins and veinlets in the lamina of a leaf (reticulate or parallel)."
+        },
+        {
+          "term": "Pistil",
+          "term_te": "అండకోశం",
+          "definition": "The innermost, female reproductive part of a flower consisting of stigma, style, and ovary."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Correlation of Venation and Root Type",
+          "statement": "Plants having leaves with reticulate venation possess taproots; plants with parallel venation possess fibrous roots."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\xrightarrow[\\text{Chlorophyll}]{\\text{Sunlight}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 \\uparrow \\quad (\\text{Photosynthesis})",
+        "\\text{Flower Structure: } \\text{Calyx (Sepals)} + \\text{Corolla (Petals)} + \\text{Androecium (Stamens)} + \\text{Gynoecium (Pistil)}"
+      ],
+      "key_diagrams": [
+        "Structure of a leaf showing Petiole, Midrib, Lamina, and Veins",
+        "Comparison of Taproot with lateral roots and Fibrous root system",
+        "Parts of a flower showing Sepals, Petals, Stamen (Anther, Filament), and Pistil (Stigma, Style, Ovary)"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "4.1",
+          "title": "Demonstration of Transpiration in Plants",
+          "title_te": "మొక్కలలో బాష్పోత్సేకాన్ని నిరూపించే ప్రయోగం",
+          "type": "lab_activity",
+          "aim": "To demonstrate that green leaves release water vapor into the air through transpiration.",
+          "apparatus": [
+            "Healthy potted plant",
+            "Two transparent polythene bags",
+            "String / thread",
+            "Sunlight"
+          ],
+          "principle": "Plants absorb excess water from the soil through roots, which travels up the stem and is transpired through stomata into the surrounding air as water vapor.",
+          "procedure": [
+            "Take a well-watered, healthy potted plant placed in sunlight.",
+            "Enclose a leafy branch of the plant in a transparent polythene bag and tie its mouth tightly around the stem.",
+            "Tie the mouth of another empty polythene bag and keep it nearby in the sun as a control.",
+            "Leave the setup in bright sunlight for 2 to 3 hours and observe the inner surface of both bags."
+          ],
+          "precautions": [
+            "Tie the bag tightly to prevent entry of outside moist air.",
+            "Ensure the leaves used are clean and dry before tying the bag."
+          ],
+          "observations": "Tiny water droplets appear condensing on the inside walls of the polythene bag covering the leafy branch, while the control empty bag remains completely dry.",
+          "conclusion": "Leaves release water vapor through the process of transpiration."
+        },
+        {
+          "activity_no": "4.2",
+          "title": "Testing for Starch in a Leaf",
+          "title_te": "ఆకులో పిండిపదార్థం (స్టార్చ్) ఉనికిని నిరూపించుట",
+          "type": "lab_activity",
+          "aim": "To prove that green leaves synthesize starch during photosynthesis in the presence of sunlight.",
+          "apparatus": [
+            "Fresh green leaf from a plant kept in sunlight",
+            "Beaker with water",
+            "Test tube containing spirit / ethyl alcohol",
+            "Bunsen burner and tripod stand with wire gauze",
+            "Petri dish",
+            "Dilute iodine solution",
+            "Forceps"
+          ],
+          "principle": "Chlorophyll pigments mask the color reaction; dissolving chlorophyll in boiling alcohol unmasks the leaf tissue, allowing iodine to react with synthesized starch.",
+          "procedure": [
+            "Pluck a fresh green leaf from a plant that has been in sunlight.",
+            "Place the leaf in a test tube and pour enough spirit to completely immerse the leaf.",
+            "Place the test tube in a beaker half-filled with water (water bath).",
+            "Heat the water bath until all green chlorophyll dissolves into the spirit and the leaf becomes pale/colorless.",
+            "Carefully remove the bleached leaf using forceps and wash it in warm water.",
+            "Spread the leaf on a petri dish and pour a few drops of dilute iodine solution over it."
+          ],
+          "precautions": [
+            "Never heat the test tube containing spirit directly over a flame; always use a water bath, as alcohol is highly flammable.",
+            "Wash the leaf gently so it does not tear."
+          ],
+          "observations": "The pale bleached leaf turns blue-black where it was exposed to sunlight upon adding iodine solution.",
+          "conclusion": "The presence of starch in green leaves confirms that leaves manufacture starch through photosynthesis."
+        }
+      ],
+      "summary_points": [
+        "Herbs, shrubs, and trees are classifications based on stem nature and height.",
+        "Stem conducts water and minerals from roots to leaves and food from leaves to other plant parts.",
+        "Leaf venation is either reticulate or parallel.",
+        "Roots absorb water and minerals from soil and anchor the plant.",
+        "Flower parts are sepals, petals, stamens (male), and pistil (female)."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the main functions of a plant stem? How does it act like a two-way traffic street?",
+          "question_text_te": "మొక్క కాండం యొక్క ప్రధాన విధులు ఏమిటి? అది రెండు వైపులా ప్రయాణించే రహదారి వలె ఎలా పనిచేస్తుంది?",
+          "question_text": "Explain the functions of stem as two-way street."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "If you want to know whether a plant has a taproot or fibrous root without pulling it out of the soil, what feature of the plant would you observe?",
+          "question_text_te": "ఒక మొక్కను నేల నుండి పీకకుండానే దానికి తల్లివేరు వ్యవస్థ ఉందో లేదా పీచువేరు వ్యవస్థ ఉందో తెలుసుకోవడానికి మీరు మొక్క యొక్క ఏ భాగాన్ని పరిశీలిస్తారు?",
+          "question_text": "Deduce root type by observing leaf venation without uprooting."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to show that stem conducts water upwards in plants. Write Aim, Apparatus, Procedure, Precautions, Observations, and Conclusion.",
+          "question_text_te": "మొక్కలలో కాండం నీటిని పైకి రవాణా చేస్తుందని నిరూపించే ప్రయోగాన్ని వివరించండి.",
+          "question_text": "Describe experiment to prove stem conducts water using colored water."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram showing the internal parts of a flower (Sepals, Petals, Stamens with Anther and Filament, and Pistil with Stigma, Style, and Ovary).",
+          "question_text_te": "పువ్వులోని అంతర్భాగాలను (రక్షక పత్రాలు, ఆకర్షక పత్రాలు, కేసరాలు, అండకోశం) చూపే చక్కని నామకరణం చేసిన పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of floral parts."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do farmers avoid cutting off leaves of transplanted saplings during cultivation?",
+          "question_text_te": "రైతులు మొక్కలను నాటేటప్పుడు వాటి ఆకులను ఎందుకు తొలగించరు?",
+          "question_text": "Explain importance of retaining leaves for photosynthesis in transplanted saplings."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Body Movements",
+      "title_te": "శరీర కదలికలు",
+      "semester": 1,
+      "learning_outcomes": [
+        "Identify key bones and joints of the human skeletal system.",
+        "Distinguish types of movable joints: ball and socket, pivotal, hinge, and fixed joints.",
+        "Explain the role of bones, muscles, and cartilage in locomotion.",
+        "Analyze unique locomotive mechanisms in animals: earthworm, snail, cockroach, bird, fish, and snake."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Skeletal System",
+          "term_te": "అస్థిపంజర వ్యవస్థ",
+          "definition": "The framework of bones and cartilages that gives shape, support, protection to internal organs, and facilitates movement."
+        },
+        {
+          "term": "Ball and Socket Joint",
+          "term_te": "బంతి గిన్నె కీలు",
+          "definition": "A joint where the rounded end of one bone fits into the cavity of another, allowing movement in all directions (e.g., shoulder, hip)."
+        },
+        {
+          "term": "Hinge Joint",
+          "term_te": "మడతబందు కీలు",
+          "definition": "A joint that allows back-and-forth movement like the hinge of a door (e.g., elbow, knee)."
+        },
+        {
+          "term": "Streamlined Body",
+          "term_te": "పడవ ఆకారపు శరీరం",
+          "definition": "A body shape tapering at both ends that reduces resistance while moving through water or air (observed in fish and birds)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Principle of Antagonistic Muscle Action",
+          "statement": "Muscles work in pairs; when one muscle contracts, the bone is pulled in that direction while the partner muscle relaxes. A muscle can only pull, it cannot push."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Total Bones in Adult Human Skeleton} = 206",
+        "\\text{Ball-and-Socket Joint: } 360^\\circ \\text{ multi-axial rotation}",
+        "\\text{Hinge Joint: } 180^\\circ \\text{ single-plane flexion and extension}"
+      ],
+      "key_diagrams": [
+        "Ball and socket joint showing pelvic bone and femur head",
+        "Hinge joint of the elbow",
+        "Streamlined body shape of a fish"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "5.1",
+          "title": "Making a Model of a Ball and Socket Joint",
+          "title_te": "బంతి-గిన్నె కీలు నమూనాను తయారుచేయుట",
+          "type": "lab_activity",
+          "aim": "To construct a functional model of a ball and socket joint to understand its omnidirectional movement.",
+          "apparatus": [
+            "Old rubber ball",
+            "Small plastic bowl",
+            "Thick paper cylinder / cardboard tube",
+            "Glue or tape"
+          ],
+          "principle": "The spherical head of a bone rotating freely inside a hollow cup-shaped cavity allows full circular rotation in three dimensions.",
+          "procedure": [
+            "Make a hole in the rubber ball and push one end of the paper cylinder tightly into it, securing with glue.",
+            "Place the ball into the small plastic bowl so that the ball rests in the depression.",
+            "Hold the bowl in one hand and rotate the paper cylinder in all directions (clockwise, counterclockwise, forwards, backwards)."
+          ],
+          "precautions": [
+            "Ensure the bowl is slightly larger than the ball so the ball rotates without friction.",
+            "Fix the paper cylinder firmly into the ball."
+          ],
+          "observations": "The ball rotates smoothly in the bowl in all directions, rotating the attached paper cylinder freely.",
+          "conclusion": "The model demonstrates that a ball and socket joint permits free movement in all directions, exactly as in the human shoulder and hip."
+        },
+        {
+          "activity_no": "5.2",
+          "title": "Observing Movement in an Earthworm",
+          "title_te": "వానపాము చలన విధానాన్ని పరిశీలించుట",
+          "type": "lab_activity",
+          "aim": "To observe how an earthworm moves using muscle contraction and tiny bristles.",
+          "apparatus": [
+            "Live earthworm from moist garden soil",
+            "Sheet of filter / blotting paper",
+            "Smooth glass plate / tile",
+            "Hand lens / magnifying glass"
+          ],
+          "principle": "Earthworms lack bones; their segmented body moves by alternating contractions of circular and longitudinal muscles assisted by tiny hair-like bristles (setae) gripping the ground.",
+          "procedure": [
+            "Place a live earthworm on a sheet of moist blotting paper and observe its movement.",
+            "Observe the repeated extension and shortening of the body segments.",
+            "Carefully move the earthworm onto a smooth, clean glass plate and observe its locomotion.",
+            "Using a magnifying glass, examine the underside of the earthworm's body for bristles."
+          ],
+          "precautions": [
+            "Handle the earthworm gently without causing injury.",
+            "Keep the earthworm moist; return it to the garden soil after the activity."
+          ],
+          "observations": "On blotting paper, the earthworm moves swiftly by anchoring its rear and extending the front. On the smooth glass plate, it slips and struggles to move forward due to lack of grip for bristles.",
+          "conclusion": "Earthworms require ground friction and bristles for effective peristaltic movement."
+        }
+      ],
+      "summary_points": [
+        "Bones and cartilage form the human skeleton.",
+        "Movable joints include ball and socket, pivotal, hinge, and gliding joints.",
+        "Muscles move bones by contraction in antagonistic pairs.",
+        "Fish swim using alternating body curves and fins; birds fly with pneumatic bones and modified forelimbs.",
+        "Snakes slither in serpentine loops, pushing against the ground."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is a ball and socket joint? Name two places where this joint is found in the human body.",
+          "question_text_te": "బంతి గిన్నె కీలు అంటే ఏమిటి? మానవ శరీరంలో ఈ కీలు కనిపించే రెండు ప్రదేశాలను పేర్కొనండి.",
+          "question_text": "Define ball and socket joint with examples in human body."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why can our elbow not move backwards?",
+          "question_text_te": "మన మోచేయి వెనుక వైపుకు ఎందుకు మడవబడదు?",
+          "question_text": "Explain why the elbow moves only in one direction."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What would happen if our backbone consisted of only one single long bone instead of 33 vertebrae?",
+          "question_text_te": "మన వెన్నెముక 33 వెన్నుపూసలకు బదులుగా ఒకే ఒక పొడవైన ఎముకతో ఏర్పడి ఉంటే ఏమయ్యేది?",
+          "question_text": "Hypothesize consequences if backbone were a single rigid bone."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled sketch showing the antagonistic action of biceps and triceps muscles in bending and straightening the human arm.",
+          "question_text_te": "మానవ చేయి ముడుచుకోవడం మరియు చాచడంలో బైసెప్స్, ట్రైసెప్స్ కండరాల పరస్పర చర్యను చూపే చక్కని పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of biceps and triceps antagonistic muscle action."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How does practicing yoga and regular exercise help in keeping our joints and muscles healthy and flexible?",
+          "question_text_te": "యోగాసనాలు మరియు క్రమం తప్పని వ్యాయామం చేయడం మన కీళ్ళు, కండరాలను ఆరోగ్యంగా, దృఢంగా ఉంచడంలో ఎలా సహాయపడతాయి?",
+          "question_text": "Explain benefits of yoga and exercise for skeletal-muscular health."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "The Living Organisms — Characteristics and Habitats",
+      "title_te": "సజీవులు - లక్షణాలు మరియు ఆవాసాలు",
+      "semester": 2,
+      "learning_outcomes": [
+        "Classify surroundings into biotic and abiotic components.",
+        "Distinguish diverse terrestrial habitats (deserts, mountains, grasslands) and aquatic habitats (ponds, lakes, oceans).",
+        "Explain specific structural adaptations of camel, fish, cactus, and mountain animals.",
+        "Identify common characteristics of living things: respiration, response to stimuli, excretion, reproduction, and growth."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Habitat",
+          "term_te": "ఆవాసం",
+          "definition": "The natural dwelling place where an organism lives and obtains food, water, air, shelter, and suitable breeding conditions."
+        },
+        {
+          "term": "Adaptation",
+          "term_te": "అనుకూలనం",
+          "definition": "The presence of specific features or certain habits which enable a plant or animal to live in its surroundings over generations."
+        },
+        {
+          "term": "Stimuli",
+          "term_te": "ఉద్దీపనలు",
+          "definition": "Changes in our surroundings that make us respond to them (e.g., bright light, touch, temperature)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Principle of Biological Adaptation",
+          "statement": "Organisms adapt to abiotic factors over thousands of years through morphological, physiological, and behavioral modifications; those unable to adapt perish."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 \\rightarrow 6\\text{CO}_2 + 6\\text{H}_2\\text{O} + \\text{Energy} \\quad (\\text{Cellular Respiration})",
+        "\\text{Living System: } \\text{Biotic Components (Plants, Animals, Microbes)} + \\text{Abiotic Components (Air, Water, Soil, Sunlight)}"
+      ],
+      "key_diagrams": [
+        "Morphological adaptations in desert camel and cactus",
+        "Streamlined shape and fins of fish in aquatic habitat"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "6.1",
+          "title": "Investigating Effect of Abiotic Factors on Seed Germination",
+          "title_te": "విత్తన మొలకెత్తుటపై నిర్జీవ కారకాల ప్రభావాన్ని పరిశీలించుట",
+          "type": "lab_activity",
+          "aim": "To investigate the effect of water, air, and sunlight on the germination of moong seeds.",
+          "apparatus": [
+            "Dry moong (green gram) seeds",
+            "Four petri dishes / containers",
+            "Water",
+            "Cotton wool",
+            "Dark cupboard and refrigerator"
+          ],
+          "principle": "Seed germination requires specific abiotic conditions: moisture, adequate oxygen, and optimal temperature to activate metabolic enzymes.",
+          "procedure": [
+            "Take dry moong seeds and soak a portion in water for 24 hours.",
+            "Divide soaked seeds into four groups: (A) kept on moist cotton in a warm sunny room, (B) completely submerged under water in a beaker, (C) kept on moist cotton inside a dark cupboard, (D) kept on moist cotton in a cold refrigerator.",
+            "Keep group E as dry seeds without water.",
+            "Observe all groups daily for 3 to 4 days for radical/shoot emergence."
+          ],
+          "precautions": [
+            "Keep cotton moist by sprinkling water daily; do not let it dry out.",
+            "Ensure seeds in group B are fully submerged."
+          ],
+          "observations": "Seeds in group A (warmth, light, moist air) germinate vigorously with healthy shoots. Submerged seeds (B) and cold seeds (D) show very poor or no germination. Dry seeds (E) do not germinate at all.",
+          "conclusion": "Moisture, air, and moderate temperature are essential abiotic factors for seed germination."
+        },
+        {
+          "activity_no": "6.2",
+          "title": "Observing Transpiration Rate: Cactus vs Leafy Plant",
+          "title_te": "కాక్టస్ మరియు సాధారణ మొక్కల బాష్పోత్సేక రేటును పోల్చుట",
+          "type": "lab_activity",
+          "aim": "To compare the rate of water loss through transpiration in a desert cactus and a normal leafy potted plant.",
+          "apparatus": [
+            "Potted cactus plant",
+            "Potted broad-leaved plant (e.g., Hibiscus)",
+            "Two transparent polythene bags",
+            "Threads",
+            "Sunlight"
+          ],
+          "principle": "Desert plants adapt to arid climates by reducing leaves to spines, drastically minimizing transpiration surface area.",
+          "procedure": [
+            "Tie a transparent polythene bag around the fleshy green stem of the potted cactus.",
+            "Tie an identical polythene bag around a leafy branch of the Hibiscus plant.",
+            "Place both potted plants side by side in bright sunlight for 2 hours.",
+            "Observe the inner surface of both polythene bags for water droplets."
+          ],
+          "precautions": [
+            "Use pots of similar size with moist soil covered by polythene to prevent soil evaporation.",
+            "Ensure airtight tying of bags around stems."
+          ],
+          "observations": "The bag enclosing the leafy Hibiscus branch collects numerous clear water droplets, while the bag enclosing the cactus stem shows almost no water droplets.",
+          "conclusion": "Cactus transpires drastically less water than a normal leafy plant due to leaf reduction into spines and thick waxy cuticle."
+        }
+      ],
+      "summary_points": [
+        "Living organisms show common characteristics: nutrition, respiration, growth, response to stimuli, excretion, reproduction, and lifespan.",
+        "Habitats are broadly terrestrial (desert, forest, grassland) and aquatic (marine, freshwater).",
+        "Camels have long legs to stay away from hot sand, store fat in humps, and pass minimal dry dung.",
+        "Fish have streamlined bodies, slippery scales, fins, and gills to utilize dissolved oxygen."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is a habitat? How are cactus adapted to survive in desert conditions?",
+          "question_text_te": "ఆవాసం అంటే ఏమిటి? ఎడారి పరిస్థితులలో జీవించడానికి బ్రహ్మజెముడు (కాక్టస్) ఎలా అనుకూలనాలు కలిగి ఉంటుంది?",
+          "question_text": "Define habitat and describe desert adaptations in cactus."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What would happen to a freshwater fish if it is placed in marine (ocean) water? Give reasons.",
+          "question_text_te": "మంచినీటి చేపను సముద్రపు నీటిలో ఉంచితే ఏమవుతుంది? శాస్త్రీయ కారణాలు తెలపండి.",
+          "question_text": "Hypothesize what happens to freshwater fish in seawater."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe an activity to prove that plants respond to light stimulus (Phototropism).",
+          "question_text_te": "మొక్కలు కాంతి ఉద్దీపనకు ప్రతిస్పందిస్తాయని (కాంతి అనువర్తనం) నిరూపించే ఒక ప్రయోగాన్ని వివరించండి.",
+          "question_text": "Describe experiment demonstrating phototropism in potted plant."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled sketch of a fish showing its streamlined body, fins, tail, and gills.",
+          "question_text_te": "చేప యొక్క పడవ ఆకారపు శరీరం, ఈదు రెక్కలు, తోక, మొప్పలను చూపే చక్కని నామకరణం చేసిన పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of fish showing aquatic adaptations."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why should we protect mangrove forests like Coringa in Andhra Pradesh from destruction?",
+          "question_text_te": "ఆంధ్రప్రదేశ్ లోని కోరింగ వంటి మడ అడవులను నాశనం కాకుండా మనం ఎందుకు సంరక్షించాలి?",
+          "question_text": "Explain ecological importance of protecting Coringa mangroves."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Motion and Measurement of Distances",
+      "title_te": "చలనం మరియు దూరాల కొలతలు",
+      "semester": 2,
+      "learning_outcomes": [
+        "Trace the historical development of transport from invention of wheel to modern aviation.",
+        "Explain why standard units of measurement (SI system) are necessary.",
+        "Measure length accurately using a meter scale and measure curved lines using thread.",
+        "Classify types of motion: rectilinear, circular, periodic, and rotational motion."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Measurement",
+          "term_te": "కొలత",
+          "definition": "The comparison of an unknown quantity with some known fixed quantity of the same kind, called a unit."
+        },
+        {
+          "term": "Rectilinear Motion",
+          "term_te": "సరళరేఖీయ చలనం",
+          "definition": "Motion in which an object moves along a straight line path (e.g., march past of soldiers, falling stone)."
+        },
+        {
+          "term": "Periodic Motion",
+          "term_te": "ఆవర్తన చలనం",
+          "definition": "Motion that repeats itself after regular, equal intervals of time (e.g., pendulum swing, revolution of Earth around Sun)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Standard International (SI) Metric System",
+          "statement": "The International System of Units (SI) standardizes units globally; the SI base unit of length is the metre (m)."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "1\\text{ m} = 100\\text{ cm} = 1000\\text{ mm}",
+        "1\\text{ km} = 1000\\text{ m} = 10^5\\text{ cm}",
+        "\\text{Average Speed } v = \\frac{\\text{Total Distance } s}{\\text{Total Time } t}",
+        "\\text{Time period of pendulum: } T = 2\\pi \\sqrt{\\frac{l}{g}}"
+      ],
+      "key_diagrams": [
+        "Correct eye positioning while taking reading on a meter scale",
+        "Method of measuring a curved line using a thread and meter ruler"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "7.1",
+          "title": "Measuring Length of a Curved Line using Thread",
+          "title_te": "దారమును ఉపయోగించి వంకరగా ఉన్న గీత పొడవును కొలుచుట",
+          "type": "lab_activity",
+          "aim": "To measure the exact length of a curved line drawn on paper using a piece of thread and a meter scale.",
+          "apparatus": [
+            "White drawing sheet with curved line AB",
+            "Non-stretchable cotton thread",
+            "Meter scale / 15 cm ruler",
+            "Ink marker / pen"
+          ],
+          "principle": "A flexible thread conforms to irregular curved contours; straightening the thread against a standard ruler converts curved path to linear measurement.",
+          "procedure": [
+            "Tie a knot near one end of the thread and place it at the starting point A of the curved line.",
+            "Using thumb and forefinger, place a small portion of the thread strictly along the curve.",
+            "Step-by-step, trace the entire curved line with the thread until you reach point B.",
+            "Put a distinct ink mark on the thread where it touches point B.",
+            "Now stretch the thread straight along a standard meter ruler, measuring from the knot to the ink mark."
+          ],
+          "precautions": [
+            "Use non-elastic thread; do not stretch the thread while measuring.",
+            "Align the thread closely along the curve in small segments."
+          ],
+          "observations": "The measured length between the knot and ink mark on the ruler gives the exact contour length of curve AB (e.g., 23.4 cm).",
+          "conclusion": "Curved lines can be accurately measured using flexible thread and a standard scale."
+        },
+        {
+          "activity_no": "7.2",
+          "title": "Investigating Different Types of Motion",
+          "title_te": "వివిధ రకాల చలనాలను పరిశీలించుట మరియు వర్గీకరించుట",
+          "type": "lab_activity",
+          "aim": "To observe and classify different objects exhibiting rectilinear, circular, and periodic motion.",
+          "apparatus": [
+            "Simple pendulum (string and metal bob)",
+            "Bicycle wheel on stand",
+            "Toy car on flat ramp",
+            "Stopwatch"
+          ],
+          "principle": "An object can exhibit multiple types of motion simultaneously depending on the trajectory of its points and time symmetry.",
+          "procedure": [
+            "Release the toy car down a straight ramp and observe its path.",
+            "Spin the bicycle wheel on its fixed axle and observe a mark made on its rim.",
+            "Displace the pendulum bob slightly to one side and release it, observing its repetitive swings.",
+            "Record the type of motion observed for each object in a table."
+          ],
+          "precautions": [
+            "Release the pendulum bob without pushing to ensure true periodic motion.",
+            "Ensure the ramp is completely straight for rectilinear motion."
+          ],
+          "observations": "The toy car moves along a straight line (rectilinear motion). The mark on the bicycle rim follows a circle around the axle (circular/rotational motion). The pendulum repeats its swing at fixed intervals (periodic motion).",
+          "conclusion": "Motion can be classified into rectilinear, circular, and periodic motions based on trajectory and timing."
+        }
+      ],
+      "summary_points": [
+        "SI unit of length is metre (m).",
+        "Rectilinear motion is motion along a straight line.",
+        "Circular motion is motion where distance from a fixed center remains constant.",
+        "Periodic motion repeats itself after regular intervals.",
+        "A rolling ball exhibits both rotational motion and rectilinear motion simultaneously."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why can a footstep or handspan not be used as a standard unit of length?",
+          "question_text_te": "అడుగు లేదా జానెడును ప్రామాణిక పొడవు కొలతగా ఎందుకు ఉపయోగించలేము?",
+          "question_text": "Explain why handspan/footstep are unreliable standard units."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The distance between Radha's home and her school is 3,250 m. Express this distance in km and cm.",
+          "question_text_te": "రాధ ఇంటి నుండి ఆమె పాఠశాలకు గల దూరం 3,250 మీటర్లు. ఈ దూరాన్ని కిలోమీటర్లు మరియు సెంటీమీటర్లలోకి మార్చండి.",
+          "question_text": "Convert 3250m into kilometers and centimeters."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Give two examples of objects that exhibit more than one type of motion simultaneously. Explain the types of motion present.",
+          "question_text_te": "ఒకే సమయంలో ఒకటి కంటే ఎక్కువ రకాల చలనాలను ప్రదర్శించే రెండు వస్తువులకు ఉదాహరణలు ఇచ్చి, వాటిలోని చలనాలను వివరించండి.",
+          "question_text": "Identify objects with multiple simultaneous motions (e.g. rolling ball, sewing machine)."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Draw a diagram showing the correct and incorrect positions of the eye while reading a meter scale.",
+          "question_text_te": "మీటరు స్కేలుపై కొలత తీసుకునేటప్పుడు కంటి సరైన మరియు తప్పు స్థానాలను చూపే పటాన్ని గీయండి.",
+          "question_text": "Illustrate parallax error and correct eye positioning on meter scale."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do tailors use flexible measuring tapes while carpenters use folding wooden or steel rules?",
+          "question_text_te": "దర్జీలు కొలతల కోసం అనువైన టేపులను, వడ్రంగులు దృఢమైన చెక్క లేదా స్టీల్ స్కేళ్లను ఎందుకు ఉపయోగిస్తారు?",
+          "question_text": "Explain choice of measuring tools for tailors vs carpenters."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Light, Shadows and Reflections",
+      "title_te": "కాంతి, నీడలు మరియు పరావర్తనాలు",
+      "semester": 2,
+      "learning_outcomes": [
+        "Classify objects as luminous (light-emitting) and non-luminous.",
+        "Explain conditions required for the formation of a shadow (light source, opaque object, screen).",
+        "Construct and operate a pinhole camera to understand inverted image formation.",
+        "Demonstrate that light travels in straight lines (rectilinear propagation).",
+        "Understand how plane mirrors reflect light and create clear images."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Luminous Objects",
+          "term_te": "కాంతి జనకాలు (ద్యుతిమంతమైన వస్తువులు)",
+          "definition": "Objects that emit light of their own (e.g., Sun, stars, burning candle, glowing electric bulb)."
+        },
+        {
+          "term": "Shadow",
+          "term_te": "నీడ",
+          "definition": "A dark region formed on a screen behind an opaque object when it blocks the path of light."
+        },
+        {
+          "term": "Reflection",
+          "term_te": "పరావర్తనం",
+          "definition": "The bouncing back of light rays when they strike a polished, smooth, or shiny surface like a mirror."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Rectilinear Propagation of Light",
+          "statement": "Light travels in straight lines in a homogeneous transparent medium and does not bend around sharp edges easily."
+        },
+        {
+          "name": "Law of Reflection",
+          "statement": "The angle of incidence equals the angle of reflection ($\\angle i = \\angle r$)."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\angle i = \\angle r \\quad (\\text{Law of Reflection})",
+        "c = 3 \\times 10^8\\text{ m/s} \\quad (\\text{Speed of Light in Vacuum})",
+        "\\text{Pinhole Magnification: } m = \\frac{\\text{Image Height } h_i}{\\text{Object Height } h_o} = \\frac{\\text{Image Distance } v}{\\text{Object Distance } u}"
+      ],
+      "key_diagrams": [
+        "Formation of shadow by an opaque ball in torch light on a wall screen",
+        "Construction and image formation in a pinhole camera",
+        "Reflection of light beam by plane mirror using comb and torch"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "8.1",
+          "title": "Demonstrating Rectilinear Propagation of Light",
+          "title_te": "కాంతి రుజుమార్గంలో (సరళరేఖలో) ప్రయాణిస్తుందని నిరూపించుట",
+          "type": "lab_activity",
+          "aim": "To demonstrate that light travels along straight lines using a rubber tube and candle.",
+          "apparatus": [
+            "Lighted candle",
+            "Straight flexible rubber/plastic tube (about 30 cm long)",
+            "Flat table"
+          ],
+          "principle": "Light rays travel in straight paths; if the straight path is physically obstructed or curved, light cannot reach the observer's eye.",
+          "procedure": [
+            "Fix a lighted candle firmly on a table in a dark room.",
+            "Hold the rubber tube straight and look through it at the candle flame with one eye.",
+            "Now bend the rubber tube slightly in the middle and attempt to look at the candle flame again."
+          ],
+          "precautions": [
+            "Keep candle away from flammable materials.",
+            "Do not touch hot candle wax or flame."
+          ],
+          "observations": "The candle flame is clearly visible through the straight tube. When the tube is bent, the flame is completely invisible.",
+          "conclusion": "Light travels only along straight lines (rectilinear propagation) and cannot bend through a curved tube."
+        },
+        {
+          "activity_no": "8.2",
+          "title": "Construction and Working of a Pinhole Camera",
+          "title_te": "సూదిబెజ్జం కెమెరా (పిన్ హోల్ కెమెరా) తయారీ మరియు పరిశీలన",
+          "type": "lab_activity",
+          "aim": "To construct a pinhole camera and observe the inverted images of bright objects.",
+          "apparatus": [
+            "Two cardboard boxes (one slightly smaller sliding inside the other)",
+            "Tracing / butter paper (translucent screen)",
+            "Small pin / needle",
+            "Black paper and adhesive tape"
+          ],
+          "principle": "Light rays from each point of a brightly lit object pass through the tiny pinhole in straight lines, intersecting and forming an inverted image on the translucent screen.",
+          "procedure": [
+            "Cut open one opposite side of both boxes.",
+            "On the outer larger box, make a small pinhole in the middle of the closed face.",
+            "On the inner smaller box, cut out a square from the closed face and paste butter paper over it as a screen.",
+            "Slide the smaller box inside the larger box with the butter paper screen facing inwards.",
+            "Point the pinhole at a brightly lit distant tree or building in sunlight and adjust the sliding box until a sharp image appears on the butter paper screen."
+          ],
+          "precautions": [
+            "Make the pinhole clean, circular, and very small.",
+            "Cover the user's head with dark cloth if surrounding light interferes with observation."
+          ],
+          "observations": "An upside-down (inverted), colored image of the distant tree appears on the translucent screen.",
+          "conclusion": "A pinhole camera forms real, inverted images because light travels strictly in straight lines."
+        }
+      ],
+      "summary_points": [
+        "Opaque objects block light and form shadows.",
+        "A shadow requires a source of light, an opaque object, and a screen.",
+        "A shadow only shows the silhouette/outline of an object, not its color or internal details.",
+        "Pinhole cameras form inverted images.",
+        "Mirrors reflect light, producing clear upright images with lateral inversion."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State the three essential requirements for the formation of a shadow.",
+          "question_text_te": "నీడ ఏర్పడటానికి అవసరమైన మూడు ముఖ్యమైన అంశాలను పేర్కొనండి.",
+          "question_text": "State the three requirements for shadow formation."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What will happen to the image formed by a pinhole camera if the pinhole is made larger, the size of a coin? Give reasons.",
+          "question_text_te": "సూదిబెజ్జం కెమెరా రంధ్రం ఒక నాణెం పరిమాణంలో పెద్దదిగా చేస్తే ఏర్పడే చిత్రంపై ఎలాంటి ప్రభావం పడుతుంది? కారణాలు తెలపండి.",
+          "question_text": "Hypothesize effect of enlarging pinhole camera aperture."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe an experiment using a plane mirror, comb, and torch to demonstrate reflection of light.",
+          "question_text_te": "సమతల దర్పణం, దువ్వెన, టార్చిలైట్ ఉపయోగించి కాంతి పరావర్తనాన్ని ప్రదర్శించే ప్రయోగాన్ని వివరించండి.",
+          "question_text": "Describe experiment illustrating mirror reflection using comb."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a ray diagram showing how a pinhole camera forms an inverted image of a tall tree.",
+          "question_text_te": "సూదిబెజ్జం కెమెరా ఒక పొడవైన చెట్టు యొక్క తలక్రిందుల చిత్రాన్ని ఎలా ఏర్పరుస్తుందో కిరణ పటం ద్వారా గీయండి.",
+          "question_text": "Draw ray diagram of pinhole camera forming inverted image."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do circular patches of sunlight appear on the ground under trees with dense leaves? What act as pinholes?",
+          "question_text_te": "దట్టమైన ఆకులు కలిగిన చెట్ల కింద నేలపై వృత్తాకార సూర్యకాంతి మచ్చలు ఎందుకు కనిపిస్తాయి? ఇక్కడ సూదిబెజ్జాలుగా ఏవి పనిచేస్తాయి?",
+          "question_text": "Explain circular sunlight patches under leafy trees as natural pinhole images."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Electricity and Circuits",
+      "title_te": "విద్యుత్ మరియు విద్యుత్ వలయాలు",
+      "semester": 2,
+      "learning_outcomes": [
+        "Identify the parts and terminals of an electric cell (metal cap positive, metal disc negative).",
+        "Describe the construction of an incandescent bulb (filament, terminals).",
+        "Build an electric circuit and distinguish between closed (complete) and open circuits.",
+        "Design and construct an electric switch using simple materials.",
+        "Classify materials as electrical conductors and insulators."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Electric Cell",
+          "term_te": "విద్యుత్ ఘటం",
+          "definition": "A device that produces electric current from chemical substances stored inside it."
+        },
+        {
+          "term": "Electric Circuit",
+          "term_te": "విద్యుత్ వలయం",
+          "definition": "A complete closed continuous path through which electric current flows from the positive to the negative terminal of an electric source."
+        },
+        {
+          "term": "Switch",
+          "term_te": "స్విచ్చ్",
+          "definition": "A simple device that either breaks the electric circuit (open) or completes it (closed)."
+        },
+        {
+          "term": "Conductors and Insulators",
+          "term_te": "వాహకాలు మరియు బంధకాలు",
+          "definition": "Conductors allow electric current to pass through them easily (metals, graphite); insulators do not allow electric current to pass (rubber, plastic, dry wood)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Principle of Electric Current Continuity",
+          "statement": "Electric current flows only when there is an unbroken, continuous closed loop path between the source terminals; if the filament is broken (fused), the circuit is incomplete and current ceases."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "I = \\frac{Q}{t} \\quad (\\text{Electric Current})",
+        "V = I R \\quad (\\text{Ohm's Law})",
+        "\\text{Conventional Current Flow: } +\\text{ve Terminal (Metal Cap)} \\rightarrow -\\text{ve Terminal (Metal Disc)}"
+      ],
+      "key_diagrams": [
+        "Electric cell showing positive metal cap and negative metal disc terminals",
+        "Electric bulb showing coiled tungsten filament and lead wires",
+        "Complete closed circuit vs open circuit with switch"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "9.1",
+          "title": "Making an Electric Bulb Glow in a Simple Circuit",
+          "title_te": "సరళ విద్యుత్ వలయం ద్వారా బల్బును వెలిగించుట",
+          "type": "lab_activity",
+          "aim": "To construct a simple electric circuit using a cell, connecting wires, and a small torch bulb.",
+          "apparatus": [
+            "Electric cell (1.5 V)",
+            "Small torch bulb with holder",
+            "Connecting copper wires (insulated)",
+            "Wire stripper / blade",
+            "Insulating tape"
+          ],
+          "principle": "An electric bulb glows when electrical energy transforms into heat and light energy as current flows through its resistive filament in a closed circuit.",
+          "procedure": [
+            "Take two lengths of insulated copper wire and remove about 1 cm of plastic insulation from each end.",
+            "Fix one stripped end of wire 1 to the positive metal cap of the cell using insulating tape.",
+            "Fix one stripped end of wire 2 to the negative metal disc of the cell.",
+            "Connect the other two free stripped ends of the wires to the two terminals of the bulb holder.",
+            "Observe whether the bulb glows."
+          ],
+          "precautions": [
+            "Never connect the two terminals of the electric cell directly to each other without a bulb, as the cell will discharge rapidly.",
+            "Ensure wire ends are cleanly stripped of enamel or plastic insulation."
+          ],
+          "observations": "When both wires make firm contact with the cell terminals and bulb terminals, the filament glows brightly. If either wire is detached, the bulb immediately goes off.",
+          "conclusion": "Electric current requires a complete, continuous closed circuit to flow and illuminate the bulb."
+        },
+        {
+          "activity_no": "9.2",
+          "title": "Testing Conductors and Insulators",
+          "title_te": "విద్యుత్ వాహకాలు మరియు బంధకాలను వర్గీకరించుట",
+          "type": "lab_activity",
+          "aim": "To identify which materials are electrical conductors and which are insulators using a conduction tester circuit.",
+          "apparatus": [
+            "Electric cell (1.5 V)",
+            "Torch bulb in holder",
+            "Connecting wires with alligator clips / free ends A and B",
+            "Test samples: Iron nail, Eraser, Plastic ruler, Copper coin, Glass bangle, Wooden pencil lead (graphite), Paper clip"
+          ],
+          "principle": "Conductors possess free mobile electrons that allow current flow, completing the tester circuit; insulators lack mobile charge carriers.",
+          "procedure": [
+            "Set up a conduction tester circuit leaving two free wire ends A and B with an open gap.",
+            "Touch ends A and B together briefly to verify the bulb glows (tester check).",
+            "Insert the iron nail between ends A and B so both ends contact the metal.",
+            "Observe if the bulb glows.",
+            "Repeat the test systematically with eraser, plastic ruler, copper coin, glass bangle, and pencil graphite."
+          ],
+          "precautions": [
+            "Do not leave test objects connected for too long to conserve battery life.",
+            "Clean sample surfaces of rust or grease before testing."
+          ],
+          "observations": "The bulb glows when ends A and B contact iron nail, copper coin, paper clip, and graphite. The bulb does not glow with eraser, plastic ruler, and glass bangle.",
+          "conclusion": "Iron, copper, steel, and graphite are electrical conductors. Rubber, plastic, and glass are electrical insulators."
+        }
+      ],
+      "summary_points": [
+        "An electric cell has two terminals: positive (cap) and negative (disc).",
+        "A bulb has a thin wire called filament that glows when current flows.",
+        "Current direction in a circuit is from positive to negative terminal.",
+        "A switch is a simple break/make device.",
+        "Conductors conduct electricity; insulators protect us from electric shocks."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the purpose of using an electric switch? Name some electrical gadgets that have switches built into them.",
+          "question_text_te": "విద్యుత్ స్విచ్చ్ ను ఉపయోగించడం వెనుక గల ప్రయోజనం ఏమిటి? స్విచ్చ్ లను కలిగి ఉండే కొన్ని గృహోపకరణాల పేర్లను తెలపండి.",
+          "question_text": "Explain purpose of electric switch with appliance examples."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does an electric bulb not glow when its filament is broken (fused)?",
+          "question_text_te": "బల్బులోని ఫిలమెంట్ తెగిపోయినప్పుడు (ఫ్యూజ్ అయినప్పుడు) ఆ బల్బు ఎందుకు వెలగదు?",
+          "question_text": "Explain why a fused bulb does not glow."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why should an electrician always wear rubber gloves while repairing electric switches or mains wiring?",
+          "question_text_te": "ఎలక్ట్రీషియన్ విద్యుత్ స్విచ్చ్ లను లేదా వైరింగ్ ను సరిచేసేటప్పుడు ఎల్లప్పుడూ రబ్బరు చేతి తొడుగులను ఎందుకు ధరించాలి?",
+          "question_text": "Explain safety reason for electricians wearing rubber gloves."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a schematic diagram of a complete electric circuit comprising a cell, a key/switch in ON position, and a glowing bulb, clearly marking current direction.",
+          "question_text_te": "ఘటం, ఆన్ (ON) స్థితిలో ఉన్న స్విచ్చ్, వెలుగుతున్న బల్బు మరియు విద్యుత్ ప్రవాహ దిశను స్పష్టంగా సూచిస్తూ ఒక సంపూర్ణ విద్యుత్ వలయం పటాన్ని గీయండి.",
+          "question_text": "Draw complete electric circuit diagram with current direction arrows."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are copper and aluminum wires covered with outer polyvinyl chloride (PVC) plastic coatings?",
+          "question_text_te": "రాగి మరియు అల్యూమినియం విద్యుత్ తీగలపై పి.వి.సి (PVC) ప్లాస్టిక్ తొడుగులను ఎందుకు వేస్తారు?",
+          "question_text": "Explain insulation safety function of PVC coating on wires."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Fun with Magnets",
+      "title_te": "అయస్కాంతాలతో సరదాలు",
+      "semester": 2,
+      "learning_outcomes": [
+        "Trace the history of natural magnets (discovery by Magnes the shepherd, magnetite/lodestone).",
+        "Classify materials into magnetic and non-magnetic substances.",
+        "Identify magnetic poles (North pole and South pole) of a magnet.",
+        "Understand directive property of a freely suspended magnet and construction of a magnetic compass.",
+        "Formulate laws of magnetic attraction and repulsion and learn how to care for magnets."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Magnet",
+          "term_te": "అయస్కాంతం",
+          "definition": "A substance that has the property of attracting iron, cobalt, and nickel objects."
+        },
+        {
+          "term": "Magnetic Poles",
+          "term_te": "అయస్కాంత ధ్రువాలు",
+          "definition": "The regions near the two ends of a magnet where the magnetic attractive force is maximum (North Pole and South Pole)."
+        },
+        {
+          "term": "Magnetic Compass",
+          "term_te": "దిక్సూచి (అయస్కాంత కంపాస్)",
+          "definition": "A navigational device containing a magnetized needle pivoted at its center so it can rotate freely in a horizontal plane to indicate North-South direction."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Law of Magnetic Poles",
+          "statement": "Like magnetic poles repel each other ($N \\leftrightarrow N$, $S \\leftrightarrow S$); unlike magnetic poles attract each other ($N \\leftrightarrow S$)."
+        },
+        {
+          "name": "Directive Property of Suspended Magnets",
+          "statement": "A freely suspended bar magnet always aligns itself along the geographic North-South direction due to Earth's geomagnetic field."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Poles Interaction: } N \\leftrightarrow N \\text{ (Repulsion)}, \\quad S \\leftrightarrow S \\text{ (Repulsion)}, \\quad N \\leftrightarrow S \\text{ (Attraction)}",
+        "F_{\\text{mag}} \\propto \\frac{m_1 m_2}{r^2} \\quad (\\text{Coulomb's Law of Magnetism})"
+      ],
+      "key_diagrams": [
+        "Iron filings pattern clustered densely at the poles of a bar magnet",
+        "Freely suspended bar magnet coming to rest in North-South direction",
+        "Magnetic compass with directional markings (N, S, E, W)"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "10.1",
+          "title": "Finding the Poles of a Magnet with Iron Filings",
+          "title_te": "ఇనుప రజను సహాయంతో అయస్కాంత ధ్రువాలను గుర్తించుట",
+          "type": "lab_activity",
+          "aim": "To observe that magnetic attractive force is concentrated predominantly at the two ends (poles) of a magnet.",
+          "apparatus": [
+            "Bar magnet",
+            "Iron filings",
+            "Sheet of white paper"
+          ],
+          "principle": "Magnetic field strength is strongest at the magnetic poles, causing maximum accumulation of ferromagnetic particles near the ends.",
+          "procedure": [
+            "Spread a small amount of fine iron filings uniformly on a white paper sheet.",
+            "Place a bar magnet on the sheet and roll it gently over the iron filings.",
+            "Lift the bar magnet carefully and observe how the iron filings stick to different parts of the magnet.",
+            "Gently shake off the filings and repeat to verify the pattern."
+          ],
+          "precautions": [
+            "Do not inhale or touch eyes after handling iron filings.",
+            "Keep magnets away from watches and electronic devices."
+          ],
+          "observations": "Almost all iron filings crowd densely at the two extreme ends of the bar magnet; very few or almost no filings stick to the middle portion.",
+          "conclusion": "The magnetic attractive force is concentrated at the two ends of the magnet, called magnetic poles."
+        },
+        {
+          "activity_no": "10.2",
+          "title": "Making Your Own Magnet (Single Touch Method)",
+          "title_te": "సొంతంగా అయస్కాంతాన్ని తయారుచేయుట (ఏకస్పర్శ పద్ధతి)",
+          "type": "lab_activity",
+          "aim": "To magnetize a plain iron needle or nail using a permanent bar magnet by the single-touch method.",
+          "apparatus": [
+            "Plain sewing iron needle / iron nail (about 5 cm long)",
+            "Strong bar magnet",
+            "Iron pins / paper clips",
+            "Wooden table"
+          ],
+          "principle": "Unidirectional stroking with a magnetic pole aligns microscopic magnetic domains inside the iron piece in a unified direction, turning it into a temporary magnet.",
+          "procedure": [
+            "Place the iron needle on a wooden table.",
+            "Take one pole of the bar magnet (say North pole) and place it on one end of the needle.",
+            "Without lifting the magnet, stroke it along the length of the needle to the other end.",
+            "Lift the magnet, bring the same pole back to the starting point, and stroke again in the same direction.",
+            "Repeat this stroking process 30 to 40 times in the same direction.",
+            "Bring small iron pins near the needle to test if it has acquired magnetism."
+          ],
+          "precautions": [
+            "Always stroke in the same direction; never rub back and forth.",
+            "Use the same pole of the magnet throughout the stroking."
+          ],
+          "observations": "The iron needle attracts the small iron pins, holding them against gravity.",
+          "conclusion": "The iron needle has been successfully converted into a magnet using the single-touch stroking method."
+        }
+      ],
+      "summary_points": [
+        "Magnetite is a natural magnet.",
+        "A magnet attracts materials like iron, nickel, and cobalt (magnetic materials).",
+        "Each magnet has two poles: North and South.",
+        "A freely suspended magnet always comes to rest in the North-South direction.",
+        "Like poles repel and unlike poles attract.",
+        "Magnets lose their properties if heated, hammered, or dropped from heights."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State the law of magnetic attraction and repulsion between two magnets.",
+          "question_text_te": "రెండు అయస్కాంతాల మధ్య ఆకర్షణ మరియు వికర్షణ నియమాలను తెలపండి.",
+          "question_text": "State laws of magnetic attraction and repulsion."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A bar magnet has no markings to indicate its poles. How would you find out near which end is its north pole located?",
+          "question_text_te": "ధ్రువాల గుర్తులు లేని ఒక దండాయస్కాంతం యొక్క ఉత్తర ధ్రువం ఏ చివర ఉందో మీరు ఎలా కనుగొంటారు?",
+          "question_text": "Explain how to identify unknown poles of a bar magnet using suspension."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "You are given an iron strip. You suspect it might already be a magnet. How will you test whether it is a magnet or just an ordinary magnetic iron piece? (Hint: Repulsion is the sure test).",
+          "question_text_te": "మీకు ఒక ఇనుప పట్టీ ఇవ్వబడింది. అది అయస్కాంతమా లేక సాధారణ ఇనుప ముక్కా అని నిర్ధారించడానికి మీరు ఏ పరీక్ష చేస్తారు?",
+          "question_text": "Explain why repulsion is the only sure test of magnetism."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled sketch of a magnetic compass showing its circular dial, directional markers, and pivoted magnetic needle.",
+          "question_text_te": "దిక్సూచి (కంపాస్) యొక్క వృత్తాకార డయల్, దిశల గుర్తులు, స్వేచ్ఛగా తిరిగే అయస్కాంత సూచికను చూపే చక్కని పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of a magnetic compass."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "List three precautions that must be observed to prevent permanent magnets from losing their magnetism.",
+          "question_text_te": "శాశ్వత అయస్కాంతాలు తమ అయస్కాంతత్వాన్ని కోల్పోకుండా ఉండటానికి పాటించవలసిన మూడు జాగ్రత్తలను పేర్కొనండి.",
+          "question_text": "State precautions to preserve permanent magnets (avoid heating, dropping, proper keepers)."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Air Around Us",
+      "title_te": "మన చుట్టూ ఉన్న గాలి",
+      "semester": 2,
+      "learning_outcomes": [
+        "Recognize that air is present everywhere around us and occupies space.",
+        "Identify the components of air: nitrogen, oxygen, carbon dioxide, water vapor, and dust.",
+        "Demonstrate that air supports burning (combustion) through experimental verification.",
+        "Explain how animals and plants living in soil and water breathe oxygen.",
+        "Understand how oxygen is continually replenished in the atmosphere through plant photosynthesis."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Atmosphere",
+          "term_te": "వాతావరణం",
+          "definition": "The thick blanket of air that surrounds the Earth up to hundreds of kilometers above sea level."
+        },
+        {
+          "term": "Composition of Air",
+          "term_te": "గాలిలోని సంఘటకాలు",
+          "definition": "Air is a mixture comprising roughly 78% Nitrogen, 21% Oxygen, and 1% Carbon dioxide, noble gases, water vapor, and dust particles."
+        },
+        {
+          "term": "Combustion",
+          "term_te": "దహన క్రియ",
+          "definition": "A chemical reaction in which a substance burns in oxygen, releasing heat, light, carbon dioxide, and water vapor."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Principle of Atmospheric Oxygen-Carbon Dioxide Balance",
+          "statement": "Respiration by all living organisms consumes oxygen and releases carbon dioxide; green plants restore oxygen through photosynthesis, maintaining atmospheric gas equilibrium."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Air} = 78\\%\\text{ N}_2 + 21\\%\\text{ O}_2 + 0.04\\%\\text{ CO}_2 + \\text{Water Vapor} + \\text{Inert Gases}",
+        "\\text{Combustion: } \\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2 + \\Delta H \\quad (\\text{Heat and Light})",
+        "6\\text{CO}_2 + 6\\text{H}_2\\text{O} \\xrightarrow[\\text{Chlorophyll}]{\\text{Sunlight}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 \\uparrow \\quad (\\text{Oxygen Replenishment})"
+      ],
+      "key_diagrams": [
+        "Pie chart showing proportional composition of air (Nitrogen, Oxygen, Other gases)",
+        "Experiment proving oxygen is required for burning using inverted glass jar over burning candle"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "11.1",
+          "title": "Proving that Air Occupies Space",
+          "title_te": "గాలి స్థలాన్ని ఆక్రమిస్తుందని నిరూపించుట",
+          "type": "lab_activity",
+          "aim": "To prove that an empty glass bottle is actually filled with air which occupies space.",
+          "apparatus": [
+            "Wide glass trough / bucket of water",
+            "Empty dry transparent glass bottle"
+          ],
+          "principle": "Matter occupies space; an apparently empty vessel contains air, which resists the entry of liquid until allowed to escape.",
+          "procedure": [
+            "Take an empty, open glass bottle and hold it upside down with its mouth pointing into the trough of water.",
+            "Push the bottle vertically downwards into the water without tilting it.",
+            "Observe whether water enters the bottle.",
+            "Now tilt the bottle slightly under water and observe what happens."
+          ],
+          "precautions": [
+            "Push straight down first without any tilt.",
+            "Tilt slowly so bubble formation is observed clearly."
+          ],
+          "observations": "When pushed vertically, water does not enter the bottle. When tilted, large bubbles of air rush out with a gurgling sound, and water enters to take the place of escaped air.",
+          "conclusion": "The bottle was filled with air; air occupies space and must escape before water can enter."
+        },
+        {
+          "activity_no": "11.2",
+          "title": "Demonstrating Oxygen is Essential for Burning",
+          "title_te": "దహన క్రియకు (వస్తువులు మండటానికి) ఆక్సిజన్ అవసరమని నిరూపించుట",
+          "type": "lab_activity",
+          "aim": "To demonstrate that the oxygen component of air is consumed during combustion and is essential for burning.",
+          "apparatus": [
+            "Two identical small candles",
+            "Trough / flat tray with shallow colored water",
+            "Transparent glass tumbler",
+            "Matchbox"
+          ],
+          "principle": "Combustion is the oxidation of fuel; when enclosed in a limited volume of air, oxygen is consumed until its concentration falls below the threshold to support combustion.",
+          "procedure": [
+            "Fix two small burning candles of equal height on a flat dish containing shallow water.",
+            "Leave candle 1 uncovered in open air.",
+            "Invert a glass tumbler over candle 2 so its rim rests submerged in the water.",
+            "Observe the flame of both candles and the water level inside the inverted tumbler."
+          ],
+          "precautions": [
+            "Fix candles firmly to avoid tipping over.",
+            "Ensure the glass rim is submerged to create an airtight seal."
+          ],
+          "observations": "The uncovered candle continues burning brightly. Candle 2 flickers and goes out in a few seconds, and the water level inside the inverted glass rises to occupy about 1/5th (20%) of the tumbler volume.",
+          "conclusion": "Oxygen (roughly 21% of air) is consumed during burning and is indispensable for combustion."
+        }
+      ],
+      "summary_points": [
+        "Air is a mixture of gases, dust, and water vapor.",
+        "Nitrogen and oxygen together make up 99% of air.",
+        "Oxygen is required for respiration and burning.",
+        "Aquatic organisms breathe oxygen dissolved in water.",
+        "Soil organisms breathe air trapped in pores between soil particles.",
+        "Windmills harness the kinetic energy of moving air for grinding grain and generating electricity."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the composition of air? Which gas is present in the largest proportion?",
+          "question_text_te": "గాలిలోని సంఘటకాలు ఏవి? ఏ వాయువు అత్యధిక శాతంలో ఉంటుంది?",
+          "question_text": "State composition of air and identify the most abundant gas."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How do earthworms and burrowing animals breathe during heavy rainfall when burrows are flooded?",
+          "question_text_te": "భారీ వర్షాలు కురిసినప్పుడు నేల రంధ్రాలు నీటితో నిండిపోతే వానపాములు, బొరియలలో నివసించే జంతువులు ఎలా శ్వాస తీసుకుంటాయి?",
+          "question_text": "Explain why earthworms come out of soil during heavy rains."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do mountaineers carry oxygen cylinders with them while climbing high mountain peaks like Mount Everest?",
+          "question_text_te": "పర్వతారోహకులు ఎవరెస్ట్ వంటి ఎత్తైన పర్వతాలను అధిరోహించేటప్పుడు ఆక్సిజన్ సిలిండర్లను ఎందుకు వెంట తీసుకువెళ్తారు?",
+          "question_text": "Explain necessity of oxygen cylinders for mountaineers due to thin atmosphere."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a pie chart showing the percentage composition of gases present in the Earth's atmosphere.",
+          "question_text_te": "భూ వాతావరణంలో ఉన్న వివిధ వాయువుల శాతాన్ని చూపే పై చార్ట్ (పై చిత్రం) గీయండి.",
+          "question_text": "Draw pie chart of atmospheric gas composition."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the role of windmills in Andhra Pradesh in generating renewable green energy.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ లో పునరుత్పాదక హరిత విద్యుత్ ఉత్పత్తిలో పవన విద్యుత్ కేంద్రాల (విండ్ మిల్స్) పాత్రను వివరించండి.",
+          "question_text": "Explain role of windmills in generating clean renewable energy."
+        }
+      ]
+    }
+  ]
+}

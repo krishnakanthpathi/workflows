@@ -1,0 +1,1039 @@
+{
+  "book_metadata": {
+    "title_te": "తెలుగు వాచకం - ఎనిమిదవ తరగతి (AP SCERT 2024-25)",
+    "title_en": "Telugu Reader - Class 8",
+    "board": "ఆంధ్రప్రదేశ్ ప్రభుత్వం (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8వ తరగతి",
+    "medium": "తెలుగు ప్రథమ భాష",
+    "total_chapters": 14,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "semester_2": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    "source_pdfs": [
+      "8_Telugu_Textbook.pdf",
+      "8th_Telugu_language_Textbook_SL.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "అవగాహన - ప్రతిస్పందన",
+    "AS2": "వ్యక్తీకరణ - సృజనాత్మకత",
+    "AS3": "భాషాంశాలు",
+    "AS4": "వ్యాకరణాంశాలు"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "lesson_no": 1,
+      "title": "ఆంధ్రవైభవం",
+      "title_en": "Andhra Vaibhavam",
+      "prakriya": "గేయం",
+      "ithivrittam": "రాష్ట్రకీర్తి / దేశభక్తి",
+      "kavi": "కొండేపూడి లక్ష్మీనారాయణ",
+      "semester": 1,
+      "learning_outcomes": [
+        "ఆంధ్ర సంస్కృతి, సంప్రదాయాలు, నదుల వైభవాన్ని అవగతం చేసుకోవడం.",
+        "మాతృభూమి పట్ల భక్తి ప్రపత్తులను పెంపొందించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "నది": [
+            "ఏరు",
+            "సరిత్తు",
+            "వాహిని"
+          ],
+          "కీర్తి": [
+            "యశస్సు",
+            "ఖ్యాతి"
+          ]
+        },
+        "nanarthalu": {
+          "వాహిని": [
+            "నది",
+            "సేన"
+          ]
+        },
+        "prakriti_vikruti": {
+          "యశస్సు": "జసము",
+          "గౌరవము": "గారవము"
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి",
+          "గుణ సంధి"
+        ],
+        "samasalu": [
+          "ద్వంద్వ సమాసం",
+          "తత్పురుష సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "ఆంధ్రుల వైభవాన్ని చాటిచెప్పే నదులు ఏవి? వాటి ప్రాముఖ్యత ఏమిటి?",
+          "question_text_en": "Which sacred rivers proclaim the glory of Andhra? What is their significance?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'ఆంధ్రవైభవం' గేయ సారాంశాన్ని మీ సొంత మాటల్లో రాయండి.",
+          "question_text_en": "Write the summary of the poem 'Andhra Vaibhavam' in your own words."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు పర్యాయపదాలు రాయండి: (అ) కీర్తి (ఆ) సరిత్తు.",
+          "question_text_en": "Write synonyms for: (a) Keerthi (b) Sarittu."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సంధి చేసి, సూత్రం రాయండి: విద్యా + ఆలయము.",
+          "question_text_en": "Combine the sandhi and state the rule: Vidya + Aalayamu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "lesson_no": 2,
+      "title": "మాతృభూమి",
+      "title_en": "Mathrubhumi",
+      "prakriya": "కథానిక",
+      "ithivrittam": "దేశభక్తి, కుటుంబ విలువలు",
+      "kavi": "పవని నిర్మల ప్రభావతి",
+      "semester": 1,
+      "learning_outcomes": [
+        "కుటుంబ అనుబంధాలు, దేశభక్తి భావనలను గ్రహించడం.",
+        "కథానిక శిల్పాన్ని, పాత్ర చిత్రణను విశ్లేషించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మాతృభూమి కథానికలో తల్లీకొడుకుల మధ్య జరిగిన సంభాషణ యొక్క ముఖ్యోద్దేశం ఏమిటి?",
+          "question_text_en": "What was the main purpose of the conversation between mother and son in the story 'Mathrubhumi'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "దేశ సరిహద్దుల్లో కాపలా కాసే సైనికుల సేవలను కొనియాడుతూ ఒక వ్యాసం రాయండి.",
+          "question_text_en": "Write an essay praising the selfless service of soldiers guarding national frontiers."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "lesson_no": 3,
+      "title": "శతకసౌరభం",
+      "title_en": "Shataka Sourabham",
+      "prakriya": "శతక పద్యాలు",
+      "ithivrittam": "నైతిక విలువలు / సదాచారం",
+      "kavi": "శతక కవులు (ధూర్జటి, పోతులూరి, బద్దెన, వేమన, మొదలైనవారు)",
+      "semester": 1,
+      "learning_outcomes": [
+        "శతక పద్యాలలోని మకుటం, నీతి బోధనను ఆస్వాదించడం.",
+        "పద్య భావాలను కంఠస్థం చేసి నిత్యజీవితంలో ఆచరించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "శతక పద్యాల లక్షణాలు ఏమిటి? మకుటం ప్రాధాన్యాన్ని వివరించండి.",
+          "question_text_en": "What are the characteristics of Shataka poetry? Explain the significance of Makutam."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "ఉత్పలమాల పద్య పాద లక్షణాలను గణవిభజనతో వివరించండి.",
+          "question_text_te_alt": "ఉత్పలమాల వృత్త పద్య లక్షణాలను రాయండి.",
+          "question_text_en": "Explain the metrical characteristics of Utpalamala meter."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "lesson_no": 4,
+      "title": "నా యాత్ర",
+      "title_en": "Naa Yaatra",
+      "prakriya": "యాత్రా రచన",
+      "ithivrittam": "జాతీయ సమైక్యత, దర్శనీయ స్థలాలు",
+      "kavi": "బులుసు వేంకట రమణయ్య",
+      "semester": 1,
+      "learning_outcomes": [
+        "భారతదేశంలోని వివిధ చారిత్రక, సాంస్కృతిక ప్రదేశాల విశేషాలు తెలుసుకోవడం.",
+        "యాత్రా రచన శైలిలో పర్యటన విశేషాలను నమోదు చేయడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "రచయిత తన యాత్రలో దర్శించిన ప్రదేశాలలో మీకు నచ్చిన ప్రదేశం గురించి రాయండి.",
+          "question_text_en": "Describe a place visited by the author that appealed to you most and why."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "మీరు సందర్శించిన ఒక చారిత్రక ప్రదేశం గురించి మిత్రునికి లేఖ రాయండి.",
+          "question_text_en": "Write a letter to your friend describing a historical site you recently visited."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "lesson_no": 5,
+      "title": "సందేశం",
+      "title_en": "Sandesham",
+      "prakriya": "ఖండకావ్యం",
+      "ithivrittam": "కష్టజీవుల శ్రమ, సామాజిక సమానత్వం",
+      "kavi": "గుర్రం జాషువ",
+      "semester": 1,
+      "learning_outcomes": [
+        "శ్రమజీవుల ఔన్నత్యాన్ని గుర్తించి గౌరవించడం.",
+        "జాషువ గారి కవితా వైభవాన్ని, సామాజిక దృక్పథాన్ని అర్థం చేసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "జాషువ గారు శ్రామికుల కష్టాన్ని ఎలా వర్ణించారో వివరించండి.",
+          "question_text_en": "How did poet Gurram Jashuva portray the dignity and toil of working people?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సొంత వాక్యాల్లో ప్రయోగించండి: (అ) కష్టజీవి (ఆ) చెమటోడ్చు.",
+          "question_text_en": "Use in own sentences: (a) Kashtajeevi (b) Chematodchu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "lesson_no": 6,
+      "title": "పయనం",
+      "title_en": "Payanam",
+      "prakriya": "మాండలిక కథ",
+      "ithivrittam": "సామాజిక స్పృహ",
+      "kavi": "సింగమనేని నారాయణ",
+      "semester": 1,
+      "learning_outcomes": [
+        "రాయలసీమ మాండలిక భాషా సౌందర్యాన్ని ఆస్వాదించడం.",
+        "రైతాంగ జీవితంలోని ఆటుపోట్లను అర్థం చేసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "పయనం కథలో కనిపించే గ్రామీణ జీవన చిత్రణను వివరించండి.",
+          "question_text_en": "Explain the depiction of rural life presented in the dialect story 'Payanam'."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "గ్రామీణ ప్రాంతాల నుండి నగరాలకు జరిగే వలసల నివారణకు ఎలాంటి చర్యలు తీసుకోవచ్చు?",
+          "question_text_en": "What measures can be taken to curb distress migration from villages to urban slums?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "lesson_no": 7,
+      "title": "చైతన్యమూర్తులు",
+      "title_en": "Chaitanya Murthulu",
+      "prakriya": "వ్యాసం / ఉపవాచకం",
+      "ithivrittam": "స్ఫూర్తి / ప్రజాసేవ",
+      "kavi": "రచయితల బృందం",
+      "semester": 1,
+      "learning_outcomes": [
+        "పోతులూరి వీరబ్రహ్మం, నేదునూరి గంగాధరం, వడ్డాది పాపయ్య, ఫాతిమా షేక్ వంటి మహనీయుల జీవితాల నుండి ప్రేరణ పొందడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మహిళా విద్యా వికాసంలో ఫాతిమా షేక్ చేసిన సేవలను కొనియాడండి.",
+          "question_text_en": "Highlight the pioneering role of Fatima Sheikh in advancing girls' education."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a biographical sketch of folk heritage collector Nedunuri Gangadharam.",
+          "question_text_te": "జానపద గేయాల సేకరణలో నేదునూరి గంగాధరం గారు చేసిన కృషిపై సంక్షిప్త జీవిత రేఖను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "lesson_no": 8,
+      "title": "మేలిమలుపు",
+      "title_en": "Meli Malupu",
+      "prakriya": "కథ",
+      "ithivrittam": "ఆత్మస్థైర్యం, పట్టుదల",
+      "kavi": "దేవులపల్లి వేంకటకృష్ణశాస్త్రి",
+      "semester": 2,
+      "learning_outcomes": [
+        "జీవితంలో ఆటంకాలను అధిగమించి ముందుకు సాగే ఆత్మవిశ్వాసాన్ని పెంపొందించడం.",
+        "కథా విశ్లేషణ మరియు రచనా శైలిని ఆకళింపు చేసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "'ఎప్పుడూ ఒప్పుకోవద్దురా ఓటమి' అన్న కవి భావాన్ని వివరించండి.",
+          "question_text_en": "Explain the poet's inspirational thought: 'Never accept defeat in life'."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "కష్టాలు ఎదురైనప్పుడు అధైర్యపడకుండా ఎలా విజయం సాధించవచ్చో మీ సొంత అనుభవంతో రాయండి.",
+          "question_text_en": "How can one overcome adversity through perseverance? Write based on personal reflection."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "lesson_no": 9,
+      "title": "చిరమాలిన్యం",
+      "title_en": "Chiramalinyam",
+      "prakriya": "వచన కవిత",
+      "ithivrittam": "మానవ విలువలు, పర్యావరణ స్పృహ",
+      "kavi": "షేక్ ఖాజా హుస్సేన్ (దేవిప్రియ)",
+      "semester": 2,
+      "learning_outcomes": [
+        "సమాజంలో పేరుకుపోయిన అసమానతలు, కాలుష్య స్వభావాన్ని అర్థం చేసుకోవడం.",
+        "వచన కవితా శిల్పాన్ని, ప్రతీకలను విశ్లేషించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కవి సమాజంలోని ఎలాంటి కాలుష్యాన్ని 'చిరమాలిన్యం'గా అభివర్ణించారు?",
+          "question_text_en": "What kind of social pollution did the poet describe as 'Chiramalinyam'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సొంత వాక్యంలో ప్రయోగించండి: (అ) మానవతా విలువలు (ఆ) అంతశ్చేతన.",
+          "question_text_en": "Use in sentences: (a) Human values (b) Inner consciousness."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "lesson_no": 10,
+      "title": "నాటి చదువు",
+      "title_en": "Naati Chaduvu",
+      "prakriya": "ఆత్మకథ",
+      "ithivrittam": "వ్యక్తిత్వ వికాసం / చదువు విలువ",
+      "kavi": "మామిడిపూడి వేంకట రంగయ్య",
+      "semester": 2,
+      "learning_outcomes": [
+        "పాతకాలపు విద్యా విధానాన్ని, గురుశిష్యుల సంబంధాలను అర్థం చేసుకోవడం.",
+        "ఆత్మకథా రూప విశేషాలను తెలుసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మామిడిపూడి వారు తమ బాల్యంలో పాఠశాలలో ఎదుర్కొన్న అనుభవాలను తెలపండి.",
+          "question_text_en": "Describe Mamidipudi's childhood school experiences recounted in his autobiography."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "నాటి విద్యా విధానానికి, నేటి ఆధునిక విద్యా విధానానికి గల తేడాలను పోల్చండి.",
+          "question_text_en": "Compare the traditional schooling system of the past with modern contemporary education."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "lesson_no": 11,
+      "title": "సమదృష్టి",
+      "title_en": "Samadrishti",
+      "prakriya": "గజల్",
+      "ithivrittam": "సమానత్వం / మానవతావాదం",
+      "kavi": "పైడి తెరేష్ బాబు",
+      "semester": 2,
+      "learning_outcomes": [
+        "గజల్ ప్రక్రియ లక్షణాలను (మత్లా, మఖ్తా, రదీఫ్, కాఫియా) తెలుసుకోవడం.",
+        "సమాజంలో మానవులందరినీ సమానంగా చూడాలనే సమదృష్టిని అలవర్చుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కవి ప్రతిపాదించిన 'సమదృష్టి' భావనను సంక్షిప్తంగా వివరించండి.",
+          "question_text_en": "Briefly explain the philosophy of 'Samadrishti' (equal vision) advocated by the poet."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "గజల్ ప్రక్రియ యొక్క ముఖ్య లక్షణాలను రాయండి.",
+          "question_text_en": "Explain the key characteristics of the Ghazal poetic genre."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "lesson_no": 12,
+      "title": "భువన విజయం",
+      "title_en": "Bhuvana Vijayam",
+      "prakriya": "సాహిత్య రూపకం",
+      "ithivrittam": "భాషాభిరుచి, సాహిత్యాభిలాష",
+      "kavi": "వేటూరి ప్రభాకరశాస్త్రి & డా. సి.వి. సుబ్బన్న",
+      "semester": 2,
+      "learning_outcomes": [
+        "శ్రీకృష్ణదేవరాయల ఆస్థానమైన భువన విజయ సభా వైభవాన్ని గ్రహించడం.",
+        "అష్టదిగ్గజ కవుల చాటువులను, సాహిత్య గోష్ఠిని ఆస్వాదించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "భువన విజయ సభలో శ్రీకృష్ణదేవరాయలు కవులను ఎలా సత్కరించేవారు?",
+          "question_text_en": "How did Sri Krishnadevaraya patronize and felicitate poets in the Bhuvana Vijaya assembly?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'దేశభాషలందు తెలుగు లెస్స' అన్న సూక్తిని వివరిస్తూ తెలుగు భాషా వైభవంపై ఉపన్యాస వ్యాసం రాయండి.",
+          "question_text_en": "Write an address praising the glory of Telugu language expanding on the maxim 'Desa Bhashalandu Telugu Lessa'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "lesson_no": 13,
+      "title": "ఆతిథ్యం",
+      "title_en": "Aatithyam",
+      "prakriya": "ఇతిహాస కవిత",
+      "ithivrittam": "అతిథి సత్కారం / ధర్మనిష్ఠ",
+      "kavi": "తిక్కన సోమయాజి",
+      "semester": 2,
+      "learning_outcomes": [
+        "భారతీయ సంస్కృతిలో అతిథి సత్కార విశిష్టతను తెలుసుకోవడం.",
+        "తిక్కన గారి నాటకీయ శైలిని, పద్య రచనను అధ్యయనం చేయడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "భారతంలో కుచేలుడు లేదా సక్తుప్రస్థుని అతిథి సత్కారం ద్వారా తిక్కన ఏ సందేశాన్ని అందించారు?",
+          "question_text_en": "What ethical message on hospitality did Tikkana convey through Mahabharata verses?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "విగ్రహవాక్యం రాసి సమాసం పేరు రాయండి: (అ) అతిథిసత్కారం (ఆ) ధర్మనిష్ఠ.",
+          "question_text_en": "Write the vigraha vakyam and name the compound for: (a) Athithisatkaram (b) Dharmanishta."
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "lesson_no": 14,
+      "title": "కళా వారసత్వం",
+      "title_en": "Kala Vaarasathvam",
+      "prakriya": "వ్యాసం / ఉపవాచకం",
+      "ithivrittam": "కళల వైశిష్ట్యం, సంస్కృతి పరిరక్షణ",
+      "kavi": "రచయితల బృందం",
+      "semester": 2,
+      "learning_outcomes": [
+        "భరతనాట్యం, కథాకళి, ఒడిస్సీ, కూచిపూడి, హరికథ వంటి శాస్త్రీయ, జానపద కళారూపాలను గుర్తించడం.",
+        "భారతీయ కళా వైభవాన్ని కాపాడుకోవాలనే చైతన్యాన్ని పెంపొందించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "హరికథా ప్రక్రియ ప్రత్యేకతలు ఏమిటి? ఆంధ్రదేశంలో హరికథా పితామహుడు ఎవరు?",
+          "question_text_en": "What are the features of the Harikatha art form? Who is known as Harikatha Pitamaha in Andhra?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "నశించిపోతున్న ప్రాచీన జానపద కళారూపాలను పునరుద్ధరించడానికి మీ వంతుగా ఎలాంటి సూచనలు చేస్తారు?",
+          "question_text_en": "What suggestions would you offer to preserve and revitalize endangered traditional folk art forms?"
+        }
+      ]
+    }
+  ],
+  "main_lessons": [
+    {
+      "chapter_no": 1,
+      "lesson_no": 1,
+      "title": "ఆంధ్రవైభవం",
+      "title_en": "Andhra Vaibhavam",
+      "prakriya": "గేయం",
+      "ithivrittam": "రాష్ట్రకీర్తి / దేశభక్తి",
+      "kavi": "కొండేపూడి లక్ష్మీనారాయణ",
+      "semester": 1,
+      "learning_outcomes": [
+        "ఆంధ్ర సంస్కృతి, సంప్రదాయాలు, నదుల వైభవాన్ని అవగతం చేసుకోవడం.",
+        "మాతృభూమి పట్ల భక్తి ప్రపత్తులను పెంపొందించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "నది": [
+            "ఏరు",
+            "సరిత్తు",
+            "వాహిని"
+          ],
+          "కీర్తి": [
+            "యశస్సు",
+            "ఖ్యాతి"
+          ]
+        },
+        "nanarthalu": {
+          "వాహిని": [
+            "నది",
+            "సేన"
+          ]
+        },
+        "prakriti_vikruti": {
+          "యశస్సు": "జసము",
+          "గౌరవము": "గారవము"
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి",
+          "గుణ సంధి"
+        ],
+        "samasalu": [
+          "ద్వంద్వ సమాసం",
+          "తత్పురుష సమాసం"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "ఆంధ్రుల వైభవాన్ని చాటిచెప్పే నదులు ఏవి? వాటి ప్రాముఖ్యత ఏమిటి?",
+          "question_text_en": "Which sacred rivers proclaim the glory of Andhra? What is their significance?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'ఆంధ్రవైభవం' గేయ సారాంశాన్ని మీ సొంత మాటల్లో రాయండి.",
+          "question_text_en": "Write the summary of the poem 'Andhra Vaibhavam' in your own words."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు పర్యాయపదాలు రాయండి: (అ) కీర్తి (ఆ) సరిత్తు.",
+          "question_text_en": "Write synonyms for: (a) Keerthi (b) Sarittu."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సంధి చేసి, సూత్రం రాయండి: విద్యా + ఆలయము.",
+          "question_text_en": "Combine the sandhi and state the rule: Vidya + Aalayamu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "lesson_no": 2,
+      "title": "మాతృభూమి",
+      "title_en": "Mathrubhumi",
+      "prakriya": "కథానిక",
+      "ithivrittam": "దేశభక్తి, కుటుంబ విలువలు",
+      "kavi": "పవని నిర్మల ప్రభావతి",
+      "semester": 1,
+      "learning_outcomes": [
+        "కుటుంబ అనుబంధాలు, దేశభక్తి భావనలను గ్రహించడం.",
+        "కథానిక శిల్పాన్ని, పాత్ర చిత్రణను విశ్లేషించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మాతృభూమి కథానికలో తల్లీకొడుకుల మధ్య జరిగిన సంభాషణ యొక్క ముఖ్యోద్దేశం ఏమిటి?",
+          "question_text_en": "What was the main purpose of the conversation between mother and son in the story 'Mathrubhumi'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "దేశ సరిహద్దుల్లో కాపలా కాసే సైనికుల సేవలను కొనియాడుతూ ఒక వ్యాసం రాయండి.",
+          "question_text_en": "Write an essay praising the selfless service of soldiers guarding national frontiers."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "lesson_no": 3,
+      "title": "శతకసౌరభం",
+      "title_en": "Shataka Sourabham",
+      "prakriya": "శతక పద్యాలు",
+      "ithivrittam": "నైతిక విలువలు / సదాచారం",
+      "kavi": "శతక కవులు (ధూర్జటి, పోతులూరి, బద్దెన, వేమన, మొదలైనవారు)",
+      "semester": 1,
+      "learning_outcomes": [
+        "శతక పద్యాలలోని మకుటం, నీతి బోధనను ఆస్వాదించడం.",
+        "పద్య భావాలను కంఠస్థం చేసి నిత్యజీవితంలో ఆచరించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "శతక పద్యాల లక్షణాలు ఏమిటి? మకుటం ప్రాధాన్యాన్ని వివరించండి.",
+          "question_text_en": "What are the characteristics of Shataka poetry? Explain the significance of Makutam."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "ఉత్పలమాల పద్య పాద లక్షణాలను గణవిభజనతో వివరించండి.",
+          "question_text_te_alt": "ఉత్పలమాల వృత్త పద్య లక్షణాలను రాయండి.",
+          "question_text_en": "Explain the metrical characteristics of Utpalamala meter."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "lesson_no": 4,
+      "title": "నా యాత్ర",
+      "title_en": "Naa Yaatra",
+      "prakriya": "యాత్రా రచన",
+      "ithivrittam": "జాతీయ సమైక్యత, దర్శనీయ స్థలాలు",
+      "kavi": "బులుసు వేంకట రమణయ్య",
+      "semester": 1,
+      "learning_outcomes": [
+        "భారతదేశంలోని వివిధ చారిత్రక, సాంస్కృతిక ప్రదేశాల విశేషాలు తెలుసుకోవడం.",
+        "యాత్రా రచన శైలిలో పర్యటన విశేషాలను నమోదు చేయడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "రచయిత తన యాత్రలో దర్శించిన ప్రదేశాలలో మీకు నచ్చిన ప్రదేశం గురించి రాయండి.",
+          "question_text_en": "Describe a place visited by the author that appealed to you most and why."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "మీరు సందర్శించిన ఒక చారిత్రక ప్రదేశం గురించి మిత్రునికి లేఖ రాయండి.",
+          "question_text_en": "Write a letter to your friend describing a historical site you recently visited."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "lesson_no": 5,
+      "title": "సందేశం",
+      "title_en": "Sandesham",
+      "prakriya": "ఖండకావ్యం",
+      "ithivrittam": "కష్టజీవుల శ్రమ, సామాజిక సమానత్వం",
+      "kavi": "గుర్రం జాషువ",
+      "semester": 1,
+      "learning_outcomes": [
+        "శ్రమజీవుల ఔన్నత్యాన్ని గుర్తించి గౌరవించడం.",
+        "జాషువ గారి కవితా వైభవాన్ని, సామాజిక దృక్పథాన్ని అర్థం చేసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "జాషువ గారు శ్రామికుల కష్టాన్ని ఎలా వర్ణించారో వివరించండి.",
+          "question_text_en": "How did poet Gurram Jashuva portray the dignity and toil of working people?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సొంత వాక్యాల్లో ప్రయోగించండి: (అ) కష్టజీవి (ఆ) చెమటోడ్చు.",
+          "question_text_en": "Use in own sentences: (a) Kashtajeevi (b) Chematodchu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "lesson_no": 6,
+      "title": "పయనం",
+      "title_en": "Payanam",
+      "prakriya": "మాండలిక కథ",
+      "ithivrittam": "సామాజిక స్పృహ",
+      "kavi": "సింగమనేని నారాయణ",
+      "semester": 1,
+      "learning_outcomes": [
+        "రాయలసీమ మాండలిక భాషా సౌందర్యాన్ని ఆస్వాదించడం.",
+        "రైతాంగ జీవితంలోని ఆటుపోట్లను అర్థం చేసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "పయనం కథలో కనిపించే గ్రామీణ జీవన చిత్రణను వివరించండి.",
+          "question_text_en": "Explain the depiction of rural life presented in the dialect story 'Payanam'."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "గ్రామీణ ప్రాంతాల నుండి నగరాలకు జరిగే వలసల నివారణకు ఎలాంటి చర్యలు తీసుకోవచ్చు?",
+          "question_text_en": "What measures can be taken to curb distress migration from villages to urban slums?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "lesson_no": 7,
+      "title": "చైతన్యమూర్తులు",
+      "title_en": "Chaitanya Murthulu",
+      "prakriya": "వ్యాసం / ఉపవాచకం",
+      "ithivrittam": "స్ఫూర్తి / ప్రజాసేవ",
+      "kavi": "రచయితల బృందం",
+      "semester": 1,
+      "learning_outcomes": [
+        "పోతులూరి వీరబ్రహ్మం, నేదునూరి గంగాధరం, వడ్డాది పాపయ్య, ఫాతిమా షేక్ వంటి మహనీయుల జీవితాల నుండి ప్రేరణ పొందడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మహిళా విద్యా వికాసంలో ఫాతిమా షేక్ చేసిన సేవలను కొనియాడండి.",
+          "question_text_en": "Highlight the pioneering role of Fatima Sheikh in advancing girls' education."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a biographical sketch of folk heritage collector Nedunuri Gangadharam.",
+          "question_text_te": "జానపద గేయాల సేకరణలో నేదునూరి గంగాధరం గారు చేసిన కృషిపై సంక్షిప్త జీవిత రేఖను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "lesson_no": 8,
+      "title": "మేలిమలుపు",
+      "title_en": "Meli Malupu",
+      "prakriya": "కథ",
+      "ithivrittam": "ఆత్మస్థైర్యం, పట్టుదల",
+      "kavi": "దేవులపల్లి వేంకటకృష్ణశాస్త్రి",
+      "semester": 2,
+      "learning_outcomes": [
+        "జీవితంలో ఆటంకాలను అధిగమించి ముందుకు సాగే ఆత్మవిశ్వాసాన్ని పెంపొందించడం.",
+        "కథా విశ్లేషణ మరియు రచనా శైలిని ఆకళింపు చేసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "'ఎప్పుడూ ఒప్పుకోవద్దురా ఓటమి' అన్న కవి భావాన్ని వివరించండి.",
+          "question_text_en": "Explain the poet's inspirational thought: 'Never accept defeat in life'."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "కష్టాలు ఎదురైనప్పుడు అధైర్యపడకుండా ఎలా విజయం సాధించవచ్చో మీ సొంత అనుభవంతో రాయండి.",
+          "question_text_en": "How can one overcome adversity through perseverance? Write based on personal reflection."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "lesson_no": 9,
+      "title": "చిరమాలిన్యం",
+      "title_en": "Chiramalinyam",
+      "prakriya": "వచన కవిత",
+      "ithivrittam": "మానవ విలువలు, పర్యావరణ స్పృహ",
+      "kavi": "షేక్ ఖాజా హుస్సేన్ (దేవిప్రియ)",
+      "semester": 2,
+      "learning_outcomes": [
+        "సమాజంలో పేరుకుపోయిన అసమానతలు, కాలుష్య స్వభావాన్ని అర్థం చేసుకోవడం.",
+        "వచన కవితా శిల్పాన్ని, ప్రతీకలను విశ్లేషించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కవి సమాజంలోని ఎలాంటి కాలుష్యాన్ని 'చిరమాలిన్యం'గా అభివర్ణించారు?",
+          "question_text_en": "What kind of social pollution did the poet describe as 'Chiramalinyam'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సొంత వాక్యంలో ప్రయోగించండి: (అ) మానవతా విలువలు (ఆ) అంతశ్చేతన.",
+          "question_text_en": "Use in sentences: (a) Human values (b) Inner consciousness."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "lesson_no": 10,
+      "title": "నాటి చదువు",
+      "title_en": "Naati Chaduvu",
+      "prakriya": "ఆత్మకథ",
+      "ithivrittam": "వ్యక్తిత్వ వికాసం / చదువు విలువ",
+      "kavi": "మామిడిపూడి వేంకట రంగయ్య",
+      "semester": 2,
+      "learning_outcomes": [
+        "పాతకాలపు విద్యా విధానాన్ని, గురుశిష్యుల సంబంధాలను అర్థం చేసుకోవడం.",
+        "ఆత్మకథా రూప విశేషాలను తెలుసుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మామిడిపూడి వారు తమ బాల్యంలో పాఠశాలలో ఎదుర్కొన్న అనుభవాలను తెలపండి.",
+          "question_text_en": "Describe Mamidipudi's childhood school experiences recounted in his autobiography."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "నాటి విద్యా విధానానికి, నేటి ఆధునిక విద్యా విధానానికి గల తేడాలను పోల్చండి.",
+          "question_text_en": "Compare the traditional schooling system of the past with modern contemporary education."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "lesson_no": 11,
+      "title": "సమదృష్టి",
+      "title_en": "Samadrishti",
+      "prakriya": "గజల్",
+      "ithivrittam": "సమానత్వం / మానవతావాదం",
+      "kavi": "పైడి తెరేష్ బాబు",
+      "semester": 2,
+      "learning_outcomes": [
+        "గజల్ ప్రక్రియ లక్షణాలను (మత్లా, మఖ్తా, రదీఫ్, కాఫియా) తెలుసుకోవడం.",
+        "సమాజంలో మానవులందరినీ సమానంగా చూడాలనే సమదృష్టిని అలవర్చుకోవడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కవి ప్రతిపాదించిన 'సమదృష్టి' భావనను సంక్షిప్తంగా వివరించండి.",
+          "question_text_en": "Briefly explain the philosophy of 'Samadrishti' (equal vision) advocated by the poet."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "గజల్ ప్రక్రియ యొక్క ముఖ్య లక్షణాలను రాయండి.",
+          "question_text_en": "Explain the key characteristics of the Ghazal poetic genre."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "lesson_no": 12,
+      "title": "భువన విజయం",
+      "title_en": "Bhuvana Vijayam",
+      "prakriya": "సాహిత్య రూపకం",
+      "ithivrittam": "భాషాభిరుచి, సాహిత్యాభిలాష",
+      "kavi": "వేటూరి ప్రభాకరశాస్త్రి & డా. సి.వి. సుబ్బన్న",
+      "semester": 2,
+      "learning_outcomes": [
+        "శ్రీకృష్ణదేవరాయల ఆస్థానమైన భువన విజయ సభా వైభవాన్ని గ్రహించడం.",
+        "అష్టదిగ్గజ కవుల చాటువులను, సాహిత్య గోష్ఠిని ఆస్వాదించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "భువన విజయ సభలో శ్రీకృష్ణదేవరాయలు కవులను ఎలా సత్కరించేవారు?",
+          "question_text_en": "How did Sri Krishnadevaraya patronize and felicitate poets in the Bhuvana Vijaya assembly?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'దేశభాషలందు తెలుగు లెస్స' అన్న సూక్తిని వివరిస్తూ తెలుగు భాషా వైభవంపై ఉపన్యాస వ్యాసం రాయండి.",
+          "question_text_en": "Write an address praising the glory of Telugu language expanding on the maxim 'Desa Bhashalandu Telugu Lessa'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "lesson_no": 13,
+      "title": "ఆతిథ్యం",
+      "title_en": "Aatithyam",
+      "prakriya": "ఇతిహాస కవిత",
+      "ithivrittam": "అతిథి సత్కారం / ధర్మనిష్ఠ",
+      "kavi": "తిక్కన సోమయాజి",
+      "semester": 2,
+      "learning_outcomes": [
+        "భారతీయ సంస్కృతిలో అతిథి సత్కార విశిష్టతను తెలుసుకోవడం.",
+        "తిక్కన గారి నాటకీయ శైలిని, పద్య రచనను అధ్యయనం చేయడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "భారతంలో కుచేలుడు లేదా సక్తుప్రస్థుని అతిథి సత్కారం ద్వారా తిక్కన ఏ సందేశాన్ని అందించారు?",
+          "question_text_en": "What ethical message on hospitality did Tikkana convey through Mahabharata verses?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "విగ్రహవాక్యం రాసి సమాసం పేరు రాయండి: (అ) అతిథిసత్కారం (ఆ) ధర్మనిష్ఠ.",
+          "question_text_en": "Write the vigraha vakyam and name the compound for: (a) Athithisatkaram (b) Dharmanishta."
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "lesson_no": 14,
+      "title": "కళా వారసత్వం",
+      "title_en": "Kala Vaarasathvam",
+      "prakriya": "వ్యాసం / ఉపవాచకం",
+      "ithivrittam": "కళల వైశిష్ట్యం, సంస్కృతి పరిరక్షణ",
+      "kavi": "రచయితల బృందం",
+      "semester": 2,
+      "learning_outcomes": [
+        "భరతనాట్యం, కథాకళి, ఒడిస్సీ, కూచిపూడి, హరికథ వంటి శాస్త్రీయ, జానపద కళారూపాలను గుర్తించడం.",
+        "భారతీయ కళా వైభవాన్ని కాపాడుకోవాలనే చైతన్యాన్ని పెంపొందించడం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "హరికథా ప్రక్రియ ప్రత్యేకతలు ఏమిటి? ఆంధ్రదేశంలో హరికథా పితామహుడు ఎవరు?",
+          "question_text_en": "What are the features of the Harikatha art form? Who is known as Harikatha Pitamaha in Andhra?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "నశించిపోతున్న ప్రాచీన జానపద కళారూపాలను పునరుద్ధరించడానికి మీ వంతుగా ఎలాంటి సూచనలు చేస్తారు?",
+          "question_text_en": "What suggestions would you offer to preserve and revitalize endangered traditional folk art forms?"
+        }
+      ]
+    }
+  ]
+}

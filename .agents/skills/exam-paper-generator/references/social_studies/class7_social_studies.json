@@ -1,0 +1,693 @@
+{
+  "book_metadata": {
+    "title_en": "Social Studies - Class 7 (AP SCERT 2024-25)",
+    "title_te": "సాంఘిక శాస్త్రం - ఏడవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "7th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 13,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "source_pdfs": [
+      "7_Social_Studies_SEM-1_Textbook.pdf",
+      "7_Social_Studies_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Reading the text (given), understanding and interpretation",
+    "AS3": "Information Skills",
+    "AS4": "Reflection on contemporary issues and questioning",
+    "AS5": "Mapping Skills",
+    "AS6": "Appreciation and Sensitivity"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "The Universe and The Earth",
+      "title_te": "విశ్వం మరియు భూమి",
+      "branch": "Geography",
+      "semester": 1,
+      "core_themes": [
+        "Origin of the Universe and the Big Bang Theory.",
+        "Galaxies, Milky Way, and the Solar System.",
+        "The Earth as a unique living planet.",
+        "Major realms of the Earth: Lithosphere, Hydrosphere, Atmosphere, Biosphere.",
+        "Internal structure of the Earth: Crust, Mantle, Core."
+      ],
+      "learning_outcomes": [
+        "Explain the Big Bang theory and structure of the Solar System.",
+        "Identify the four major spheres of the Earth and their interdependence.",
+        "Describe the three concentric interior layers of the Earth."
+      ],
+      "summary_points": [
+        "The Universe originated about 13.8 billion years ago through the Big Bang.",
+        "Earth is the only known planet having water and oxygen to sustain life."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the Big Bang theory? When did it happen according to astronomers?",
+          "question_text_te": "మహా విస్ఫోటన సిద్ధాంతం (బిగ్ బ్యాంగ్) అంటే ఏమిటి? ఖగోళ శాస్త్రవేత్తల ప్రకారం ఇది ఎప్పుడు జరిగింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name the four realms of the Earth and define the Biosphere.",
+          "question_text_te": "భూమి యొక్క నాలుగు ఆవరణాలను పేర్కొని, జీవావరణాన్ని నిర్వచించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of the World, locate and label the seven continents and five major oceans.",
+          "question_text_te": "ప్రపంచ ముసాయిదా పటంలో ఏడు ఖండాలు మరియు ఐదు మహాసముద్రాలను గుర్తించి పేర్లు రాయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is Earth called a unique planet? How should we protect its environmental balance?",
+          "question_text_te": "భూమిని ఒక విశిష్టమైన గ్రహం అని ఎందుకు పిలుస్తారు? దాని పర్యావరణ సమతుల్యతను మనం ఎలా కాపాడుకోవాలి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Forests",
+      "title_te": "అడవులు",
+      "branch": "Geography",
+      "semester": 1,
+      "core_themes": [
+        "Definition and types of forests: Tropical Evergreen, Deciduous, Thorny, Mangrove, Alpine.",
+        "Forests of Andhra Pradesh and tribal livelihoods (Chenchus, Yanadis, Konda Reddis).",
+        "Ecological and economic importance of forests.",
+        "Deforestation, conservation laws, and Community Forest Management (CFM)."
+      ],
+      "learning_outcomes": [
+        "Classify major forest types based on rainfall and climate.",
+        "Locate mangrove forests in Krishna and Godavari estuaries.",
+        "Analyse the dependence of indigenous tribes on Non-Timber Forest Produce (NTFP)."
+      ],
+      "summary_points": [
+        "Forests are vital natural resources preventing soil erosion and regulating climate.",
+        "Andhra Pradesh has extensive deciduous forests in Eastern Ghats and mangroves in coastal deltas."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between Tropical Evergreen forests and Tropical Deciduous forests.",
+          "question_text_te": "ఉష్ణమండల సతతహరిత అడవులు మరియు ఉష్ణమండల ఆకురాల్చే అడవుల మధ్య తేడాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What measures should be taken to prevent deforestation and conserve biodiversity in Andhra Pradesh?",
+          "question_text_te": "ఆంధ్రప్రదేశ్‌లో అటవీ నిర్మూలనను అరికట్టడానికి మరియు జీవవైవిధ్యాన్ని పరిరక్షించడానికి ఎటువంటి చర్యలు తీసుకోవాలి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of Andhra Pradesh, locate Coringa Mangrove forest and Nallamala forests.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ రూపురేఖల పటంలో కోరింగ మడ అడవులు మరియు నల్లమల అడవులను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Learning Through Maps",
+      "title_te": "పటాల ద్వారా అధ్యయనం",
+      "branch": "Geography",
+      "semester": 1,
+      "core_themes": [
+        "Components of a map: Distance (Scale), Direction, and Conventional Symbols.",
+        "Types of maps: Physical, Political, Thematic.",
+        "Contours and representation of relief and elevations.",
+        "Use of GPS and modern digital mapping technologies."
+      ],
+      "learning_outcomes": [
+        "Measure real ground distances using map scale ratios.",
+        "Read conventional topographical symbols and cardinal directions.",
+        "Interpret contour lines representing mountains, plateaus, and valleys."
+      ],
+      "summary_points": [
+        "A map is a flat scaled representation of the Earth's surface.",
+        "Contour lines join places having equal height above mean sea level."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the three major components of a map? Explain the significance of scale.",
+          "question_text_te": "పటంలో ముఖ్యమైన మూడు అంశాలు ఏవి? స్కేలు ప్రాముఖ్యతను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Read a given contour map and explain how closely spaced contour lines indicate steep slopes.",
+          "question_text_te": "కాంటూర్ పటాన్ని పరిశీలించి, దగ్గరగా ఉన్న కాంటూర్ రేఖలు ఏటవాలు వాలును ఎలా సూచిస్తాయో వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw conventional signs and symbols used on maps for: (a) Railway line, (b) River, (c) Temple, (d) State boundary.",
+          "question_text_te": "పటాలలో ఉపయోగించే సంప్రదాయ సంకేతాలను గీయండి: (a) రైల్వే లైన్, (b) నది, (c) దేవాలయం, (d) రాష్ట్ర సరిహద్దు."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Delhi Sultanate",
+      "title_te": "ఢిల్లీ సుల్తానులు",
+      "branch": "History",
+      "semester": 1,
+      "core_themes": [
+        "Establishment of Delhi Sultanate: Slave (Mamluk), Khalji, Tughlaq, Sayyid, and Lodi dynasties.",
+        "Administrative system: Iqta system, Muqtis, and garrison towns.",
+        "Reforms of Alauddin Khalji: Market control, price regulations, military campaigns.",
+        "Innovations and experiments of Muhammad bin Tughlaq: Token currency, shifting capital to Daulatabad.",
+        "Architectural contributions: Qutb Minar, Alai Darwaza, tombs."
+      ],
+      "learning_outcomes": [
+        "Trace the chronological progression of the five Sultanate dynasties in Delhi.",
+        "Analyze economic policies and revenue systems of Alauddin Khalji.",
+        "Evaluate the administrative successes and failures of Muhammad bin Tughlaq."
+      ],
+      "summary_points": [
+        "Qutbuddin Aibak founded the Sultanate in 1206 CE.",
+        "Raziya Sultana was the first and only woman sultan to rule Delhi."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Who introduced the Iqta system during the Delhi Sultanate? What were the duties of an Iqtadar (Muqti)?",
+          "question_text_te": "ఢిల్లీ సల్తనత్ కాలంలో ఇక్తా విధానాన్ని ఎవరు ప్రవేశపెట్టారు? ఇక్తాదారు (ముక్తి) యొక్క విధులు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Discuss the market control measures introduced by Alauddin Khalji in Delhi.",
+          "question_text_te": "ఢిల్లీలో అల్లావుద్దీన్ ఖిల్జీ ప్రవేశపెట్టిన మార్కెట్ నియంత్రణ చర్యలను చర్చించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the consequences of Muhammad bin Tughlaq's decision to shift the capital from Delhi to Daulatabad?",
+          "question_text_te": "ఢిల్లీ నుండి దౌలతాబాద్‌కు రాజధానిని మార్చాలన్న ముహమ్మద్ బిన్ తుగ్లక్ నిర్ణయం వల్ల కలిగిన పరిణామాలు ఏమిటి?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate Delhi, Devagiri (Daulatabad), and Warangal.",
+          "question_text_te": "భారతదేశ ముసాయిదా పటంలో ఢిల్లీ, దేవగిరి (దౌలతాబాద్), మరియు వరంగల్ నగరాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Kakatiya Kingdom",
+      "title_te": "కాకతీయ రాజ్యం",
+      "branch": "History",
+      "semester": 1,
+      "core_themes": [
+        "Origin and rise of Kakatiyas from Orugallu (Warangal).",
+        "Prominent rulers: Prola II, Rudradeva, Ganapatideva, Rani Rudrama Devi, Prataparudra.",
+        "Nayankara military and administrative system.",
+        "Agricultural development: Construction of chain tanks (Ramappa, Pakhal, Laknavaram).",
+        "Trade, Motupalli charter, and accounts of Venetian traveller Marco Polo."
+      ],
+      "learning_outcomes": [
+        "Appreciate the valour and leadership of Rani Rudrama Devi.",
+        "Understand the Kakatiya tank irrigation system interconnecting agricultural water bodies.",
+        "Explain the commercial significance of Motupalli port under Ganapatideva."
+      ],
+      "summary_points": [
+        "Orugallu fort was built with four concentric stone and mud ramparts.",
+        "Ramappa temple and Thousand Pillar temple showcase marvelous Kakatiya sculpture."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was the Nayankara system under the Kakatiyas?",
+          "question_text_te": "కాకతీయుల కాలంలోని నాయంకర విధానం అంటే ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a note on the achievements and brave rule of Rani Rudrama Devi.",
+          "question_text_te": "రాణి రుద్రమదేవి సాధించిన విజయాలు మరియు ఆమె సాహసోపేత పాలన గురించి రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of Andhra Pradesh and Telangana, mark Orugallu (Warangal) and Motupalli port.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ మరియు తెలంగాణ రూపురేఖల పటంలో ఓరుగల్లు (వరంగల్) మరియు మోటుపల్లి రేవును గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Vijayanagara Empire",
+      "title_te": "విజయనగర సామ్రాజ్యం",
+      "branch": "History",
+      "semester": 1,
+      "core_themes": [
+        "Founding of Vijayanagara by Harihara and Bukka Raya in 1336 CE along the Tungabhadra river.",
+        "Four dynasties: Sangama, Saluva, Tuluva, Aravidu.",
+        "Golden age under Sri Krishnadevaraya: Military conquests, administration, Ashtadiggajas.",
+        "Architecture and temple monuments at Hampi: Hazara Rama, Virupaksha, Vitthala stone chariot.",
+        "Battle of Rakkasi-Tangadi (Talikota, 1565 CE) and decline of the empire."
+      ],
+      "learning_outcomes": [
+        "Explain the administrative excellence and cultural contributions of Sri Krishnadevaraya.",
+        "Describe the international trade in Arabian horses and textiles through West coast ports.",
+        "Analyse the archaeological heritage of Hampi recognized as a UNESCO World Heritage site."
+      ],
+      "summary_points": [
+        "Sri Krishnadevaraya composed the epic Telugu work Amuktamalyada.",
+        "Hampi was a grand cosmopolitan capital with massive seven-ring stone fortifications."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name the four dynasties that ruled the Vijayanagara Empire in chronological order.",
+          "question_text_te": "విజయనగర సామ్రాజ్యాన్ని పాలించిన నాలుగు రాజవంశాలను కాలానుక్రమంలో తెలపండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the reign of Sri Krishnadevaraya considered the Golden Age of Telugu literature and art?",
+          "question_text_te": "శ్రీకృష్ణదేవరాయల పాలనా కాలాన్ని తెలుగు సాహిత్యం మరియు కళల స్వర్ణయుగంగా ఎందుకు పరిగణిస్తారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of South India, locate Hampi (Vijayanagara), Penukonda, and Chandragiri.",
+          "question_text_te": "దక్షిణ భారతదేశ పటంలో హంపి (విజయనగరం), పెనుకొండ, మరియు చంద్రగిరి ప్రదేశాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Mughal Empire",
+      "title_te": "మొఘల్ సామ్రాజ్యం",
+      "branch": "History",
+      "semester": 2,
+      "core_themes": [
+        "Founding of Mughal Empire by Babur at the First Battle of Panipat (1526 CE).",
+        "Humayun and Sher Shah Suri's administrative reforms (Grand Trunk Road, silver Rupiya).",
+        "Akbar the Great: Mansabdari system, revenue assessment under Raja Todar Mal (Zabt), Sulh-i Kul, Din-i Ilahi.",
+        "Jahangir, Shah Jahan (Golden age of Mughal architecture: Taj Mahal, Red Fort), and Aurangzeb.",
+        "Mughal relations with Rajputs, Marathas (Chhatrapati Shivaji Maharaj), and Deccan Sultanates."
+      ],
+      "learning_outcomes": [
+        "Explain the features of the Mansabdari system and military organization.",
+        "Describe Akbar's policy of religious tolerance and universal peace (Sulh-i Kul).",
+        "Identify key Mughal architectural landmarks and aesthetic achievements."
+      ],
+      "summary_points": [
+        "Babur was the first to use gunpowder and artillery effectively in northern India.",
+        "Todar Mal introduced scientific land measurement and revenue fixation for 10 years."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was the Mansabdari system introduced by Akbar? What do the terms Zat and Sawar signify?",
+          "question_text_te": "అక్బర్ ప్రవేశపెట్టిన మన్సబ్దారీ విధానం అంటే ఏమిటి? జాత్ మరియు సవార్ పదాలు దేనిని సూచిస్తాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the revenue system called Zabt developed by Raja Todar Mal during Akbar's reign.",
+          "question_text_te": "అక్బర్ కాలంలో రాజా తోడర్‌మల్ అభివృద్ధి చేసిన జబ్త్ అనే భూమిశిస్తు విధానాన్ని వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate Agra, Delhi, Panipat, Fatehpur Sikri, and Golkonda.",
+          "question_text_te": "భారతదేశ పటంలో ఆగ్రా, ఢిల్లీ, పానిపట్, ఫతేపూర్ సిక్రీ, మరియు గోల్కొండలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Bhakti - Sufi",
+      "title_te": "భక్తి - సూఫీ ఉద్యమాలు",
+      "branch": "History",
+      "semester": 2,
+      "core_themes": [
+        "Origin and spread of Bhakti movement in South India: Alvars (Vaishnavite) and Nayanars (Shaivite).",
+        "Philosophers: Adi Shankaracharya (Advaita), Ramanujacharya (Vishishtadvaita), Madhvacharya (Dvaita), Basaveshwara (Virashaivism/Vachanas).",
+        "North Indian Bhakti saints: Kabir, Guru Nanak Dev, Mirabai, Tulsidas, Chaitanya Mahaprabhu.",
+        "Sufism: Chishti and Suhrawardi silsilas, Khwaja Moinuddin Chishti, Nizamuddin Auliya, Qawwali, Khanqahs."
+      ],
+      "learning_outcomes": [
+        "Compare the philosophies of Advaita and Vishishtadvaita.",
+        "Appreciate the egalitarian messages of Kabir's dohas rejecting caste hierarchy.",
+        "Understand how Sufi saints fostered inter-faith communal harmony in medieval India."
+      ],
+      "summary_points": [
+        "Bhakti and Sufi saints rejected rigid rituals, animal sacrifices, and caste discrimination.",
+        "Saints composed poetry in local vernacular languages accessible to common people."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Who were the Alvars and Nayanars? What was their contribution to the Bhakti movement?",
+          "question_text_te": "ఆళ్వార్లు మరియు నాయనార్లు ఎవరు? భక్తి ఉద్యమానికి వారు చేసిన కృషి ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the major teachings of Kabir and how did he challenge the social inequalities of his time?",
+          "question_text_te": "కబీర్ యొక్క ముఖ్యమైన బోధనలు ఏమిటి మరియు ఆయన తన కాలంలోని సామాజిక అసమానతలను ఎలా ఎదిరించారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "mapping_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate Ajmer, Varanasi, Amritsar, and Kalady.",
+          "question_text_te": "భారతదేశ పటంలో అజ్మీర్, వారణాసి, అమృత్‌సర్, మరియు కాలడి ప్రదేశాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Indian Constitution - An Introduction",
+      "title_te": "భారత రాజ్యాంగం - పరిచయం",
+      "branch": "Political Science",
+      "semester": 2,
+      "core_themes": [
+        "Meaning and necessity of a Constitution for a democratic nation.",
+        "Making of the Indian Constitution: Constituent Assembly, Drafting Committee chaired by Dr. B.R. Ambedkar.",
+        "The Preamble: Sovereign, Socialist, Secular, Democratic, Republic.",
+        "Fundamental Rights (Right to Equality, Freedom, Against Exploitation, Religion, Culture/Education, Constitutional Remedies).",
+        "Fundamental Duties and Directive Principles of State Policy."
+      ],
+      "learning_outcomes": [
+        "Understand key principles enshrined in the Preamble of the Indian Constitution.",
+        "Identify the six Fundamental Rights guaranteed to all Indian citizens.",
+        "Realize civic responsibilities and respect constitutional values."
+      ],
+      "summary_points": [
+        "The Constitution was adopted on 26th November 1949 and came into force on 26th January 1950.",
+        "Dr. B.R. Ambedkar is revered as the Father of the Indian Constitution."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is meant by a Constitution? Why does a democratic country need a Constitution?",
+          "question_text_te": "రాజ్యాంగం అంటే ఏమిటి? ఒక ప్రజాస్వామ్య దేశానికి రాజ్యాంగం ఎందుకు అవసరం?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the key terms in the Preamble: 'Secular' and 'Democratic Republic'.",
+          "question_text_te": "పీఠికలోని 'లౌకిక' మరియు 'ప్రజాస్వామ్య గణతంత్ర' అనే ముఖ్య పదాలను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the Right to Constitutional Remedies called the 'heart and soul' of our Constitution?",
+          "question_text_te": "రాజ్యాంగ పరిహారపు హక్కును మన రాజ్యాంగానికి 'హృదయం మరియు ఆత్మ' అని ఎందుకు పిలుస్తారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "State Government",
+      "title_te": "రాష్ట్ర ప్రభుత్వం",
+      "branch": "Political Science",
+      "semester": 2,
+      "core_themes": [
+        "Three organs of State Government: Legislature (Vidhan Sabha & Vidhan Parishad), Executive, Judiciary.",
+        "Role and election of Member of Legislative Assembly (MLA).",
+        "Formation of government, majority party, coalition, Chief Minister and Council of Ministers.",
+        "Role of Governor as the constitutional head of the State.",
+        "How a bill becomes a law in the State Legislature."
+      ],
+      "learning_outcomes": [
+        "Trace the legislative process of passing laws in the state assembly.",
+        "Differentiate between ruling party and opposition party roles.",
+        "Understand public accountability of government departments (health, education, roads)."
+      ],
+      "summary_points": [
+        "Andhra Pradesh Legislative Assembly has 175 elected MLAs.",
+        "The Chief Minister is the head of the executive government at state level."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How does an MLA become a Minister or Chief Minister? Explain.",
+          "question_text_te": "ఒక ఎమ్మెల్యే మంత్రి లేదా ముఖ్యమంత్రి ఎలా అవుతారో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the difference between the work that MLAs do in the Assembly and the work done by government departments?",
+          "question_text_te": "శాసనసభలో ఎమ్మెల్యేలు చేసే పనికి, ప్రభుత్వ శాఖలు చేసే పనికి మధ్య తేడా ఏమిటి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What role does the opposition party play in holding the government accountable to the people?",
+          "question_text_te": "ప్రభుత్వం ప్రజలకు జవాబుదారీగా ఉండేలా చేయడంలో ప్రతిపక్షం పోషించే పాత్ర ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Road Safety",
+      "title_te": "రహదారి భద్రత",
+      "branch": "Political Science",
+      "semester": 2,
+      "core_themes": [
+        "Importance of road safety and growing traffic accident statistics.",
+        "Traffic rules, signals, and road signs (Mandatory, Cautionary, Informative).",
+        "Pedestrian safety: Zebra crossings, footpaths, overhead bridges.",
+        "Safe driving practices: Wearing helmets, seat belts, speed limits, avoiding mobile phones.",
+        "Emergency response: Good Samaritan law, dialing 108 emergency ambulance."
+      ],
+      "learning_outcomes": [
+        "Identify mandatory, cautionary, and informatory road signs.",
+        "Understand consequences of drunken driving, speeding, and helmetless riding.",
+        "Apply road safety precautions while commuting to school."
+      ],
+      "summary_points": [
+        "Road safety rules are designed to protect human lives and prevent collisions.",
+        "The Golden Hour is the critical first hour after an accident when prompt medical aid can save life."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are mandatory road signs? Give two examples.",
+          "question_text_te": "తప్పనిసరిగా పాటించవలసిన రహదారి సంకేతాలు అంటే ఏమిటి? రెండు ఉదాహరణలు ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the 'Golden Hour' in road accident management? Why is it crucial to help accident victims without fear of legal harassment?",
+          "question_text_te": "రోడ్డు ప్రమాద నిర్వహణలో 'గోల్డెన్ అవర్' అంటే ఏమిటి? చట్టపరమైన వేధింపుల భయం లేకుండా ప్రమాద బాధితులకు సహాయం చేయడం ఎందుకు ముఖ్యం?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a slogan and prepare a short poster on the importance of wearing helmets while riding two-wheelers.",
+          "question_text_te": "ద్విచక్ర వాహనాలు నడిపేటప్పుడు హెల్మెట్ ధరించడం యొక్క ప్రాముఖ్యతపై ఒక నినాదం రాసి చిన్న పోస్టర్‌ను తయారుచేయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Markets Around Us",
+      "title_te": "మన చుట్టూ ఉన్న మార్కెట్లు",
+      "branch": "Economics",
+      "semester": 2,
+      "core_themes": [
+        "Weekly markets (Santalu): Nature of trade, non-permanent shops, low overhead costs, bargaining.",
+        "Neighbourhood shops, convenience stores, and credit facility.",
+        "Shopping complexes and modern air-conditioned malls.",
+        "Chain of markets: Wholesale markets, commission agents, intermediaries, retailers, consumers.",
+        "E-commerce, online shopping platforms, and doorstep deliveries."
+      ],
+      "learning_outcomes": [
+        "Trace the chain of markets connecting a farmer producing cotton to a customer buying a shirt.",
+        "Compare weekly markets with supermarkets in terms of prices, rent, and profit margins.",
+        "Understand inequality in market gains between producers, intermediaries, and big traders."
+      ],
+      "summary_points": [
+        "A chain of markets links producer of goods to consumer.",
+        "Wholesale traders buy in bulk quantities and distribute to small retailers."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are things available in weekly markets (santalu) cheaper than in permanent shops in shopping malls?",
+          "question_text_te": "షాపింగ్ మాల్స్‌లోని శాశ్వత దుకాణాల కంటే వారపు సంతల్లో వస్తువులు ఎందుకు చౌకగా లభిస్తాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain what a 'chain of markets' is. How does it connect producers and consumers?",
+          "question_text_te": "'మార్కెట్ శ్రేణి' అంటే ఏమిటో వివరించండి. ఇది ఉత్పత్తిదారులను మరియు వినియోగదారులను ఎలా కలుపుతుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Do all people have equal access to markets? Discuss with reference to buying capacity and inequality in earnings.",
+          "question_text_te": "ప్రజలందరికీ మార్కెట్లలో సమాన ప్రవేశం ఉందా? కొనుగోలు శక్తి మరియు ఆదాయ అసమానతల ఆధారంగా చర్చించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Women Change the World",
+      "title_te": "ప్రపంచాన్ని మార్చిన మహిళలు",
+      "branch": "Political Science",
+      "semester": 2,
+      "core_themes": [
+        "Gender stereotypes and occupational division of labor in society.",
+        "Struggle for women's education: Savitribai Phule, Rokeya Sakhawat Hossain (Sultana's Dream), Rashsundari Debi (Amar Jiban).",
+        "Contemporary women's literacy rates and dropouts among SC, ST, and Muslim girls.",
+        "Women's movements: Campaigning, raising awareness, protesting, showing solidarity against domestic violence and dowry."
+      ],
+      "learning_outcomes": [
+        "Recognize and challenge gender bias in professional and domestic spheres.",
+        "Appreciate the courage of early women education reformers.",
+        "Analyze legal reforms like the Domestic Violence Act (2006) initiated by women's movements."
+      ],
+      "summary_points": [
+        "Education gave women independence and power to write and express their lived realities.",
+        "Women's collective movements have led to stronger protective laws and social change."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are gender stereotypes? Give two examples of stereotypes related to women's work in society.",
+          "question_text_te": "లింగ వివక్ష మూసధోరణులు (స్టీరియోటైప్స్) అంటే ఏమిటి? సమాజంలో మహిళల పనికి సంబంధించిన మూసధోరణులకు రెండు ఉదాహరణలు ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did education help women like Rashsundari Debi and Rokeya Sakhawat Hossain express themselves and challenge social norms?",
+          "question_text_te": "రాషసుందరీ దేవి మరియు రోకేయా సఖావత్ హుస్సేన్ వంటి మహిళలు తమ భావాలను వ్యక్తీకరించడానికి మరియు సామాజిక నిబంధనలను ఎదిరించడానికి విద్య ఎలా సహాయపడింది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe different strategies used by women's movements to fight for justice and equal rights.",
+          "question_text_te": "న్యాయం మరియు సమాన హక్కుల కోసం పోరాడటానికి మహిళా ఉద్యమాలు ఉపయోగించిన వివిధ వ్యూహాలను వివరించండి."
+        }
+      ]
+    }
+  ]
+}

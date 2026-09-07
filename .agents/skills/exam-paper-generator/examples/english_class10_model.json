@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "board_title": "BOARD OF SECONDARY EDUCATION, A.P. :: VIJAYAWADA\\nSSC PUBLIC EXAMINATIONS - MODEL ASSESSMENT",
+    "class": "CLASS X (10th)",
+    "subject": "ENGLISH",
+    "chapter_name": "FULL SYLLABUS",
+    "paper_code": "10E",
+    "medium": "ENGLISH MEDIUM",
+    "time": "1 hour 15 minutes",
+    "max_marks": 50,
+    "instructions": [
+      "First 15 minutes are allotted for reading the question paper thoroughly.",
+      "All answers must be written in the answer booklet provided.",
+      "The paper consists of 4 Sections: Section I, II, III and IV.",
+      "Internal choice is available in Section IV (8 Marks questions)."
+    ]
+  },
+  "sections": [
+    {
+      "section_id": "I",
+      "title": "SECTION - I",
+      "instruction": "Note: Answer ALL questions. Each question carries 1 Mark.",
+      "marks_total": "6 x 1 = 6M",
+      "questions": [
+        {
+          "q_no": 1,
+          "type": "mcq",
+          "question": "Read the following passage and answer: 'The young seagull was alone on his ledge. His two brothers and his sister had already flown away.' Why was the young seagull alone?",
+          "marks": "1M",
+          "options": [
+            "A) He was sleeping",
+            "B) He was afraid to fly",
+            "C) He was waiting for his parents",
+            "D) He didn't like flying"
+          ]
+        },
+        {
+          "q_no": 2,
+          "type": "mcq",
+          "question": "In the phrase 'The wind blew fiercely', what is the part of speech of the word 'fiercely'?",
+          "marks": "1M",
+          "options": [
+            "A) Adjective",
+            "B) Verb",
+            "C) Adverb",
+            "D) Noun"
+          ]
+        },
+        {
+          "q_no": 3,
+          "type": "short_answer",
+          "question": "What is the antonym of the word 'Ancient'?",
+          "marks": "1M"
+        },
+        {
+          "q_no": 4,
+          "type": "mcq",
+          "question": "Which of the following is a correctly spelled word?",
+          "marks": "1M",
+          "options": [
+            "A) Accomodation",
+            "B) Accommodation",
+            "C) Acomodation",
+            "D) Accommodasion"
+          ]
+        },
+        {
+          "q_no": 5,
+          "type": "short_answer",
+          "question": "Change to Passive Voice: 'She wrote a beautiful poem.'",
+          "marks": "1M"
+        },
+        {
+          "q_no": 6,
+          "type": "mcq",
+          "question": "Identify the figure of speech: 'The stars danced playfully in the moonlit sky.'",
+          "marks": "1M",
+          "options": [
+            "A) Simile",
+            "B) Metaphor",
+            "C) Personification",
+            "D) Hyperbole"
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "II",
+      "title": "SECTION - II",
+      "instruction": "Note: Answer ALL questions in 3-4 sentences each. Each question carries 2 Marks.",
+      "marks_total": "4 x 2 = 8M",
+      "questions": [
+        {
+          "q_no": 7,
+          "type": "short_answer",
+          "question": "Explain the central theme of the poem 'The Road Not Taken' by Robert Frost.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 8,
+          "type": "short_answer",
+          "question": "How did the young seagull's mother trick him into flying?",
+          "marks": "2M"
+        },
+        {
+          "q_no": 9,
+          "type": "short_answer",
+          "question": "Write a short note on the importance of discipline in a student's life.",
+          "marks": "2M"
+        },
+        {
+          "q_no": 10,
+          "type": "short_answer",
+          "question": "Correct the sentence: 'Each of the students have finished their homework.'",
+          "marks": "2M"
+        }
+      ]
+    },
+    {
+      "section_id": "III",
+      "title": "SECTION - III",
+      "instruction": "Note: Answer ALL questions in 5-6 sentences each. Each question carries 4 Marks.",
+      "marks_total": "4 x 4 = 16M",
+      "questions": [
+        {
+          "q_no": 11,
+          "type": "data_analysis",
+          "heading": "Analyze the following dialogue between a teacher and a student and answer the questions:",
+          "table": {
+            "headers": ["Speaker", "Dialogue"],
+            "rows": [
+              ["Teacher", "Why were you absent yesterday, Rahul?"],
+              ["Rahul", "Sir, I had a severe fever and the doctor advised bed rest."],
+              ["Teacher", "I hope you are feeling better now. Please submit your medical certificate."],
+              ["Rahul", "Yes sir, I have it with me. I will submit it by evening."]
+            ]
+          },
+          "sub_questions": [
+            "i) Why was Rahul absent from school?",
+            "ii) What did the teacher ask Rahul to submit?"
+          ],
+          "marks": "4M"
+        },
+        {
+          "q_no": 12,
+          "type": "short_answer",
+          "question": "Describe the character of Nelson Mandela as portrayed in the lesson 'Long Walk to Freedom'.",
+          "marks": "4M"
+        },
+        {
+          "q_no": 13,
+          "type": "short_answer",
+          "question": "Compare and contrast the life of a city dweller and a village dweller.",
+          "marks": "4M"
+        },
+        {
+          "q_no": 14,
+          "type": "short_answer",
+          "question": "Write a formal letter to the Principal requesting two days' leave for a family function.",
+          "marks": "4M"
+        }
+      ]
+    },
+    {
+      "section_id": "IV",
+      "title": "SECTION - IV",
+      "instruction": "Note: Answer ALL questions. Each question carries 8 Marks. Internal choice (A or B) is provided.",
+      "marks_total": "2 x 8 = 16M",
+      "questions": [
+        {
+          "q_no": 15,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "type": "essay",
+            "title": "A) Write an essay on 'The Impact of Social Media on Modern Youth'.",
+            "format": "Include introduction, pros and cons, and a balanced conclusion."
+          },
+          "choice_b": {
+            "type": "essay",
+            "title": "B) Imagine you are the young seagull. Describe your first flight experience in a diary entry.",
+            "format": "Focus on feelings of fear, hunger, and the ultimate joy of flying."
+          }
+        },
+        {
+          "q_no": 16,
+          "heading": "Answer either (A) or (B):",
+          "marks": "8M",
+          "choice_a": {
+            "type": "essay",
+            "title": "A) 'True education is that which teaches us how to think'. Elaborate on this statement with examples.",
+            "format": "Discuss the difference between rote learning and critical thinking."
+          },
+          "choice_b": {
+            "type": "essay",
+            "title": "B) Write a detailed report on a 'Tree Plantation Drive' organized in your school.",
+            "format": "Include date, venue, number of saplings planted, and the chief guest's speech."
+          }
+        }
+      ]
+    }
+  ]
+}

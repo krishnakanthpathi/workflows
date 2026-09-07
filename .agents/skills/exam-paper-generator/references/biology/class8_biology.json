@@ -1,0 +1,585 @@
+{
+  "book_metadata": {
+    "title_en": "Biological Science - Class 8 (AP SCERT 2024-25)",
+    "title_te": "జీవ శాస్త్రం - ఎనిమిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 7,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "semester_2": [
+        5,
+        6,
+        7
+      ]
+    },
+    "source_pdfs": [
+      "8_Biology_SEM-1_Textbook.pdf",
+      "8_Biology_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Asking Questions and Making Hypothesis",
+    "AS3": "Experimentation and Field Investigation",
+    "AS4": "Information Skills and Projects",
+    "AS5": "Communication through Drawing and Model Making",
+    "AS6": "Daily Life Application and Concern to Biodiversity",
+    "AS7": "Appreciation and Aesthetic Sense / Values"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Cell – Structure and Functions",
+      "title_te": "కణం : నిర్మాణం మరియు విధులు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Cell is the basic structural and functional unit of all living organisms, discovered by Robert Hooke in 1665.",
+        "Unicellular organisms (Amoeba, Paramecium) vs Multicellular organisms.",
+        "Levels of structural organisation: Cells -> Tissues -> Organs -> Organ systems -> Organism.",
+        "Parts of a cell: Cell membrane (plasma membrane), Cytoplasm, and Nucleus.",
+        "Prokaryotic cells (bacteria, blue-green algae lacking nuclear membrane) vs Eukaryotic cells.",
+        "Organelles: Mitochondria (powerhouse of cell), Plastids (chloroplasts containing chlorophyll), Vacuoles.",
+        "Differences between plant and animal cells: Plant cells have a rigid cell wall, large central vacuole, and plastids."
+      ],
+      "learning_outcomes": [
+        "Prepare temporary mounts of onion peel and human cheek cells.",
+        "Compare plant and animal cells using labelled diagrams.",
+        "Differentiate between prokaryotic and eukaryotic organisms."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Magnification} = \\frac{\\text{Size of Image}}{\\text{Actual Size of Object}}",
+        "\\text{Plant Cell} = \\text{Cell Wall} + \\text{Plasma Membrane} + \\text{Chloroplasts} + \\text{Large Vacuole}"
+      ],
+      "activities": [
+        {
+          "activity_no": "1.1",
+          "title": "Observation of Onion Peel Cells Under Compound Microscope",
+          "aim": "To prepare a temporary mount of onion peel cells and observe plant cell structures under a microscope.",
+          "apparatus": [
+            "Onion bulb",
+            "Watch glass",
+            "Glass slide and cover slip",
+            "Forceps and needle",
+            "Safranin stain solution",
+            "Glycerine",
+            "Compound microscope"
+          ],
+          "procedure": [
+            "Peel off a thin transparent epidermal layer from the fleshy scale of an onion using forceps.",
+            "Place the peel immediately in a watch glass containing water to prevent drying.",
+            "Transfer the peel onto a clean glass slide and add a drop of Safranin stain.",
+            "After 2 minutes, wash off excess stain with water and place a drop of glycerine.",
+            "Gently lower a cover slip using a needle avoiding air bubbles, and observe under low and high power of microscope."
+          ],
+          "precautions": [
+            "The peel must not fold upon itself on the slide.",
+            "Avoid air bubbles beneath the cover slip by lowering it slowly with a needle."
+          ],
+          "observations": "Large numbers of brick-shaped rectangular cells are observed with distinct dark-stained cell walls, peripheral cytoplasm, prominent round nucleus, and large central vacuole.",
+          "conclusion": "Plant cells possess a definite cell wall, cytoplasm, and nucleus, demonstrating that cell is the structural unit of plants."
+        },
+        {
+          "activity_no": "1.2",
+          "title": "Observation of Human Cheek Cells",
+          "aim": "To prepare a temporary stained mount of human cheek epithelial cells to observe animal cell structure.",
+          "apparatus": [
+            "Clean toothpick",
+            "Glass slide",
+            "Cover slip",
+            "Methylene blue stain",
+            "Glycerine",
+            "Microscope"
+          ],
+          "procedure": [
+            "Gently scrape the inner lining of your cheek with the blunt end of a clean toothpick.",
+            "Spread the scraped material onto a drop of water on a clean glass slide.",
+            "Add a drop of methylene blue stain and let it stand for one minute.",
+            "Cover with a cover slip and examine under the microscope."
+          ],
+          "precautions": [
+            "Scrape very gently without hurting the cheek epithelium.",
+            "Always use a fresh, sterile toothpick."
+          ],
+          "observations": "Irregular polygonal cells are seen scattered on the slide. Each cell has a thin cell membrane, granular cytoplasm, and a centrally located dark nucleus. No cell wall is present.",
+          "conclusion": "Animal cells lack a cell wall and chloroplasts, possessing only a flexible plasma membrane around the cytoplasm."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between prokaryotes and eukaryotes with two examples of each.",
+          "question_text_te": "కేంద్రకపూర్వ జీవులు మరియు నిజకేంద్రక జీవుల మధ్య గల తేడాలను రెండేసి ఉదాహరణలతో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What would happen to an onion peel cell if the nucleus were completely removed?",
+          "question_text_te": "ఉల్లిపొర కణం నుండి కేంద్రకాన్ని పూర్తిగా తొలగిస్తే ఆ కణానికి ఏమి జరుగుతుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe the procedure to prepare a temporary stained mount of onion peel cells under microscope.",
+          "question_text_te": "సూక్ష్మదర్శిని కింద పరిశీలించడానికి ఉల్లిపొర తాత్కాలిక స్లైడ్ తయారుచేసే విధానాన్ని ప్రయోగ పూర్వకంగా వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw neat labeled diagrams showing comparison between a plant cell and an animal cell.",
+          "question_text_te": "వృక్షకణం మరియు జంతుకణం యొక్క చక్కని నామకరణం చేసిన పటాలను గీసి పోలికలను చూపండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS7_appreciation_and_values",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the discovery of cell by Robert Hooke and how it revolutionized biological science.",
+          "question_text_te": "రాబర్ట్ హుక్ కణాన్ని కనుగొనడాన్ని మరియు అది జీవశాస్త్ర పురోగతికి ఎలా దోహదపడిందో అభినందిస్తూ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Microorganisms: Friend and Foe",
+      "title_te": "సూక్ష్మజీవులు : స్నేహితులు మరియు శత్రువులు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Microorganisms are microscopic living creatures classified into Bacteria, Fungi, Protozoa, and Algae.",
+        "Viruses are microscopic entities that reproduce only inside the host cells of plants, animals, or bacteria.",
+        "Friendly microorganisms: Making of curd and bread (Lactobacillus, Yeast fermentation), Commercial production of alcohol and acetic acid.",
+        "Medicinal use of microorganisms: Antibiotics (Alexander Fleming, Penicillin 1929), Vaccines (Edward Jenner, Smallpox vaccine 1798).",
+        "Increasing soil fertility: Nitrogen fixing bacteria (Rhizobium, Blue-green algae).",
+        "Harmful microorganisms: Pathogens causing communicable diseases (Cholera, Tuberculosis, Typhoid, Malaria, Dengue).",
+        "Food poisoning and Food preservation methods: Chemical methods, Common salt, Sugar, Oil and vinegar, Heat and cold treatments (Pasteurization - Louis Pasteur), Storage and packing.",
+        "Nitrogen cycle: Nitrogen fixation, ammonification, nitrification, and denitrification."
+      ],
+      "learning_outcomes": [
+        "Classify microorganisms into major groups.",
+        "Explain the role of yeast in baking and alcohol fermentation.",
+        "Describe methods of food preservation and illustrate the Nitrogen cycle."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Glucose} \\xrightarrow[\\text{Fermentation}]{\\text{Yeast (Zymase)}} 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2 \\uparrow",
+        "\\text{Atmospheric N}_2 \\xrightarrow{\\text{Rhizobium}} \\text{NO}_3^- \\rightarrow \\text{Plant Protein}"
+      ],
+      "activities": [
+        {
+          "activity_no": "2.1",
+          "title": "Observing Fermentation by Yeast",
+          "aim": "To demonstrate that yeast produces carbon dioxide gas during the fermentation of sugar.",
+          "apparatus": [
+            "Conical flask",
+            "Flour or sugar solution",
+            "Warm water",
+            "Baker's yeast powder",
+            "Balloon"
+          ],
+          "procedure": [
+            "Take 100 mL of warm water in a conical flask, add two teaspoons of sugar and half a teaspoon of baker's yeast.",
+            "Stir well and stretch the neck of a deflated rubber balloon over the mouth of the flask.",
+            "Keep the flask in a warm place for 3 to 4 hours and observe the balloon."
+          ],
+          "precautions": [
+            "Water must be warm, not hot, to prevent killing the yeast cells.",
+            "Ensure the balloon fits tightly over the flask neck."
+          ],
+          "observations": "The balloon gradually inflates and stands erect due to gas accumulation. A pleasant fruity alcohol smell is emitted from the flask.",
+          "conclusion": "Yeast reproduces rapidly and breaks down sugar into alcohol and carbon dioxide gas (fermentation), which inflates the balloon."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are antibiotics? What precautions must be taken while taking antibiotics?",
+          "question_text_te": "యాంటీబయాటిక్స్ (సూక్ష్మజీవ నాశకాలు) అంటే ఏమిటి? వాటిని తీసుకునేటప్పుడు ఎలాంటి జాగ్రత్తలు పాటించాలి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat schematic flow diagram of the Nitrogen Cycle in nature.",
+          "question_text_te": "ప్రకృతిలో జరిగే నత్రజని వలయం (నైట్రోజన్ సైకిల్) యొక్క చక్కని ప్రవాహ పటాన్ని గీయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain how pasteurization preserves milk and prevents spoilage.",
+          "question_text_te": "పాశ్చరైజేషన్ పద్ధతి పాలను ఎలా సంరక్షిస్తుందో మరియు పాడవకుండా ఎలా కాపాడుతుందో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Crop Production and Management",
+      "title_te": "పంట ఉత్పత్తులు మరియు యాజమాన్య పద్ధతులు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Crops: When plants of the same kind are cultivated at one place on a large scale. Kharif crops (sown in rainy season: Paddy, Maize, Soyabean) and Rabi crops (sown in winter: Wheat, Gram, Mustard).",
+        "Basic agricultural practices: Preparation of soil (ploughing, levelling), Sowing (good quality seeds, seed drill), Adding manure and fertilisers, Irrigation, Protecting from weeds, Harvesting, and Storage.",
+        "Differences between organic manure and chemical fertilisers (NPK).",
+        "Modern irrigation systems: Sprinkler system (uneven sandy soil) and Drip system (delivers water drop by drop directly to roots, zero water wastage).",
+        "Weed management: Physical weeding, Weedicides (2,4-D).",
+        "Harvesting, Threshing, and Storage: Granaries, Silos, buffer stock by Food Corporation of India (FCI)."
+      ],
+      "learning_outcomes": [
+        "Distinguish between Kharif and Rabi cropping seasons.",
+        "Compare traditional and modern irrigation methods (Drip and Sprinkler).",
+        "Explain advantages of organic manure over chemical fertilisers."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{NPK Fertiliser} = \\text{Nitrogen (N)} + \\text{Phosphorus (P)} + \\text{Potassium (K)}",
+        "\\text{Water Efficiency: Drip Irrigation} \\approx 90\\text{--}95\\%"
+      ],
+      "activities": [
+        {
+          "activity_no": "3.1",
+          "title": "Separating Healthy Seeds from Damaged Seeds",
+          "aim": "To separate viable healthy seeds from hollow damaged ones using the flotation method.",
+          "apparatus": [
+            "Beaker (500 mL)",
+            "Water",
+            "A handful of gram or wheat seeds",
+            "Glass stirring rod"
+          ],
+          "procedure": [
+            "Fill half of the beaker with clean water.",
+            "Put a handful of wheat seeds into the beaker and stir thoroughly with a glass rod.",
+            "Allow the mixture to settle undisturbed for 5 minutes and observe."
+          ],
+          "precautions": [
+            "Stir gently to dislodge any air bubbles clinging to the seeds.",
+            "Let the water come to complete rest before observation."
+          ],
+          "observations": "A few damaged, hollow, insect-eaten seeds float on the surface of the water, whereas healthy, dense, undamaged seeds sink to the bottom.",
+          "conclusion": "Healthy seeds are heavier and sink, providing a simple household technique for selecting viable seeds for sowing."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between Kharif crops and Rabi crops with two examples of each.",
+          "question_text_te": "ఖరీఫ్ మరియు రబీ పంటల మధ్య గల తేడాలను రెండేసి ఉదాహరణలతో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Tabulate three differences between organic manure and chemical fertilisers.",
+          "question_text_te": "సేంద్రీయ ఎరువులు మరియు రసాయన ఎరువుల మధ్య గల మూడు ముఖ్యమైన తేడాలను పట్టిక రూపంలో రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is drip irrigation considered the best technique for watering fruit plants and gardens in drought-prone areas?",
+          "question_text_te": "కరువు ప్రాంతాలలో తోటలు మరియు పండ్ల మొక్కలకు బిందు సేద్యం (డ్రిప్ ఇరిగేషన్) ఎందుకు ఉత్తమమైన పద్ధతిగా పరిగణించబడుతుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Reproduction in Animals",
+      "title_te": "జంతువులలో ప్రత్యుత్పత్తి",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Reproduction is essential for the continuation of a species.",
+        "Modes of reproduction: Sexual reproduction (fusion of male and female gametes) and Asexual reproduction (single parent).",
+        "Male reproductive system: Testes (produce sperms and testosterone), Sperm ducts, and Penis. Structure of human sperm.",
+        "Female reproductive system: Ovaries (produce ova/eggs and estrogen), Oviducts (Fallopian tubes), and Uterus.",
+        "Fertilisation: Fusion of sperm nucleus with egg nucleus to form a zygote. Internal fertilisation (humans, cows, birds) vs External fertilisation (frogs, fish).",
+        "In vitro fertilisation (IVF) and test-tube babies.",
+        "Development of embryo: Zygote divides repeatedly into an embryo, implants in the uterine wall, and develops into a fetus.",
+        "Viviparous animals (give birth to young ones) vs Oviparous animals (lay eggs).",
+        "Metamorphosis in frog: Egg -> Tadpole (larva) -> Adult frog.",
+        "Asexual reproduction in animals: Budding in Hydra and Binary fission in Amoeba."
+      ],
+      "learning_outcomes": [
+        "Identify male and female reproductive organs in humans.",
+        "Differentiate between internal and external fertilisation.",
+        "Explain budding in Hydra and binary fission in Amoeba."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Sperm (n)} + \\text{Ovum (n)} \\xrightarrow{\\text{Fertilisation}} \\text{Zygote (2n)} \\rightarrow \\text{Embryo} \\rightarrow \\text{Fetus}",
+        "\\text{Amoeba} \\xrightarrow{\\text{Karyokinesis}} 2 \\text{ Nuclei} \\xrightarrow{\\text{Cytokinesis}} 2 \\text{ Daughter Amoebae}"
+      ],
+      "activities": [
+        {
+          "activity_no": "4.1",
+          "title": "Observation of Binary Fission in Amoeba and Budding in Hydra",
+          "aim": "To observe permanent slides showing asexual reproduction in Amoeba (binary fission) and Hydra (budding).",
+          "apparatus": [
+            "Permanent slides of binary fission in Amoeba",
+            "Permanent slides of budding in Hydra",
+            "Compound microscope"
+          ],
+          "procedure": [
+            "Place the slide of binary fission in Amoeba on the microscope stage.",
+            "Focus under low power and then switch to high power; observe nucleus division and constriction in cytoplasm.",
+            "Replace with the slide of budding in Hydra and observe the tiny outgrowth (bud) arising from the parent body."
+          ],
+          "precautions": [
+            "Handle permanent slides carefully to avoid scratching the coverslip.",
+            "Use fine adjustment for sharp cellular focusing."
+          ],
+          "observations": "In Amoeba, the nucleus elongates and divides into two, followed by cytoplasmic cleavage into two daughter cells. In Hydra, a bulb-like bud develops tentacles and detaches from the parent.",
+          "conclusion": "Amoeba reproduces asexually by binary fission, whereas Hydra reproduces asexually by budding."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between internal fertilisation and external fertilisation with examples.",
+          "question_text_te": "అంతర్గత ఫలదీకరణం మరియు బాహ్య ఫలదీకరణం మధ్య గల తేడాలను ఉదాహరణలతో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram of human sperm showing Head, Middle piece, and Tail.",
+          "question_text_te": "మానవ శుక్రకణం యొక్క చక్కని పటం గీసి తల, మధ్యభాగం మరియు తోక భాగాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Reaching the Age of Adolescence",
+      "title_te": "కౌమార దశ",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Adolescence is the period of life between 11 and 19 years when body undergoes changes leading to reproductive maturity.",
+        "Puberty: Onset of sexual maturity marked by sudden increase in height, changes in body shape, voice change (Adam's apple in boys).",
+        "Development of sex organs and secondary sexual characteristics (facial hair in boys, breast development in girls).",
+        "Role of hormones: Endocrine glands release hormones directly into the bloodstream to reach target sites.",
+        "Pituitary gland (master gland), Thyroid (thyroxine), Pancreas (insulin), Adrenal glands (adrenaline - fight or flight).",
+        "Sex hormones: Testosterone in males, Estrogen in females.",
+        "Menstrual cycle in females: Menarche (first menstruation) and Menopause (stoppage around 45-50 years).",
+        "Sex determination in human baby: Father determines the sex (X sperm -> girl child XX; Y sperm -> boy child XY).",
+        "Nutritional needs of adolescents, personal hygiene, and saying NO to drugs."
+      ],
+      "learning_outcomes": [
+        "Describe physical and emotional changes occurring during puberty.",
+        "Explain the genetic mechanism of sex determination in humans.",
+        "Understand the importance of balanced diet and hygiene during adolescence."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Mother (XX)} \\times \\text{Father (XY)} \\rightarrow 50\\% \\text{ Female (XX)}, \\; 50\\% \\text{ Male (XY)}",
+        "\\text{Height calculation} = \\frac{\\text{Present height (cm)}}{\\%\\text{ of full height at this age}} \\times 100"
+      ],
+      "activities": [
+        {
+          "activity_no": "5.1",
+          "title": "Estimating Predicted Full Adult Height Based on Growth Charts",
+          "aim": "To calculate the predicted adult height of an adolescent using standardized SCERT age-growth percentage data.",
+          "apparatus": [
+            "Measuring tape or stadiometer",
+            "Growth rate percentage table for boys and girls"
+          ],
+          "procedure": [
+            "Measure the exact present height of a 13-year-old student standing straight against a wall.",
+            "Consult the growth chart table (e.g. boys at 13 have reached approximately 92% of adult height; girls 95%).",
+            "Apply the formula: Predicted Height = (Present height / % from table) * 100."
+          ],
+          "precautions": [
+            "Student must stand barefoot with heels, back, and head touching the vertical wall.",
+            "Ensure the measuring scale is horizontal."
+          ],
+          "observations": "For a 13-year-old boy of 138 cm height, predicted adult height = (138 / 92) * 100 = 150 cm.",
+          "conclusion": "Growth spurts during adolescence follow standard physiological trends regulated by growth hormones."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why the father's chromosome determines the sex of the unborn child and not the mother's.",
+          "question_text_te": "పుట్టబోయే బిడ్డ లింగ నిర్ధారణలో తల్లి కాకుండా తండ్రి క్రోమోజోములే నిర్ణయిస్తాయని ఎలా చెప్పగలరు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "List four endocrine glands, the hormone secreted by each, and the primary bodily function regulated.",
+          "question_text_te": "నాలుగు అంతఃస్రావ గ్రంథులు, అవి స్రవించే హార్మోన్లు మరియు అవి నియంత్రించే ముఖ్యమైన విధులను పేర్కొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Conservation of Plants and Animals",
+      "title_te": "మొక్కలు మరియు జంతువుల సంరక్షణ",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Deforestation and its consequences: Loss of habitat, desertification, global warming, disrupted water cycle, soil erosion.",
+        "Droughts and floods caused by destruction of vegetative catchment areas.",
+        "Biodiversity: Variety of plants, animals, and microorganisms existing in an area.",
+        "Protected areas: Wildlife Sanctuaries (protection to wild animals), National Parks (preservation of flora, fauna, and landscape), Biosphere Reserves (multipurpose protected zones like Pachmarhi).",
+        "Flora (plants of an area) and Fauna (animals of an area).",
+        "Endemic species: Species found exclusively in a particular geographical area.",
+        "Endangered species and Red Data Book published by IUCN.",
+        "Migration of birds (Siberian cranes travelling thousands of miles to avoid severe winter).",
+        "Recycling of paper (saves 17 full-grown trees per tonne of paper) and Reforestation."
+      ],
+      "learning_outcomes": [
+        "Analyse the consequences of deforestation on rainfall and soil fertility.",
+        "Differentiate between a Wildlife Sanctuary and a National Park.",
+        "Promote reforestation and paper recycling in daily life."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Deforestation} \\rightarrow \\uparrow\\text{CO}_2 \\rightarrow \\text{Greenhouse Effect} \\rightarrow \\text{Global Warming}",
+        "1\\text{ Tonne of Recycled Paper} = \\text{Saves } 17\\text{ Mature Trees} + 26{,}000\\text{ Litres Water}"
+      ],
+      "activities": [
+        {
+          "activity_no": "6.1",
+          "title": "Surveying Endemic and Endangered Species of Andhra Pradesh",
+          "aim": "To identify endemic and endangered flora and fauna of Andhra Pradesh using secondary data.",
+          "apparatus": [
+            "Reference books and forest survey reports",
+            "Chart paper",
+            "Photographs of local wild animals"
+          ],
+          "procedure": [
+            "Gather information about protected wildlife reserves in Andhra Pradesh (e.g. Coringa Wildlife Sanctuary, Rollapadu Wildlife Sanctuary, Sri Venkateswara National Park).",
+            "List prominent endangered animals such as Great Indian Bustard, Olive Ridley Sea Turtle, and Red Sanders (Pterocarpus santalinus).",
+            "Classify them into endemic, endangered, and vulnerable categories."
+          ],
+          "precautions": [
+            "Verify scientific names and conservation status from authoritative forest sources."
+          ],
+          "observations": "Rollapadu sanctuary is the prime grassland habitat for the critically endangered Great Indian Bustard in Kurnool district; Red Sanders is endemic to the Seshachalam hills.",
+          "conclusion": "Habitat conservation and dedicated wildlife sanctuaries are indispensable to prevent extinction of endemic and endangered species."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between a Zoo and a Wildlife Sanctuary.",
+          "question_text_te": "జంతు ప్రదర్శనశాల (జూ) మరియు వన్యప్రాణి సంరక్షణ కేంద్రం (శాంక్చువరీ) మధ్య గల తేడాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why should paper be saved and recycled? Mention two ways in which students can save paper.",
+          "question_text_te": "కాగితాన్ని ఎందుకు ఆదా చేయాలి మరియు రీసైకిల్ చేయాలి? విద్యార్థులు కాగితాన్ని ఆదా చేయడానికి రెండు మార్గాలను తెలపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Pollution of Air and Water",
+      "title_te": "వాయు మరియు జల కాలుష్యం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Air pollution: Contamination of air by unwanted substances harmful to living organisms and non-living things.",
+        "Air pollutants: Carbon monoxide (incomplete combustion), Carbon dioxide, Sulphur dioxide and Nitrogen oxides (cause acid rain), Chlorofluorocarbons (CFCs deplete ozone layer), Smog (smoke + fog).",
+        "Case study: Taj Mahal yellowing due to acid rain from Mathura refinery ('Marble Cancer').",
+        "Greenhouse effect and Global Warming: Carbon dioxide, methane, nitrous oxide trapping heat.",
+        "Water pollution: Contamination of water bodies by industrial effluents, untreated sewage, agricultural pesticides, and fertilizers.",
+        "Case study: River Ganga pollution and Namami Gange programme.",
+        "Eutrophication: Excessive algae growth depleting dissolved oxygen in water, suffocating aquatic life.",
+        "Potable water: Water that is safe for drinking. Purification methods: Filtration, Boiling, Chlorination."
+      ],
+      "learning_outcomes": [
+        "Identify primary causes and consequences of air and water pollution.",
+        "Explain the phenomenon of acid rain and its impact on monuments and soil.",
+        "Describe methods to obtain potable water at household and community levels."
+      ],
+      "key_formulas_and_equations": [
+        "\\text{SO}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{H}_2\\text{SO}_3 \\quad (\\text{Acid Rain Component})",
+        "\\text{CaCO}_3\\text{(s)} + \\text{H}_2\\text{SO}_4\\text{(aq)} \\rightarrow \\text{CaSO}_4\\text{(aq)} + \\text{H}_2\\text{O(l)} + \\text{CO}_2\\text{(g)} \\quad (\\text{Marble Cancer})",
+        "\\text{Chlorination}: \\text{Cl}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{HOCl} + \\text{HCl} \\quad (\\text{Disinfection})"
+      ],
+      "activities": [
+        {
+          "activity_no": "7.1",
+          "title": "Testing Water Quality and Suspended Impurities",
+          "aim": "To compare physical parameters (turbidity, odour, pH) of tap water, pond water, and drain water.",
+          "apparatus": [
+            "Three clean beakers",
+            "Water samples (Tap water, Stagnant pond water, Drain water)",
+            "Filter paper and funnel",
+            "pH paper"
+          ],
+          "procedure": [
+            "Collect 100 mL each of tap water, pond water, and drain water in three labeled beakers.",
+            "Observe the colour, clarity, and smell of each sample.",
+            "Filter equal volumes through filter paper and check for suspended residue.",
+            "Dip a strip of pH paper into each sample and compare with the standard pH colour chart."
+          ],
+          "precautions": [
+            "Do not taste any water sample.",
+            "Wash hands thoroughly with soap after handling drain and pond water."
+          ],
+          "observations": "Tap water is clear, odourless, with neutral pH (approx 7.0). Pond water is slightly turbid with microscopic algae and greenish residue. Drain water is dark, foul-smelling, and acidic.",
+          "conclusion": "Surface and wastewater contain physical and chemical contaminants that require multi-stage treatment before being safe for human consumption."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is greenhouse effect? Name two prominent greenhouse gases.",
+          "question_text_te": "హరితగృహ ప్రభావం (గ్రీన్ హౌస్ ఎఫెక్ట్) అంటే ఏమిటి? రెండు ముఖ్యమైన గ్రీన్ హౌస్ వాయువుల పేర్లను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does excessive use of chemical fertilisers in fields cause death of fish in nearby ponds?",
+          "question_text_te": "పొలాల్లో రసాయన ఎరువులను అధికంగా వాడటం వల్ల సమీపంలోని చెరువుల్లో చేపలు ఎందుకు చనిపోతాయి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State three simple steps you can take at home to reduce water wastage and prevent pollution.",
+          "question_text_te": "నీటి వృథాను అరికట్టడానికి మరియు కాలుష్యాన్ని నివారించడానికి మీ ఇంట్లో మీరు తీసుకోగల మూడు సాధారణ చర్యలను తెలపండి."
+        }
+      ]
+    }
+  ]
+}

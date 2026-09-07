@@ -1,0 +1,1092 @@
+{
+  "book_metadata": {
+    "title_en": "English Reader & Supplementary - Class 8 (AP SCERT 2024-25)",
+    "title_te": "ఇంగ్లీషు రీడర్ - ఎనిమిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8th Class",
+    "medium": "English",
+    "total_chapters": 21,
+    "textbooks": [
+      "Honeydew - English Reader for Class VIII",
+      "It So Happened - Supplementary Reader in English for Class VIII"
+    ],
+    "source_pdfs": [
+      "8_English_Textbook.pdf",
+      "8_English_Nonditail.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Reading Comprehension",
+    "AS2": "Vocabulary and Grammar",
+    "AS3": "Creative Discourses"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "The Best Christmas Present in the World & The Ant and the Cricket",
+      "title_te": "ప్రపంచంలోనే ఉత్తమ క్రిస్మస్ బహుమతి & చీమ మరియు మిడత",
+      "section": "Main Reader (Honeydew)",
+      "author": "Michael Morpurgo (Prose) / Aesop's Fable (Poem)",
+      "learning_outcomes": [
+        "Understand the universal message of peace, humanity, and fraternity amidst the horrors of war.",
+        "Draw moral lessons from Aesop's fable on foresight, hard work, and avoiding irresponsible procrastination."
+      ],
+      "vocabulary_and_grammar": [
+        "Phrasal verbs (burn out, light up, look on)",
+        "Past perfect tense vs Simple past tense",
+        "Metaphor and personification in poetry"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did the narrator find in the secret drawer of the old roll-top desk in the junk shop?",
+          "question_text_te": "పాత సామగ్రి దుకాణంలోని డెస్క్ రహస్య డ్రాయర్‌లో రచయితకు ఏమి దొరికింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was the ant's philosophy regarding borrowing and lending in the fable?",
+          "question_text_te": "నీతికథలో అప్పు తీసుకోవడం, అప్పు ఇవ్వడంపై చీమ యొక్క సిద్ధాంతం ఏమిటి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Fill in the blanks with the past perfect or simple past forms of verbs in brackets: When I reached the station, the train _____ (leave).",
+          "question_text_te": "బ్రాకెట్లలోని క్రియారూపాలతో ఖాళీలను పూరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Imagine you are Jim Macpherson. Write a diary entry describing the miraculous Christmas Day truce with the German soldiers in No Man's Land.",
+          "question_text_te": "మిమ్మల్ని మీరు జిమ్ మాక్‌ఫెర్సన్‌గా ఊహించుకుంటూ జర్మన్ సైనికులతో నో మ్యాన్స్ ల్యాండ్‌లో జరుపుకున్న క్రిస్మస్ శాంతి సంబరాన్ని వివరిస్తూ డైరీ ఎంట్రీ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "The Tsunami & Geography Lesson",
+      "title_te": "సునామీ & జాగ్రఫీ లెసన్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Anecdotes of Courage / Zulfikar Ghose (Poem)",
+      "learning_outcomes": [
+        "Appreciate stories of courage, quick thinking, and resilience during natural disasters like the 2004 Indian Ocean Tsunami.",
+        "Examine geographical perspectives of human settlements viewed from varying altitudes in an aircraft."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Tilly Smith's geography lesson in school save many lives on Phuket beach in Thailand?",
+          "question_text_te": "పాఠశాలలో నేర్చుకున్న జాగ్రఫీ పాఠం ద్వారా టిల్లీ స్మిత్ థాయిలాండ్‌లోని ఫుకెట్ బీచ్‌లో అనేక మంది ప్రాణాలను ఎలా కాపాడింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify adjectives in the poem 'Geography Lesson' used to describe the geometric layout of cities.",
+          "question_text_te": "'జాగ్రఫీ లెసన్' కవితలో నగరాల రూపురేఖలను వర్ణించడానికి ఉపయోగించిన విశేషణాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Glimpses of the Past & Macavity: The Mystery Cat",
+      "title_te": "గతకాలపు జ్ఞాపకాలు & మకావిటీ: ది మిస్టరీ క్యాట్",
+      "section": "Main Reader (Honeydew)",
+      "author": "S.D. Sawant (Comic Narrative) / T.S. Eliot (Poem)",
+      "learning_outcomes": [
+        "Understand the pictorial narrative of the historical events from 1757 to 1857 leading to India's First War of Independence.",
+        "Enjoy humorous poetic portrayal of Macavity, the elusive criminal mastermind cat created by T.S. Eliot."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does the poet T.S. Eliot describe Macavity as the 'Napoleon of Crime'?",
+          "question_text_te": "కవి టి.ఎస్. ఇలియట్ మకావిటీ పిల్లిని 'నేర సామ్రాజ్య నెపోలియన్' అని ఎందుకు అభివర్ణించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Prepare a speech on the heroic martyrdom of Mangal Pandey and the outbreak of the 1857 Revolt against British oppression.",
+          "question_text_te": "మంగల్ పాండే వీర మరణం మరియు బ్రిటిష్ పాలనపై 1857 తిరుగుబాటు ప్రాముఖ్యతను వివరిస్తూ ఒక ఉపన్యాసాన్ని తయారుచేయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Bepin Choudhury's Lapse of Memory & The Last Bargain",
+      "title_te": "బెపిన్ చౌదరి జ్ఞాపకశక్తి లోపం & ది లాస్ట్ బార్గేన్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Satyajit Ray / Rabindranath Tagore (Poem)",
+      "learning_outcomes": [
+        "Appreciate psychological suspense and humor in Satyajit Ray's story of an elaborate practical joke by Chunilal.",
+        "Reflect upon Rabindranath Tagore's philosophical poem where true freedom and dignity surpass power, wealth, and beauty."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Chunilal play such an elaborate practical joke on Bepin Choudhury?",
+          "question_text_te": "చునీలాల్ బెపిన్ చౌదరిపై అంతటి విచిత్రమైన ఉపాయాన్ని ఎందుకు ప్రయోగించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the speaker in 'The Last Bargain' accept the bargain offered by the child playing with sea-shells?",
+          "question_text_te": "'ది లాస్ట్ బార్గేన్' కవితలో సముద్రపు గవ్వలతో ఆడుకుంటున్న చిన్నారి బేరాన్ని కవి ఎందుకు అంగీకరించారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "The Summit Within & The School Boy",
+      "title_te": "అంతర్గత శిఖరం & ది స్కూల్ బాయ్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Major H.P.S. Ahluwalia / William Blake (Poem)",
+      "learning_outcomes": [
+        "Understand the spiritual and internal summit of endurance, persistence, and willpower required beyond climbing Mount Everest.",
+        "Empathize with the child in William Blake's poem longing for nature and joyful freedom away from restrictive classroom schooling."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did Major Ahluwalia mean by 'the summit within'? Why is climbing it even more formidable than Everest?",
+          "question_text_te": "మేజర్ అహ్లువాలియా పేర్కొన్న 'అంతర్గత శిఖరం' అంటే ఏమిటి? ఎవరెస్ట్ కంటే దానిని అధిరోహించడం ఎందుకు కష్టతరమైనది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Rewrite using reported speech: He said, 'I have climbed the highest peak in the world.'",
+          "question_text_te": "పరోక్ష కథనంలోకి (ఇన్‌డైరెక్ట్ స్పీచ్) మార్చండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "This is Jody's Fawn",
+      "title_te": "ఇది జోడీ జింకపిల్ల",
+      "section": "Main Reader (Honeydew)",
+      "author": "Marjorie Kinnan Rawlings",
+      "learning_outcomes": [
+        "Cultivate moral responsibility, empathy, and compassion towards orphaned wild animals.",
+        "Analyze Jody's determination to bring the doe's fawn home to atone for saving his father's life."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why was Jody so keen to bring the fawn home after his father's recovery from snakebite?",
+          "question_text_te": "తండ్రి పాముకాటు నుండి కోలుకున్న తర్వాత అడవిలోని జింకపిల్లను ఇంటికి తీసుకురావడానికి జోడీ ఎందుకు అంతగా ఆరాటపడ్డాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a descriptive paragraph detailing how Jody fed milk to the young fawn using his fingers.",
+          "question_text_te": "జోడీ తన చేతివేళ్లతో ఆకలితో ఉన్న చిన్న జింకపిల్లకు పాలు ఎలా తాగించాడో వర్ణిస్తూ ఒక పేరా రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "A Visit to Cambridge & When I set out for Lyonnesse",
+      "title_te": "కేంబ్రిడ్జ్ సందర్శన & వెన్ ఐ సెట్ అవుట్ ఫర్ లయోనెస్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Firdaus Kanga / Thomas Hardy (Poem)",
+      "learning_outcomes": [
+        "Understand the poignant and uplifting interaction between two extraordinary disabled individuals: Firdaus Kanga and Stephen Hawking.",
+        "Appreciate Thomas Hardy's poetic narrative of personal metamorphosis after an architect's journey to Lyonnesse."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What advice did Stephen Hawking give to disabled people during his interview with Firdaus Kanga?",
+          "question_text_te": "ఫిర్దౌస్ కంగాతో ఇంటర్వ్యూ సందర్భంగా దివ్యాంగులకు స్టీఫెన్ హాకింగ్ ఇచ్చిన సలహా ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the poetic devices used in Thomas Hardy's poem 'When I set out for Lyonnesse'.",
+          "question_text_te": "థామస్ హార్డీ కవితలోని అలంకారాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "A Short Monsoon Diary & On the Grasshopper and Cricket",
+      "title_te": "వర్షాకాలపు చిన్న డైరీ & గడ్డిపరక మరియు మిడతపై",
+      "section": "Main Reader (Honeydew)",
+      "author": "Ruskin Bond / John Keats (Poem)",
+      "learning_outcomes": [
+        "Delight in Ruskin Bond's lyrical observation of flora, fauna, and changing seasonal moods in Mussoorie hills during monsoon.",
+        "Understand John Keats's sonnet expressing the eternal, continuous music of nature across sweltering summer and frosty winter."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does John Keats assert that 'The poetry of earth is never dead'?",
+          "question_text_te": "'ధరిత్రి కవిత్వ సంగీతం ఎప్పటికీ అంతం కాదు' అని జాన్ కీట్స్ ఎందుకు ఉద్ఘాటించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a diary entry recording your sensory impressions of the first heavy monsoon shower in your town.",
+          "question_text_te": "మీ పట్టణంలో కురిసిన తొలి భారీ వర్షం అనుభవాలను వర్ణిస్తూ ఒక డైరీ ఎంట్రీ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "The Great Stone Face – I",
+      "title_te": "ది గ్రేట్ స్టోన్ ఫేస్ - I",
+      "section": "Main Reader (Honeydew)",
+      "author": "Nathaniel Hawthorne",
+      "learning_outcomes": [
+        "Analyze the legend of the Great Stone Face overlooking the valley and Ernest's noble character development.",
+        "Recognize how genuine greatness lies in humility, wisdom, and benevolence rather than wealth (Mr. Gathergold) or military prowess (General Blood-and-Thunder)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Ernest feel that neither Mr. Gathergold nor General Blood-and-Thunder resembled the Great Stone Face?",
+          "question_text_te": "మిస్టర్ గాదర్‌గోల్డ్ గానీ, జనరల్ బ్లడ్ అండ్ థండర్ గానీ గ్రేట్ స్టోన్ ఫేస్ పోలికలను కలిగిలేరని ఎర్నెస్ట్ ఎందుకు భావించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Form nouns from the following adjectives by adding suitable suffixes: (a) Kind (b) Noble.",
+          "question_text_te": "తగిన ప్రత్యయాలను జోడించి నామవాచకాలను రూపొందించండి: (ఎ) కైండ్ (బి) నోబుల్."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "The Great Stone Face – II",
+      "title_te": "ది గ్రేట్ స్టోన్ ఫేస్ - II",
+      "section": "Main Reader (Honeydew)",
+      "author": "Nathaniel Hawthorne",
+      "learning_outcomes": [
+        "Understand the culmination of the prophecy when a celebrated poet identifies Ernest himself as the true living embodiment of the Great Stone Face.",
+        "Appreciate the lifelong pursuit of truth, virtue, and selfless wisdom."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the poet discover that Ernest himself was the long-awaited likeness of the Great Stone Face?",
+          "question_text_te": "ఎర్నెస్ట్ స్వయంగా గ్రేట్ స్టోన్ ఫేస్ యొక్క ప్రత్యక్ష రూపమని కవి ఎలా గుర్తించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a character sketch of Ernest highlighting his humility, wisdom, and profound love for humanity.",
+          "question_text_te": "ఎర్నెస్ట్ యొక్క వినమ్రత, విజ్ఞానం మరియు మానవతావాదాన్ని వివరిస్తూ అతని శీల చిత్రణను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "How the Camel got his hump",
+      "title_te": "ఒంటెకు మూపురం ఎలా వచ్చింది",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Rudyard Kipling",
+      "learning_outcomes": [
+        "Learn the moral lesson against laziness and obstinacy through Rudyard Kipling's fable of the Djinn and the indolent camel."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the Djinn of all deserts give a 'humph' (hump) to the camel?",
+          "question_text_te": "ఎడారి జిన్ ఒంటెకు శాపంగా మూపురాన్ని (హంప్) ఎందుకు ప్రసాదించాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Children at work",
+      "title_te": "పనిలో పిల్లలు",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Gita Wolf, Anushka Ravishankar, Orijit Sen",
+      "learning_outcomes": [
+        "Sensitize students to the grim reality of runaway destitute child labourers and ragpickers in metropolitan cities."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Velu run away from his village, and how did Jaya help him survive in Chennai?",
+          "question_text_te": "వేలు తన గ్రామం నుండి ఎందుకు పారిపోయాడు? చెన్నై నగరంలో బ్రతకడానికి జయ అతనికి ఎలా సహాయపడింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "The Selfish Giant",
+      "title_te": "స్వార్థపరుడైన రాక్షసుడు",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Oscar Wilde",
+      "learning_outcomes": [
+        "Appreciate Oscar Wilde's touching fairy tale on love, redemption, and the supreme joy of sharing with innocent children."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What brought Spring back to the Selfish Giant's frozen winter garden?",
+          "question_text_te": "స్వార్థపరుడైన రాక్షసుని మంచుతో గడ్డకట్టిన తోటలోకి తిరిగి వసంత ఋతువు ఎలా వచ్చింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "The treasure within",
+      "title_te": "అంతర్గత నిధి",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Interview with Hafeez Contractor (Ms. Bela Raja)",
+      "learning_outcomes": [
+        "Understand that conventional school academic performance does not define a student's innate genius or professional destiny."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did an unconventional student like Hafeez Contractor become one of India's leading architects?",
+          "question_text_te": "పాఠశాలలో సాధారణ విద్యార్థి అయిన హఫీజ్ కాంట్రాక్టర్ భారతదేశంలోనే అగ్రగామి ఆర్కిటెక్ట్‌గా ఎలా ఎదిగాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Princess September",
+      "title_te": "ప్రిన్సెస్ సెప్టెంబర్",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Somerset Maugham",
+      "learning_outcomes": [
+        "Recognize that love means granting freedom to thrive rather than possessive confinement in a golden cage."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Princess September open the golden cage and release her beloved singing bird?",
+          "question_text_te": "ప్రిన్సెస్ సెప్టెంబర్ బంగారు పంజరాన్ని తెరిచి తన ప్రియమైన గాన పక్షిని ఎందుకు విడిచిపెట్టింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "The fight",
+      "title_te": "పోరాటం",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Ruskin Bond",
+      "learning_outcomes": [
+        "Learn how territorial rivalry and aggressive fistfights can transform into deep, respectful friendship through mutual recognition of talent."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the fierce wrestling rivalry between Ranji and Suraj at the forest pool turn into lasting friendship?",
+          "question_text_te": "అడవి కొలను వద్ద రంజీ మరియు సూరజ్ మధ్య జరిగిన ఘర్షణ శాశ్వత స్నేహంగా ఎలా మారింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "title_en": "The open window",
+      "title_te": "తెరిచిన కిటికీ",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Saki (H.H. Munro)",
+      "learning_outcomes": [
+        "Enjoy Saki's masterly irony and mischievous teenage storytelling in 'The Open Window'."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Vera's imaginative ghost story about the open window terrify Framton Nuttel?",
+          "question_text_te": "తెరిచిన కిటికీ గురించి వీరా చెప్పిన కల్పిత కథ ఫ్రామ్టన్ నట్టెల్‌ను ఎలా భయభ్రాంతులకు గురిచేసింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "title_en": "Jalebis",
+      "title_te": "జిలేబీలు",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Ahmed Nadeem Qasmi",
+      "learning_outcomes": [
+        "Relate to childhood temptation, moral guilt, and realization that prayers cannot substitute for personal responsibility."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the coins in the boy's pocket urge him to spend his school fees on hot jalebis?",
+          "question_text_te": "పాఠశాల ఫీజు డబ్బులతో వేడివేడి జిలేబీలు కొనమని బాలుని జేబులోని నాణేలు ఎందుకు ప్రేరేపించాయి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "title_en": "The comet — I",
+      "title_te": "తోకచుక్క — I",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Jayant Narlikar",
+      "learning_outcomes": [
+        "Follow amateur astronomer Manoj Duttada's discovery of a new comet on a collision course with Earth."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Duttada discover the new comet using his small telescope, Dibya Chakshu?",
+          "question_text_te": "దత్తాదా తన చిన్న టెలిస్కోప్ దివ్య చక్షు సహాయంతో కొత్త తోకచుక్కను ఎలా కనుగొన్నాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "title_en": "The comet — II",
+      "title_te": "తోకచుక్క — II",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Jayant Narlikar",
+      "learning_outcomes": [
+        "Contrast scientific rationality and Project Light Brigade with superstitious religious rituals (yajna) in averting disaster."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was 'Project Light Brigade' planned by international scientists to avert Comet Dutta's collision with Earth?",
+          "question_text_te": "భూమిని ఢీకొనబోయే తోకచుక్కను దారి మళ్లించడానికి అంతర్జాతీయ శాస్త్రవేత్తలు రూపొందించిన 'ప్రాజెక్ట్ లైట్ బ్రిగేడ్' ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 21,
+      "title_en": "Ancient Education System of India",
+      "title_te": "భారత ప్రాచీన విద్యా విధానం",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Historical Essay",
+      "learning_outcomes": [
+        "Learn about the ancient Indian Gurukula education system and world-renowned university centres like Takshashila and Nalanda."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What subjects were taught at the ancient universities of Takshashila and Nalanda to international scholars?",
+          "question_text_te": "తక్షశిల మరియు నలంద వంటి ప్రాచీన విశ్వవిద్యాలయాలలో విదేశీ పండితులకు ఎలాంటి విద్యను బోధించేవారు?"
+        }
+      ]
+    }
+  ],
+  "main_reader": [
+    {
+      "chapter_no": 1,
+      "title_en": "The Best Christmas Present in the World & The Ant and the Cricket",
+      "title_te": "ప్రపంచంలోనే ఉత్తమ క్రిస్మస్ బహుమతి & చీమ మరియు మిడత",
+      "section": "Main Reader (Honeydew)",
+      "author": "Michael Morpurgo (Prose) / Aesop's Fable (Poem)",
+      "learning_outcomes": [
+        "Understand the universal message of peace, humanity, and fraternity amidst the horrors of war.",
+        "Draw moral lessons from Aesop's fable on foresight, hard work, and avoiding irresponsible procrastination."
+      ],
+      "vocabulary_and_grammar": [
+        "Phrasal verbs (burn out, light up, look on)",
+        "Past perfect tense vs Simple past tense",
+        "Metaphor and personification in poetry"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did the narrator find in the secret drawer of the old roll-top desk in the junk shop?",
+          "question_text_te": "పాత సామగ్రి దుకాణంలోని డెస్క్ రహస్య డ్రాయర్‌లో రచయితకు ఏమి దొరికింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was the ant's philosophy regarding borrowing and lending in the fable?",
+          "question_text_te": "నీతికథలో అప్పు తీసుకోవడం, అప్పు ఇవ్వడంపై చీమ యొక్క సిద్ధాంతం ఏమిటి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Fill in the blanks with the past perfect or simple past forms of verbs in brackets: When I reached the station, the train _____ (leave).",
+          "question_text_te": "బ్రాకెట్లలోని క్రియారూపాలతో ఖాళీలను పూరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Imagine you are Jim Macpherson. Write a diary entry describing the miraculous Christmas Day truce with the German soldiers in No Man's Land.",
+          "question_text_te": "మిమ్మల్ని మీరు జిమ్ మాక్‌ఫెర్సన్‌గా ఊహించుకుంటూ జర్మన్ సైనికులతో నో మ్యాన్స్ ల్యాండ్‌లో జరుపుకున్న క్రిస్మస్ శాంతి సంబరాన్ని వివరిస్తూ డైరీ ఎంట్రీ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "The Tsunami & Geography Lesson",
+      "title_te": "సునామీ & జాగ్రఫీ లెసన్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Anecdotes of Courage / Zulfikar Ghose (Poem)",
+      "learning_outcomes": [
+        "Appreciate stories of courage, quick thinking, and resilience during natural disasters like the 2004 Indian Ocean Tsunami.",
+        "Examine geographical perspectives of human settlements viewed from varying altitudes in an aircraft."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Tilly Smith's geography lesson in school save many lives on Phuket beach in Thailand?",
+          "question_text_te": "పాఠశాలలో నేర్చుకున్న జాగ్రఫీ పాఠం ద్వారా టిల్లీ స్మిత్ థాయిలాండ్‌లోని ఫుకెట్ బీచ్‌లో అనేక మంది ప్రాణాలను ఎలా కాపాడింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify adjectives in the poem 'Geography Lesson' used to describe the geometric layout of cities.",
+          "question_text_te": "'జాగ్రఫీ లెసన్' కవితలో నగరాల రూపురేఖలను వర్ణించడానికి ఉపయోగించిన విశేషణాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Glimpses of the Past & Macavity: The Mystery Cat",
+      "title_te": "గతకాలపు జ్ఞాపకాలు & మకావిటీ: ది మిస్టరీ క్యాట్",
+      "section": "Main Reader (Honeydew)",
+      "author": "S.D. Sawant (Comic Narrative) / T.S. Eliot (Poem)",
+      "learning_outcomes": [
+        "Understand the pictorial narrative of the historical events from 1757 to 1857 leading to India's First War of Independence.",
+        "Enjoy humorous poetic portrayal of Macavity, the elusive criminal mastermind cat created by T.S. Eliot."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does the poet T.S. Eliot describe Macavity as the 'Napoleon of Crime'?",
+          "question_text_te": "కవి టి.ఎస్. ఇలియట్ మకావిటీ పిల్లిని 'నేర సామ్రాజ్య నెపోలియన్' అని ఎందుకు అభివర్ణించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Prepare a speech on the heroic martyrdom of Mangal Pandey and the outbreak of the 1857 Revolt against British oppression.",
+          "question_text_te": "మంగల్ పాండే వీర మరణం మరియు బ్రిటిష్ పాలనపై 1857 తిరుగుబాటు ప్రాముఖ్యతను వివరిస్తూ ఒక ఉపన్యాసాన్ని తయారుచేయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Bepin Choudhury's Lapse of Memory & The Last Bargain",
+      "title_te": "బెపిన్ చౌదరి జ్ఞాపకశక్తి లోపం & ది లాస్ట్ బార్గేన్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Satyajit Ray / Rabindranath Tagore (Poem)",
+      "learning_outcomes": [
+        "Appreciate psychological suspense and humor in Satyajit Ray's story of an elaborate practical joke by Chunilal.",
+        "Reflect upon Rabindranath Tagore's philosophical poem where true freedom and dignity surpass power, wealth, and beauty."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Chunilal play such an elaborate practical joke on Bepin Choudhury?",
+          "question_text_te": "చునీలాల్ బెపిన్ చౌదరిపై అంతటి విచిత్రమైన ఉపాయాన్ని ఎందుకు ప్రయోగించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the speaker in 'The Last Bargain' accept the bargain offered by the child playing with sea-shells?",
+          "question_text_te": "'ది లాస్ట్ బార్గేన్' కవితలో సముద్రపు గవ్వలతో ఆడుకుంటున్న చిన్నారి బేరాన్ని కవి ఎందుకు అంగీకరించారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "The Summit Within & The School Boy",
+      "title_te": "అంతర్గత శిఖరం & ది స్కూల్ బాయ్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Major H.P.S. Ahluwalia / William Blake (Poem)",
+      "learning_outcomes": [
+        "Understand the spiritual and internal summit of endurance, persistence, and willpower required beyond climbing Mount Everest.",
+        "Empathize with the child in William Blake's poem longing for nature and joyful freedom away from restrictive classroom schooling."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did Major Ahluwalia mean by 'the summit within'? Why is climbing it even more formidable than Everest?",
+          "question_text_te": "మేజర్ అహ్లువాలియా పేర్కొన్న 'అంతర్గత శిఖరం' అంటే ఏమిటి? ఎవరెస్ట్ కంటే దానిని అధిరోహించడం ఎందుకు కష్టతరమైనది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Rewrite using reported speech: He said, 'I have climbed the highest peak in the world.'",
+          "question_text_te": "పరోక్ష కథనంలోకి (ఇన్‌డైరెక్ట్ స్పీచ్) మార్చండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "This is Jody's Fawn",
+      "title_te": "ఇది జోడీ జింకపిల్ల",
+      "section": "Main Reader (Honeydew)",
+      "author": "Marjorie Kinnan Rawlings",
+      "learning_outcomes": [
+        "Cultivate moral responsibility, empathy, and compassion towards orphaned wild animals.",
+        "Analyze Jody's determination to bring the doe's fawn home to atone for saving his father's life."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why was Jody so keen to bring the fawn home after his father's recovery from snakebite?",
+          "question_text_te": "తండ్రి పాముకాటు నుండి కోలుకున్న తర్వాత అడవిలోని జింకపిల్లను ఇంటికి తీసుకురావడానికి జోడీ ఎందుకు అంతగా ఆరాటపడ్డాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a descriptive paragraph detailing how Jody fed milk to the young fawn using his fingers.",
+          "question_text_te": "జోడీ తన చేతివేళ్లతో ఆకలితో ఉన్న చిన్న జింకపిల్లకు పాలు ఎలా తాగించాడో వర్ణిస్తూ ఒక పేరా రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "A Visit to Cambridge & When I set out for Lyonnesse",
+      "title_te": "కేంబ్రిడ్జ్ సందర్శన & వెన్ ఐ సెట్ అవుట్ ఫర్ లయోనెస్",
+      "section": "Main Reader (Honeydew)",
+      "author": "Firdaus Kanga / Thomas Hardy (Poem)",
+      "learning_outcomes": [
+        "Understand the poignant and uplifting interaction between two extraordinary disabled individuals: Firdaus Kanga and Stephen Hawking.",
+        "Appreciate Thomas Hardy's poetic narrative of personal metamorphosis after an architect's journey to Lyonnesse."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What advice did Stephen Hawking give to disabled people during his interview with Firdaus Kanga?",
+          "question_text_te": "ఫిర్దౌస్ కంగాతో ఇంటర్వ్యూ సందర్భంగా దివ్యాంగులకు స్టీఫెన్ హాకింగ్ ఇచ్చిన సలహా ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the poetic devices used in Thomas Hardy's poem 'When I set out for Lyonnesse'.",
+          "question_text_te": "థామస్ హార్డీ కవితలోని అలంకారాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "A Short Monsoon Diary & On the Grasshopper and Cricket",
+      "title_te": "వర్షాకాలపు చిన్న డైరీ & గడ్డిపరక మరియు మిడతపై",
+      "section": "Main Reader (Honeydew)",
+      "author": "Ruskin Bond / John Keats (Poem)",
+      "learning_outcomes": [
+        "Delight in Ruskin Bond's lyrical observation of flora, fauna, and changing seasonal moods in Mussoorie hills during monsoon.",
+        "Understand John Keats's sonnet expressing the eternal, continuous music of nature across sweltering summer and frosty winter."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does John Keats assert that 'The poetry of earth is never dead'?",
+          "question_text_te": "'ధరిత్రి కవిత్వ సంగీతం ఎప్పటికీ అంతం కాదు' అని జాన్ కీట్స్ ఎందుకు ఉద్ఘాటించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a diary entry recording your sensory impressions of the first heavy monsoon shower in your town.",
+          "question_text_te": "మీ పట్టణంలో కురిసిన తొలి భారీ వర్షం అనుభవాలను వర్ణిస్తూ ఒక డైరీ ఎంట్రీ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "The Great Stone Face – I",
+      "title_te": "ది గ్రేట్ స్టోన్ ఫేస్ - I",
+      "section": "Main Reader (Honeydew)",
+      "author": "Nathaniel Hawthorne",
+      "learning_outcomes": [
+        "Analyze the legend of the Great Stone Face overlooking the valley and Ernest's noble character development.",
+        "Recognize how genuine greatness lies in humility, wisdom, and benevolence rather than wealth (Mr. Gathergold) or military prowess (General Blood-and-Thunder)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Ernest feel that neither Mr. Gathergold nor General Blood-and-Thunder resembled the Great Stone Face?",
+          "question_text_te": "మిస్టర్ గాదర్‌గోల్డ్ గానీ, జనరల్ బ్లడ్ అండ్ థండర్ గానీ గ్రేట్ స్టోన్ ఫేస్ పోలికలను కలిగిలేరని ఎర్నెస్ట్ ఎందుకు భావించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Form nouns from the following adjectives by adding suitable suffixes: (a) Kind (b) Noble.",
+          "question_text_te": "తగిన ప్రత్యయాలను జోడించి నామవాచకాలను రూపొందించండి: (ఎ) కైండ్ (బి) నోబుల్."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "The Great Stone Face – II",
+      "title_te": "ది గ్రేట్ స్టోన్ ఫేస్ - II",
+      "section": "Main Reader (Honeydew)",
+      "author": "Nathaniel Hawthorne",
+      "learning_outcomes": [
+        "Understand the culmination of the prophecy when a celebrated poet identifies Ernest himself as the true living embodiment of the Great Stone Face.",
+        "Appreciate the lifelong pursuit of truth, virtue, and selfless wisdom."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the poet discover that Ernest himself was the long-awaited likeness of the Great Stone Face?",
+          "question_text_te": "ఎర్నెస్ట్ స్వయంగా గ్రేట్ స్టోన్ ఫేస్ యొక్క ప్రత్యక్ష రూపమని కవి ఎలా గుర్తించాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Write a character sketch of Ernest highlighting his humility, wisdom, and profound love for humanity.",
+          "question_text_te": "ఎర్నెస్ట్ యొక్క వినమ్రత, విజ్ఞానం మరియు మానవతావాదాన్ని వివరిస్తూ అతని శీల చిత్రణను రాయండి."
+        }
+      ]
+    }
+  ],
+  "supplementary_reader": [
+    {
+      "chapter_no": 11,
+      "title_en": "How the Camel got his hump",
+      "title_te": "ఒంటెకు మూపురం ఎలా వచ్చింది",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Rudyard Kipling",
+      "learning_outcomes": [
+        "Learn the moral lesson against laziness and obstinacy through Rudyard Kipling's fable of the Djinn and the indolent camel."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the Djinn of all deserts give a 'humph' (hump) to the camel?",
+          "question_text_te": "ఎడారి జిన్ ఒంటెకు శాపంగా మూపురాన్ని (హంప్) ఎందుకు ప్రసాదించాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Children at work",
+      "title_te": "పనిలో పిల్లలు",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Gita Wolf, Anushka Ravishankar, Orijit Sen",
+      "learning_outcomes": [
+        "Sensitize students to the grim reality of runaway destitute child labourers and ragpickers in metropolitan cities."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Velu run away from his village, and how did Jaya help him survive in Chennai?",
+          "question_text_te": "వేలు తన గ్రామం నుండి ఎందుకు పారిపోయాడు? చెన్నై నగరంలో బ్రతకడానికి జయ అతనికి ఎలా సహాయపడింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "The Selfish Giant",
+      "title_te": "స్వార్థపరుడైన రాక్షసుడు",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Oscar Wilde",
+      "learning_outcomes": [
+        "Appreciate Oscar Wilde's touching fairy tale on love, redemption, and the supreme joy of sharing with innocent children."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What brought Spring back to the Selfish Giant's frozen winter garden?",
+          "question_text_te": "స్వార్థపరుడైన రాక్షసుని మంచుతో గడ్డకట్టిన తోటలోకి తిరిగి వసంత ఋతువు ఎలా వచ్చింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "The treasure within",
+      "title_te": "అంతర్గత నిధి",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Interview with Hafeez Contractor (Ms. Bela Raja)",
+      "learning_outcomes": [
+        "Understand that conventional school academic performance does not define a student's innate genius or professional destiny."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did an unconventional student like Hafeez Contractor become one of India's leading architects?",
+          "question_text_te": "పాఠశాలలో సాధారణ విద్యార్థి అయిన హఫీజ్ కాంట్రాక్టర్ భారతదేశంలోనే అగ్రగామి ఆర్కిటెక్ట్‌గా ఎలా ఎదిగాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Princess September",
+      "title_te": "ప్రిన్సెస్ సెప్టెంబర్",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Somerset Maugham",
+      "learning_outcomes": [
+        "Recognize that love means granting freedom to thrive rather than possessive confinement in a golden cage."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Princess September open the golden cage and release her beloved singing bird?",
+          "question_text_te": "ప్రిన్సెస్ సెప్టెంబర్ బంగారు పంజరాన్ని తెరిచి తన ప్రియమైన గాన పక్షిని ఎందుకు విడిచిపెట్టింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "The fight",
+      "title_te": "పోరాటం",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Ruskin Bond",
+      "learning_outcomes": [
+        "Learn how territorial rivalry and aggressive fistfights can transform into deep, respectful friendship through mutual recognition of talent."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the fierce wrestling rivalry between Ranji and Suraj at the forest pool turn into lasting friendship?",
+          "question_text_te": "అడవి కొలను వద్ద రంజీ మరియు సూరజ్ మధ్య జరిగిన ఘర్షణ శాశ్వత స్నేహంగా ఎలా మారింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "title_en": "The open window",
+      "title_te": "తెరిచిన కిటికీ",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Saki (H.H. Munro)",
+      "learning_outcomes": [
+        "Enjoy Saki's masterly irony and mischievous teenage storytelling in 'The Open Window'."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Vera's imaginative ghost story about the open window terrify Framton Nuttel?",
+          "question_text_te": "తెరిచిన కిటికీ గురించి వీరా చెప్పిన కల్పిత కథ ఫ్రామ్టన్ నట్టెల్‌ను ఎలా భయభ్రాంతులకు గురిచేసింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "title_en": "Jalebis",
+      "title_te": "జిలేబీలు",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Ahmed Nadeem Qasmi",
+      "learning_outcomes": [
+        "Relate to childhood temptation, moral guilt, and realization that prayers cannot substitute for personal responsibility."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the coins in the boy's pocket urge him to spend his school fees on hot jalebis?",
+          "question_text_te": "పాఠశాల ఫీజు డబ్బులతో వేడివేడి జిలేబీలు కొనమని బాలుని జేబులోని నాణేలు ఎందుకు ప్రేరేపించాయి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "title_en": "The comet — I",
+      "title_te": "తోకచుక్క — I",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Jayant Narlikar",
+      "learning_outcomes": [
+        "Follow amateur astronomer Manoj Duttada's discovery of a new comet on a collision course with Earth."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did Duttada discover the new comet using his small telescope, Dibya Chakshu?",
+          "question_text_te": "దత్తాదా తన చిన్న టెలిస్కోప్ దివ్య చక్షు సహాయంతో కొత్త తోకచుక్కను ఎలా కనుగొన్నాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "title_en": "The comet — II",
+      "title_te": "తోకచుక్క — II",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Jayant Narlikar",
+      "learning_outcomes": [
+        "Contrast scientific rationality and Project Light Brigade with superstitious religious rituals (yajna) in averting disaster."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was 'Project Light Brigade' planned by international scientists to avert Comet Dutta's collision with Earth?",
+          "question_text_te": "భూమిని ఢీకొనబోయే తోకచుక్కను దారి మళ్లించడానికి అంతర్జాతీయ శాస్త్రవేత్తలు రూపొందించిన 'ప్రాజెక్ట్ లైట్ బ్రిగేడ్' ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 21,
+      "title_en": "Ancient Education System of India",
+      "title_te": "భారత ప్రాచీన విద్యా విధానం",
+      "section": "Supplementary Reader (It So Happened)",
+      "author": "Historical Essay",
+      "learning_outcomes": [
+        "Learn about the ancient Indian Gurukula education system and world-renowned university centres like Takshashila and Nalanda."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What subjects were taught at the ancient universities of Takshashila and Nalanda to international scholars?",
+          "question_text_te": "తక్షశిల మరియు నలంద వంటి ప్రాచీన విశ్వవిద్యాలయాలలో విదేశీ పండితులకు ఎలాంటి విద్యను బోధించేవారు?"
+        }
+      ]
+    }
+  ]
+}

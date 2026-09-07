@@ -1,0 +1,870 @@
+{
+  "book_metadata": {
+    "title_en": "Mathematics - Class 6 (AP SCERT 2024-25)",
+    "title_te": "గణితం - ఆరవ తరగతి (AP SCERT 2024-25)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "6th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 12,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "source_pdfs": [
+      "6_Maths_SEM-1_Textbook.pdf",
+      "6_Maths_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Problem Solving",
+    "AS2": "Reasoning and Proof",
+    "AS3": "Communication",
+    "AS4": "Connections",
+    "AS5": "Representation and Visualization"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Knowing Our Numbers",
+      "title_te": "మన సంఖ్యలను తెలుసుకుందాం",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Comparing numbers, place value system in Indian and International systems.",
+        "Use of commas in Indian System (crores, lakhs, thousands, hundreds) and International System (billions, millions, thousands).",
+        "Estimation and rounding off to nearest tens, hundreds, and thousands.",
+        "Use of brackets in arithmetic expressions and expansion of brackets.",
+        "Roman Numerals and rules of representation."
+      ],
+      "formulas_katex": [
+        "1\\text{ lakh} = 100\\text{ thousands} = 10^5",
+        "1\\text{ crore} = 100\\text{ lakhs} = 10\\text{ millions} = 10^7",
+        "1\\text{ million} = 1000\\text{ thousands} = 10^6",
+        "1\\text{ billion} = 1000\\text{ millions} = 10^9",
+        "a \\times (b + c) = a \\times b + a \\times c \\quad (\\text{Distributive Property})",
+        "\\text{Roman Numerals: } \\text{I}=1, \\text{V}=5, \\text{X}=10, \\text{L}=50, \\text{C}=100, \\text{D}=500, \\text{M}=1000"
+      ],
+      "summary_points": [
+        "Numbers can be compared by counting the number of digits and checking place values from leftmost digit.",
+        "In Indian system, commas mark thousands, lakhs, and crores.",
+        "In International system, commas mark thousands and millions at intervals of 3 digits.",
+        "Estimation gives an approximate answer close to the exact value.",
+        "Roman numerals never repeat V, L, and D. Symbol I can be subtracted from V and X only."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "very_short_answer",
+          "marks_weightage": "1M",
+          "question_text_en": "Write the greatest and the smallest 4-digit numbers using any four different digits with 7 always at the units place.",
+          "question_text_te": "7 ఎల్లప్పుడూ ఒకట్ల స్థానంలో ఉండేలా ఏవైనా నాలుగు వేర్వేరు అంకెలను ఉపయోగించి అతిపెద్ద మరియు అతిచిన్న 4 అంకెల సంఖ్యలను రాయండి.",
+          "question_text": "Write the greatest and smallest 4-digit numbers with 7 at units place / 7 ఒకట్ల స్థానంలో ఉండేలా అతిపెద్ద మరియు అతిచిన్న 4 అంకెల సంఖ్యలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Insert commas suitably and write the name according to Indian and International systems of numeration: 87595762.",
+          "question_text_te": "87595762 సంఖ్యకు తగిన చోట్ల కామాలు ఉంచి, భారతీయ మరియు అంతర్జాతీయ సంఖ్యామానాల్లో అక్షరాలలో రాయండి.",
+          "question_text": "Insert commas and write in words for 87595762 in Indian and International systems."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why the Roman numeral VX is not valid according to the rules of Roman numeration.",
+          "question_text_te": "రోమన్ సంఖ్యామాన నియమాల ప్రకారం VX అనే సంకేతం ఎందుకు చెల్లదో వివరించండి.",
+          "question_text": "Explain why Roman numeral VX is invalid according to rules."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A machine on an average manufactures 2,825 screws a day. How many screws did it produce in the month of January 2024?",
+          "question_text_te": "ఒక యంత్రం సగటున రోజుకు 2,825 స్క్రూలను తయారుచేస్తుంది. జనవరి 2024 నెలలో అది ఎన్ని స్క్రూలను ఉత్పత్తి చేస్తుంది?",
+          "question_text": "Calculate the total screws manufactured in January 2024 at 2,825 screws per day."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write the expanded form of 4,75,320 in words and arithmetic notation.",
+          "question_text_te": "4,75,320 సంఖ్య యొక్క విస్తరణ రూపాన్ని పదాలలో మరియు గణిత సంకేతాలలో రాయండి.",
+          "question_text": "Write expanded form of 4,75,320."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Whole Numbers",
+      "title_te": "పూర్ణాంకాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Natural numbers $N = \\{1, 2, 3, \\dots\\}$ and Whole numbers $W = \\{0, 1, 2, 3, \\dots\\}$.",
+        "Predecessor and successor on the number line.",
+        "Properties of addition and multiplication of whole numbers: Closure, Commutative, Associative, Distributive, and Identity.",
+        "Patterns in whole numbers (triangular numbers, square numbers, rectangular arrays)."
+      ],
+      "formulas_katex": [
+        "W = \\{0, 1, 2, 3, 4, \\dots\\}",
+        "a + b = b + a \\quad (\\text{Commutative property under addition})",
+        "a \\times b = b \\times a \\quad (\\text{Commutative property under multiplication})",
+        "(a + b) + c = a + (b + c) \\quad (\\text{Associative property under addition})",
+        "(a \\times b) \\times c = a \\times (b \\times c) \\quad (\\text{Associative property under multiplication})",
+        "a \\times (b + c) = a \\times b + a \\times c \\quad (\\text{Distributive property of multiplication over addition})",
+        "a + 0 = a = 0 + a \\quad (0 \\text{ is Additive Identity})",
+        "a \\times 1 = a = 1 \\times a \\quad (1 \\text{ is Multiplicative Identity})"
+      ],
+      "summary_points": [
+        "The number zero together with natural numbers forms the collection of whole numbers.",
+        "Smallest whole number is 0; there is no greatest whole number.",
+        "Division of a whole number by zero is not defined.",
+        "Addition and multiplication are commutative and associative for whole numbers.",
+        "Multiplication is distributive over addition for whole numbers."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the value using suitable property: $297 \\times 17 + 297 \\times 3$.",
+          "question_text_te": "తగిన న్యాయాన్ని ఉపయోగించి విలువను కనుగొనండి: $297 \\times 17 + 297 \\times 3$.",
+          "question_text": "Find value using distributive property: $297 \\times 17 + 297 \\times 3$."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "If the product of two whole numbers is zero, can we say that one or both of them will be zero? Justify through examples.",
+          "question_text_te": "రెండు పూర్ణాంకాల లబ్దం సున్నా అయితే, వాటిలో ఒకటి లేదా రెండూ సున్నా అవుతాయని చెప్పగలమా? ఉదాహరణలతో సమర్థించండి.",
+          "question_text": "Justify whether product of two whole numbers being zero implies one or both are zero."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Represent the addition $3 + 4 = 7$ and subtraction $8 - 3 = 5$ on a number line.",
+          "question_text_te": "సంఖ్యా రేఖపై కూడిక $3 + 4 = 7$ మరియు తీసివేత $8 - 3 = 5$ లను సూచించండి.",
+          "question_text": "Represent $3+4$ and $8-3$ on the number line."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A vendor supplies 32 litres of milk to a hotel in the morning and 68 litres in the evening. If the milk costs Rs. 45 per litre, how much money is due to the vendor per day?",
+          "question_text_te": "ఒక పాల వ్యాపారి ఉదయం 32 లీటర్ల పాలు, సాయంత్రం 68 లీటర్ల పాలను ఒక హోటల్ కు సరఫరా చేస్తాడు. లీటరు పాల ధర రూ. 45 అయితే, రోజుకు అతనికి ఎంత మొత్తం చెల్లించాలి?",
+          "question_text": "Calculate vendor daily bill for 32L morning and 68L evening milk at Rs. 45/L using distributive law."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Playing with Numbers",
+      "title_te": "సంఖ్యలతో ఆడుకుందాం",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Factors and multiples, perfect numbers.",
+        "Prime and composite numbers, Sieve of Eratosthenes.",
+        "Divisibility tests for 2, 3, 4, 5, 6, 8, 9, 10, 11.",
+        "Common factors, common multiples, and co-prime numbers.",
+        "Prime factorisation (factor tree and division method).",
+        "Highest Common Factor (HCF) and Lowest Common Multiple (LCM)."
+      ],
+      "formulas_katex": [
+        "\\text{A number is perfect if sum of all its factors } = 2 \\times \\text{number}",
+        "\\text{Divisibility by } 3 \\iff \\text{Sum of digits is divisible by } 3",
+        "\\text{Divisibility by } 9 \\iff \\text{Sum of digits is divisible by } 9",
+        "\\text{Divisibility by } 11 \\iff |\\sum \\text{odd place digits} - \\sum \\text{even place digits}| = 0 \\text{ or multiple of } 11",
+        "\\text{HCF}(a, b) \\times \\text{LCM}(a, b) = a \\times b"
+      ],
+      "summary_points": [
+        "A factor of a number is an exact divisor of that number.",
+        "1 is neither prime nor composite; 2 is the smallest and only even prime number.",
+        "Two numbers having only 1 as a common factor are called co-prime numbers.",
+        "HCF of two or more numbers is the highest of their common factors.",
+        "LCM of two or more numbers is the lowest of their common multiples."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the HCF of 18, 54, and 81 using prime factorisation method.",
+          "question_text_te": "ప్రధాన కారణాంకాల పద్ధతిని ఉపయోగించి 18, 54 మరియు 81 ల గ.సా.భా. (HCF) ను కనుగొనండి.",
+          "question_text": "Find HCF of 18, 54, 81 by prime factorisation."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the smallest 4-digit number which is divisible by 18, 24 and 32.",
+          "question_text_te": "18, 24 మరియు 32 లచే నిశ్శేషంగా భాగించబడే అతిచిన్న 4 అంకెల సంఖ్యను కనుగొనండి.",
+          "question_text": "Find smallest 4-digit number divisible by 18, 24 and 32."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Using divisibility test, check whether 7138965 is divisible by 11. State your reasoning.",
+          "question_text_te": "భాజనీయతా సూత్రాలను ఉపయోగించి 7138965 సంఖ్య 11 చే నిశ్శేషంగా భాగించబడుతుందో లేదో సరిచూడండి.",
+          "question_text": "Test divisibility of 7138965 by 11 with reasoning."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Three traffic lights change after every 48 seconds, 72 seconds and 108 seconds respectively. If they change simultaneously at 7 a.m., at what time will they change simultaneously again?",
+          "question_text_te": "మూడు ట్రాఫిక్ సిగ్నల్ లైట్లు వరుసగా ప్రతి 48 సెకన్లు, 72 సెకన్లు, 108 సెకన్లకు ఒకసారి రంగు మారుతాయి. అవి ఉదయం 7 గంటలకు ఒకేసారి మారితే, మరలా ఏ సమయానికి అవి ఒకేసారి మారుతాయి?",
+          "question_text": "Find when traffic lights change simultaneously using LCM."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the difference between twin primes and co-prime numbers with two pairs of examples each.",
+          "question_text_te": "కవల ప్రధాన సంఖ్యలు మరియు పరస్పర ప్రధాన సంఖ్యల మధ్య తేడాను రెండేసి ఉదాహరణలతో వివరించండి.",
+          "question_text": "Distinguish between twin primes and co-primes with examples."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Basic Geometrical Ideas",
+      "title_te": "ప్రాథమిక జ్యామితీయ భావనలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Points, line segment $\\overline{AB}$, line $\\overleftrightarrow{AB}$, and ray $\\overrightarrow{OA}$.",
+        "Intersecting lines and parallel lines.",
+        "Curves: Simple curves, open curves, closed curves, interior and exterior of a closed curve.",
+        "Polygons: Sides, vertices, diagonals.",
+        "Angles $\\angle ABC$, arms and vertex.",
+        "Triangles $\\triangle ABC$ and Quadrilaterals (adjacent sides, opposite sides, diagonals).",
+        "Circles: Centre, radius, diameter, chord, arc, sector, segment, and circumference."
+      ],
+      "formulas_katex": [
+        "d = 2r \\quad (\\text{Diameter} = 2 \\times \\text{Radius})",
+        "C = 2\\pi r = \\pi d \\quad (\\text{Circumference of a Circle})",
+        "\\text{Number of diagonals in an } n\\text{-sided polygon} = \\frac{n(n - 3)}{2}"
+      ],
+      "summary_points": [
+        "A point determines a location. It has no length, breadth or thickness.",
+        "A line segment is the shortest distance between two points.",
+        "A ray has one starting point and extends endlessly in one direction.",
+        "An angle is made up of two rays starting from a common end point.",
+        "A circle is the path of a point moving at an equal distance from a fixed center."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Draw a rough sketch of a quadrilateral ABCD. Draw its diagonals and name them.",
+          "question_text_te": "ABCD చతుర్భుజం యొక్క రఫ్ పటాన్ని గీయండి. దాని కర్ణాలను గీసి, వాటి పేర్లను రాయండి.",
+          "question_text": "Draw quadrilateral ABCD and its diagonals."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Define the terms: (a) Sector of a circle, (b) Segment of a circle. Illustrate each with a labeled diagram.",
+          "question_text_te": "నిర్వచించండి: (a) వృత్త సెక్టారు, (b) వృత్త ఖండము. చక్కని పటాలతో వివరించండి.",
+          "question_text": "Define sector and segment of a circle with diagrams."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "If the radius of a bicycle wheel is 35 cm, calculate its diameter and the number of diagonals in a regular hexagon.",
+          "question_text_te": "ఒక సైకిల్ చక్రం యొక్క వ్యాసార్థం 35 సెం.మీ. అయితే దాని వ్యాసాన్ని కనుగొనండి మరియు ఒక క్రమ షడ్భుజిలో గల కర్ణాల సంఖ్యను లెక్కించండి.",
+          "question_text": "Find diameter given radius 35cm and find diagonals of a regular hexagon."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Can two parallel lines ever intersect each other? Give reasons with real-world examples.",
+          "question_text_te": "రెండు సమాంతర రేఖలు ఎప్పుడైనా ఖండించుకుంటాయా? నిజ జీవిత ఉదాహరణలతో కారణాలు తెలపండి.",
+          "question_text": "Explain why parallel lines do not intersect with examples."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Understanding Elementary Shapes",
+      "title_te": "ప్రాథమిక జ్యామితీయ పటాల అవగాహన",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Measuring line segments by comparison, tracing, and using ruler and divider.",
+        "Angles: Right angle ($90^\\circ$), Straight angle ($180^\\circ$), Complete revolution ($360^\\circ$).",
+        "Classification of angles: Acute ($< 90^\\circ$), Obtuse ($90^\\circ < \\theta < 180^\\circ$), Reflex ($180^\\circ < \\theta < 360^\\circ$).",
+        "Perpendicular lines and perpendicular bisectors.",
+        "Classification of triangles based on sides (Scalene, Isosceles, Equilateral) and angles (Acute, Right, Obtuse).",
+        "Quadrilaterals: Trapezium, Parallelogram, Rectangle, Rhombus, Square.",
+        "Three-dimensional shapes: Faces, Edges, Vertices of Cuboid, Cube, Cylinder, Cone, Sphere, Prism, Pyramid."
+      ],
+      "formulas_katex": [
+        "\\text{Right angle} = 90^\\circ, \\quad \\text{Straight angle} = 180^\\circ, \\quad \\text{Complete angle} = 360^\\circ",
+        "0^\\circ < \\theta_{\\text{acute}} < 90^\\circ, \\quad 90^\\circ < \\theta_{\\text{obtuse}} < 180^\\circ, \\quad 180^\\circ < \\theta_{\\text{reflex}} < 360^\\circ",
+        "F + V - E = 2 \\quad (\\text{Euler's Polyhedron Formula})"
+      ],
+      "summary_points": [
+        "A divider helps make more accurate comparison of lengths of line segments than a ruler alone.",
+        "The hour hand of a clock moving from 12 to 6 completes 1/2 of a revolution ($180^\\circ$).",
+        "A triangle cannot have more than one right angle or more than one obtuse angle.",
+        "A square is a rectangle with equal sides and a rhombus with right angles.",
+        "Euler's formula states that for any simple polyhedron: Faces + Vertices - Edges = 2."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What fraction of a clockwise revolution does the hour hand of a clock turn through when it goes from (a) 3 to 9, (b) 4 to 7?",
+          "question_text_te": "గడియారంలోని గంటల ముల్లు క్రింది సమయాలలో సవ్యదిశలో తిరిగినప్పుడు పూర్తయ్యే భ్రమణ భిన్నం ఎంత? (a) 3 నుండి 9 వరకు, (b) 4 నుండి 7 వరకు.",
+          "question_text": "Find fraction of revolution for clock hand from 3 to 9 and 4 to 7."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Verify Euler's formula $F + V - E = 2$ for: (a) a triangular prism, (b) a square pyramid.",
+          "question_text_te": "క్రింది వాటికి ఆయిలర్ సూత్రం $F + V - E = 2$ ను సరిచూడండి: (a) త్రిభుజాకార ప్రిజం, (b) చతురస్రాకార పిరమిడ్.",
+          "question_text": "Verify Euler's formula for triangular prism and square pyramid."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State the properties of a rhombus and explain how it differs from a square.",
+          "question_text_te": "రాంబస్ ధర్మాలను పేర్కొని, అది చతురస్రం నుండి ఏ విధంగా భిన్నంగా ఉంటుందో వివరించండి.",
+          "question_text": "State properties of a rhombus and contrast with square."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Name the types of following triangles: (a) $\\triangle ABC$ with $AB = 8.7\\text{ cm}, AC = 7\\text{ cm}, BC = 6\\text{ cm}$, (b) $\\triangle PQR$ such that $PQ = QR = PR = 5\\text{ cm}$, (c) $\\triangle DEF$ with $m\\angle D = 90^\\circ$.",
+          "question_text_te": "క్రింది త్రిభుజాల రకాలను గుర్తించండి: (a) $AB = 8.7\\text{ సెం.మీ.}, AC = 7\\text{ సెం.మీ.}, BC = 6\\text{ సెం.మీ.}$ కలిగిన $\\triangle ABC$, (b) $PQ = QR = PR = 5\\text{ సెం.మీ.}$ కలిగిన $\\triangle PQR$, (c) $m\\angle D = 90^\\circ$ కలిగిన $\\triangle DEF$.",
+          "question_text": "Classify triangles based on given side lengths and angles."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Integers",
+      "title_te": "పూర్ణసంఖ్యలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Need for negative numbers (temperatures below $0^\\circ\\text{C}$, debt, depth below sea level).",
+        "Collection of integers $\\mathbb{Z} = \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\}$.",
+        "Representation of integers on a number line.",
+        "Ordering and comparison of integers: every positive integer is greater than every negative integer.",
+        "Additive inverse of an integer: $a + (-a) = 0$.",
+        "Addition and subtraction of integers using number line and absolute values."
+      ],
+      "formulas_katex": [
+        "\\mathbb{Z} = \\{\\dots, -3, -2, -1, 0, 1, 2, 3, \\dots\\}",
+        "\\text{Additive Inverse of } a = -a \\quad \\implies a + (-a) = 0",
+        "(+a) + (+b) = +(a + b)",
+        "(-a) + (-b) = -(a + b)",
+        "(+a) + (-b) = +(a - b) \\quad (\\text{if } a > b)",
+        "a - b = a + (-b) \\quad (\\text{Subtraction is addition of additive inverse})"
+      ],
+      "summary_points": [
+        "Integers consist of positive numbers, negative numbers, and zero.",
+        "Zero is neither positive nor negative.",
+        "On the number line, a number to the right is always greater than the number to its left.",
+        "The absolute value $|x|$ represents the distance of $x$ from zero on the number line.",
+        "To subtract an integer from another, add the additive inverse of the integer being subtracted."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the sum: (a) $(-13) + (+18)$, (b) $(-10) + (-19) + (+8) + (+17)$.",
+          "question_text_te": "మొత్తాన్ని కనుగొనండి: (a) $(-13) + (+18)$, (b) $(-10) + (-19) + (+8) + (+17)$.",
+          "question_text": "Evaluate the integer sums."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Represent $(-2) + (-3) = -5$ and $(+5) - (+3) = +2$ on a number line.",
+          "question_text_te": "సంఖ్యా రేఖపై $(-2) + (-3) = -5$ మరియు $(+5) - (+3) = +2$ లను చూపించండి.",
+          "question_text": "Represent integer addition and subtraction on number line."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Is it true that the sum of two negative integers is always less than both integers? Justify with examples.",
+          "question_text_te": "రెండు ఋణ పూర్ణసంఖ్యల మొత్తం ఎల్లప్పుడూ ఆ రెండు సంఖ్యల కంటే తక్కువగా ఉంటుందా? ఉదాహరణలతో సమర్థించండి.",
+          "question_text": "Reason about sum of two negative integers being less than each integer."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "At Srinagar, temperature was $-5^\\circ\\text{C}$ on Monday and then it dropped by $2^\\circ\\text{C}$ on Tuesday. On Wednesday, it rose by $4^\\circ\\text{C}$. What was the temperature on Tuesday and Wednesday?",
+          "question_text_te": "శ్రీనగర్ లో సోమవారం ఉష్ణోగ్రత $-5^\\circ\\text{C}$ గా ఉంది. మంగళవారం అది $2^\\circ\\text{C}$ పడిపోయింది. బుధవారం అది $4^\\circ\\text{C}$ పెరిగింది. మంగళవారం మరియు బుధవారం నాటి ఉష్ణోగ్రతలు ఎంత?",
+          "question_text": "Calculate Srinagar temperature on Tuesday and Wednesday using integer arithmetic."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Fractions",
+      "title_te": "భిన్నాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "A fraction is a number representing a part of a whole.",
+        "Representation of fractions on a number line.",
+        "Proper fractions ($numerator < denominator$), Improper fractions ($numerator \\ge denominator$), Mixed fractions.",
+        "Equivalent fractions and simplest (irreducible) form of a fraction.",
+        "Like fractions (same denominators) and unlike fractions.",
+        "Comparing fractions (cross-multiplication method and common denominator method).",
+        "Addition and subtraction of like and unlike fractions."
+      ],
+      "formulas_katex": [
+        "\\text{Fraction} = \\frac{\\text{Numerator } p}{\\text{Denominator } q} \\quad (q \\neq 0)",
+        "\\text{Equivalent Fraction: } \\frac{a}{b} = \\frac{a \\times k}{b \\times k} = \\frac{a \\div m}{b \\div m}",
+        "\\text{Mixed to Improper: } w\\frac{a}{b} = \\frac{w \\times b + a}{b}",
+        "\\frac{a}{b} + \\frac{c}{b} = \\frac{a + c}{b} \\quad (\\text{Like Fractions})",
+        "\\frac{a}{b} + \\frac{c}{d} = \\frac{ad + bc}{bd} \\quad (\\text{Unlike Fractions})"
+      ],
+      "summary_points": [
+        "In a proper fraction, the numerator is strictly less than the denominator.",
+        "An improper fraction can be written as a mixed fraction having a whole part and a proper fraction part.",
+        "A fraction is in its simplest form if its numerator and denominator have no common factor other than 1.",
+        "To compare unlike fractions, convert them to like fractions using the LCM of their denominators."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Simplify: (a) $2\\frac{2}{3} + 3\\frac{1}{2}$, (b) $\\frac{7}{8} - \\frac{1}{6}$.",
+          "question_text_te": "సూక్ష్మీకరించండి: (a) $2\\frac{2}{3} + 3\\frac{1}{2}$, (b) $\\frac{7}{8} - \\frac{1}{6}$.",
+          "question_text": "Simplify given fraction addition and subtraction."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Show $\\frac{2}{5}, \\frac{3}{5}, \\frac{8}{5}$ and $\\frac{4}{5}$ on a single number line.",
+          "question_text_te": "ఒకే సంఖ్యా రేఖపై $\\frac{2}{5}, \\frac{3}{5}, \\frac{8}{5}$ మరియు $\\frac{4}{5}$ లను గుర్తించండి.",
+          "question_text": "Represent given fractions on a number line."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Ila read 25 pages of a book containing 100 pages. Lalita read $\\frac{2}{5}$ of the same book. Who read less? Explain with proof.",
+          "question_text_te": "ఇల 100 పేజీలు గల పుస్తకంలో 25 పేజీలు చదివింది. లలిత అదే పుస్తకంలో $\\frac{2}{5}$ వ భాగం చదివింది. ఎవరు తక్కువ చదివారు? తగిన కారణాలతో వివరించండి.",
+          "question_text": "Compare reading fractions and prove who read less."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Jaidev takes $2\\frac{1}{5}$ minutes to walk across the school ground. Rahul takes $\\frac{7}{4}$ minutes to do the same. Who takes less time and by what fraction?",
+          "question_text_te": "పాఠశాల మైదానాన్ని దాటడానికి జైదేవ్ $2\\frac{1}{5}$ నిమిషాలు, రాహుల్ $\\frac{7}{4}$ నిమిషాలు తీసుకుంటారు. ఎవరు తక్కువ సమయం తీసుకుంటారు మరియు ఎంత భిన్నం సమయం తక్కువ?",
+          "question_text": "Solve real-world word problem on comparing and subtracting fractions."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Decimals",
+      "title_te": "దశాంశాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Concept of decimals as fractions with denominators 10, 100, 1000.",
+        "Tenths ($1/10 = 0.1$), hundredths ($1/100 = 0.01$), and thousandths ($1/1000 = 0.001$).",
+        "Place value chart for decimals.",
+        "Converting fractions to decimals and decimals to fractions.",
+        "Comparing decimals.",
+        "Using decimals in measurement: Money (Rupees and Paise), Length (cm, m, km), Weight (g, kg).",
+        "Addition and subtraction of decimal numbers."
+      ],
+      "formulas_katex": [
+        "\\text{Tenth: } \\frac{1}{10} = 0.1, \\quad \\text{Hundredth: } \\frac{1}{100} = 0.01, \\quad \\text{Thousandth: } \\frac{1}{1000} = 0.001",
+        "1\\text{ Rupee} = 100\\text{ Paise} \\implies 1\\text{ Paisa} = \\text{Rs. } 0.01",
+        "1\\text{ m} = 100\\text{ cm} \\implies 1\\text{ cm} = 0.01\\text{ m}",
+        "1\\text{ km} = 1000\\text{ m} \\implies 1\\text{ m} = 0.001\\text{ km}",
+        "1\\text{ kg} = 1000\\text{ g} \\implies 1\\text{ g} = 0.001\\text{ kg}"
+      ],
+      "summary_points": [
+        "Every fraction with denominator 10, 100, 1000 can be written in decimal notation and vice versa.",
+        "Adding trailing zeros to the right of the extreme decimal digit does not change its value ($0.5 = 0.50 = 0.500$).",
+        "To compare decimals, first compare the whole number part; if they are equal, compare tenths, then hundredths.",
+        "When adding or subtracting decimals, align decimal points in a vertical column."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Express as rupees using decimals: (a) 7 paise, (b) 77 rupees 77 paise, (c) 725 paise.",
+          "question_text_te": "దశాంశాలను ఉపయోగించి రూపాయలలోకి మార్చండి: (a) 7 పైసలు, (b) 77 రూపాయల 77 పైసలు, (c) 725 పైసలు.",
+          "question_text": "Convert paise to rupees using decimals."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the value of: $280.69 + 25.2 + 38$.",
+          "question_text_te": "విలువను కనుగొనండి: $280.69 + 25.2 + 38$.",
+          "question_text": "Evaluate decimal addition."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Which is greater: $0.5$ or $0.05$? Explain your answer using place value understanding.",
+          "question_text_te": "$0.5$ మరియు $0.05$ లలో ఏది పెద్దది? స్థాన విలువల అవగాహనతో మీ సమాధానాన్ని వివరించండి.",
+          "question_text": "Compare 0.5 and 0.05 with place value reasoning."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Rashid spent Rs. 35.75 for Maths book and Rs. 32.60 for Science book. Find the total amount spent by Rashid.",
+          "question_text_te": "రషీద్ గణితం పుస్తకం కోసం రూ. 35.75, సైన్స్ పుస్తకం కోసం రూ. 32.60 ఖర్చు చేశాడు. రషీద్ ఖర్చు చేసిన మొత్తం సొమ్మును కనుగొనండి.",
+          "question_text": "Calculate total expenditure in rupees using decimal addition."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Data Handling",
+      "title_te": "దత్తాంశ నిర్వహణ",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Data collection, recording and organizing.",
+        "Use of tally marks in frequency distribution tables.",
+        "Pictographs: Representation of data through pictures/symbols and interpretation.",
+        "Bar Graphs: Drawing horizontal and vertical bars of uniform width and equal spacing.",
+        "Choosing an appropriate scale for bar graphs."
+      ],
+      "formulas_katex": [
+        "\\text{Tally Marks: } 1=\\text{I}, \\quad 2=\\text{II}, \\quad 3=\\text{III}, \\quad 4=\\text{IIII}, \\quad 5=\\cancel{\\text{IIII}}",
+        "\\text{Scale: } 1\\text{ unit length} = k\\text{ units of data}",
+        "\\text{Bar height/length} \\propto \\text{Frequency of the category}"
+      ],
+      "summary_points": [
+        "Data is a collection of numbers gathered to give some information.",
+        "Tally marks are grouped in clusters of 5 to make counting easy.",
+        "A pictograph represents data through pictures of objects.",
+        "A bar graph represents data as bars of uniform width with equal spacing between them."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The following are the shoe sizes of 20 students: 5, 4, 7, 5, 6, 7, 6, 5, 5, 6, 5, 4, 5, 6, 8, 7, 4, 6, 5, 6. Organize using tally marks and find the most common shoe size.",
+          "question_text_te": "20 మంది విద్యార్థుల పాదరక్షల కొలతలు క్రింది విధంగా ఉన్నాయి: 5, 4, 7, 5, 6, 7, 6, 5, 5, 6, 5, 4, 5, 6, 8, 7, 4, 6, 5, 6. గణన చిహ్నాల పట్టికను తయారుచేసి, ఎక్కువ మంది ధరించే పాదరక్షల కొలతను కనుగొనండి.",
+          "question_text": "Create frequency table using tally marks for student shoe sizes."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "The number of mathematics books sold by a shopkeeper on six consecutive days is: Mon: 65, Tue: 40, Wed: 30, Thu: 50, Fri: 20, Sat: 70. Draw a bar graph choosing a scale of 1 unit length = 10 books.",
+          "question_text_te": "ఒక పుస్తకాల వ్యాపారి వరుసగా 6 రోజులలో అమ్మిన గణిత పుస్తకాల సంఖ్య: సోమ: 65, మంగళ: 40, బుధ: 30, గురు: 50, శుక్ర: 20, శని: 70. 1 యూనిట్ పొడవు = 10 పుస్తకాలుగా స్కేల్ తీసుకొని కమ్మీ చిత్రాన్ని (బార్ గ్రాఫ్) గీయండి.",
+          "question_text": "Draw bar graph with scale 1 unit = 10 books for given daily sales."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain why pictographs may be inconvenient when representing very large numbers or odd quantities like 3,472.",
+          "question_text_te": "3,472 వంటి పెద్ద సంఖ్యలను లేదా బేసి పరిమాణాలను సూచించడానికి చిత్రలేఖనాలు (పిక్టోగ్రాఫ్) ఎందుకు అసౌకర్యంగా ఉంటాయో వివరించండి.",
+          "question_text": "Explain limitations of pictographs for large numbers."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Look at a bar graph where scale is 1 unit = 5 cars. If bar for Red cars is 6 units high, and Blue cars is 4 units high, deduce how many more Red cars were sold than Blue cars.",
+          "question_text_te": "1 యూనిట్ = 5 కార్లుగా గల కమ్మీ చిత్రంలో ఎరుపు కార్ల కమ్మీ ఎత్తు 6 యూనిట్లు, నీలం కార్ల కమ్మీ ఎత్తు 4 యూనిట్లు ఉంటే, నీలం కార్ల కంటే ఎన్ని ఎక్కువ ఎరుపు కార్లు అమ్ముడయ్యాయో సాధించండి.",
+          "question_text": "Interpret bar graph heights to calculate difference in car sales."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Mensuration",
+      "title_te": "క్షేత్రమితి",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Perimeter as the continuous line forming the boundary of a closed geometrical figure.",
+        "Perimeter of regular polygons (equilateral triangle, square, regular pentagon, regular hexagon).",
+        "Perimeter of rectangle.",
+        "Area as the amount of surface enclosed by a closed figure.",
+        "Area measurement using grid square counting.",
+        "Area of rectangle and square."
+      ],
+      "formulas_katex": [
+        "\\text{Perimeter of Rectangle} = 2 \\times (\\text{length} + \\text{breadth}) = 2(l + b)",
+        "\\text{Perimeter of Square} = 4 \\times \\text{side} = 4s",
+        "\\text{Perimeter of Equilateral Triangle} = 3 \\times \\text{side} = 3s",
+        "\\text{Perimeter of Regular } n\\text{-gon} = n \\times s",
+        "\\text{Area of Rectangle} = \\text{length} \\times \\text{breadth} = l \\times b",
+        "\\text{Area of Square} = \\text{side} \\times \\text{side} = s^2"
+      ],
+      "summary_points": [
+        "Perimeter is the distance covered along the boundary forming a closed figure when you go round the figure once.",
+        "Figures having equal perimeters need not have equal areas.",
+        "The amount of surface enclosed by a closed figure is called its area.",
+        "Area of rectangle is product of its length and breadth; area of square is side squared."
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the perimeter of a rectangular field whose length is 40 m and breadth is 25 m.",
+          "question_text_te": "పొడవు 40 మీటర్లు మరియు వెడల్పు 25 మీటర్లు కలిగిన దీర్ఘచతురస్రాకార పొలం చుట్టుకొలతను కనుగొనండి.",
+          "question_text": "Find perimeter of rectangular field with length 40m and breadth 25m."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A room is 4 m long and 3 m 50 cm wide. How many square metres of carpet is needed to cover the floor of the room?",
+          "question_text_te": "ఒక గది పొడవు 4 మీటర్లు మరియు వెడల్పు 3 మీటర్ల 50 సెం.మీ. ఆ గది నేలను పూర్తిగా కప్పడానికి ఎన్ని చదరపు మీటర్ల కార్పెట్ అవసరమవుతుంది?",
+          "question_text": "Calculate area of floor in sq metres for room 4m by 3.5m."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A wire in the shape of a rectangle of length 20 cm and breadth 10 cm is rebent into a square. Which shape encloses more area: the rectangle or the square? Prove with calculation.",
+          "question_text_te": "20 సెం.మీ. పొడవు, 10 సెం.మీ. వెడల్పు గల దీర్ఘచతురస్రాకార తీగను వంచి ఒక చతురస్రంగా తయారు చేశారు. ఏ ఆకారం ఎక్కువ వైశాల్యాన్ని ఆక్రమిస్తుంది? లెక్కించి నిరూపించండి.",
+          "question_text": "Compare areas of rectangle and square formed by same perimeter wire."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the cost of fencing a square park of side 250 m at the rate of Rs. 20 per metre.",
+          "question_text_te": "250 మీటర్ల భుజం గల చతురస్రాకార పార్కు చుట్టూ మీటరుకు రూ. 20 చొప్పున కంచె వేయడానికి అయ్యే ఖర్చు ఎంత?",
+          "question_text": "Calculate cost of fencing a 250m square park at Rs. 20/m."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Split the following shape into rectangles and find its area: an L-shaped figure with outer dimensions 5 cm by 4 cm and step width 2 cm.",
+          "question_text_te": "క్రింది L-ఆకారపు పటాన్ని దీర్ఘచతురస్రాలుగా విభజించి దాని వైశాల్యాన్ని కనుగొనండి: బాహ్య కొలతలు 5 సెం.మీ. మరియు 4 సెం.మీ., అంచు వెడల్పు 2 సెం.మీ.",
+          "question_text": "Split composite L-shape into rectangles and compute total area."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Algebra",
+      "title_te": "బీజగణితం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Introduction to algebra through matchstick patterns.",
+        "Concept of a variable (letter used to denote a number that does not have a fixed value).",
+        "Common arithmetic and geometric rules expressed via algebraic variables.",
+        "Algebraic expressions formed using four basic operations ($+, -, \\times, \\div$).",
+        "What is an algebraic equation? Concept of Left Hand Side (LHS) and Right Hand Side (RHS).",
+        "Solving simple linear equations by trial and error."
+      ],
+      "formulas_katex": [
+        "\\text{Matchsticks for } n\\text{ squares} = 3n + 1",
+        "\\text{Matchsticks for } n\\text{ triangles} = 2n + 1",
+        "\\text{Perimeter of equilateral triangle} = 3s",
+        "\\text{Perimeter of square} = 4s",
+        "a + b = b + a, \\quad a \\times b = b \\times a \\quad (\\text{Commutativity})",
+        "a \\times (b + c) = a \\times b + a \\times c \\quad (\\text{Distributivity})",
+        "\\text{Equation: } \\text{LHS} = \\text{RHS} \\implies 2x + 3 = 7 \\implies x = 2"
+      ],
+      "summary_points": [
+        "A variable allows us to express relations easily and write universal rules.",
+        "Variables are denoted by letters like $x, y, z, l, m, n, p$.",
+        "An equation is a condition on a variable such that LHS equals RHS.",
+        "The value of the variable which satisfies the equation is called the solution of the equation."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the rule which gives the number of matchsticks required to make the pattern of letter T as $\\top$, using variable $n$.",
+          "question_text_te": "చలరాశి $n$ ను ఉపయోగించి 'T' అక్షరపు అమరికను ఏర్పరచడానికి అవసరమైన అగ్గిపుల్లల సంఖ్యను తెలిపే నియమాన్ని రాయండి.",
+          "question_text": "Find algebraic rule for number of matchsticks in pattern of letter T."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Solve the equation by trial and error: $5m = 60$.",
+          "question_text_te": "యత్న దోష పద్ధతి ద్వారా సమీకరణాన్ని సాధించండి: $5m = 60$.",
+          "question_text": "Solve 5m = 60 using trial and error."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Give expressions for the following cases: (a) 7 added to $p$, (b) 7 subtracted from $-m$, (c) $p$ multiplied by $-5$, (d) $y$ divided by 8.",
+          "question_text_te": "క్రింది సందర్భాలకు బీజీయ సమాసాలను రాయండి: (a) $p$ కి 7 ను కలపగా, (b) $-m$ నుండి 7 ను తీసివేయగా, (c) $p$ ని $-5$ చే గుణించగా, (d) $y$ ని 8 చే భాగించగా.",
+          "question_text": "Translate statements into algebraic expressions."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Check whether $x = 4$ is a solution of the equation $3x - 5 = 7$. Justify your conclusion.",
+          "question_text_te": "$3x - 5 = 7$ సమీకరణానికి $x = 4$ అనేది సాధన అవుతుందో లేదో సరిచూడండి. మీ ముగింపును సమర్థించండి.",
+          "question_text": "Verify if x=4 is a solution to 3x-5=7."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Ratio and Proportion",
+      "title_te": "నిష్పత్తి మరియు అనుపాతం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Comparison of quantities by difference vs comparison by division.",
+        "Definition and notation of Ratio ($a : b = a/b$).",
+        "Equivalent ratios and ratio in simplest / lowest terms.",
+        "Concept of Proportion: equality of two ratios ($a:b = c:d$ or $a:b::c:d$).",
+        "Extreme terms and middle terms; Product of Extremes = Product of Means ($ad = bc$).",
+        "Unitary Method: method of finding value of one unit first, then the value of required number of units."
+      ],
+      "formulas_katex": [
+        "\\text{Ratio } a : b = \\frac{a}{b} \\quad (b \\neq 0)",
+        "\\text{Equivalent Ratio: } a : b = (a \\times k) : (b \\times k) = (a \\div m) : (b \\div m)",
+        "a : b :: c : d \\iff \\frac{a}{b} = \\frac{c}{d} \\iff a \\times d = b \\times c \\quad (\\text{Extremes} = \\text{Means})",
+        "\\text{Unitary Value} = \\frac{\\text{Total Cost}}{\\text{Number of Units}}",
+        "\\text{Cost of } n\\text{ Units} = \\text{Unitary Value} \\times n"
+      ],
+      "summary_points": [
+        "A ratio compares two quantities of the same kind and having the same units.",
+        "A ratio has no units.",
+        "Four quantities $a, b, c, d$ are in proportion if the ratio of the first two equals the ratio of the last two ($a:b = c:d$).",
+        "In a proportion, Product of Extremes equals Product of Means.",
+        "The method in which first we find the value of one unit and then the value of the required number of units is known as unitary method."
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the ratio of: (a) 30 minutes to 1.5 hours, (b) 55 paise to Re. 1.",
+          "question_text_te": "నిష్పత్తిని కనుగొనండి: (a) 30 నిమిషాలకు మరియు 1.5 గంటలకు, (b) 55 పైసలకు మరియు రూ. 1 కి.",
+          "question_text": "Compute simplified ratio of given quantities with different units."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Determine if the following numbers are in proportion: 15, 45, 40, 120. State the rule used.",
+          "question_text_te": "15, 45, 40, 120 సంఖ్యలు అనుపాతంలో ఉన్నాయో లేదో నిర్ధారించండి. ఉపయోగించిన నియమాన్ని తెలపండి.",
+          "question_text": "Verify if 15, 45, 40, 120 are in proportion using product of extremes and means."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Cost of 5 kg of wheat is Rs. 91.50. (a) What will be the cost of 8 kg of wheat? (b) What quantity of wheat can be purchased in Rs. 183?",
+          "question_text_te": "5 కిలోల గోధుమల ఖరీదు రూ. 91.50. (a) 8 కిలోల గోధుమల ఖరీదు ఎంత? (b) రూ. 183 కి ఎన్ని కిలోల గోధుమలు కొనవచ్చు?",
+          "question_text": "Solve unitary method word problem for wheat purchases."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Out of 30 students in a class, 6 like football, 12 like cricket and remaining like tennis. Find the ratio of: (a) Number of students liking football to total students, (b) Number of students liking cricket to students liking tennis.",
+          "question_text_te": "ఒక తరగతిలోని 30 మంది విద్యార్థులలో 6 గురు ఫుట్‌బాల్, 12 మంది క్రికెట్, మిగిలినవారు టెన్నిస్ ఆటను ఇష్టపడతారు. నిష్పత్తులను కనుగొనండి: (a) ఫుట్‌బాల్ ఇష్టపడే విద్యార్థుల సంఖ్యకు మరియు మొత్తం విద్యార్థుల సంఖ్యకు, (b) క్రికెట్ ఇష్టపడే వారికి మరియు టెన్నిస్ ఇష్టపడే వారికి.",
+          "question_text": "Find sports preference ratios in simplest form."
+        }
+      ]
+    }
+  ]
+}

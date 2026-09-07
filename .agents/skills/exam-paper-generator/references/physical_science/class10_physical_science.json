@@ -1,0 +1,1367 @@
+{
+  "book_metadata": {
+    "title_en": "Physical Science - Class 10 (AP SSC 2024-25)",
+    "title_te": "భౌతిక రసాయన శాస్త్రం - పదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "10th Class (SSC)",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 8,
+    "chemistry_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "physics_chapters": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "source_pdf": "10_Physics_textbook_2024-25.pdf",
+    "total_pages": 322
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding (Recall, definitions, explanations, formulas, derivations, balancing)",
+    "AS2": "Asking Questions and Making Hypothesis (Predicting outcomes, 'What happens if')",
+    "AS3": "Experimentation and Field Investigation (Lab experiments, apparatus, procedure, precautions)",
+    "AS4": "Information Skills and Projects (Tables, data interpretation, graphs, organizing information)",
+    "AS5": "Communication through Drawing and Model Making (Ray diagrams, circuit diagrams, apparatus sketches)",
+    "AS6": "Daily Life Application and Concern to Biodiversity (Environmental impact, practical appliances, health)",
+    "AS7": "Appreciation and Aesthetic Sense (Appreciating laws of nature, scientists' contributions)"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Chemical Reactions and Equations",
+      "title_te": "రసాయన చర్యలు మరియు సమీకరణాలు",
+      "branch": "Chemistry",
+      "pages_scert": "13 - 47",
+      "learning_outcomes": [
+        "Writing and balancing chemical equations with state symbols",
+        "Classifying chemical reactions: Combination, Decomposition, Displacement, Double displacement, Redox",
+        "Understanding exothermic and endothermic processes",
+        "Effects of oxidation in everyday life: Corrosion and Rancidity"
+      ],
+      "key_formulas_and_equations": [
+        "2\\text{Mg(s)} + \\text{O}_2\\text{(g)} \\rightarrow 2\\text{MgO(s)}",
+        "\\text{Zn(s)} + \\text{H}_2\\text{SO}_4\\text{(aq)} \\rightarrow \\text{ZnSO}_4\\text{(aq)} + \\text{H}_2\\text{(g)}",
+        "3\\text{Fe(s)} + 4\\text{H}_2\\text{O(g)} \\rightarrow \\text{Fe}_3\\text{O}_4\\text{(s)} + 4\\text{H}_2\\text{(g)}",
+        "\\text{CaO(s)} + \\text{H}_2\\text{O(l)} \\rightarrow \\text{Ca(OH)}_2\\text{(aq)} + \\Delta H \\quad (\\text{Combination / Exothermic})",
+        "2\\text{FeSO}_4\\text{(s)} \\xrightarrow{\\Delta} \\text{Fe}_2\\text{O}_3\\text{(s)} + \\text{SO}_2\\text{(g)} + \\text{SO}_3\\text{(g)} \\quad (\\text{Thermal Decomposition})",
+        "2\\text{AgCl(s)} \\xrightarrow{\\text{Sunlight}} 2\\text{Ag(s)} + \\text{Cl}_2\\text{(g)} \\quad (\\text{Photochemical Decomposition})",
+        "\\text{Fe(s)} + \\text{CuSO}_4\\text{(aq)} \\rightarrow \\text{FeSO}_4\\text{(aq)} + \\text{Cu(s)} \\quad (\\text{Displacement})",
+        "\\text{Na}_2\\text{SO}_4\\text{(aq)} + \\text{BaCl}_2\\text{(aq)} \\rightarrow \\text{BaSO}_4\\text{(s)} \\downarrow + 2\\text{NaCl(aq)} \\quad (\\text{Double Displacement / Precipitation})",
+        "\\text{CuO} + \\text{H}_2 \\xrightarrow{\\Delta} \\text{Cu} + \\text{H}_2\\text{O} \\quad (\\text{Redox: CuO reduced, } \\text{H}_2 \\text{ oxidised})"
+      ],
+      "total_activities": 9,
+      "activities": [
+        {
+          "activity_no": "1.1",
+          "aim": "can be described as – when a",
+          "procedure_summary": "magnesium ribbon is burnt in oxygen, it gets converted to magnesium oxide. This description of a chemical reaction in a sentence form is quite long. It can be written in a shorter form. The simplest way to do this is to write it in",
+          "full_activity_text": "can be described as – when a \nmagnesium ribbon is burnt in oxygen, it gets \nconverted to magnesium oxide. This \ndescription of a chemical reaction in a sentence \nform is quite long. It can be written in a shorter \nform. The simplest way to do this is to write it in \nthe form of a word-equation.\nThe word-equation for the above reaction \nwould be –\nMagnesium + Oxygen®Magnesium oxide   \n \n(Reactants)          (Product)         (1.1) \nThe substances that undergo chemical change \nin the reaction (1.1), magnesium and oxygen, \nare the reactants. The new substance is \nmagnesium oxide, formed during the reaction, \nas a product. A word-equation shows change of \nreactants to products through an arrow placed \nbetween them. The reactants are written on the \nleft-hand side (LHS) with a plus sign (+) \nbetween them. Similarly, products are written \non the right-hand side (RHS) with a plus sign \n(+) between them. The arrowhead points \ntowards the products, and shows the direction \nof the reaction."
+        },
+        {
+          "activity_no": "1.3",
+          "aim": "may be",
+          "procedure_summary": "represented as – Zinc + Sulphuric acid ® Zinc sulphate + Hydrogen Zn 1",
+          "full_activity_text": "may be \nrepresented as –\nZinc + Sulphuric acid ® Zinc sulphate + \nHydrogen\nZn \n \n1 \n \n        1\nH \n \n2 \n \n        2\nS \n \n1 \n \n        1\nO \n \n4 \n \n        4\n\n\n10\nANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations \nStep I: To balance a chemical equation, ﬁrst \ndraw boxes around each formula. Do not \nchange anything inside the boxes while \nbalancing the equation.\n  Fe   +   H O   ®   Fe O   +   H      (1.5)\n2\n3\n4\n2\nStep II: List the number of atoms of different \nelements present in the unbalanced equation \n(1.5).\nStep III: It is often convenient to start \nbalancing with the compound that contains the \nmaximum number of atoms. It may be a \nreactant or a product. In that compound, select \nthe element which has the maximum number of \natoms. Using these criteria, we select Fe O and \n3\n4 \nthe element oxygen in it. There are four oxygen \natoms on the RHS and only one on the LHS.\n \nTo balance the oxygen atoms –\nTo equalise the number of atoms, it must be \nremembered that we cannot alter the formulae \nof the compounds or elements involved in the \nreactions. For example, to balance oxygen \natoms we can put coefficient ‘4’ as 4 H O and \n2\nnot H O or (H O) . Now the partly bala"
+        },
+        {
+          "activity_no": "1.4",
+          "aim": ", we also observed that a large",
+          "procedure_summary": "amount of heat is evolved. This makes the reaction mixture warm. Reactions in which heat is released along with the formation of products are called exothermic chemical reactions.",
+          "full_activity_text": ", we also observed that a large \namount of heat is evolved. This makes the \nreaction mixture warm. Reactions in which \nheat is released along with the formation of \nproducts are called exothermic chemical \nreactions.\nOther examples of exothermic reactions are –\n(I)  Burning of natural gas \nCH (g) + 2O (g) ® CO (g) + 2H O (g)\n4\n2\n2\n2\n \n \n   \n                      (1.17)\nA solution of slaked lime produced by the reaction 1.13 is used for whitewashing walls. \nCalcium hydroxide reacts slowly with the carbon dioxide in air to form a thin layer of calcium \ncarbonate on the walls. Calcium carbonate is  formed after two to three days of whitewashing \nand gives a shiny ﬁnish to the walls. It is interesting to note that the chemical formula for \nmarble is also CaCO .\n3\nCa(OH) (aq) + CO (g) ®CaCO (s)  + H O(l)                                        (1.14)\n2\n2\n3\n2\n    (Calcium                                 (Calcium\n    hydroxide)                              carbonate)\n(ii) Do you know that respiration is an  \nexothermic process? \n    We all know that we need energy to stay \nalive. We get this energy from the food we eat. \nDuring digestion, food is broken down into \nsimpler substances. For e"
+        },
+        {
+          "activity_no": "1.1",
+          "aim": ", where heat is given out along",
+          "procedure_summary": "with the formation of a single product. 18 ANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations 1.2.2     Decomposition Reaction",
+          "full_activity_text": ", where heat is given out along \nwith the formation of a single product.\n\n\n18\nANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations \n1.2.2     Decomposition Reaction"
+        },
+        {
+          "activity_no": "1.6",
+          "aim": ".",
+          "procedure_summary": "heat",
+          "full_activity_text": ".\n heat"
+        },
+        {
+          "activity_no": "1.7",
+          "aim": "double of",
+          "procedure_summary": "the amount collected in the other? Name this gas. 1.2.3  Displacement Reaction Figure 1.8 (a) Iron nails dipped in copper sulphate solution",
+          "full_activity_text": "double of \nthe amount collected in the other? Name \nthis gas.\n1.2.3  Displacement Reaction\nFigure 1.8\n(a) Iron nails dipped in copper sulphate solution"
+        },
+        {
+          "activity_no": "1.2",
+          "aim": ": where you have mixed the",
+          "procedure_summary": "solutions of lead(II) nitrate and potassium iodide. (I)   What was the colour of the precipitate formed? Can you name the compound precipitated?",
+          "full_activity_text": ": where you have mixed the \nsolutions of lead(II) nitrate and potassium \niodide. \n(I)   What was the colour of the precipitate \nformed? Can you name the compound \nprecipitated?\n(ii)   Write the balanced chemical equation for \nthis reaction.\n(iii)  Is this also a double displacement \nreaction?\nThe surface of copper powder becomes coated \nwith black copper(II) oxide. Why has this black \nsubstance formed?\nThis is because oxygen is added to copper and \ncopper oxide is formed."
+        },
+        {
+          "activity_no": "1.1",
+          "aim": ": where a magnesium",
+          "procedure_summary": "ribbon burns with a dazzling ﬂame in air (oxygen) and changes into a white substance, magnesium oxide. Is magnesium being oxidised or reduced in this reaction? 1.3  HAVE YOU OBSERVED THE",
+          "full_activity_text": ": where a magnesium \nribbon burns with a dazzling ﬂame in air \n(oxygen) and changes into a white substance, \nmagnesium oxide. Is magnesium being \noxidised or reduced in this reaction?\n1.3  HAVE YOU OBSERVED THE\n EFFECTS OF OXIDATION REACTIONS\n IN EVERYDAY LIFE?\n1.3.1 Corrosion\nYou must have observed that iron articles are \nshiny when new, but get coated with a reddish \nbrown powder when left for some time. This \nprocess is commonly known as rusting of iron. \nSome other metals also get tarnished in this \nmanner. Have you noticed the colour of the \ncoating formed on copper and silver? When a \nmetal is attacked by substances around it such \nas moisture, acids, etc., it is said to corrode and \nthis process is called corrosion. The black \ncoating on silver and the green coating on \ncopper are other examples of corrosion.\nCorrosion causes damage to car bodies, \nbridges, iron railings, ships and to all objects \nmade of metals, specially those of iron. \nCorrosion of iron is a serious problem. Every \nyear an enormous amount of money is spent to \nreplace damaged iron. You will learn more \nabout corrosion in Chapter 3. \n1.3.2 Rancidity \nHave you ever tasted or smelt the fat/oil \ncontaining fo"
+        },
+        {
+          "activity_no": "1.10",
+          "aim": ".",
+          "procedure_summary": "3.   Identify the substances that are oxidised and the substances that are reduced in the following reactions. (i)   4Na(s) + O (g) ® 2Na O(s) 2",
+          "full_activity_text": ".\n3.   Identify the substances that are oxidised \nand the substances that are reduced in \nthe following reactions.\n(i)   4Na(s) + O (g) ® 2Na O(s)\n2\n2\n(ii)  CuO(s) + H (g) ® Cu(s) + H O(l)\n2\n2\n\n\n30\nANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations"
+        }
+      ],
+      "summary_points": [
+        "Clean a magnesium ribbon about 3- 4 cm long by rubbing it with sandpaper.",
+        "Hold it with a pair of tongs. Burn it using a spirit lamp or burner and collect the ash so formed in a watch-glass as shown in Fig. 1.1. Burn the magnesium ribbon keeping it away as far as possible from your eyes.",
+        "What do you observe? Figure 1.1 Burning of a magnesium ribbon in air and collection of magnesium oxide in a watch-glass",
+        "Add potassium iodide solution to this.",
+        "Add dilute hydrochloric acid or sulphuric acid to this (Fig. 1.2). CAUTION: Handle the acid with care.",
+        "Slowly add water to this.",
+        "Touch the beaker as shown in Fig. 1.3.",
+        "Do you feel any change in temperature? 1. Why should a magnesium ribbon be cleaned before burning in air? 2. Write the balanced equation for the following chemical reactions. (i) Hydrogen + Chlorine ® Hydrogen chloride (ii)Barium chloride + Aluminium sulphate ® Barium sulphate + Aluminium chloride (iii)Sodium + Water ® Sodium hydroxide + Hydrogen 3. Write a balanced chemical equation with state symbols for the following reactions. (i) Solutions of barium chloride and sodium sulphate in water react to give insoluble barium sulphate and the solution of sodium chloride. (ii) Sodium hydroxide solution (in water) reacts with hydrochloric acid solution (in water) to produce sodium chloride solution and water. ? Calcium oxide reacts vigorously with water to produce slaked lime (calcium hydroxide) releasing a large amount of heat. CaO(s) + H O(l) ® Ca(OH) (aq) + Heat (1.13) 2 2 (Quick lime) (Slaked lime) In this reaction, calcium oxide and water combine to form a single product, calcium hydroxide. Such a reaction in which a single product is formed from two or more reactants is known as a combination reaction. Figure 1.3 Formation of slaked lime by the reaction of calcium oxide with water",
+        "n Take about 2 g ferrous sulphate crystals in a dry boiling tube.",
+        "Note the colour of the ferrous sulphate crystals.",
+        "Heat the boiling tube over the ﬂame of a burner or spirit lamp as shown in Fig. 1.4.",
+        "Observe the colour of the crystals after heating. Have you noticed that the green colour of the ferrous sulphate crystals has changed? You can also smell the characteristic odour of burning sulphur. 2FeSO (s) ® Fe O (s) + SO (g) + SO (g) 4 2 3 2 3 (Ferrous sulphate) (Ferric oxide) (1.19) heat Figure 1.4 Correct way of heating the boiling tube containing crystals of ferroussulphate and of smelling the odour In this reaction you can observe that a single reactant breaks down to give simpler products. This is a decomposition reaction. Ferrous sulphate crystals (FeSO , 7H O) lose water 4 2 when heated and the colour of the crystals changes. It then decomposes to ferric oxide (Fe O ), sulphur dioxide (SO ) and sulphur 2 3 2 trioxide (SO ). Ferric oxide is a solid, while SO 3 2 and SO are gases. 3 Decomposition of calcium carbonate to calcium oxide and carbon dioxide on heating is an important decomposition reaction used in various industries. Calcium oxide is called lime or quick lime. It has many uses – one is in the manufacture of cement. When a decomposition reaction is carried out by heating, it is called thermal decomposition. CaCO (s) ® CaO(s) + CO (g) (1.20) 3 2 (Limestone) (Quick lime) Another example of a thermal decomposition reaction is given in Activity 1.6. heat",
+        "Hold the boiling tube with a pair of tongs and heat it over a ﬂame, as shown in Fig. 1.5.",
+        "What do you observe? Note down the change, if any. Figure 1.5 Heating of lead nitrate and emission of nitrogen dioxide You will observe the emission of brown fumes. These fumes are of nitrogen dioxide (NO ). The reaction that takes 2 place is –",
+        "n Take a plastic mug. Drill two holes at its base and ﬁt rubber stoppers in these holes. Insert carbon electrodes in these rubber stoppers as shown in Fig. 1.6."
+      ],
+      "total_exercises": 23,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why does the colour of copper sulphate solution change when an iron nail is dipped in it?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "Give an example of a double displacement reaction other than the one given in Activity 1.10."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Identify the substances that are oxidised and the substances that are reduced in the following reactions. (i)   4Na(s) + O (g) ® 2Na O(s) 2 2 (ii)  CuO(s) + H (g) ® Cu(s) + H O(l) 2 2 30 ANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations ■A complete chemical equation represents the reactants, products and their physical states symbolically. ■A chemical equation is balanced so that the numbers of atoms of each type involved in a chemical reaction are the same on the reactant and product sides of the equation. Equations must always be balanced. ■In a combination reaction two or more substances combine to form a new single substance. ■Decomposition reactions are opposite to combination reactions. In a decomposition reaction, a single substance decomposes to give two or more substances. ■Reactions in which heat is given out along with the products are called exothermic reactions. ■Reactions in which energy is absorbed are known as endothermic reactions. ■When an element displaces another element from its compound, a displacement reaction occurs. ■Two diﬀerent atoms or groups of atoms (ions) are exchanged in double displacement reactions. ■Precipitation reactions produce insoluble salts. ■Reactions also involve the gain or loss of oxygen or hydrogen by substances. Oxidation is the gain of oxygen or loss of hydrogen. Reduction is the loss of oxygen or gain of hydrogen."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the statements about the reaction below are incorrect? 2PbO(s) + C(s) ® 2Pb(s) + CO (g) 2 (a) Lead is getting reduced. (b) Carbon dioxide is getting oxidised. (c) Carbon is getting oxidised. (d) Lead oxide is getting reduced. (i) (a) and (b) (ii) (a) and (c) (iii) (a), (b) and (c) (iv) all"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Fe O + 2Al ® Al O + 2Fe 2 3 2 3 The above reaction is an example of a (a) combination reaction. (b) double displacement reaction. 32 ANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations (c) decomposition reaction. (d) displacement reaction."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What happens when dilute hydrochloric acid is added to iron ﬁllings?  Tick the correct  answer. (a) Hydrogen gas and iron chloride are produced. (b) Chlorine gas and iron hydroxide are produced. (c) No reaction takes place. (d) Iron salt and water are produced."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is a balanced chemical equation? Why should chemical equations be balanced?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Translate the following statements into chemical equations and then balance them. (a) Hydrogen gas combines with nitrogen to form ammonia. (b) Hydrogen sulphide gas burns in air to give water and sulpur dioxide. (c) Barium chloride reacts with aluminium sulphate to give aluminium chloride and a precipitate of barium sulphate. (d) Potassium metal reacts with water to give potassium hydroxide and hydrogen gas."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Balance the following chemical equations. (a) HNO + Ca(OH) ® Ca(NO ) + H O 3 2 3 2 2 (b) NaOH + H SO ® Na SO + H O 2 4 2 4 2 (c) NaCl + AgNO ® AgCl + NaNO 3 3 (d) BaCl + H SO ® BaSO + HCl 2 2 4 4"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Write the balanced chemical equations for the following reactions. (a) Calcium hydroxide + Carbon dioxide ®  Calcium carbonate + Water (b) Zinc + Silver nitrate ®  Zinc nitrate + Silver (c) Aluminium + Copper chloride  ®  Aluminium chloride + Copper (d) Barium chloride + Potassium sulphate ® Barium sulphate + Potassium chloride"
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Write the balanced chemical equation for the following and identify the type of reaction in each case. (a) Potassium bromide(aq) + Barium iodide(aq) ®  Potassium iodide(aq) + Barium bromide(s) (b) Zinc carbonate(s) ®  Zinc oxide(s) + Carbon dioxide(g) (c) Hydrogen(g) + Chlorine(g)  ®  Hydrogen chloride(g) (d) Magnesium(s) + Hydrochloric acid(aq)  ®  Magnesium chloride(aq) + Hydrogen(g) 34 ANDHRA PRADESH | PHYSICAL SCIENCE : Chemical Reactions and Equations"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What does one mean by exothermic and endothermic reactions? Give examples."
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Why is respiration considered an exothermic reaction? Explain."
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why are decomposition reactions called the opposite of combination reactions? Write equations for these reactions."
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Write one equation each for decomposition reactions where energy is supplied in the form of heat, light or electricity."
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the difference between displacement and double displacement reactions? Write equations for these reactions."
+        },
+        {
+          "question_no": 14,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "In the reﬁning of silver, the recovery of silver from silver nitrate solution involved displacement by copper metal. Write down the reaction involved."
+        },
+        {
+          "question_no": 15,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What do you mean by a precipitation reaction? Explain by giving examples."
+        },
+        {
+          "question_no": 16,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Explain the following in terms of gain or loss of oxygen with two examples each. (a) Oxidation (b) Reduction"
+        },
+        {
+          "question_no": 17,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A shiny brown coloured element ‘X’ on heating in air becomes black in colour. Name the element ‘X’ and the black coloured compound formed."
+        },
+        {
+          "question_no": 18,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "Why do we apply paint on iron articles?"
+        },
+        {
+          "question_no": 19,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Oil and fat containing food items are ﬂushed with nitrogen. Why?"
+        },
+        {
+          "question_no": 20,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Explain the following terms with one example each. (a) Corrosion (b) Rancidity Perform the following activity. ■Take four beakers and label them as A, B, C and D. ■Put 25 mL of water in A, B and C beakers and copper sulphate solution in beaker D. ■Measure and record the temperature of each liquid contained in the beakers above. ■Add two spatulas of potassium sulphate, ammonium nitrate, anhydrous copper sulphate and ﬁne iron ﬁllings to beakers A, B, C and D respectively and stir. ■Finally measure and record the temperature of each of the mixture above. Find out which reactions are exothermic and which ones are endothermic in nature."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Acids, Bases and Salts",
+      "title_te": "ఆమ్లాలు, క్షారాలు మరియు లవణాలు",
+      "branch": "Chemistry",
+      "pages_scert": "48 - 89",
+      "learning_outcomes": [
+        "Understanding indicators: Litmus, Methyl Orange, Phenolphthalein, Olfactory indicators",
+        "Chemical properties of acids and bases with metals, metal carbonates, metal hydrogencarbonates, and oxides",
+        "Concept of neutralization: Acid + Base -> Salt + Water",
+        "Understanding pH scale (0 to 14) and role of pH in daily life (tooth decay, digestive system, acid rain)",
+        "Preparation, properties and uses of chemicals from Common Salt: NaOH, Bleaching powder, Baking soda, Washing soda, Plaster of Paris"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Acid} + \\text{Metal} \\rightarrow \\text{Salt} + \\text{H}_2\\text{(g)}",
+        "\\text{Acid} + \\text{Base} \\rightarrow \\text{Salt} + \\text{H}_2\\text{O} \\quad (\\text{Neutralization})",
+        "\\text{Na}_2\\text{CO}_3 + 2\\text{HCl} \\rightarrow 2\\text{NaCl} + \\text{H}_2\\text{O} + \\text{CO}_2\\uparrow",
+        "\\text{pH} = -\\log_{10}[\\text{H}^+]",
+        "2\\text{NaCl(aq)} + 2\\text{H}_2\\text{O(l)} \\xrightarrow{\\text{electricity}} 2\\text{NaOH(aq)} + \\text{Cl}_2\\text{(g)} + \\text{H}_2\\text{(g)} \\quad (\\text{Chlor-alkali process})",
+        "\\text{Ca(OH)}_2 + \\text{Cl}_2 \\rightarrow \\text{CaOCl}_2 + \\text{H}_2\\text{O} \\quad (\\text{Bleaching powder})",
+        "\\text{NaCl} + \\text{H}_2\\text{O} + \\text{CO}_2 + \\text{NH}_3 \\rightarrow \\text{NH}_4\\text{Cl} + \\text{NaHCO}_3 \\quad (\\text{Baking soda})",
+        "2\\text{NaHCO}_3 \\xrightarrow{\\Delta} \\text{Na}_2\\text{CO}_3 + \\text{H}_2\\text{O} + \\text{CO}_2",
+        "\\text{Na}_2\\text{CO}_3 + 10\\text{H}_2\\text{O} \\rightarrow \\text{Na}_2\\text{CO}_3 \\cdot 10\\text{H}_2\\text{O} \\quad (\\text{Washing soda})",
+        "\\text{CaSO}_4 \\cdot \\frac{1}{2}\\text{H}_2\\text{O} + 1\\frac{1}{2}\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O} \\quad (\\text{Plaster of Paris to Gypsum})"
+      ],
+      "total_activities": 5,
+      "activities": [
+        {
+          "activity_no": "2.3",
+          "aim": "and record your",
+          "procedure_summary": "observations. The reaction that takes place can be written as follows. 2NaOH(aq) + Zn(s) ® Na ZnO (s) + H (g) 2",
+          "full_activity_text": "and record your \nobservations.\nThe reaction that takes place can be written as \nfollows.\n2NaOH(aq) + Zn(s) ® Na ZnO (s) + H (g) \n2\n2\n2\n \n \n \n      (Sodium zincate)\n \nYou ﬁnd again that hydrogen is formed \nin the reaction. However, such reactions are not \npossible with all metals. \n2.1.3  How do Metal Carbonates and Metal\n \nHydrogencarbonates React with\n  \nAcids?"
+        },
+        {
+          "activity_no": "2.5",
+          "aim": ". Calcium hydroxide, which is a base, reacts",
+          "procedure_summary": "with carbon dioxide to produce a salt and water. Since this is similar to the reaction between a base and an acid, we can conclude that non- metallic oxides are acidic in nature. 2.2 WHAT DO ALL ACIDS AND ALL",
+          "full_activity_text": ". Calcium hydroxide, which is a base, reacts \nwith carbon dioxide to produce a salt and water. \nSince this is similar to the reaction between a \nbase and an acid, we can conclude that non-\nmetallic oxides are acidic in nature.\n2.2 WHAT DO ALL ACIDS AND ALL \nBASES  HAVE  IN  COMMON?\n \nIn Section 2.1 we have seen that all acids \nhave similar chemical properties. What leads to \nthis similarity in properties? We saw in"
+        },
+        {
+          "activity_no": "2.3",
+          "aim": "that all acids generate hydrogen gas on",
+          "procedure_summary": "reacting with metals, so hydrogen seems to be common to all acids. Let us perform an Activity to investigate whether all compounds containing hydrogen are acidic.",
+          "full_activity_text": "that all acids generate hydrogen gas on \nreacting with metals, so hydrogen seems to be \ncommon to all acids. Let us perform an Activity \nto investigate whether all compounds \ncontaining hydrogen are acidic."
+        },
+        {
+          "activity_no": "2.12",
+          "aim": ". Also, you can note down which",
+          "procedure_summary": "plants are growing in the region from which you have collected the soil.",
+          "full_activity_text": ". Also, you can note down which \nplants are growing in the region from which \nyou have collected the soil."
+        },
+        {
+          "activity_no": "2.14",
+          "aim": "? Can you",
+          "procedure_summary": "correlate why it can be used to neutralise an acid? It is a mild non-corrosive basic salt. The following reaction takes place when it is heated during cooking – (Sodium",
+          "full_activity_text": "? Can you \ncorrelate why it can be used to neutralise an \nacid? It is a mild non-corrosive basic salt. The \nfollowing reaction takes place when it is heated \nduring cooking –\n(Sodium \n \n                         (Sodium\nhydrogencarbonate)                           carbonate)\nSodium hydrogencarbonate has got various \nuses in the household. \nUses of  Baking  soda\n \n(i)  For making baking powder, which  is \na mixture of baking soda (sodium \nhydrogencarbonate) and a mild edible acid \nsuch as tartaric acid. When baking powder is \nheated or mixed in water, the following reaction \ntakes place –\n+\nNaHCO + H ® CO + H O + Sodium salt of acid\n3\n2\n2\n \n     (From any acid)\nCarbon dioxide produced during the reaction \ncan cause bread or cake to rise making them \nsoft and spongy. \n(ii) Sodium hydrogencarbonate is also an \ningredient in antacids. Being alkaline, it \nneutralises excess acid in the stomach and \nprovides relief. \n(iii) It is also used in soda-acid ﬁre \nextinguishers. \nWashing soda\n \nAnother chemical that can be obtained \nfrom sodium chloride is Na CO .10H O \n2\n3\n2\n(washing soda). You have seen above that \nsodium carbonate can be obtained by heating \nbaking soda; recrystallisation of s"
+        }
+      ],
+      "summary_points": [
+        "Rinse both cloth strips with water and again check their odour.",
+        "Note your observations.",
+        "Now take some dilute vanilla essence and clove oil and check their odour.",
+        "Similarly, test the change in the odour of clove oil with dilute HCl and dilute NaOH solutions and record your observations. CAUTION:",
+        "Place a few pieces of granulated zinc metal in a test tube.",
+        "Add 2 mL of sodium hydroxide solution and warm the contents of the test tube.",
+        "Repeat the rest of the steps as in Activity 2.3 and record your observations. The reaction that takes place can be written as follows. 2NaOH(aq) + Zn(s) ® Na ZnO (s) + H (g) 2 2 2 (Sodium zincate) You ﬁnd again that hydrogen is formed in the reaction. However, such reactions are not possible with all metals. 2.1.3 How do Metal Carbonates and Metal Hydrogencarbonates React with Acids?",
+        "Add about 2 mL of dilute HCl to both the test tubes.",
+        "Pass the gas produced in each case through lime water (calcium hydroxide solution) as shown in Fig. 2.2 and record your observations. Figure 2.2 Passing carbon dioxide gas through calcium hydroxide solution The reactions occurring in the above Activity are written as – Test tube A: Test tube B: On passing the carbon dioxide gas evolved through lime water, (Lime water) (White precipitate) Na CO HCl(aq) Cl(aq) H O(l) + CO 2 3 2 2 (s) Na (g) + → + 2 2 NaHCO HCl(aq) Cl(aq) H O(l) + CO 3 2 2 (s) Na (g) + → + Ca(OH) CO H O(l) 2 2 2 (aq) (g) CaCO s 3 + → + ( )",
+        "Note the colour of the solution. What has happened to the copper oxide? On passing excess carbon dioxide the following reaction takes place: (Soluble in water) Limestone, chalk and marble are different forms of calcium carbonate. All metal carbonates and hydrogencarbonates react with acids to give a corresponding salt, carbon dioxide and water. Thus, the reaction can be summarised as – Metal carbonate/Metal hydrogencarbonate + Acid ® Salt + Carbon dioxide + Water 2.1.4 How do Acids and Bases React with each other? CaCO s Ca(HCO aq 3 3 ( ) ) ( ) + → H O(l)+ CO (g) 2 2 2",
+        "What is the colour of the solution?",
+        "Add dilute HCl solution to the above solution drop by drop.",
+        "Is there any colour change for the reaction mixture?",
+        "Why did the colour of phenolphthalein change after the addition of an acid?",
+        "Now add a few drops of NaOH to the above mixture."
+      ],
+      "total_exercises": 20,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the common name of the compound CaOCl ? 2"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Name the substance which on treatment with chlorine yields bleaching  powder."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Name the sodium compound which is used for softening hard water."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What will happen if a solution of sodium hydrocarbonate is heated? Give the equation of the reaction involved."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "Write an equation to show the reaction between Plaster of Paris and water. ■ Acid-base indicators are dyes or mixtures of dyes which are used to indicate the presence of acids and bases. ■ + Acidic nature of a substance is due to the formation of H (aq) ions in solution. – Formation of OH (aq) ions in solution is responsible for the basic nature of a substance. ■ When an acid reacts with a metal, hydrogen gas is evolved and a corresponding salt is formed. ■ When a base reacts with a metal, along with the evolution of hydrogen gas a salt is formed which has a negative ion composed of the metal and oxygen. ■ When an acid reacts with a metal carbonate or metal hydrogencarbonate, it gives the corresponding salt, carbon dioxide gas and water. Note that only half a water molecule is shown to be attached as water of crystallisation. How can you get half a water molecule? It is written in this form because two formula units of CaSO share one molecule of water. Plaster 4 of Paris is used for making toys, materials for decoration and for making surfaces smooth. Try to ﬁnd out why is calcium sulphate hemihydrate called ‘Plaster of Paris’ ? ANDHRA PRADESH | PHYSICAL SCIENCE : Acids, Bases and Salts 72 ■Acidic and basic solutions in water conduct electricity because they produce hydrogen and hydroxide ions respectively. ■The strength of an acid or an alkali can be tested by using a scale called the pH scale (0- 14) which gives the measure of  hydrogen ion concentration in a solution. ■A neutral solution has a pH of exactly 7, while an acidic solution has a pH less than 7 and a basic solution a pH more than 7. ■Living beings carry out their metabolic activities within an optimal pH range. ■Mixing concentrated acids or bases with water is a highly exothermic process. ■Acids and bases neutralise each other to form corresponding salts and water. ■Water of crystallisation is the ﬁxed number of water molecules present in one formula unit of a salt. ■Salts have various uses in everyday life and in industries."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A solution turns red litmus blue, its pH is likely to be (a) 1 (b) 4 (c) 5 (d) 10"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A solution reacts with crushed egg-shells to give a gas that turns lime-water milky. The solution contains (a) NaCl    (b) HCl (c) LiCl (d)  KCl"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "10 mL of a solution of NaOH is found to be completely neutralised by 8 mL of a given solution of HCl. If we take 20 mL of the same solution of NaOH, the amount HCl solution (the same solution as before) required to neutralise it will be (a) 4 mL    (b) 8 mL (c)  12 mL (d) 16 mL"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "Which one of the following types of medicines is used for treating indigestion? (a)  Antibiotic (b)  Analgesic (c)  Antacid (d)  Antiseptic"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Write word equations and then balanced equations for the reaction taking place when – (a)  dilute sulphuric acid reacts with zinc granules. (b)  dilute hydrochloric acid reacts with magnesium ribbon. (c)   dilute sulphuric acid reacts with aluminium powder. (d)  dilute hydrochloric acid reacts with iron ﬁlings."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "Compounds such as alcohols and glucose also contain hydrogen but are not categorised as acids. Describe an Activity to prove it."
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why does distilled water not conduct electricity, whereas rain water does? ANDHRA PRADESH | PHYSICAL SCIENCE : Acids, Bases and Salts 74"
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why do acids not show acidic behaviour in the absence of water?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Five solutions A,B,C,D and E when tested with universal indicator showed pH as 4,1,11,7 and 9, respectively. Which solution is (a) neutral? (b) strongly alkaline? (c) strongly acidic? (d) weakly acidic? (e) weakly alkaline? Arrange the pH in increasing order of hydrogen-ion concentration."
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Equal lengths of magnesium ribbons are taken in test tubes A and B. Hydrochloric acid (HCl) is added to test tube A, while acetic acid (CH COOH) is added to test tube B. 3 Amount and concentration taken for both the acids are same. In which test tube will the ﬁzzing occur more vigorously and why?"
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Fresh milk has a pH of 6. How do you think the pH will change as it turns into curd? Explain your answer."
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A milkman adds a very small amount of baking soda to fresh milk. (a) Why does he shift the pH of the fresh milk from 6 to slightly alkaline? (b) Why does this milk take a long time to set as curd?"
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Plaster of  Paris should be stored in a moisture-proof container. Explain why?"
+        },
+        {
+          "question_no": 14,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is a neutralisation reaction? Give two examples."
+        },
+        {
+          "question_no": 15,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Give two important uses of  washing soda and baking soda. (I) Prepare your own indicator ■Crush beetroot in a mortar. ■Add sufficient water to obtain the extract. ■Filter the extract by the procedure learnt by you in earlier classes. ■Collect the ﬁltrate to test the substances you may have tasted earlier. ■Arrange four test tubes in a test tube stand and label them as A,B,C and D. Pour 2 mL each of lemon juice solution, soda-water, vinegar and baking soda solution in them respectively. ■Put 2-3 drops of the beetroot extract in each test tube and note the colour change if any. Write your observation in a Table. ■You can prepare indicators by using other natural materials like extracts of red cabbage leaves, coloured petals of some ﬂowers such as Petunia, Hydrangea and Geranium. ANDHRA PRADESH | PHYSICAL SCIENCE : Acids, Bases and Salts 76 (II) Preparing a soda-acid ﬁre extinguisher ■The reaction of acids with metal hydrogencarbonates is used in the ﬁre extinguishers which produce carbon dioxide. ■Take 20 mL of sodium hydrogencarbonate (NaHCO ) solution in a wash-bottle. 3 ■Suspend an ignition tube containing dilute sulphuric acid in the wash-bottle (Fig. 2.10). ■Close the mouth of the wash-bottle. ■Tilt the wash-bottle so that the acid from the ignition tube mixes with the sodium hydrogencarbonate solution below. ■You will notice discharge coming out of the nozzle. ■Direct this discharge on a burning candle. What happens? Figure 2.10 (a) Ignition tube containing dilute sulphuric acid suspended in a wash-bottle containing sodium hydrogencarbonate, (b) Discharge coming out of the nozzle"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Metals and Non-metals",
+      "title_te": "లోహాలు మరియు అలోహాలు",
+      "branch": "Chemistry",
+      "pages_scert": "90 - 131",
+      "learning_outcomes": [
+        "Physical properties: Malleability, ductility, conductivity, sonority",
+        "Chemical properties: Amphoteric oxides, reaction with water and acids, Aqua Regia",
+        "Reactivity series of metals (K > Na > Ca > Mg > Al > Zn > Fe > Pb > [H] > Cu > Hg > Ag > Au)",
+        "Formation and properties of ionic compounds (Electron dot structures, high melting points, electrical conductivity in molten/solution state)",
+        "Extraction of metals: Roasting and Calcination, Thermite reaction, Electrolytic refining of copper",
+        "Corrosion prevention: Galvanisation, electroplating, alloying"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Reactivity Series: } \\text{K} > \\text{Na} > \\text{Ca} > \\text{Mg} > \\text{Al} > \\text{Zn} > \\text{Fe} > \\text{Pb} > [\\text{H}] > \\text{Cu} > \\text{Hg} > \\text{Ag} > \\text{Au}",
+        "\\text{Al}_2\\text{O}_3 + 6\\text{HCl} \\rightarrow 2\\text{AlCl}_3 + 3\\text{H}_2\\text{O} \\quad (\\text{Basic nature of amphoteric oxide})",
+        "\\text{Al}_2\\text{O}_3 + 2\\text{NaOH} \\rightarrow 2\\text{NaAlO}_2 + \\text{H}_2\\text{O} \\quad (\\text{Acidic nature: Sodium aluminate})",
+        "2\\text{ZnS} + 3\\text{O}_2 \\xrightarrow{\\Delta} 2\\text{ZnO} + 2\\text{SO}_2 \\quad (\\text{Roasting})",
+        "\\text{ZnCO}_3 \\xrightarrow{\\Delta} \\text{ZnO} + \\text{CO}_2 \\quad (\\text{Calcination})",
+        "\\text{Fe}_2\\text{O}_3\\text{(s)} + 2\\text{Al(s)} \\rightarrow 2\\text{Fe(l)} + \\text{Al}_2\\text{O}_3\\text{(s)} + \\text{Heat} \\quad (\\text{Thermite reaction})"
+      ],
+      "total_activities": 7,
+      "activities": [
+        {
+          "activity_no": "3.5",
+          "aim": ", you have observed that",
+          "procedure_summary": "metals have high melting points but gallium and caesium have very low melting points. These two metals will melt if you keep them on your palm. (ii) Iodine is a non-metal but it is lustrous.",
+          "full_activity_text": ", you have observed that \nmetals have high melting points but gallium \nand caesium have very low melting points. \nThese two metals will melt if you keep them on \nyour palm.\n \n(ii) Iodine is a non-metal but it is lustrous.\n \n(iii) Carbon is a non-metal that can exist in \ndifferent forms. Each form is called an \nallotrope. Diamond, an allotrope of carbon, is \nthe hardest natural substance known and has a \nvery high melting and boiling point. Graphite, \nanother allotrope of carbon, is a conductor of \nelectricity.\n \n(iv) Alkali metals (lithium, sodium, \npotassium) are so soft that they can be cut with a \nknife. They have low densities and low melting \npoints.\n \nElements can be more clearly classiﬁed as \nmetals and non-metals"
+        },
+        {
+          "activity_no": "3.8",
+          "aim": "that",
+          "procedure_summary": "magnesium burns in air with a dazzling white ﬂame. Do all metals react in the same manner? Let us check by performing the following Activity.",
+          "full_activity_text": "that \nmagnesium burns in air with a dazzling white \nﬂame. Do all metals react in the same manner? \nLet us check by performing the following \nActivity."
+        },
+        {
+          "activity_no": "3.9",
+          "aim": "that all",
+          "procedure_summary": "metals do not react with oxygen at the same rate. Diﬀerent metals show diﬀerent reactivities towards oxygen. Metals such as potassium and sodium react so vigorously that they catch ﬁre if kept in the open. Hence, to",
+          "full_activity_text": "that all \nmetals do not react with oxygen at the same \nrate. Diﬀerent metals show diﬀerent \nreactivities towards oxygen. Metals such as \npotassium and sodium react so vigorously that \nthey catch ﬁre if kept in the open. Hence, to \nprotect them and to prevent accidental ﬁres, \nthey are kept immersed in kerosene oil. At \nordinary temperature, the surfaces of metals \nsuch as magnesium, aluminium, zinc, lead, etc., \nare covered with a thin layer of oxide. The \nprotective oxide layer prevents the metal from \nfurther oxidation. Iron does not burn on heating \nbut iron ﬁlings burn vigorously when sprinkled \nin the ﬂame of the burner. Copper does not \nburn, but the hot metal is coated with a black \ncoloured layer of copper(II) oxide. Silver and \ngold do not react with oxygen even at high \ntemperatures.\n \nAfter performing"
+        },
+        {
+          "activity_no": "3.9",
+          "aim": ", you must",
+          "procedure_summary": "have observed that sodium is the most reactive of the samples of metals taken here. The reaction of magnesium is less vigorous implying that it is not as reactive as sodium. But burning in oxygen does not help us to decide",
+          "full_activity_text": ", you must \nhave observed that sodium is the most reactive \nof the samples of metals taken here. The \nreaction of magnesium is less vigorous \nimplying that it is not as reactive as sodium. But \nburning in oxygen does not help us to decide \nabout the reactivity of zinc, iron, copper or lead. \nLet us see some more reactions to arrive at a \nconclusion about the order of reactivity of these \nmetals.\n\n\nANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals\n90\n3.2.2 What happens when Metals react with \nWater?\nCAUTION: This Activity needs the \nteacher’s assistance."
+        },
+        {
+          "activity_no": "3.9",
+          "aim": ".",
+          "procedure_summary": "",
+          "full_activity_text": "."
+        },
+        {
+          "activity_no": "3.11",
+          "aim": ",",
+          "procedure_summary": "that the rate of formation of bubbles was the fastest in the case of magnesium. The reaction was also the most exothermic in this case. The reactivity decreases in the order Mg > Al > Zn > Fe. In the case of copper, no bubbles were seen",
+          "full_activity_text": ", \nthat the rate of formation of bubbles was the \nfastest in the case of magnesium. The reaction \nwas also the most exothermic in this case. The \nreactivity decreases in the order Mg > Al > Zn > \nFe. In the case of copper, no bubbles were seen \nand the temperature also remained unchanged. \nThis shows that copper does not react with \ndilute Hcl.\n3.2.4 How do Metals react with Solutions of \nother Metal Salts?\n\n\nANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals\n94"
+        },
+        {
+          "activity_no": "3.12",
+          "aim": "?",
+          "procedure_summary": "3.2.5 The Reactivity Series The reactivity series is a list of metals arranged in the order of their decreasing activities. After performing displacement experiments (Activities 1.9 and 3.12), the",
+          "full_activity_text": "?\n3.2.5 The Reactivity Series\n \nThe reactivity series is a list of metals \narranged in the order of their decreasing \nactivities. After performing displacement \nexperiments (Activities 1.9 and 3.12), the \nfollowing series, (Table 3.2) known as the \nreactivity or activity series has been developed.\nK \nPotassium \nMost reactive\nNa \nSodium \nCa \nCalcium \nMg \nMagnesium \nAl \nAluminium\nZn \nZinc \nReactivity decreases\nFe \nIron\nPb \nLead\n[H] \n[Hydrogen]\nCu \nCopper\nHg \nMercury\nAg \nSilver\nAu  \nGold \nLeast reactive\n\n\nANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals\n96\n?\n1. Why is sodium kept immersed in kerosene oil?\n2. Write equations for the reactions of\n \n(i) iron with steam \n \n(ii) calcium and potassium with water\n3. Samples of four metals A, B, C and D were taken and added to the following solution one by \none. The results obtained have been tabulated as follows.\n \nUse the Table above to answer the following questions about metals\nA, B, C and D.\n \n(i) Which is the most reactive metal? \n \n(ii) What would you observe if B is added to a solution of Copper(II) sulphate?\n \n(iii) Arrange the metals A, B, C and D in the order of decreasing reactivity.\n4. Which gas is produced when dilute h"
+        }
+      ],
+      "summary_points": [
+        "Clean the surface of each sample by rubbing them with sand paper and note their appearance again.",
+        "Hold a piece of sodium metal with a pair of tongs. CAUTION: Always handle sodium metal with care. Dry it by pressing between the folds of a ﬁlter paper.",
+        "Put it on a watch-glass and try to cut it with a knife.",
+        "What do you observe? Metals, in their pure state, have a shining surface. This property is called metallic lustre. You will ﬁnd that metals are generally hard. The hardness varies from metal to metal.",
+        "Place any one metal on a block of iron and strike it four or ﬁve times with a hammer. What do you observe?",
+        "Repeat with other metals.",
+        "Record the change in the shape of these metals.",
+        "List the metals whose wires you have seen in daily life. You will ﬁnd that some metals can be beaten into thin sheets. This property is called malleability. Did you know that gold and silver are the most malleable metals?",
+        "Fix a pin to the free end of the wire using wax.",
+        "Heat the wire with a spirit lamp, candle or a burner near the place where it is clamped.",
+        "What do you observe after some time?",
+        "Note your observations. Does the metal wire melt?",
+        "Set up an electric circuit as shown in Fig. 3.2.",
+        "Place the metal to be tested in the circuit between terminals A and B as shown.",
+        "Does the bulb glow? What does this indicate? You must have seen that the wires that carry current in your homes have a coating of polyvinylchloride (PVC) or a rubber-like material. Why are electric wires coated with such substances? What happens when metals strike a hard surface? Do they produce a sound? The metals that produce a sound on striking a hard surface are said to be sonorous. Can you now say why school bells are made of metals?"
+      ],
+      "total_exercises": 22,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Deﬁne the following terms. (i)    Mineral (ii)    Ore (iii)  Gangue"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS7_appreciation_aesthetic",
+          "question_text": "Name two metals which are found in nature in the free state."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "What chemical process is used for obtaining a metal from its oxide? ANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals 110 3.5 CORROSION You have learnt the following about corrosion in Chapter 1 – • Silver articles  become black after some time when exposed to air. This is because it reacts with sulphur in the air to form a coating of silver sulphide. • Copper reacts with moist carbon dioxide in the air and slowly loses its shiny brown surface and gains a green coat. This green substance is basic copper carbonate. • Iron when exposed to moist air for a long time acquires a coating of a brown ﬂaky substance called rust. Let us ﬁnd out the conditions under which iron rusts. ■Take three test tubes and place clean iron nails in each of them. ■Label these test tubes A, B and C. Pour some water in test tube A and cork it. ■Pour boiled distilled water in test tube B, add about 1 mL of oil and cork it. The oil will ﬂoat on water and prevent the air from dissolving in the water. ■Put some anhydrous calcium chloride in test tube C and cork it. Anhydrous calcium chloride will absorb the moisture, if any, from the air. Leave these test tubes for a few days and then observe (Fig. 3.13). You will observe that iron nails rust in test tube A, but they do not rust in test tubes B and C. In the test tube A, the nails are exposed to both air and water. In the test tube B, the nails are exposed to only water, and the nails in test tube C are exposed to dry air. What does this tell us about the conditions under which iron articles rust? 3.5.1 Prevention of Corrosion The rusting of iron can be prevented by painting, oiling, greasing, galvanising, chrome plating, anodising or making alloys. Galvanisation is a method of protecting steel and iron from rusting by coating them with a thin layer of zinc. The galvanised article is protected against rusting even if the zinc coating is broken. Can you reason this out? Alloying is a very good method of improving the properties of a metal. We can get the desired properties by this method. For example, iron is the most widely used metal. But it is never used in its pure state. This is because pure iron is very soft and stretches Figure 3.13 Investigating the conditions under which iron rusts. In tube A, both air and water are present. In tube B, there is no air dissolved in the water. In tube C, the air is dry. ANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals 112 easily when hot. But, if it is mixed with a small amount of carbon (about 0.05 %), it becomes hard and strong. When iron is mixed with nickel and chromium, we get stainless steel, which is hard and does not rust. Thus, if iron is mixed with some other substance, its properties change. In fact, the properties of any metal can be changed if it is mixed with some other substance. The substance added may be a metal or a non-metal. An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal. It is prepared by ﬁrst melting the primary metal, and then, dissolving the other elements in it in deﬁnite proportions. It is then cooled to room temperature. If one of the metals is mercury, then the alloy is known as an amalgam. The electrical conductivity and melting point of an alloy is less than that of pure metals. For example, brass, an alloy of copper and zinc (Cu and Zn), and bronze, an alloy of copper and tin (Cu and Sn), are not good conductors of electricity whereas copper is used for making electrical circuits. Solder, an alloy of lead and tin (Pb and Sn), has a low melting point and is used for welding electrical wires together. Pure gold, known as 24 carat gold, is very soft. It is, therefore, not suitable for making jewellery. It is alloyed with either silver or copper to make it hard. Generally, in India, 22 carat gold is used for making ornaments. It means that 22 parts of pure gold is alloyed with 2 parts of either copper or silver. The wonder of ancient Indian metallurgy The iron pillar near the Qutub Minar in Delhi was built more than 1600 years ago by the iron workers of India.  They had developed a process which prevented iron from rusting. For its quality of rust resistance it has been examined by scientists from all parts of the world. The iron pillar is 8 m high and weighs 6 tonnes (6000 kg). Iron pillar at Delhi"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Metallic oxides of zinc, magnesium and copper were heated with the following metals. In which cases will you ﬁnd displacement reactions taking place?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which metals do not corrode easily?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "What are alloys? ? Zinc oxide Magnesium oxide Copper oxide ANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals 114 ■Elements can be classiﬁed as metals and non-metals. ■Metals are lustrous, malleable, ductile and are good conductors of heat and electricity. They are solids at room temperature, except mercury which is a liquid. ■Metals can form positive ions by losing electrons to non-metals. ■Metals combine with oxygen to form basic oxides. Aluminium oxide and zinc oxide show the properties of both basic as well as acidic oxides. These oxides are known as amphoteric oxides. ■Different metals have diﬀerent reactivities with water and dilute acids. ■A list of common metals arranged in order of their decreasing reactivity is known as an activity series. ■Metals above hydrogen in the Activity series can displace hydrogen from dilute acids. ■A more reactive metal displaces a less reactive metal from its salt solution. ■Metals occur in nature as free elements or in the form of their compounds. ■The extraction of metals from their ores and then reﬁning them for use is known as metallurgy. ■An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal. ■The surface of some metals, such as iron, is corroded when they are exposed to moist air for a long period of time. This phenomenon is known as corrosion. ■Non-metals have properties opposite to that of metals. They are neither malleable nor ductile. They are bad conductors of heat and electricity, except for graphite, which conducts electricity. ■Non-metals form negatively charged ions by gaining electrons when reacting with metals. ■Non-metals form oxides which are either acidic or neutral. ■Non-metals do not displace hydrogen from dilute acids. They react with hydrogen to form hydrides. ANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals 116"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following pairs will give displacement reactions? (a) NaCl solution and copper metal (b) MgCl2 solution and aluminium metal (c) FeSO4 solution and silver metal (d) AgNO3 solution and copper metal."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "Which of the following methods is suitable for preventing an iron frying pan from rusting? (a) Applying grease (b) Applying paint (c) Applying a coating of zinc (d) All of the above."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "An element reacts with oxygen to give a compound with a high melting point. This compound is also soluble in water. The element is likely to be (a) calcium (b) carbon (c) silicon (d) iron."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Food cans are coated with tin and not with zinc because (a) zinc is costlier than tin. (b) zinc has a higher melting point than tin. (c) zinc is more reactive than tin. (d) zinc is less reactive than tin."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "You are given a hammer, a battery, a bulb, wires and a switch. (a) How could you use them to distinguish between samples of metals and non-metals? (b) Assess the usefulness of these tests in distinguishing between metals and non-metals."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are amphoteric oxides? Give two examples of amphoteric oxides."
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Name two metals which will displace hydrogen from dilute acids, and two metals which will not."
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "In the electrolytic reﬁning of a metal M, what would you take as the anode, the cathode and the electrolyte? ANDHRA PRADESH | PHYSICAL SCIENCE : Metals and Non-metals 118"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Pratyush took sulphur powder on a spatula and heated it. He collected the gas evolved by inverting a test tube over it, as shown in ﬁgure below. (a) What will be the action of gas on (I) dry litmus paper? (ii) moist litmus paper? (b) Write a balanced chemical equation for the reaction taking place."
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "State two ways to prevent the rusting of iron."
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What type of oxides are formed when non-metals combine with oxygen?"
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Give reasons (a) Platinum, gold and silver are used to make jewellery. (b) Sodium, potassium and lithium are stored under oil. (c) Aluminium is a highly reactive metal, yet it is used to make utensils for cooking. (d) Carbonate and sulphide ores are usually converted into oxides during the process of extraction."
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "You must have seen tarnished copper vessels being cleaned with lemon or tamarind juice. Explain why these sour substances are effective in cleaning the vessels."
+        },
+        {
+          "question_no": 14,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Differentiate between metal and non-metal on the basis of their chemical properties."
+        },
+        {
+          "question_no": 15,
+          "academic_standard": "AS7_appreciation_aesthetic",
+          "question_text": "A man went door to door posing as a goldsmith. He promised to bring back the glitter of old and dull gold ornaments. An unsuspecting lady gave a set of gold bangles to him which he dipped in a particular solution. The bangles sparkled like new but their weight was reduced drastically. The lady was upset but after a futile argument the man beat a hasty retreat. Can you play the detective to ﬁnd out the nature of the solution he had used?"
+        },
+        {
+          "question_no": 16,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Give reasons why copper is used to make hot water tanks and not steel (an alloy of iron)."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Carbon and its Compounds",
+      "title_te": "కార్బన్ మరియు దాని సమ్మేళనాలు",
+      "branch": "Chemistry",
+      "pages_scert": "132 - 175",
+      "learning_outcomes": [
+        "Covalent bonding in carbon: Tetravalency, catenation, allotropes (Diamond, Graphite, Fullerenes)",
+        "Hydrocarbons: Saturated (Alkanes $C_nH_{2n+2}$) and Unsaturated (Alkenes $C_nH_{2n}$, Alkynes $C_nH_{2n-2}$)",
+        "Functional groups: Halo, Alcohol (-OH), Aldehyde (-CHO), Ketone (>C=O), Carboxylic acid (-COOH)",
+        "Homologous series characteristics and IUPAC nomenclature rules",
+        "Chemical reactions of carbon compounds: Combustion, Oxidation, Addition, Substitution",
+        "Properties of Ethanol (Dehydration) and Ethanoic acid (Esterification, Saponification)",
+        "Cleansing action of soaps and detergents (Hydrophilic head, hydrophobic tail, micelle formation)"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Alkanes: } \\text{C}_n\\text{H}_{2n+2}, \\quad \\text{Alkenes: } \\text{C}_n\\text{H}_{2n}, \\quad \\text{Alkynes: } \\text{C}_n\\text{H}_{2n-2}",
+        "\\text{CH}_4 + 2\\text{O}_2 \\rightarrow \\text{CO}_2 + 2\\text{H}_2\\text{O} + \\text{Heat} + \\text{Light} \\quad (\\text{Combustion})",
+        "\\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{Alkaline } \\text{KMnO}_4 / \\text{Acidified } \\text{K}_2\\text{Cr}_2\\text{O}_7} \\text{CH}_3\\text{COOH} \\quad (\\text{Oxidation})",
+        "\\text{CH}_2=\\text{CH}_2 + \\text{H}_2 \\xrightarrow{\\text{Ni / Pd}} \\text{CH}_3-\\text{CH}_3 \\quad (\\text{Addition / Hydrogenation})",
+        "\\text{CH}_4 + \\text{Cl}_2 \\xrightarrow{\\text{Sunlight}} \\text{CH}_3\\text{Cl} + \\text{HCl} \\quad (\\text{Substitution})",
+        "\\text{CH}_3\\text{COOH} + \\text{C}_2\\text{H}_5\\text{OH} \\xrightarrow{\\text{Acid}} \\text{CH}_3\\text{COOC}_2\\text{H}_5 + \\text{H}_2\\text{O} \\quad (\\text{Esterification})",
+        "\\text{CH}_3\\text{COOC}_2\\text{H}_5 + \\text{NaOH} \\rightarrow \\text{CH}_3\\text{COONa} + \\text{C}_2\\text{H}_5\\text{OH} \\quad (\\text{Saponification})"
+      ],
+      "total_activities": 3,
+      "activities": [
+        {
+          "activity_no": "4.2",
+          "aim": "are",
+          "procedure_summary": "methanol, ethanol, propanol and butanol. Naming a carbon compound can be done by the following method – (i) Identify the number of carbon atoms in the compound. A compound having three",
+          "full_activity_text": "are \nmethanol, ethanol, propanol and butanol.\nNaming a carbon compound can be done by the \nfollowing method –\n \n(i) Identify the number of carbon atoms in \nthe compound. A compound having three \ncarbon atoms would have the name propane. \n \n(ii) In case a functional group is present, it is \nindicated in the name of the compound with \neither a preﬁx or a suffix (as given in Table 4.4).\n \n(iii) If the name of the functional group is to \nbe given as a suffix, and the suffix of the \nfunctional group begins with a vowel a, e, i, o, \nu, then the name of the carbon chain is modiﬁed \nby deleting the ﬁnal ‘e’ and adding the \nappropriate suffix. For example, a three-carbon \nchain with a ketone group would be named in \nthe following manner –\n \nPropane – ‘e’ = propan + ‘one’ = propanone.\n \n(iv) If the carbon chain is unsaturated, then \nthe ﬁnal ‘ane’ in the name of the carbon chain is \nsubstituted by ‘ene’ or ‘yne’ as given in Table \n4.4. For example, a three-carbon chain with a \ndouble bond would be called propene and if it \nhas a triple bond, it would be called propyne.\n\n\nANDHRA PRADESH | PHYSICAL SCIENCE : Carbon and its Compounds\n142\n3. Aldehyde\nSuffix - al\nPropanal\n4. Ketone\nSuffix - one\nP"
+        },
+        {
+          "activity_no": "4.3",
+          "aim": ". However,",
+          "procedure_summary": "limiting the supply of air results in incomplete combustion of even saturated hydrocarbons giving a sooty ﬂame. The gas/kerosene stove used at home has inlets for air so that a sufficiently oxygen-rich mixture is burnt to",
+          "full_activity_text": ". However, \nlimiting the supply of air results in incomplete \ncombustion of even saturated hydrocarbons \ngiving a sooty ﬂame. The gas/kerosene stove \nused at home has inlets for air so that a \nsufficiently oxygen-rich mixture is burnt to \ngive a clean blue ﬂame. If you observe the \nbottoms of cooking vessels getting blackened, \nit means that the air holes are blocked and fuel \nis getting wasted. Fuels such as coal and \npetroleum have some amount of nitrogen and \nsulphur in them. Their combustion results in the \nformation of oxides of sulphur and nitrogen \nwhich are major pollutants in the environment.\nWhy do substances burn with or \nwithout a ﬂame ?\n \nHave you ever observed either a coal or a \nwood ﬁre? If not, the next time you get a \nchance, take close note of what happens \nwhen the wood or coal starts to burn. You \nhave seen above that a candle or the LPG in \nthe gas stove burns with a ﬂame. However, \nyou will observe the coal or charcoal in an \n‘angithi’ sometimes just glows red and \ngives out heat without a ﬂame. This is \nbecause a ﬂame is only produced when \ngaseous substances burn. When wood or \ncharcoal is ignited, the volatile substances \npresent vapourise and burn with a "
+        },
+        {
+          "activity_no": "2.5",
+          "aim": ".",
+          "procedure_summary": "Take a spatula full of sodium carbonate in a test tube and add 2 mL of dilute ethanoic acid. What do you observe? Pass the gas produced through freshly",
+          "full_activity_text": ".\nTake a spatula full of sodium carbonate \nin a test tube and add 2 mL of dilute\nethanoic acid.\nWhat do you observe?\nPass the gas produced through freshly \nprepared lime-water. What do you \nobserve?\nCan the gas produced by the reaction \nbetween ethanoic acid and sodium \ncarbonate be identiﬁed by this test?\nRepeat this Activity with sodium \nhydrogencarbonate instead of sodium \ncarbonate.\n \n(iii) Reaction with carbonates and \nhydrogencarbonates: Ethanoic acid reacts with \ncarbonates and hydrogencarbonates to give rise \nto a salt, carbon dioxide and water. The salt \nproduced is commonly called sodium acetate.\n2CH COOH + Na CO ® 2CH COONa + H O + CO\n3\n2\n3\n3\n2\n2\nCH COOH + NaHCO ® CH COONa + H O + CO\n3\n3\n3\n2\n2\nFigure 4.11    \nFormation of ester\n\n\nANDHRA PRADESH | PHYSICAL SCIENCE : Carbon and its Compounds\n154\n?\n1. H o w w o u l d y o u d i s t i n g u i s h \nexperimentally between an alcohol and \na carboxylic acid?\n2. What are oxidising agents?\n4.5  SOAPS  AND  DETERGENTS\n \nThis activity demonstrates the effect of soap \nin cleaning. Most dirt is oily in nature and as \nyou know, oil does not dissolve in water. The \nmolecules of soap are sodium or potassium \nsalts of long-chain carboxylic"
+        }
+      ],
+      "summary_points": [
+        "Carbon is a versatile element that forms the basis for all living organisms and many of the things we use.",
+        "This large variety of compounds is formed by carbon because of its tetravalency and the property of catenation that it exhibits.",
+        "Covalent bonds are formed by the sharing of electrons between two atoms so that both can achieve a completely ﬁlled outermost shell.",
+        "Carbon forms covalent bonds with itself and other elements such as hydrogen, oxygen, sulphur, nitrogen and chlorine.",
+        "Carbon also forms compounds containing double and triple bonds between carbon atoms. These carbon chains may be in the form of straight chains, branched chains or rings.",
+        "The ability of carbon to form chains gives rise to a homologous series of compounds in which the same functional group is attached to carbon chains of different lengths.",
+        "The functional groups such as alcohols, aldehydes, ketones and carboxylic acids bestow characteristic properties to the carbon compounds that contain them.",
+        "Carbon and its compounds are some of our major sources of fuels.",
+        "Ethanol and ethanoic acid are carbon compounds of importance in our daily lives.",
+        "The action of soaps and detergents is based on the presence of both hydrophobic and hydrophilic groups in the molecule and this helps to emulsify the oily dirt and hence its removal."
+      ],
+      "total_exercises": 19,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "H o w w o u l d y o u d i s t i n g u i s h experimentally between an alcohol and a carboxylic acid?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "What are oxidising agents? 4.5  SOAPS  AND  DETERGENTS This activity demonstrates the effect of soap in cleaning. Most dirt is oily in nature and as you know, oil does not dissolve in water. The molecules of soap are sodium or potassium salts of long-chain carboxylic acids. The ionic- end of soap interacts with water while the carbon chain interacts with oil. The soap molecules, thus form structures called micelles (see Fig. 4.12) where one end of the molecules is towards the oil droplet while the ionic-end faces outside. This forms an emulsion in water. The soap micelle thus helps  in pulling out the dirt in water and we can wash our clothes clean (Fig. 4.13). Can you draw the structure of the micelle that would be formed if you dissolve soap in a hydrocarbon? Figure 4.12 Formation of micelles Take about 10 mL of water each in two test tubes. Add a drop of oil (cooking oil) to both the test tubes and label them as A and B. To test tube B, add a few drops of soap solution. Now shake both the test tubes vigourously for the same period of time. Can you see the oil and water layers separately in both the test tubes immediately after you stop shaking them? Leave the test tubes undisturbed for some time and observe. Does the oil layer separate out? In which test tube does this happen ﬁrst? ANDHRA PRADESH | PHYSICAL SCIENCE : Carbon and its Compounds 156 Micelles Soaps are molecules in which the two ends have diﬀering properties, one is hydrophilic, that is, it interacts with water, while the other end is hydrophobic, that is, it interacts with hydrocarbons. When soap is at the surface of water, the hydrophobic ‘tail’ of soap will not be soluble in water and the soap will align along the surface of water with the ionic end in water and the hydrocarbon ‘tail’ protruding out of water. Inside  water, these molecules have a unique orientation that keeps the hydrocarbon portion out of the water. Thus, clusters of molecules in which the hydrophobic tails are in the interior of the cluster and the ionic ends are on the surface of the cluster. This formation is called a micelle. Soap in the form of a micelle is able to clean, since the oily dirt will be collected in the centre of the micelle. The micelles stay in solution as a colloid and will not come together to precipitate because of ion-ion repulsion. Thus, the dirt suspended in the micelles is also easily rinsed away. The soap micelles are large enough to scatter light. Hence a soap solution appears cloudy. Figure 4.13 Effect of soap in cleaning ANDHRA PRADESH | PHYSICAL SCIENCE : Carbon and its Compounds 158 Take about 10 mL of distilled water (or rain water) and 10 mL of hard water (from a tubewell or hand-pump) in separatetesttubes. Add a couple of drops of soap solution toboth. Shake the test tubes vigorously for an equal period of time and observe the amountoffoamformed. In which test tube do you get more foam? In which test tube do you observe a whitecurdyprecipitate? Note for the teacher: If hard water is not available in your locality, prepare some h a r d w a t e r b y d i s s o l v i n g hydrogencarbonates / sulphates / chlorides of calcium or magnesium in water. Take two test tubes with about 10 mL of hardwaterineach. Add ﬁve drops of soap solution to one and ﬁve drops of detergent solution to theother. Shake both test tubes for the same period. Do both test tubes have the same amountoffoam? In which test tube is a curdy solid formed? Have you ever observed while bathing that foam is formed with d culty and an insoluble iffi substance (scum) remains after washing with water? This is caused by the reaction of soap with the calcium and magnesium salts, which cause the hardness of water. Hence you need to use a larger amount of soap. This problem is overcome by using another class of compounds called detergents as cleansing agents. Detergents are generally sodium salts of sulphonic acids or ammonium salts with chlorides or bromides ions, etc. Both have long hydrocarbon chain. The charged ends of these compounds do not form insoluble precipitates with the calcium and magnesium ions in hard water. Thus, they remain ctive in hard effe water. Detergents are usually used to make shampoos and products for cleaningclothes. ?"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Would you be able to check if water is hardby using a detergent?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "People use a variety of methods to wash clothes. Usually after adding the soap, they ‘beat’the clothes on a stone, or beat it with a paddle, scrub with a brush or the mixture is agitated in a washing machine. Why is agitation necessary to get cleanclothes? ANDHRA PRADESH | PHYSICAL SCIENCE : Carbon and its Compounds 160"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Ethane, with the molecular formula C H has 2 6 (a) 6 covalent bonds. (b) 7 covalent bonds. (c) 8 covalent bonds. (d) 9 covalent bonds."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Butanone is a four-carbon compound with the functional group (a) carboxylic acid. (b) aldehyde. (c) ketone. (d) alcohol."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "While cooking, if the bottom of the vessel is getting blackened on the outside, it means that (a) the food is not cooked completely. (b) the fuel is not burning completely. (c) the fuel is wet. (d) the fuel is burning completely. ■Carbon is a versatile element that forms the basis for all living organisms and many of the things we use. ■This large variety of compounds is formed by carbon because of its tetravalency and the property of catenation that it exhibits. ■Covalent bonds are formed by the sharing of electrons between two atoms so that both can achieve a completely ﬁlled outermost shell. ■Carbon forms covalent bonds with itself and other elements such as hydrogen, oxygen, sulphur, nitrogen and chlorine. ■Carbon also forms compounds containing double and triple bonds between carbon atoms. These carbon chains may be in the form of straight chains, branched chains or rings. ■The ability of carbon to form chains gives rise to a homologous series of compounds in which the same functional group is attached to carbon chains of different lengths. ■The functional groups such as alcohols, aldehydes, ketones and carboxylic acids bestow characteristic properties to the carbon compounds that contain them. ■Carbon and its compounds are some of our major sources of fuels. ■Ethanol and ethanoic acid are carbon compounds of importance in our daily lives. ■The action of soaps and detergents is based on the presence of both hydrophobic and hydrophilic groups in the molecule and this helps to emulsify the oily dirt and hence its removal. ANDHRA PRADESH | PHYSICAL SCIENCE : Carbon and its Compounds 162"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS7_appreciation_aesthetic",
+          "question_text": "Explain the nature of the covalent bond using the bond formation in CH Cl. 3"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Draw the electron dot structures for (a) ethanoic acid. (b) H S 2 (c) propanone. (d) F 2"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is an homologous series? Explain with an example."
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How can ethanol and ethanoic acid be differentiated on the basis of their physical and chemical properties?"
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why does micelle formation take place when soap is added to water? Will a micelle be formed in other solvents such as ethanol also?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "Why are carbon and its compounds used as fuels for most applications?"
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Explain the formation of scum when hard water is treated with soap."
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What change will you observe if you test soap with litmus paper (red and blue)?"
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "What is hydrogenation? What is its industrial application?"
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following hydrocarbons undergo addition reactions: C H , C H , C H , C H and CH . 2 6 3 8 3 6 2 2 4"
+        },
+        {
+          "question_no": 14,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Give a test that can be used to differentiate between saturated and unsaturated hydrocarbons."
+        },
+        {
+          "question_no": 15,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Explain the mechanism of the cleaning action of soaps. I  Use molecular model kits to make models of the compounds you have learnt in this Chapter. II     Take about 20 mL of castor oil/cotton seed oil/linseed oil/soyabean oil in a beaker. Add 30 mL of 20 % sodium hydroxide solution. Heat the mixture with continuous stirring for a few minutes till the mixture thickens. Add 5-10 g of common salt to this. Stir the mixture well and allow it to cool. You can cut out the soap in fancy shapes. You can also add perfume to the soap before it sets."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Light – Reflection and Refraction",
+      "title_te": "కాంతి - పరావర్తనం మరియు వక్రీభవనం",
+      "branch": "Physics",
+      "pages_scert": "176 - 227",
+      "learning_outcomes": [
+        "Laws of reflection; Characteristics of images by spherical mirrors (Concave and Convex)",
+        "New Cartesian Sign Convention for mirrors and lenses",
+        "Derivation and numerical application of Mirror formula and Magnification",
+        "Refraction of light, Snell's law, Absolute and Relative Refractive Index",
+        "Refraction through spherical lenses (Convex and Concave), Lens formula and Magnification",
+        "Power of a lens and Dioptre definition"
+      ],
+      "key_formulas_and_equations": [
+        "R = 2f \\quad (\\text{Radius of curvature and focal length})",
+        "\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u} \\quad (\\text{Mirror formula})",
+        "m = -\\frac{v}{u} = \\frac{h'}{h} \\quad (\\text{Mirror magnification})",
+        "n = \\frac{c}{v} \\quad (\\text{Absolute refractive index})",
+        "n_{21} = \\frac{v_1}{v_2} = \\frac{n_2}{n_1} = \\frac{\\sin i}{\\sin r} \\quad (\\text{Snell's Law})",
+        "\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u} \\quad (\\text{Lens formula})",
+        "m = \\frac{v}{u} = \\frac{h'}{h} \\quad (\\text{Lens magnification})",
+        "P = \\frac{1}{f(\\text{in meters})} \\quad (\\text{Power of lens in Dioptres } D), \\quad P_{\\text{total}} = P_1 + P_2 + \\dots"
+      ],
+      "total_activities": 4,
+      "activities": [
+        {
+          "activity_no": "9.2",
+          "aim": ", you have seen that",
+          "procedure_summary": "the sharp bright spot of light you got on the paper is, in fact, the image of the Sun. It was a tiny, real, inverted image. You got the approximate focal length of the concave mirror by measuring the distance",
+          "full_activity_text": ", you have seen that \nthe sharp bright spot of light you got on \nthe paper is, in fact, the image of the Sun. \nIt was a tiny, real, inverted image. You got \nthe approximate focal length of the \nconcave mirror by measuring the distance \nof the image from the mirror."
+        },
+        {
+          "activity_no": "9.2",
+          "aim": ".",
+          "procedure_summary": "The paper begins to burn producing smoke. It may even catch ﬁre after a while. Why does this happen? The light from the Sun constitutes parallel rays of light.  These rays were converged by the lens at the sharp bright",
+          "full_activity_text": ".\n \nThe paper begins to burn producing \nsmoke. It may even catch ﬁre after a while.  \nWhy does this happen? The light from the Sun \nconstitutes parallel rays of light.  These rays \nwere converged by the lens at the sharp bright \nspot formed on the paper.  In fact, the bright \nspot you got on the paper is a real image of the \nSun. The concentration of the sunlight at a point \ngenerated heat.  This caused the paper to burn.\n \nNow, we shall consider rays of light \nparallel to the principal axis of a lens.  What \nhappens when you pass such rays of light \nthrough a lens?  This is illustrated for a convex \nlens in Fig.9.12 (a) and for a concave lens in \nFig.9.12 (b).      \n \nObserve Fig.9.12 (a) carefully. Several \nrays of light parallel to the principal axis are \nfalling on a convex lens. These rays, after \nrefraction from the lens, are converging to a \npoint on the principal axis. This point on the \nprincipal axis is called the principal focus of the \nlens. Let us see now the action of a concave \nlens.     \n \nObserve Fig.9.12 (b) carefully. Several \nrays of light parallel to the principal axis are \nfalling on a concave lens. These rays, after \nrefraction from the lens, are appearing to"
+        },
+        {
+          "activity_no": "9.11",
+          "aim": ". In this Activity, the distance",
+          "procedure_summary": "between the position of the lens and the position of the image of the Sun gives the approximate focal length of the lens. 9.3.4 Image Formation by Lenses Lenses form images by refracting light. How do",
+          "full_activity_text": ". In this Activity, the distance \nbetween the position of the lens and the position \nof the image of the Sun gives the approximate \nfocal length of the lens. \n9.3.4 Image Formation by Lenses\nLenses form images by refracting light. How do \nlenses form images? What is their nature? Let \nus study this for a convex lens ﬁrst."
+        },
+        {
+          "activity_no": "9.11",
+          "aim": ".",
+          "procedure_summary": "",
+          "full_activity_text": "."
+        }
+      ],
+      "summary_points": [
+        "Do you get the image? Is it smaller or larger?",
+        "Move the spoon slowly away from your face. Observe the image. How does it change?",
+        "Reverse the spoon and repeat the Activity. How does the image look like now?",
+        "Compare the characteristics of the image on the two surfaces. of the sphere, is called a concave mirror. A spherical mirror whose reﬂecting surface is curved outwards, is called a convex mirror. The schematic representation of these mirrors is shown in Fig. 9.1. You may note in these diagrams that the back of the mirror is shaded. You may now understand that the surface of the spoon curved inwards can be approximated to a concave mirror and the surface of the spoon bulged outwards can be approximated to a convex mirror. Before we move further on spherical mirrors, we need to recognise and understand the meaning of a few terms. These terms are commonly used in discussions about spherical mirrors. The centre of the reﬂecting surface of a spherical mirror is a point called the pole. It lies on the surface of the mirror. The pole is usually represented by the letter P. Figure 9.1 Schematic representation of spherical mirrors; the shaded side is non-reﬂecting. (a) Concave mirror (b) Convex mirror (a) Concave mirror (b) Convex mirror",
+        "Hold a concave mirror in your hand and direct its reﬂecting surface towards the Sun.",
+        "Direct the light reﬂected by the mirror on to a sheet of paper held close to the mirror.",
+        "Move the sheet of paper back and forth gradually until you ﬁnd on the paper sheet a bright, sharp spot of light.",
+        "Hold the mirror and the paper in the same position for a few minutes. What do you observe? Why? (a) (b) Figure 9.2 (a) Concave mirror (b) Convex mirror",
+        "Mark a line on a Table with a chalk. Place the concave mirror on a stand. Place the stand over the line such that its pole lies over the line.",
+        "Draw with a chalk two more lines parallel to the previous line such that the distance between any two successive lines is equal to the focal length of the mirror. These lines will now correspond to the positions of the points P, F and C, respectively. Remember – For a spherical mirror of small aperture, the principal focus F lies mid-way between the pole P and the centre of curvature C.",
+        "Keep a bright object, say a burning candle, at a position far beyond C. Place a paper screen and move it in front of the mirror till you obtain a sharp bright image of the candle ﬂame on it.",
+        "Observe the image carefully. Note down its nature, position and relative size with respect to the object size.",
+        "Repeat the activity by placing the candle – (a) just beyond C, (b) at C, (c) between F and C, (d) at F, and (e) between P and F.",
+        "In one of the cases, you may not get the image on the screen. Identify the position of the object in such a case. Then, look for its virtual image in the mirror itself.",
+        "Note down and tabulate your observations."
+      ],
+      "total_exercises": 20,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Deﬁne 1 dioptre of power of a lens."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A convex lens forms a real and inverted image of a needle at a distance of 50 cm from it.  Where is the needle placed in front of the convex lens if the image is equal to the size of the object? Also, ﬁnd the power of the lens."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Find the power of a concave lens of focal length 2 m. ■Light seems to travel in straight lines. ■Mirrors and lenses form images of objects. Images can be either real or virtual, depending on the position of the object. ■The reﬂecting surfaces, of all types, obey the laws of reﬂection. The refracting surfaces obey the laws of refraction. ■New Cartesian Sign Conventions are followed for spherical mirrors and lenses. ■Mirror formula,                  , gives the relationship between the object-distance (u), image-distance (v), and focal length (f) of a spherical mirror. ■The focal length of a spherical mirror is equal to half its radius of curvature. ■The magniﬁcation produced by a spherical mirror is the ratio of the height of the image to the height of the object. ■A light ray travelling obliquely from a denser medium to a rarer medium bends away from the normal. A light ray bends towards the normal when it travels obliquely from a rarer to a denser medium. The simple additive property of the powers of lenses can be used to design lens systems to minimise certain defects in images produced by a single lens.  Such a lens system, consisting of several lenses, in contact, is commonly used in the design of lenses of camera, microscopes and telescopes. 1       1       1 v u f + = 212 ANDHRA PRADESH | PHYSICAL SCIENCE : Light – Reflection and Refraction ■ 8 -1 Light travels in vacuum with an enormous speed of 3×10 m s . The speed of light is different in different media. ■The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium. ■In case of a rectangular glass slab, the refraction takes place at both air-glass interface and glass-air interface. The emergent ray is parallel to the direction of incident ray. ■Lens formula, , gives the relationship between the object-distance (u), image-distance (v), and the focal length (f) of a spherical lens. ■Power of a lens is the reciprocal of its focal length. The SI unit of power of a lens is dioptre."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which one of the following materials cannot be used to make a lens? (a) Water (b) Glass (c) Plastic (d) Clay"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The image formed by a concave mirror is observed to be virtual, erect and larger than the object. Where should be the position of the object? (a) Between the principal focus and the centre of curvature (b) At the centre of curvature (c) Beyond the centre of curvature (d) Between the pole of the mirror and its principal focus."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Where should an object be placed in front of a convex lens to get a real image of the size of the object? (a) At the principal focus of the lens (b) At twice the focal length (c) At inﬁnity (d) Between the optical centre of the lens and its principal focus."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A spherical mirror and a thin spherical lens have each a focal length of –15 cm. The mirror and the lens are likely to be (a) both concave. (b) both convex. (c) the mirror is concave and the lens is convex. (d) the mirror is convex, but the lens is concave."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "No matter how far you stand from a mirror, your image appears erect. The mirror is likely to be (a) only plane. (b) only concave. (c) only convex. (d) either plane or convex. 1       1       1 v u f - = 214 ANDHRA PRADESH | PHYSICAL SCIENCE : Light – Reflection and Refraction"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following lenses would you prefer to use while reading small letters found in a dictionary? (a) A convex lens of focal length 50 cm. (b) A concave lens of focal length 50 cm. (c) A convex lens of focal length 5 cm. (d) A concave lens of focal length 5 cm."
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "We wish to obtain an erect image of an object, using a concave mirror of focal length 15 cm. What should be the range of distance of the object from the mirror? What is the nature of the image?  Is the image larger or smaller than the object?  Draw a ray diagram to show the image formation in this case."
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Name the type of mirror used in the following situations. (a) Headlights of a car. (b) Side/rear-view mirror of a vehicle. (c) Solar furnace. Support your answer with reason."
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "One-half of a convex lens is covered with a black paper.  Will this lens produce a complete image of the object?  Verify your answer experimentally.  Explain your observations."
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "An object 5 cm in length is held 25 cm away from a converging lens of focal length 10 cm.  Draw the ray diagram and ﬁnd the position, size and the nature of the image formed."
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "A concave lens of focal length 15 cm forms an image 10 cm from the lens.  How far is the object placed from the lens? Draw the ray diagram."
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "An object is placed at a distance of 10 cm from a convex mirror of focal length 15 cm. Find the position and nature of the image."
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The magniﬁcation produced by a plane mirror is +1. What does this mean?"
+        },
+        {
+          "question_no": 14,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "An object 5.0 cm in length is placed at a distance of 20 cm in front of a convex mirror of radius of curvature 30 cm.  Find the position of the image, its nature and size."
+        },
+        {
+          "question_no": 15,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "An object of size 7.0 cm is placed at 27 cm in front of a concave mirror of focal length 18 cm. At what distance from the mirror should a screen be placed, so that a sharp focussed image can be obtained? Find the size and the nature of the image."
+        },
+        {
+          "question_no": 16,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Find the focal length of a lens of power – 2.0 D. What type of lens is this?"
+        },
+        {
+          "question_no": 17,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "A doctor has prescribed a corrective lens of power +1.5 D.  Find the focal length of the lens.  Is the prescribed lens diverging or converging?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "The Human Eye and the Colourful World",
+      "title_te": "మానవుని కన్ను మరియు రంగుల ప్రపంచం",
+      "branch": "Physics",
+      "pages_scert": "228 - 249",
+      "learning_outcomes": [
+        "Human eye anatomy: Cornea, iris, pupil, crystalline lens, ciliary muscles, retina, power of accommodation",
+        "Near point (25 cm) and Far point (infinity) of the normal eye",
+        "Defects of vision: Myopia, Hypermetropia, Presbyopia with causes and lens corrections",
+        "Refraction through a glass prism, angle of deviation",
+        "Dispersion of white light (VIBGYOR), Newton's recombination experiment",
+        "Atmospheric refraction: Twinkling of stars, advance sunrise and delayed sunset",
+        "Scattering of light: Tyndall effect, blue color of the clear sky, reddish appearance of sun at sunrise/sunset"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Near point of normal eye } = 25\\text{ cm}, \\quad \\text{Far point } = \\infty",
+        "P = \\frac{1}{f} \\quad (\\text{Correction power for defects})",
+        "\\text{Rayleigh Scattering: } I \\propto \\frac{1}{\\lambda^4} \\quad (\\text{Shorter blue wavelengths scattered more strongly than red})",
+        "\\text{Refraction in Prism: } A + D = i + e"
+      ],
+      "total_activities": 0,
+      "activities": [],
+      "summary_points": [
+        "Fix a sheet of white paper on a drawing board using drawing pins.",
+        "Place a glass prism on it in such a way that it rests on its triangular base. Trace the outline of the prism using a pencil.",
+        "Draw a straight line PE inclined to one of the refracting surfaces, say AB, of the prism. An eye bank collects, evaluates and distributes the donated eyes. All eyes donated are evaluated using strict medical standards. Those donated eyes found unsuitable for transplantation are used for valuable research and medical education. The identities of both the donor and the recipient remain conﬁdential. One pair of eyes gives vision to up to FOUR CORNEAL BLIND PEOPLE. 10.3 REFRACTION OF LIGHT THROUGH A PRISM You have learnt how light gets refracted through a rectangular glass slab. For parallel refracting surfaces, as in a glass slab, the emergent ray is parallel to the incident ray. However, it is slightly displaced laterally. How would light get refracted through a transparent prism? Consider a triangular glass prism. It has two triangular bases and three rectangular lateral surfaces. These surfaces are inclined to each other. The angle between its two lateral faces is called the angle of the prism. Let us now do an activity to study the refraction of light through a triangular glass prism.",
+        "Fix two pins, say at points P and Q, on t h e l i n e P E a s s h o w n i n Fig. 10.4.",
+        "Look for the images of the pins, ﬁxed at P and Q, through the other face AC.",
+        "Fix two more pins, at points R and S, such that the pins at R and S and the images of the pins at P and Q lie on the same straight line.",
+        "Remove the pins and the glass prism.",
+        "The line PE meets the boundary of the prism at point (see Fig. 10.4). Similarly, join and produce the points R and S. Let these lines meet the boundary of the prism at E and F, respectively. Join E and F.",
+        "Draw perpendiculars to the refracting surfaces AB and AC of the prism at points E and F, respectively.",
+        "Mark the angle of incidence (Ði), the angle of refraction (Ðr) and the angle of emergence (Ðe) as shown in Fig. 10.4. Here PE is the incident ray, EF is the refracted ray and FS is the emergent ray. You may note that a ray of light is entering from air to glass at the ﬁrst surface AB. The light ray on refraction has bent towards the normal. At the second surface AC, the light ray has entered from glass to air. Hence it has bent away from normal. Compare the angle of incidence and the angle of refraction at each refracting surface of the prism. Is this similar to the kind of bending that occurs in a glass slab? The peculiar shape of the prism makes the emergent ray bend at an angle to the direction of the incident ray. This angle is called the angle of deviation. In this case ÐD is the angle of deviation. Mark the angle of deviation in the above activity and measure it. 10.4 DISPERSION OF WHITE LIGHT BY A GLASS PRISM You must have seen and appreciated the spectacular colours in a rainbow. How could the white light of the Sun give us various colours of the rainbow? Before we take up this question, we shall ﬁrst go back to the refraction of light through a prism. The inclined refracting surfaces of a glass prism show exciting phenomenon. Let us ﬁnd it out through an activity.",
+        "Allow sunlight to fall on the narrow slit. This gives a narrow beam of white light.",
+        "Now, take a glass prism and allow the light from the slit to fall on one of its faces as shown in Fig. 10.5.",
+        "Turn the prism slowly until the light that comes out of it appears on a nearby screen.",
+        "What do you observe? You will ﬁnd a beautiful band of colours. Why does this happen? Figure 10.5 Dispersion of white light by the glass prism violet the most. Thus the rays of each colour emerge along different paths and thus become distinct. It is the band of distinct colours that we see in a spectrum. Isaac Newton was the ﬁrst to use a glass prism to obtain the spectrum of sunlight. He tried to split the colours of the spectrum of white light further by using another similar prism. However, he could not get any more colours. He then placed a second identical prism in an inverted position with respect to the ﬁrst prism, as shown in Fig. 10.6. This allowed all the colours of the spectrum to pass through the second prism. He found a beam of white light emerging from the other side of the second prism. This observation gave Newton the idea that the sunlight is made up of seven colours. Any light that gives a spectrum similar to that of sunlight is often referred to as white light. Figure 10.6 Recombination of the spectrum of white light Figure 10.7 Rainbow in the sky",
+        "The ability of the eye to focus on both near and distant objects, by adjusting its focal length, is called the accommodation of the eye."
+      ],
+      "total_exercises": 12,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The human eye can focus on objects at different distances by adjusting the focal length of the eye lens. This is due to (a)  presbyopia. (b)  accommodation. (c)  near-sightedness. (d)  far-sightedness."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The human eye forms the image of an object at  its (a)  cornea. (b)  iris. (c)  pupil. (d)  retina."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The least distance of distinct vision for a young adult with normal vision is about (a)  25 m. (b)  2.5 cm. (c)  25 cm. (d)  2.5 m. 236 ANDHRA PRADESH | PHYSICAL SCIENCE  : The Human Eye and the Colourful World"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The change in focal length of an eye lens is caused by the action of the (a)pupil. (b)  retina. (c)  ciliary muscles. (d)  iris."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A person needs a lens of power –5.5 dioptres for correcting his distant vision. For correcting his near vision he needs a lens of power +1.5 dioptre. What is the focal length of the lens required for correcting (i) distant vision, and (ii) near vision?"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS7_appreciation_aesthetic",
+          "question_text": "The far point of a myopic person is 80 cm in front of the eye. What is the nature and power of the lens required to correct the problem?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Make a diagram to show how hypermetropia is corrected. The near point of a hypermetropic eye is 1 m. What is the power of the lens required to correct this defect? Assume that the near point of the normal eye is 25 cm."
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why is a normal eye not able to see clearly the objects placed closer than 25 cm?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What happens to the image distance in the eye when we increase the distance of an object from the eye?"
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why do stars twinkle?"
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Explain why the planets do not twinkle."
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why does the sky appear dark instead of blue to an astronaut?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Electricity",
+      "title_te": "విద్యుత్",
+      "branch": "Physics",
+      "pages_scert": "250 - 291",
+      "learning_outcomes": [
+        "Electric current ($I = Q/t$), potential difference ($V = W/Q$), circuit components",
+        "Ohm's Law: $V = IR$; factors affecting resistance ($R = \\rho l / A$)",
+        "Series and parallel combination of resistors: equivalent resistance derivations",
+        "Joule's law of heating ($H = I^2Rt$); practical applications (fuse, heating elements)",
+        "Electric power ($P = VI = I^2R = V^2/R$), commercial unit of electrical energy ($1\\text{ kWh} = 3.6 \\times 10^6\\text{ J}$)"
+      ],
+      "key_formulas_and_equations": [
+        "I = \\frac{Q}{t} \\quad (1\\text{ A} = 1\\text{ C/s})",
+        "V = \\frac{W}{Q} \\quad (1\\text{ V} = 1\\text{ J/C})",
+        "V = IR \\quad (\\text{Ohm's Law})",
+        "R = \\rho \\frac{l}{A} \\quad (\\rho = \\text{resistivity in } \\Omega\\cdot\\text{m})",
+        "R_s = R_1 + R_2 + R_3 + \\dots \\quad (\\text{Series combination})",
+        "\\frac{1}{R_p} = \\frac{1}{R_1} + \\frac{1}{R_2} + \\frac{1}{R_3} + \\dots \\quad (\\text{Parallel combination})",
+        "H = VIt = I^2Rt = \\frac{V^2t}{R} \\quad (\\text{Joule's Law of Heating})",
+        "P = VI = I^2R = \\frac{V^2}{R} \\quad (\\text{Electric Power in Watts})",
+        "1\\text{ kWh} = 1\\text{ Unit} = 3.6 \\times 10^6\\text{ Joules}"
+      ],
+      "total_activities": 1,
+      "activities": [
+        {
+          "activity_no": "11.4",
+          "aim": ", insert a voltmeter",
+          "procedure_summary": "across the ends X and Y of the series combination of three resistors, as shown in Fig. 11.6.",
+          "full_activity_text": ", insert a voltmeter \nacross the ends X and Y of the series \ncombination of three resistors, as \nshown in Fig. 11.6."
+        }
+      ],
+      "summary_points": [
+        "Set up the circuit by connecting four dry cells of 1.5 V each in series with the ammeter leaving a gap XY in the circuit, as shown in Fig. 11.4. In this Activity, you will ﬁnd that approximately the same value for V/I is obtained in each case. Thus the V–I graph is a straight line that passes through the origin of the graph, as shown in Fig. 11.3. Thus, V/I is a constant ratio. In 1827, a German physicist Georg Simon Ohm (1787–1854) found out the relationship between the current I, ﬂowing in a metallic wire and the potential difference across its terminals. The potential difference, V, across the ends of a given metallic wire in an electric circuit is directly proportional to the current ﬂowing through it, provided its temperature remains the same. This is called Ohm’s law. In other words – V α I (11.4) or V/I = constant = R or V = IR (11.5) 1 volt 1 ampere Figure 11.3 V–I graph for a nichrome wire. A straight line plot shows that as the current through a wire increases, the potential difference across the wire increases linearly – this is Ohm’s law.",
+        "Complete an electric circuit consisting of a cell, an ammeter, a nichrome wire of length l [say, marked (1)] and a plug key, as shown in Fig. 11.5.",
+        "Complete the circuit by connecting the nichrome wire in the gap XY. Plug the key. Note down the ammeter reading. Take out the key from the plug. [Note: Always take out the key from the plug after measuring the current through the circuit.]",
+        "Replace the nichrome wire with the torch bulb in the circuit and ﬁnd the current through it by measuring the reading of the ammeter.",
+        "Now repeat the above step with the 10 W bulb in the gap XY.",
+        "Are the ammeter readings diﬀerent for different components connected in the gap XY? What do the above observations indicate?",
+        "You may repeat this Activity by keeping any material component in the gap. Observe the ammeter readings in each case. Analyse the observations. Figure 11.4 Figure 11.5 Electric circuit to study the factors on which the resistance of conducting wires depends",
+        "Now, plug the key. Note the current in the ammeter.",
+        "Replace the nichrome wire by another nichrome wire of same thickness but twice the length, that is 2l [marked (2) in the Fig. 11.5].",
+        "Note the ammeter reading.",
+        "Now replace the wire by a thicker nichrome wire, of the same length l [marked (3)]. A thicker wire has a larger cross-sectional area. Again note down the current through the circuit.",
+        "Instead of taking a nichrome wire, connect a copper wire [marked (4) in Fig. 11.5] in the circuit. Let the wire be of the same length and same area of cross-section as that of the ﬁrst nichrome wire [marked (1)]. Note the value of the current.",
+        "Notice the difference in the current in all cases.",
+        "Does the current depend on the length of the conductor?",
+        "Does the current depend on the area of cross-section of the wire used? It is observed that the ammeter reading decreases to one-half when the length of the wire is doubled. The ammeter reading is increased when a thicker wire of the same material and of the same length is used in the circuit. A change in ammeter reading is observed when a wire of diﬀerent material of the same length and the same area of cross- section is used. On applying Ohm’s law [Eqs. (11.5) – (11.7)], we observe that the resistance of the conductor depends (i) on its length, (ii) on its area of cross-section, and (iii) on the nature of its material. Precise measurements have shown that resistance of a uniform metallic conductor is directly proportional to its length (l) and inversely proportional to the area of cross-section (A). That is, R α l (11.8) and R α 1/A (11.9) Combining Eqs. (11.8) and (11.9) we get Rα or, R = ρ (11.10) where ρ(rho) is a constant of proportionality and is called the electrical resistivity of the material of the conductor. The SI unit of resistivity is Ω m. It is a characteristic property of the material. The metals and alloys have very –8 –6 low resistivity in the range of 10 Ω m to 10 Ω m. They are good conductors of electricity. Insulators like rubber and glass have resistivity 12 17 of the order of 10 to 10 Ω m. Both the resistance and resistivity of a material vary with temperature. Table 11.2 reveals that the resistivity of an alloy is generally higher than that of its constituent metals. Alloys do not oxidise (burn) readily at high temperatures. For this reason, they are commonly used in electrical heating devices, like electric iron, toasters etc. Tungsten is used almost exclusively for ﬁlaments of electric bulbs, whereas copper and aluminium are generally used for electrical transmission lines. l A l A"
+      ],
+      "total_exercises": 26,
+      "chapter_end_exercises": [
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the advantages of connecting electrical devices in parallel with the battery instead of connecting them in series?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How can three resistors of resistances 2 Ω, 3 Ω, and 6 Ω be connected to give a total resistance of (a) 4 Ω, (b) 1 Ω?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "What is (a) the highest, (b) the lowest total resistance that can be secured by combinations of four coils of resistance 4 Ω, 8 Ω, 12 Ω, 24 Ω? 11.7 HEATING EFFECT OF ELECTRIC CURRENT We know that a battery or a cell is a source of electrical energy. The chemical reaction within the cell generates the potential difference between its two terminals that sets the electrons in motion to ﬂow the current through a resistor or a system of resistors connected to the battery. We have also seen, in Section 11.2, that to maintain the current, the source has to keep expending its energy. Where does this energy go? A part of the source energy in maintaining the current may be consumed into useful work (like in rotating the blades of an electric fan). Rest of the source energy may be expended in heat to raise the temperature of gadget. We often observe this in our everyday life. For example, an electric fan becomes warm if used continuously for longer time etc. On the other hand, if the electric circuit is purely resistive, that is, a conﬁguration of resistors only connected to a battery; the source energy continually gets dissipated entirely in the form of heat. This is known as the heating eﬀect of electric current. This effect is utilised in devices such as electric heater, electric iron etc. Consider a current I ﬂowing through a resistor of resistance R. Let the potential difference across it be V (Fig. 11.13). Let t be the time during which a charge Q ﬂows across. The work done in moving the charge Q through a potential difference V is VQ. Therefore, the source must supply energy equal to VQ in time t. Hence the power input to the circuit by the source is (11.19) Or the energy supplied to the circuit by the source in time t is P × t, that is, VIt. What happens to this energy expended by the source? This energy gets dissipated in the resistor as heat. Thus for a steady current I, the amount of heat H produced in time t is H = VIt (11.20) Applying Ohm’s law [Eq. (11.5)], we get 2 H = I Rt (11.21) This is known as Joule’s law of heating. The law implies that heat produced in a resistor is (i) directly proportional to the square of current for a given resistance, (ii) directly proportional to resistance for a given current, and (iii) directly proportional to the time for which the current ﬂows through the resistor. In practical situations, when an electric appliance is connected to a known voltage source, Eq. (11.21) is used after calculating the current through it, using the relation I = V/R. P V VI = Q t = Figure 11.13 A steady current in a purely resistive electric circuit 270 ANDHRA PRADESH | PHYSICAL SCIENCE  : Electricity Example 11.10 An electric iron consumes energy at a rate of 840 W when heating is at the maximum rate and 360 W when the heating is at the minimum. The voltage is 220 V. What are the current and the resistance in each case? Solution From Eq. (11.19), we know that the power input is  P = V I Thus the current  I = P/V (a)   When heating is at the maximum rate, I = 840 W/220 V = 3.82 A; and the resistance of the electric iron is R = V/I = 220 V/3.82 A = 57.60 Ω. (b) When heating is at the minimum rate, I = 360 W/220 V = 1.64 A; and the resistance of the electric iron is R = V/I = 220 V/1.64 A = 134.15Ω. Example 11.11 100 J of heat is produced each second in a 4 Ω resistance. Find the potential difference across the resistor. Solution H = 100 J, R = 4 Ω, t = 1 s, V = ? From Eq. (11.21) we have the current through the resistor as I  = √(H/Rt) = √[100 J/(4 Ω ×1 s)] = 5 A Thus the potential difference across the resistor, V [from Eq. (11.5)] is V = IR = 5 A × 4 Ω = 20 V. 11.7.1 Practical Applications of Heating Effect of Electric Current The generation of heat in a conductor is an inevitable consequence of electric current. In many cases, it is undesirable as it converts useful electrical energy into heat. In electric circuits, the unavoidable heating can increase the temperature of the components and alter their properties. However, heating effect of electric current has many useful applications. The electric laundry iron, electric toaster, electric oven, electric kettle and electric heater are some of the familiar devices based on Joule’s heating. The electric heating is also used to produce light, as in an electric bulb. Here, the ﬁlament must retain as much of the heat generated as is possible, so that it gets very hot and emits light. It must not melt at such high temperature. A strong metal with high melting point such as tungsten (melting point 3380°C) is used for making bulb ﬁlaments. The ﬁlament should be thermally isolated as much as possible, using insulating support, etc. The bulbs are usually ?"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why does the cord of an electric heater not glow while the heating element does?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Compute the heat generated while transferring 96000 coulomb of charge in one hour through a potential difference of 50 V."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "An electric iron of resistance 20 Ω takes a current of 5 A. Calculate the heat developed in 30 s. 272 ANDHRA PRADESH | PHYSICAL SCIENCE  : Electricity ﬁlled with chemically inactive nitrogen and argon gases to prolong the life of ﬁlament. Most of the power consumed by the ﬁlament appears as heat, but a small part of it is in the form of light radiated. Another common application of Joule’s heating is the fuse used in electric circuits. It protects circuits and appliances by stopping the ﬂow of any unduly high electric current. The fuse is placed in series with the device. It consists of a piece of wire made of a metal or an alloy of appropriate melting point, for example aluminium, copper, iron, lead etc. If a current larger than the speciﬁed value ﬂows through the circuit, the temperature of the fuse wire increases. This melts the fuse wire and breaks the circuit. The fuse wire is usually encased in a cartridge of porcelain or similar material with metal ends. The fuses used for domestic purposes are rated as 1 A, 2 A, 3 A, 5 A, 10 A, etc. For an electric iron which consumes 1 kW electric power when operated at 220 V, a current of (1000/220) A, that is, 4.54 A will ﬂow in the circuit. In this case, a 5 A fuse must be used. 11.8 ELECTRIC POWER You have studied in your earlier Class that the rate of doing work is power. This is also the rate of consumption of energy. Equation (11.21) gives the rate at which electric energy is dissipated or consumed in an electric circuit. This is also termed as electric power. The power P is given by P  =  VI Or 2 2 P  =  I R = V /R (11.22) The SI unit of electric power is watt (W). It is the power consumed by a device that carries 1 A of current when operated at a potential difference of 1 V. Thus, 1 W  =  1 volt × 1 ampere = 1 V A      (11.23) The unit ‘watt’ is very small. Therefore, in actual practice we use a much larger unit called ‘kilowatt’. It is equal to 1000 watts. Since electrical energy is the product of power and time, the unit of electric energy is, therefore, watt hour (W h). One watt hour is the energy consumed when 1 watt of power is used for 1 hour. The commercial unit of electric energy is kilowatt hour (kW h), commonly known as ‘unit’. 1 kW h = 1000 watt × 3600 second 6 = 3.6 × 10 watt second 6 = 3.6 × 10 joule (J) Example 11.12 An electric bulb is connected to a 220 V generator. The current is 0.50 A. What is the power of the bulb? Solution P = VI = 220 V× 0.50 A = 110 J/s = 110 W. Example 11.13 An electric refrigerator rated 400 W operates 8 hour/day. What is the cost of the energy to operate it for 30 days at Rs 3.00 per kW h? Many people think that electrons are consumed in an electric circuit. This is wrong! We pay the electricity board or electric company to provide energy to move electrons through the electric gadgets like electric bulb, fan and engines. We pay for the energy that we use. 274 ANDHRA PRADESH | PHYSICAL SCIENCE  : Electricity ? Solution The total energy consumed by the refrigerator in 30 days would be 400 W × 8.0 hour/day × 30 days = 96000 W h = 96 kW h Thus the cost of energy to operate the refrigerator for 30 days is 96 kW h ×  Rs 3.00 per kW h = Rs 288.00"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What determines the rate at which energy is delivered by a current?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "An electric motor takes 5 A from a 220 V line. Determine the power of the motor and the energy consumed in 2 h. ■ A stream of electrons moving through a conductor constitutes an electric current. Conventionally, the direction of current is taken opposite to the direction of ﬂow of electrons. ■ The SI unit of electric current is ampere. ■ To set the electrons in motion in an electric circuit, we use a cell or a battery. A cell generates a potential difference across its terminals. It is measured in volts (V). ■ Resistance is a property that resists the ﬂow of electrons in a conductor. It controls the magnitude of the current. The SI unit of resistance is ohm (Ω). ■ Ohm’s law: The potential difference across the ends of a resistor is directly proportional to the current through it, provided its temperature remains the same. ■ The resistance of a conductor depends directly on its length, inversely on its area of cross-section, and also on the material of the conductor. ■ The equivalent resistance of several resistors in series is equal to the sum of their individual resistances. ■ A set of resistors connected in parallel has an equivalent resistance R given by p ■ The electrical energy dissipated in a resistor is given by  W = V × I × t ■ The unit of power is watt (W). One watt of power is consumed when 1 A of current ﬂows at a potential difference of 1 V. ■ The commercial unit of electrical energy is kilowatt hour (kWh). 6 1 kW h = 3,600,000 J = 3.6 × 10 J. 1 2 3 1       1       1       1 ... p R R R R = + + + 276 ANDHRA PRADESH | PHYSICAL SCIENCE  : Electricity"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "A piece of wire of resistance R is cut into ﬁve equal parts. These parts are then I connected in parallel. If the equivalent resistance of this combination is R, then the I ratio R/R is – (a)1/25 (b) 1/5 (c) 5 (d) 25"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following terms does not represent electrical power in a circuit? 2 2 2 (a)I R (b) IR (c) VI (d) V /R"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "An electric bulb is rated 220 V and 100 W. When it is operated on 110 V, the power consumed will be – (a)100 W (b) 75 W (c) 50 W (d) 25 W"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Two conducting wires of the same material and of equal lengths and equal diameters are ﬁrst connected in series and then parallel in a circuit across the same potential diﬀerence. The ratio of heat produced in series and parallel combinations would be – (a)1:2 (b) 2:1 (c) 1:4 (d) 4:1"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How is a voltmeter connected in the circuit to measure the potential difference between two points? –8"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A copper wire has diameter 0.5 mm and resistivity of 1.6 × 10 Ω m. What will be the length of this wire to make its resistance 10 Ω? How much does the resistance change if the diameter is doubled?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "The values of current I ﬂowing in a given resistor for the corresponding values of potential diﬀerence V across the resistor are given below – I (amperes) 0.5 1.0 2.0 3.0 4.0 V (volts) 1.6 3.4 6.7 10.2 13.2 Plot a graph between V and I and calculate the resistance of that resistor."
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "When a 12 V battery is connected across an unknown resistor, there is a current of 2.5 mA in the circuit. Find the value of the resistance of the resistor."
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A battery of 9 V is connected in series with resistors of 0.2 Ω, 0.3 Ω, 0.4 Ω , 0.5 Ωand 12 Ω, respectively. How much current would ﬂow through the 12 Ω resistor?"
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How many 176 Ω resistors (in parallel) are required to carry 5 A on a 220 V line?"
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Show how you would connect three resistors, each of resistance 6 Ω, so that the combination has a resistance of (i) 9 Ω, (ii) 4 Ω. 278 ANDHRA PRADESH | PHYSICAL SCIENCE  : Electricity"
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Several electric bulbs designed to be used on a 220 V electric supply line, are rated 10 W. How many lamps can be connected in parallel with each other across the two wires of 220 V line if the maximum allowable current is 5 A?"
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A hot plate of an electric oven connected to a 220 V line has two resistance coils A and B, each of 24 Ω resistance, which may be used separately, in series, or in parallel. What are the currents in the three cases?"
+        },
+        {
+          "question_no": 14,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Compare the power used in the 2 Ω resistor in each of the following circuits: (i) a 6 V battery in series with 1 Ω and 2 Ω resistors, and (ii) a 4 V battery in parallel with 12 Ω and 2 Ω resistors."
+        },
+        {
+          "question_no": 15,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Two lamps, one rated 100 W at 220 V, and the other 60 W at 220 V, are connected in parallel to electric mains supply. What current is drawn from the line if the supply voltage is 220 V?"
+        },
+        {
+          "question_no": 16,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which uses more energy, a 250 W  TV set in 1 hr, or a 1200 W toaster in 10 minutes?"
+        },
+        {
+          "question_no": 17,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "An electric heater of resistance 8 Ω draws 15 A from the service mains 2 hours. Calculate the rate at which heat is developed in the heater."
+        },
+        {
+          "question_no": 18,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Explain the following. (a) Why is the tungsten used almost exclusively for ﬁlament of electric lamps? (b) Why are the conductors of electric heating devices, such as bread-toasters and electric irons, made of an alloy rather than a pure metal? (c) Why is the series arrangement not used for domestic circuits? (d) How does the resistance of a wire vary with its area of cross-section? (e) Why are copper and aluminium wires usually employed for electricity transmission?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Magnetic Effects of Electric Current",
+      "title_te": "విద్యుత్ ప్రవాహం యొక్క అయస్కాంత ఫలితాలు",
+      "branch": "Physics",
+      "pages_scert": "292 - 322",
+      "learning_outcomes": [
+        "Magnetic field lines and their properties (closed curves, non-intersecting)",
+        "Right-Hand Thumb Rule for magnetic field around a straight conductor and circular loop",
+        "Solenoid: magnetic field pattern similar to a bar magnet, electromagnet construction",
+        "Force on a current-carrying conductor in a magnetic field; Fleming's Left-Hand Rule (Electric Motor)",
+        "Electromagnetic Induction; Fleming's Right-Hand Rule (Electric Generator)",
+        "Domestic electrical circuits: Live, neutral, earth wires, grounding safety, short circuit, overloading"
+      ],
+      "key_formulas_and_equations": [
+        "F = B I l \\sin\\theta \\quad (\\text{Force maximum when } \\theta = 90^\\circ)",
+        "\\text{Fleming's Left-Hand Rule: Thumb } = \\text{Force/Motion}, \\text{ Index } = \\text{Field}, \\text{ Middle } = \\text{Current}",
+        "\\text{Fleming's Right-Hand Rule: Thumb } = \\text{Motion}, \\text{ Index } = \\text{Field}, \\text{ Middle } = \\text{Induced Current}",
+        "\\text{Domestic AC supply in India: } 220\\text{ V}, \\quad 50\\text{ Hz}"
+      ],
+      "total_activities": 3,
+      "activities": [
+        {
+          "activity_no": "12.1",
+          "aim": ", we have seen that an electric",
+          "procedure_summary": "current through a metallic conductor produces a magnetic ﬁeld around it. In order to ﬁnd the direction of the ﬁeld produced let us repeat the activity in the following way – (a)",
+          "full_activity_text": ", we have seen that an electric \ncurrent through a metallic conductor produces \na magnetic ﬁeld around it. In order to ﬁnd the \ndirection of the ﬁeld produced let us repeat the \nactivity in the following way –\n(a) \n(b) \nFigure 12.4\nField lines around a bar magnet\n\n\n288\nANDHRA PRADESH | PHYSICAL SCIENCE  Magnetic Effects of Electric Current\n:"
+        },
+        {
+          "activity_no": "12.7",
+          "aim": ", we considered the",
+          "procedure_summary": "direction of the current and that of the magnetic ﬁeld perpendicular to each other and found that the force is perpendicular to both of them. The three directions can be illustrated through a simple rule, called Fleming’s left-hand rule.",
+          "full_activity_text": ", we considered the \ndirection of the current and that of the magnetic \nﬁeld perpendicular to each other and found that \nthe force is perpendicular to both of them. The \nthree directions can be illustrated through a \nsimple rule, called Fleming’s left-hand rule. \nAccording to this rule, stretch the thumb, \nforeﬁnger and middle ﬁnger of your left hand \nsuch that they are mutually perpendicular (Fig. \n12.13). If the ﬁrst ﬁnger points in the direction \nof magnetic ﬁeld and the second ﬁnger in the \ndirection of current, then the thumb will point \nin the direction of motion or the force acting on \nthe conductor.\n \nDevices that use current-carrying \nconductors and magnetic ﬁelds include electric \nmotor, electric generator, loudspeakers, \nmicrophones and measuring instruments.\nExample 12.2\nAn electron enters a magnetic ﬁeld at right \nangles to it, as shown in Fig. 12.14. The \ndirection of force acting on the electron will be\nFigure 12.13\nFleming’s left-hand rule\n(a) to the right. \n(b) to the left.\n(c) out of the page. \n(d) into the page. \n \nSolution\nAnswer is option (d). The direction of force is \nperpendicular to the direction of magnetic ﬁeld \nand current as given by Fleming’s left hand"
+        },
+        {
+          "activity_no": "12.7",
+          "aim": ", how do we think the",
+          "procedure_summary": "displacement of rod AB will be affected if (i) current in rod AB is increased; (ii) a stronger horse-shoe magnet is used; and (iii) length of the rod AB is increased?",
+          "full_activity_text": ", how do we think the \ndisplacement of rod AB will be \naffected if (i) current in rod AB is \nincreased; (ii) a stronger horse-shoe \nmagnet is used; and (iii) length of the \nrod AB is increased?\n3. A positively-charged particle (alpha-\nparticle) projected towards west is \ndeﬂected towards north by a magnetic \nﬁeld. The direction of magnetic ﬁeld is\n \n(a) towards south (b) towards east \n \n(c) downward  \n(d) upward ?\n\n\n300\nANDHRA PRADESH | PHYSICAL SCIENCE  Magnetic Effects of Electric Current\n:\n \nMagnetism in medicine\nAn electric current always produces a \nmagnetic ﬁeld. Even weak ion currents \nthat travel along the nerve cells in our \nbody produce magnetic ﬁelds. When we \ntouch something, our nerves carry an \nelectric impulse to the muscles we need to \nuse. This impulse produces a temporary \nmagnetic ﬁeld. These ﬁelds are very weak \nand are about one-billionth of the earth’s \nmagnetic ﬁeld. Two main organs in the \nhuman body where the magnetic ﬁeld \nproduced is signiﬁcant, are the heart and \nthe brain. The magnetic ﬁeld inside the \nbody forms the basis of obtaining the \nimages of diﬀerent body parts. This is \ndone using a technique called Magnetic \nResonance Imaging (MRI). Analysis "
+        }
+      ],
+      "summary_points": [
+        "Horizontally place a small compass near to this copper wire. See the position of its needle.",
+        "Pass the current through the circuit by inserting the key into the plug.",
+        "Observe the change in the position of the compass needle. Figure 12.1 Compass needle is deﬂected on passing an electric current through a metallic conductor Long straight conductor Resistor electricity and magnetism are linked to each other. Then, what about the reverse possibility of an electric effect of moving magnets? In this Chapter we will study magnetic ﬁelds and such electromagnetic effects. We shall also study about electromagnets which involve the magnetic effect of electric current. 12.1 MAGNETIC FIELD AND FIELD LINES We are familiar with the fact that a compass needle gets deﬂected when brought near a bar magnet. A compass needle is, in fact, a small bar magnet. The ends of the compass needle point approximately towards north and south directions. The end pointing towards north is called north seeking or north pole. The other end that points towards south is called south seeking or south pole. Through various activities we have observed that like poles repel, while unlike poles of magnets attract each other. Hans Christian Oersted, o n e o f t h e l e a d i n g scientists of the 19th century, played a crucial role in understanding electromagnetism. In 1820 he accidentally discovered that a compass needle got deﬂected when an electric current passed through a metallic wire placed nearby. Through this observation Oersted showed that electricity and magnetism were related phenomena. His research later created technologies such as the radio, television and ﬁber optics. The unit of magnetic ﬁeld strength is named the oersted in his honor.",
+        "Fix a sheet of white paper on a drawing board using some adhesive material.",
+        "Place a bar magnet in the centre of it.",
+        "Sprinkle some iron ﬁlings uniformly around the bar magnet (Fig. 12.2). A salt-sprinkler may be used for this purpose.",
+        "Now tap the board gently.",
+        "What do you observe? ? 1. Why does a compass needle get deﬂected when brought near a bar magnet? Figure 12.2 Iron ﬁlings near the bar magnet align themselves along the ﬁeld lines. magnet, in which the force of the magnet can be detected, is said to have a magnetic ﬁeld. The lines along which the iron ﬁlings align themselves represent magnetic ﬁeld lines. Are there other ways of obtaining magnetic ﬁeld lines around a bar magnet? Yes, you can yourself draw the ﬁeld lines of a bar magnet.",
+        "Place the magnet on a sheet of white paper ﬁxed on a drawing board, using some adhesive material.",
+        "Mark the boundary of the magnet.",
+        "Place the compass near the north pole of the magnet. How does it behave? The south pole of the needle points towards the north pole of the magnet. The north pole of the compass is directed away from the north pole of the magnet.",
+        "Mark the position of two ends of the needle.",
+        "Now move the needle to a new position such that its south pole occupies the position previously occupied by its north pole.",
+        "In this way, proceed step by step till you reach the south pole of the magnet as shown in Fig. 12.3. Figure 12.3 Drawing a magnetic ﬁeld line with the help of a compass needle",
+        "Join the points marked on the paper by a smooth curve. This curve represents a ﬁeld line."
+      ],
+      "total_exercises": 12,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Name two safety measures commonly used in electric circuits and appliances."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "An electric oven of 2 kW power rating is operated in a domestic electric circuit (220 V) that has a current rating of 5 A. What result do you expect? Explain."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "What precaution should be taken to avoid the overloading of domestic electric circuits? ■A compass needle is a small magnet. Its one end, which points towards north, is called a north pole, and the other end, which points towards south, is called a south pole. ■A magnetic ﬁeld exists in the region surrounding a magnet, in which the force of the magnet can be detected. ■Field lines are used to represent a magnetic ﬁeld. A ﬁeld line is the path along which a hypothetical free north pole would tend to move. The direction of the magnetic ﬁeld at a point is given by the direction that a north pole placed at that point would take. Field lines are shown closer together where the magnetic ﬁeld is greater. ■A metallic wire carrying an electric current has associated with it a magnetic ﬁeld. The ﬁeld lines about the wire consist of a series of concentric circles whose direction is given by the right-hand rule. ■The pattern of the magnetic ﬁeld around a conductor due to an electric current ﬂowing through it depends on the shape of the conductor. The magnetic ﬁeld of a solenoid carrying a current is similar to that of a bar magnet. ■An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire. 304 ANDHRA PRADESH | PHYSICAL SCIENCE  Magnetic Effects of Electric Current : ■A current-carrying conductor when placed in a magnetic ﬁeld experiences a force. If the direction of the ﬁeld and that of the current are mutually perpendicular to each other, then the force acting on the conductor will be perpendicular to both and will be given by Fleming’s left-hand rule. ■In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. One of the wires in this supply is with red insulation, called live wire. The other one is of black insulation, which is a neutral wire. The potential difference between the two is 220 V. The third is the earth wire that has green insulation and this is connected to a metallic body deep inside earth. It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user. ■Fuse is the most important safety device, used for protecting the circuits due to short- circuiting or overloading of the circuits."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following correctly describes the magnetic ﬁeld near a long straight wire? (a) The ﬁeld consists of straight lines perpendicular to the wire. (b)  The ﬁeld consists of straight lines parallel to the wire. (c) The ﬁeld consists of radial lines originating from the wire. (d) The ﬁeld consists of concentric circles centred on the wire."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "At the time of short circuit, the current in the circuit (a) reduces substantially. (b) does not change. (c) increases heavily. (d) vary continuously."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "State whether the following statements are true or false. (a) The ﬁeld at the centre of a long circular coil carrying current will be parallel straight lines. (b) A wire with a green insulation is usually the live wire of an electric supply."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "List two methods of producing magnetic ﬁelds."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "When is the force experienced by a current–carrying conductor placed in a magnetic ﬁeld largest?"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Imagine that you are sitting in a chamber with your back to one wall. An electron beam, moving horizontally from back wall towards the front wall, is deﬂected by a strong magnetic ﬁeld to your right side. What is the direction of magnetic ﬁeld?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "State the rule to determine the direction of a (i) magnetic ﬁeld produced around a straight conductor-carrying current, (ii) force experienced by a current-carrying straight conductor placed in a magnetic ﬁeld which is perpendicular to it, and (iii) current induced in a coil due to its rotation in a magnetic ﬁeld."
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "When does an electric short circuit occur?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the function of an earth wire? Why is it necessary to earth metallic appliances? 306"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,401 @@
+{
+  "book_metadata": {
+    "title_en": "Social Studies - Class 10 (AP SSC 2024-25)",
+    "title_te": "సాంఘిక శాస్త్రం - పదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "10th Class (SSC)",
+    "medium": "Bilingual (English & Telugu)",
+    "four_branches": [
+      "History",
+      "Geography",
+      "Political Science",
+      "Economics"
+    ],
+    "source_pdfs": [
+      "10_Social_History_textbook_2024-25.pdf",
+      "10_Social_Geography_textbook_2024-25.pdf",
+      "10_Social_Politics_textbook_2024-25.pdf",
+      "10_Social_Economics_textbook_2024-25.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding (Explaining historical events, geographic phenomena, political systems, economic concepts)",
+    "AS2": "Reading the text (given), understanding and interpretation (Analyzing given excerpts, source boxes, speeches)",
+    "AS3": "Information Skills (Bar graphs, pie charts, tables, timelines, data collection and analysis)",
+    "AS4": "Reflection on contemporary issues and questioning (Expressing opinions on current problems, environmental threats, democratic rights)",
+    "AS5": "Mapping Skills (Locating places on outline map of India / World, drawing sketches, reading map keys)",
+    "AS6": "Appreciation and Sensitivity (Appreciating cultural diversity, constitutional values, freedom fighters, empathy toward marginalized)"
+  },
+  "history": [
+    {
+      "chapter_no": 1,
+      "title_en": "The Rise of Nationalism in Europe",
+      "title_te": "ఐరోపాలో జాతీయవాదం - పురోగతి",
+      "core_themes": [
+        "Frédéric Sorrieu's utopian vision (1848 print)",
+        "The French Revolution and the Idea of the Nation (Civil Code of 1804 / Napoleonic Code)",
+        "The Making of Nationalism in Europe (Aristocracy and the new middle class, Liberal nationalism, Zollverein 1834)",
+        "Conservatism after 1815 (Treaty of Vienna 1815)",
+        "The Revolutionaries: Giuseppe Mazzini, Young Italy, Young Europe",
+        "The Age of Revolutions: 1830–1848 (Greek War of Independence, Romanticism, Johann Gottfried Herder, Hunger, Hardship and Popular Revolt)",
+        "Unification of Germany (Otto von Bismarck, Blood and Iron, 1871 Kaiser William I)",
+        "Unification of Italy (Cavour, Garibaldi, Victor Emmanuel II 1861)",
+        "The Strange Case of Britain (Act of Union 1707, British flag Union Jack)",
+        "Visualising the Nation: Allegories (Marianne in France, Germania in Germany)",
+        "Nationalism and Imperialism: The Balkan Crisis (Powder keg of Europe leading to WWI)"
+      ],
+      "map_points": [
+        "France",
+        "Vienna",
+        "Germany",
+        "Italy",
+        "Greece",
+        "Balkan region",
+        "Britain"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Nationalism in India",
+      "title_te": "భారతదేశంలో జాతీయవాదం",
+      "core_themes": [
+        "First World War, Khilafat and Non-Cooperation",
+        "The Idea of Satyagraha (Champaran 1917, Kheda 1917, Ahmedabad 1918)",
+        "Rowlatt Act (1919) and Jallianwala Bagh Massacre (13 April 1919 by General Dyer)",
+        "Non-Cooperation Movement (1920–1922): Nagpur Congress Session 1920, Chauri Chaura incident (1922)",
+        "Differing strands within the movement (Movement in Towns, Rebellion in the Countryside: Baba Ramchandra in Awadh, Tribal revolt: Alluri Sitarama Raju in Rampa hills of Andhra Pradesh)",
+        "Swaraj in the Plantations (Inland Emigration Act of 1859)",
+        "Towards Civil Disobedience: Simon Commission (1928), Lahore Congress (1929) and Purna Swaraj",
+        "The Salt March (Dandi March, 12 March to 6 April 1930) and Civil Disobedience Movement",
+        "How Participants saw the Movement (Rich peasants, Poor peasants, Business classes: FICCI, Industrial working class, Women)",
+        "Limits of Civil Disobedience: Untouchables (Dalits), Dr. B.R. Ambedkar, Poona Pact (September 1932), Muslim political organizations",
+        "The Sense of Collective Belonging (Bharat Mata painting by Abanindranath Tagore, Vande Mataram by Bankim Chandra Chattopadhyay, folklore, tricolour flag)"
+      ],
+      "map_points": [
+        "Calcutta (Sep 1920)",
+        "Nagpur (Dec 1920)",
+        "Madras (1927)",
+        "Lahore (1929)",
+        "Champaran (Bihar)",
+        "Kheda (Gujarat)",
+        "Ahmedabad (Gujarat)",
+        "Amritsar (Punjab - Jallianwala Bagh)",
+        "Chauri Chaura (UP)",
+        "Dandi (Gujarat)"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "The Making of a Global World",
+      "title_te": "భూగోళీకరణ ఆవిర్భావం",
+      "core_themes": [
+        "Pre-modern world: Silk Routes linking Asia, Europe, and Northern Africa",
+        "Food travels: Spaghetti and potato; Conquest, disease (Smallpox) and trade in the Americas",
+        "The Nineteenth Century (1815–1914): Flow of trade, flow of labour, flow of capital",
+        "Corn Laws abolition and globalization of agriculture; Rinderpest (Cattle Plague) in Africa (1890s)",
+        "Indentured labour migration from India (Fiji, Caribbean, Mauritius, Trinidad: Hosay festival, Chutney music)",
+        "Indian entrepreneurs abroad: Shikaripuri shroffs, Nattukottai Chettiars",
+        "Inter-war Economy: Wartime transformations, Mass production (Henry Ford assembly line) and Great Depression (1929)",
+        "Post-war Settlement: Bretton Woods Institutions (IMF and World Bank), G-77 nations and NIEO"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "The Age of Industrialisation",
+      "title_te": "పారిశ్రామికీకరణ యుగం",
+      "core_themes": [
+        "Proto-industrialisation in rural Europe",
+        "Coming up of the factory: James Watt steam engine, Richard Arkwright cotton mill",
+        "Hand labour vs Steam power; Life of workers in Victorian Britain (Luddism, Spinning Jenny attack)",
+        "Industrialisation in the Colonies: Age of Indian textiles, Decline of Surat and Hoogly, Rise of Bombay and Calcutta",
+        "What happened to weavers? The Gomasthas and conflicts with weavers",
+        "Manchester comes to India: Import tariffs, collapse of Indian weaving industry",
+        "Factories come up: First cotton mill in Bombay (1854), first jute mill in Bengal (1855)",
+        "Early entrepreneurs: Dwarkanath Tagore, Dinshaw Petit, Jamsetjee Nusserwanjee Tata, Seth Hukumchand",
+        "Market for goods: Advertisements, labels (Made in Manchester), calendars, nationalist imagery"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Print Culture and the Modern World",
+      "title_te": "ముద్రణా సంస్కృతి మరియు ఆధునిక ప్రపంచం",
+      "core_themes": [
+        "The First Printed Books: China (Woodblock printing, accordion book), Japan (Diamond Sutra 868 AD), Korea",
+        "Print comes to Europe: Marco Polo brings woodblock printing from China to Italy (1295)",
+        "Johann Gutenberg and the Printing Press (Mainz, Germany 1430s; first printed book: Gutenberg Bible)",
+        "The Print Revolution and its Impact: Reading public, oral culture, religious debates and Protestant Reformation (Martin Luther 95 Theses 1517)",
+        "Print and the French Revolution: Enlightenment thinkers (Voltaire, Rousseau), mocking royalty",
+        "Nineteenth Century: Children, women, and workers as readers (Penny dreadfuls, lending libraries)",
+        "India and the World of Print: Manuscripts before print, Portuguese missionaries introduce print in Goa (mid-16th century)",
+        "Religious Reform and Public Debates: Raja Ram Mohan Roy (Sambad Kaumudi), Samachar Chandrika, Deoband Seminary",
+        "New Forms of Publication: Novels, short stories, visual images (Raja Ravi Varma prints), caricatures",
+        "Women and Print: Rashsundari Debi (Amar Jiban), Tarabai Shinde (Stripurushtulna), Pandita Ramabai, Begum Rokeya",
+        "Print and the Poor: Jyotirao Phule (Gulamgiri 1873), B.R. Ambedkar, E.V. Ramasamy Periyar, Chhote Aur Bade Ka Sawal",
+        "Print and Censorship: Vernacular Press Act (1878) modeled on Irish Press Laws, Bal Gangadhar Tilak (Kesari)"
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "chapter_no": 1,
+      "title_en": "Resources and Development",
+      "title_te": "వనరులు మరియు అభివృద్ధి",
+      "core_themes": [
+        "Classification of resources: Origin (Biotic/Abiotic), Exhaustibility (Renewable/Non-renewable), Ownership (Individual, Community, National, International), Status of development (Potential, Developed stock, Reserves)",
+        "Sustainable development: Rio de Janeiro Earth Summit 1992, Agenda 21",
+        "Resource planning in India: Identification and inventory, evolving planning structure, matching with national development plans",
+        "Land resources and Land use pattern in India: Net Sown Area, Forest cover (National Forest Policy 1952 target 33%)",
+        "Land degradation and conservation measures: Overgrazing (Gujarat, Rajasthan), Over-irrigation (Punjab, Haryana), Mining (Jharkhand, Odisha)",
+        "Soil as a Resource: Soil profile, Classification of soils in India (Alluvial, Black/Regur, Red and Yellow, Laterite, Arid, Forest/Mountain soils)",
+        "Soil erosion and conservation: Gully erosion, Sheet erosion, Wind erosion; Contour ploughing, Terrace farming, Strip cropping, Shelter belts"
+      ],
+      "map_points": [
+        "Major Soil Types of India"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Forest and Wildlife Resources",
+      "title_te": "అటవీ మరియు వన్యప్రాణి వనరులు",
+      "core_themes": [
+        "Flora and Fauna in India: Biodiversity, IUCN categories (Normal, Endangered, Vulnerable, Rare, Endemic, Extinct species)",
+        "Causes of depletion of flora and fauna: Colonial forestry, agricultural expansion, shifting cultivation (Jhum), mining, river valley projects",
+        "Conservation of forest and wildlife in India: Indian Wildlife (Protection) Act 1972, Project Tiger (1973)",
+        "Types and distribution of forests: Reserved forests, Protected forests, Unclassed forests",
+        "Community and Conservation: Chipko Movement (Uttarakhand), Beej Bachao Andolan (Tehri), Joint Forest Management (JFM - Odisha 1988), Sacred Groves (Bhairondev Dakav 'Sonchuri')"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Water Resources",
+      "title_te": "నీటి వనరులు",
+      "core_themes": [
+        "Water scarcity and the need for water conservation and management",
+        "Multi-purpose river projects and integrated water resources management: 'Temples of modern India' (Jawaharlal Nehru)",
+        "Opposition to large dams: Displacement of local communities, environmental destruction (Narmada Bachao Andolan, Tehri Dam Andolan)",
+        "Rainwater Harvesting: Traditional systems (Guls/Kuls in Western Himalayas, Johads and Khadins in Rajasthan, Rooftop rainwater harvesting in Tamil Nadu - mandatory by law, Tankas in Bikaner/Phalodi, Bamboo drip irrigation in Meghalaya)"
+      ],
+      "map_points": [
+        "Salal (Chenab, J&K)",
+        "Bhakra Nangal (Satluj, HP/Punjab)",
+        "Tehri (Bhagirathi, Uttarakhand)",
+        "Rana Pratap Sagar (Chambal, Rajasthan)",
+        "Sardar Sarovar (Narmada, Gujarat)",
+        "Hirakud (Mahanadi, Odisha)",
+        "Nagarjuna Sagar (Krishna, AP/Telangana)",
+        "Tungabhadra (Karnataka)"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Agriculture",
+      "title_te": "వ్యవసాయం",
+      "core_themes": [
+        "Types of farming: Primitive subsistence farming (Slash and burn / Jhumming), Intensive subsistence farming, Commercial farming (Plantations)",
+        "Cropping seasons in India: Rabi (Winter: wheat, barley, peas, gram, mustard), Kharif (Monsoon: paddy, maize, jowar, bajra, tur, moong, cotton, jute, groundnut), Zaid (Summer: watermelon, muskmelon, cucumber, vegetables)",
+        "Major Crops of India: Food crops (Rice, Wheat, Millets: Jowar, Bajra, Ragi, Maize, Pulses), Food crops other than grains (Sugarcane, Oilseeds, Tea, Coffee: Arabica, Horticulture crops)",
+        "Non-food crops: Rubber, Fibre crops (Cotton - black soil, Jute - Golden fibre)",
+        "Technological and Institutional Reforms: Collectivization, Green Revolution, White Revolution (Operation Flood), Land development programmes, Kissan Credit Card (KCC), Minimum Support Price (MSP), Bhoodan-Gramdan movement (Vinoba Bhave)"
+      ],
+      "map_points": [
+        "Major areas of Rice and Wheat",
+        "Largest producers of Sugarcane (UP), Tea (Assam), Coffee (Karnataka), Rubber (Kerala), Cotton (Gujarat/Maharashtra), Jute (West Bengal)"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Minerals and Energy Resources",
+      "title_te": "ఖనిజాలు మరియు శక్తి వనరులు",
+      "core_themes": [
+        "Mode of occurrence of minerals: Igneous/metamorphic rocks (veins/lodes), Sedimentary rocks (beds/layers), Residual mass of weathered material, Alluvial deposits (placer deposits), Ocean waters",
+        "Ferrous Minerals: Iron ore (Magnetite 70% Fe, Hematite 50-60% Fe; Major belts: Odisha-Jharkhand, Durg-Bastar-Chandrapur, Ballari-Chitradurga-Chikkamagaluru-Tumakuru, Maharashtra-Goa), Manganese (Odisha largest)",
+        "Non-Ferrous Minerals: Copper (Khetri in Rajasthan, Balaghat in MP, Singhbhum in Jharkhand), Bauxite (Odisha largest, Panchpatmali deposits)",
+        "Non-Metallic Minerals: Mica (Koderma-Gaya-Hazaribagh in Jharkhand, Nellore in AP, Ajmer in Rajasthan), Limestone",
+        "Conservation of Minerals",
+        "Energy Resources: Conventional (Coal: Anthracite, Bituminous, Lignite, Peat; Petroleum: Mumbai High, Ankaleshwar, Digboi; Natural gas: Krishna-Godavari basin; Electricity: Hydroelectric, Thermal)",
+        "Non-Conventional Energy Sources: Nuclear/Atomic (Uranium in Jharkhand/Aravalli, Monazite sand in Kerala), Solar energy, Wind power (Tamil Nadu Nagarcoil to Madurai, Jaisalmer), Biogas (Gobar gas), Tidal energy (Gulf of Khambhat/Kutch), Geothermal energy (Parvati valley HP, Puga valley Ladakh)"
+      ],
+      "map_points": [
+        "Iron Ore Mines: Mayurbhanj, Durg, Bailadila, Bellary, Kudremukh",
+        "Coal Mines: Raniganj, Bokaro, Talcher, Neyveli",
+        "Oil Fields: Digboi, Naharkatia, Mumbai High, Bassien, Kalol, Ankaleshwar",
+        "Nuclear Power Plants: Narora, Rawatbhata, Kakrapar, Tarapur, Kaiga, Kalpakkam"
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Manufacturing Industries",
+      "title_te": "తయారీ పరిశ్రమలు",
+      "core_themes": [
+        "Importance of manufacturing: Backbone of development, modernization of agriculture, eradicating poverty/unemployment, export earnings",
+        "Contribution of industry to national economy",
+        "Industrial location factors: Raw materials, labour, capital, power, market, agglomeration economies",
+        "Classification of industries: Agro-based vs Mineral-based; Key/Basic vs Consumer; Small-scale vs Large-scale; Public, Private, Joint, Cooperative sector",
+        "Agro-based Industries: Textile industry (Cotton, Jute: Hooghly river basin advantages, Sugar industry: shifting towards Southern/Western states)",
+        "Mineral-based Industries: Iron and Steel (Chota Nagpur plateau concentration, TISCO), Aluminium smelting, Chemical industries, Fertilizer industry (Nitrogenous/Urea, DAP), Cement industry, Automobile industry, Information Technology and Electronics (Bengaluru - Silicon Valley of India)",
+        "Industrial Pollution and Environmental Degradation: Air, Water, Thermal, Noise pollution; Control measures (Effluent treatment, rainwater harvesting, smoke precipitators)"
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Lifelines of National Economy",
+      "title_te": "జాతీయ ఆర్థిక వ్యవస్థ జీవన రేఖలు",
+      "core_themes": [
+        "Transport: Roadways (Golden Quadrilateral Super Highways, National Highways NH-44, State Highways, District Roads, Border Roads: BRO, Atal Tunnel), Advantages of roadways over railways",
+        "Railways: Principal mode of transportation for freight and passengers",
+        "Pipelines: Transporting crude oil, petroleum products, natural gas (HVJ pipeline)",
+        "Waterways: Inland waterways (NW-1 Ganga Allahabad to Haldia, NW-2 Brahmaputra, NW-3 West Coast Canal), Major Sea Ports (Kandla/Deendayal, Mumbai, JNPT, Marmagao, New Mangalore, Kochi, Tuticorin, Chennai, Visakhapatnam - deepest landlocked port, Paradip, Kolkata, Haldia)",
+        "Airways: Air India, Pawan Hans Helicopters; Communication: Personal communication, Mass communication (Doordarshan, AIR, Newspapers)",
+        "International Trade: Export and Import, Balance of Trade (Favourable vs Unfavourable), Tourism as a Trade"
+      ],
+      "map_points": [
+        "Major Sea Ports: Kandla, Mumbai, Marmagao, New Mangalore, Kochi, Tuticorin, Chennai, Visakhapatnam, Paradip, Kolkata",
+        "International Airports: Amritsar (Raja Sansi), Delhi (Indira Gandhi), Mumbai (Chhatrapati Shivaji), Chennai (Meenambakkam), Kolkata (Netaji Subhash Chandra Bose), Hyderabad (Rajiv Gandhi)"
+      ]
+    }
+  ],
+  "political_science": [
+    {
+      "chapter_no": 1,
+      "title_en": "Power-sharing",
+      "title_te": "అధికార విభజన",
+      "core_themes": [
+        "Case studies: Belgium (Flemish 59% Dutch, Wallonia 40% French, Brussels 80% French 20% Dutch) and Sri Lanka (Sinhala 74% Buddhist, Tamil 18% Hindu/Muslim)",
+        "Majoritarianism in Sri Lanka: 1956 Act making Sinhala sole official language, preferential policies, Sri Lankan Tamil alienation and civil war",
+        "Accommodation in Belgium: Constitutional amendments (1970–1993), equal Dutch and French ministers, community government, Brussels model as headquarters of European Union",
+        "Why power sharing is desirable? Prudential reasons (reduces possibility of conflict between social groups) vs Moral reasons (spirit of democracy)",
+        "Forms of power-sharing: Horizontal division (Legislature, Executive, Judiciary - Checks and balances), Vertical division (Federalism: Union, State, Local), Social groups (Reserved constituencies), Political parties, pressure groups and social movements (Coalition governments)"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Federalism",
+      "title_te": "సమాఖ్య వ్యవస్థ",
+      "core_themes": [
+        "What is Federalism? Two or more tiers of government, jurisdictions demarcated by Constitution, fundamental provisions require consent of both levels, courts act as umpire, dual objective: safeguard unity and accommodate regional diversity",
+        "'Coming together' federations (USA, Switzerland, Australia) vs 'Holding together' federations (India, Spain, Belgium)",
+        "What makes India a federal country? Three-fold distribution of legislative powers: Union List (97 subjects: Defence, foreign affairs, banking, currency), State List (66 subjects: Police, trade, agriculture, irrigation), Concurrent List (47 subjects: Education, forest, trade unions, marriage; Union law prevails in conflict), Residuary subjects (Cyber law)",
+        "Special provisions: Article 371 for North-Eastern states, Union Territories",
+        "How is federalism practiced in India? Linguistic States (States Reorganization Commission 1956), Language Policy (No national language; Hindi official language with 21 other Scheduled Languages in 8th Schedule), Centre-State relations (Pre-1990 single party dominance vs Post-1990 Coalition era and Supreme Court ruling on Article 356)",
+        "Decentralisation in India: 73rd and 74th Constitutional Amendments (1992): Mandatory regular elections, reservation for SC/ST/OBC, 1/3rd seats for women, State Election Commission, State Finance Commission",
+        "Rural Local Government (Panchayati Raj: Gram Panchayat, Panchayat Samiti / Mandal, Zilla Parishad) and Urban Local Government (Municipalities, Municipal Corporations - Mayor)"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Gender, Religion and Caste",
+      "title_te": "లింగం, మతం మరియు కులం",
+      "core_themes": [
+        "Gender and Politics: Sexual division of labour, Feminist movements, Patriarchal society",
+        "Women's political representation: Low percentage in Parliament/Assemblies, Nari Shakti Vandan Adhiniyam (Women's Reservation Act), 1/3rd seats in Panchayati Raj",
+        "Religion, Communalism and Politics: Communal politics (one religion presented as superior to others), Communal riots, Secular State provisions in Indian Constitution (Articles 25-28, no official religion)",
+        "Caste and Politics: Caste inequalities and caste hierarchy breakdown (urbanization, literacy, economic development), Caste in politics (appealing to caste vote banks), Politics in caste (backward/forward coalitions, Dalits and OBC assertion)"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Political Parties",
+      "title_te": "రాజకీయ పక్షాలు",
+      "core_themes": [
+        "Why do we need political parties? Meaning, three components: leaders, active members, followers",
+        "Functions of political parties: Contest elections, put forward policies/programmes, making laws, form and run government, role of opposition, shape public opinion, access to government machinery",
+        "Party systems: One-party system (China), Two-party system (USA, UK), Multi-party system (India, coalition governments)",
+        "National Parties vs State Parties (Election Commission criteria): National Party (6% votes in Lok Sabha or Assembly in 4 states + 4 seats in Lok Sabha; e.g. BJP, INC, AAP, BSP, CPI-M)",
+        "Challenges to political parties: Lack of internal democracy, Dynastic succession, Money and muscle power, Lack of meaningful choice to voters",
+        "How can parties be reformed? Anti-defection law (52nd Amendment), Affidavit declaring assets/criminal cases, Election Commission order for organizational elections, State funding of elections"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Outcomes of Democracy",
+      "title_te": "ప్రజాస్వామ్య ఫలితాలు",
+      "core_themes": [
+        "How do we assess democracy's outcomes? Promotes equality among citizens, enhances dignity of the individual, improves quality of decision making, provides method to resolve conflicts, allows room to correct mistakes",
+        "Accountable, responsive and legitimate government: Right to Information (RTI), transparency, regular free and fair elections",
+        "Economic growth and development: Comparison of democracies and dictatorships (economic growth slightly higher in dictatorships, but democracy preferred for reducing poverty and inequality)",
+        "Reduction of inequality and poverty",
+        "Accommodation of social diversity: Democracy is not simply rule by majority opinion; majority must work with minority",
+        "Dignity and freedom of the citizens: Women's rights, caste discrimination elimination"
+      ]
+    }
+  ],
+  "economics": [
+    {
+      "chapter_no": 1,
+      "title_en": "Development",
+      "title_te": "అభివృద్ధి",
+      "core_themes": [
+        "What Development Promises: Different people, different goals (Landless rural labour vs Prosperous farmer vs Urban unemployed youth; Conflicting goals: Dam construction benefits industrialists but displaces tribals)",
+        "Income and other goals: Money/material goods vs Freedom, security, respect, equal treatment",
+        "National Development: Comparing different countries/states using Per Capita Income (Average Income = Total Income / Total Population)",
+        "World Bank classification (World Development Report): High income countries (PCI > $12,055) vs Low income countries (PCI < $1,035)",
+        "Income and other criteria: Comparison of Haryana, Kerala, and Bihar (Infant Mortality Rate IMR, Literacy Rate, Net Attendance Ratio)",
+        "Public Facilities: Why average income is inadequate (Money cannot buy a pollution-free environment or protect from infectious diseases), Public Distribution System (PDS)",
+        "Human Development Report (UNDP): Human Development Index (HDI) based on Life Expectancy, Educational attainment (mean years of schooling), Per Capita Gross National Income (GNI)",
+        "Sustainability of Development: Groundwater depletion in India, Exhaustion of natural crude oil reserves"
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Sectors of the Indian Economy",
+      "title_te": "భారత ఆర్థిక వ్యవస్థ రంగాలు",
+      "core_themes": [
+        "Classification of Economic Activities: Primary Sector (Agriculture, dairy, fishing, forestry), Secondary Sector (Manufacturing, industrial activity), Tertiary Sector (Services: transport, banking, trade, IT, communication)",
+        "Comparing the Three Sectors: Calculating Gross Domestic Product (GDP = Value of all final goods and services produced in each sector in a financial year)",
+        "Historical Changes in Sectors: Primary to Secondary to Tertiary dominance in developed nations",
+        "Rising importance of the Tertiary Sector in India: Basic services (hospitals, schools, police), development of agriculture and industry, rise in income levels, new services (IT, telecom)",
+        "Where are most of the people employed? Share of sectors in GDP vs Employment (Tertiary generates max GDP, but Primary employs ~44% of workforce)",
+        "Underemployment / Disguised Unemployment: More people working than needed in agriculture",
+        "How to create more employment? Cheap agricultural credit, irrigation (wells, canals), rural transport and storage, agro-processing industries, rural tourism and education",
+        "MGNREGA 2005 (Mahatma Gandhi National Rural Employment Guarantee Act): 100 days of guaranteed wage employment, unemployment allowance if not provided",
+        "Division of sectors as Organised and Unorganised: Organised (Job security, fixed working hours, paid leave, provident fund, gratuity, Factories Act) vs Unorganised (Low wages, no job security, irregular employment, no benefits)",
+        "Sectors in terms of ownership: Public Sector (Government owns assets and provides services: Railways, Post office; purpose is social welfare) vs Private Sector (Ownership in hands of private individuals: TATA, Reliance; purpose is profit)"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Money and Credit",
+      "title_te": "డబ్బు మరియు పరపతి",
+      "core_themes": [
+        "Money as a medium of exchange: Barter system and Double coincidence of wants",
+        "Modern forms of money: Currency (paper notes and coins, authorized by Government of India and RBI), Demand Deposits in banks (Cheque facility)",
+        "Loan activities of Banks: Banks keep ~15% of deposits as cash reserve, extend remaining as loans; Interest spread is main source of bank income",
+        "Two different credit situations: Festival season (Profitable credit - Salim shoe manufacturer) vs Crop failure (Debt trap - Swapna farmer)",
+        "Terms of Credit: Interest rate, Collateral (security asset), Documentation requirement, Mode of repayment",
+        "Formal Sector Credit in India: Commercial banks and Cooperatives (Supervised by RBI: maintains cash reserve ratio, lends to small borrowers and farmers, low interest rates)",
+        "Informal Sector Credit: Moneylenders, traders, employers, relatives (No supervision, exorbitant interest rates, debt traps)",
+        "Self-Help Groups (SHGs) for the poor: 15–20 members (especially women), pooling small savings, low-interest internal loans, bank linkage without collateral, empowerment of rural women"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Globalisation and the Indian Economy",
+      "title_te": "ప్రపంచీకరణ మరియు భారత ఆర్థిక వ్యవస్థ",
+      "core_themes": [
+        "Production across countries: Multinational Corporations (MNCs) spreading production globally for lowest cost and proximity to markets",
+        "Interlinking production across countries: Foreign Direct Investment (FDI), partnerships with local companies, acquiring local companies (Cargill Foods buying Parakh Foods), placing orders with small producers (garments, footwear)",
+        "Foreign trade and integration of markets: Producers sell beyond domestic borders; Chinese toys in India case study",
+        "What is Globalisation? Rapid integration or interconnection between countries through movement of goods, services, investments, and technology",
+        "Factors enabling globalisation: Technology (Container transport, Information and Communication Technology - ICT, Internet), Liberalisation of foreign trade and investment policy (Removal of trade barriers like tariffs and import quotas in 1991 New Economic Policy)",
+        "World Trade Organisation (WTO): Established 1995, Geneva, promotes free trade, debate on agricultural subsidies in developed nations",
+        "Impact of Globalisation in India: Benefits for urban consumers (wider choice, superior quality, lower prices), Top Indian companies become MNCs (Tata Motors, Infosys, Ranbaxy, Asian Paints), Creation of jobs in IT/services (call centres, software)",
+        "Challenges for small producers: Competition, loss of livelihood (batteries, plastics, toys, dairy)",
+        "The Struggle for a Fair Globalisation: Role of government in protecting small producers, labour laws implementation, negotiating with WTO"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Consumer Rights",
+      "title_te": "వినియోగదారుని హక్కులు",
+      "core_themes": [
+        "The Consumer in the Marketplace: Unfair trade practices (adulteration, underweight, misleading advertisements)",
+        "Consumer Movement in India: Origins as a social force against food shortages, hoarding, black marketing",
+        "COPRA (Consumer Protection Act 1986) and Consumer Protection Act 2019: Establishment of three-tier quasi-judicial machinery (District Consumer Disputes Redressal Commission up to ₹1 crore, State Commission ₹1 crore to ₹10 crore, National Commission above ₹10 crore)",
+        "Consumer Rights: Right to Safety, Right to be Informed (RTI Act 2005, MRP, expiry date, ingredients), Right to Choose, Right to be Heard, Right to Seek Redressal, Right to Consumer Education",
+        "Standardisation Marks: ISI mark (Industrial/electrical goods), AGMARK (Agricultural products), Hallmark (Gold jewellery), ISO certification",
+        "Consumer Awareness: National Consumer Day (24 December), 'Jago Grahak Jago' campaign"
+      ]
+    }
+  ]
+}

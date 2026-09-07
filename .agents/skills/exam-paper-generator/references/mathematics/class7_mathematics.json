@@ -1,0 +1,733 @@
+{
+  "book_metadata": {
+    "title_en": "Mathematics - Class 7 (AP SCERT 2024-25)",
+    "title_te": "గణితం - ఏడవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "7th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 13,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "semester_2": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "source_pdfs": [
+      "7_Maths_SEM-1_Textbook.pdf",
+      "7_Maths_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Problem Solving",
+    "AS2": "Reasoning and Proof",
+    "AS3": "Communication",
+    "AS4": "Connections",
+    "AS5": "Representation and Visualization"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Integers",
+      "title_te": "పూర్ణ సంఖ్యలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Closure property under addition and subtraction: For any two integers a and b, a + b and a - b are integers.",
+        "Commutative property: a + b = b + a, but subtraction is not commutative.",
+        "Associative property: (a + b) + c = a + (b + c).",
+        "Additive identity: a + 0 = 0 + a = a.",
+        "Multiplication of integers: Product of positive and negative integers is negative; product of two negative integers is positive.",
+        "Distributive property of multiplication over addition: a * (b + c) = a * b + a * c.",
+        "Division of integers: Division by zero is not defined; a / 1 = a."
+      ],
+      "formulas_katex": [
+        "a + b \\in \\mathbb{Z}, \\quad a - b \\in \\mathbb{Z}",
+        "a + b = b + a",
+        "a + (b + c) = (a + b) + c",
+        "a \\times (-b) = -(a \\times b)",
+        "(-a) \\times (-b) = a \\times b",
+        "a \\times (b + c) = (a \\times b) + (a \\times c)",
+        "a \\div (-b) = -(a \\div b) \\quad (b \\neq 0)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Evaluate: (a) (-30) ÷ 10, (b) 50 ÷ (-5), (c) (-36) ÷ (-9).",
+          "question_text_te": "గణించండి: (a) (-30) ÷ 10, (b) 50 ÷ (-5), (c) (-36) ÷ (-9)."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the product using suitable properties: 26 × (-48) + (-48) × (-36).",
+          "question_text_te": "తగిన ధర్మాలను ఉపయోగించి లబ్ధాన్ని కనుగొనండి: 26 × (-48) + (-48) × (-36)."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Verify whether a ÷ (b + c) ≠ (a ÷ b) + (a ÷ c) for a = 12, b = -4, c = 2.",
+          "question_text_te": "a = 12, b = -4, c = 2 లకు a ÷ (b + c) ≠ (a ÷ b) + (a ÷ c) అని సరిచూడండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "An elevator descends into a mine shaft at the rate of 6 m/min. If the descent starts from 10 m above the ground level, how long will it take to reach -350 m?",
+          "question_text_te": "ఒక ఎలివేటర్ నిమిషానికి 6 మీటర్ల చొప్పున గనిలోకి దిగుతుంది. అది భూమి ఉపరితలానికి 10 మీటర్ల ఎత్తు నుండి దిగడం ప్రారంభిస్తే, -350 మీటర్ల లోతుకు చేరడానికి ఎంత సమయం పడుతుంది?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Represent the operation 3 × (-2) = -6 on a number line.",
+          "question_text_te": "సంఖ్యా రేఖపై 3 × (-2) = -6 ప్రక్రియను సూచించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Fractions and Decimals",
+      "title_te": "భిన్నాలు మరియు దశాంశాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Proper, Improper, and Mixed Fractions.",
+        "Multiplication of a fraction by a whole number and by another fraction.",
+        "Reciprocal of a non-zero fraction.",
+        "Division of fractions using reciprocal multiplication.",
+        "Multiplication and division of decimal numbers by powers of 10 and by whole numbers."
+      ],
+      "formulas_katex": [
+        "\\frac{a}{b} \\times \\frac{c}{d} = \\frac{a \\times c}{b \\times d}",
+        "\\text{Reciprocal of } \\frac{a}{b} = \\frac{b}{a} \\quad (a, b \\neq 0)",
+        "\\frac{a}{b} \\div \\frac{c}{d} = \\frac{a}{b} \\times \\frac{d}{c}",
+        "0.1 \\times 0.1 = 0.01"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Multiply and reduce to lowest form: (a) 7 × (3/5), (b) 4 × (1/3), (c) (2/3) × 4.",
+          "question_text_te": "గుణించి కనిష్ఠ రూపంలోకి మార్చండి: (a) 7 × (3/5), (b) 4 × (1/3), (c) (2/3) × 4."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find: (a) 12 ÷ (3/4), (b) (4/9) ÷ (2/3), (c) 2.5 × 0.3.",
+          "question_text_te": "కనుగొనండి: (a) 12 ÷ (3/4), (b) (4/9) ÷ (2/3), (c) 2.5 × 0.3."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain why the product of two proper fractions is always less than each of the two fractions.",
+          "question_text_te": "రెండు క్రమ భిన్నాల లబ్ధం ఎల్లప్పుడూ ఆ రెండు భిన్నాల కంటే తక్కువగా ఎందుకు ఉంటుందో వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A car covers a distance of 89.1 km in 2.2 hours. What is the average distance covered by it in 1 hour?",
+          "question_text_te": "ఒక కారు 2.2 గంటల్లో 89.1 కి.మీ దూరం ప్రయాణిస్తుంది. అది 1 గంటలో ప్రయాణించే సగటు దూరం ఎంత?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Express 5 cm in meter and kilometer using decimals.",
+          "question_text_te": "దశాంశాలను ఉపయోగించి 5 సెం.మీ. ను మీటర్లు మరియు కిలోమీటర్లలో వ్యక్తపరచండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Data Handling",
+      "title_te": "దత్తాంశ నిర్వహణ",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Arithmetic Mean: sum of all observations divided by number of observations.",
+        "Range: difference between highest and lowest observation.",
+        "Mode: observation that occurs most frequently.",
+        "Median: middle observation when data is arranged in ascending or descending order.",
+        "Bar graphs and double bar graphs for comparative analysis.",
+        "Concept of chance and probability of an event."
+      ],
+      "formulas_katex": [
+        "\\text{Arithmetic Mean} = \\frac{\\sum x_i}{n} = \\frac{\\text{Sum of all observations}}{\\text{Total number of observations}}",
+        "\\text{Range} = \\text{Highest observation} - \\text{Lowest observation}",
+        "P(E) = \\frac{\\text{Number of favourable outcomes}}{\\text{Total number of equally likely outcomes}}"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the mean of the first five whole numbers.",
+          "question_text_te": "మొదటి ఐదు పూర్ణాంకాల సగటును కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The scores in mathematics test of 15 students are: 19, 25, 23, 20, 9, 20, 15, 10, 5, 16, 25, 20, 24, 12, 20. Find the mode and median.",
+          "question_text_te": "15 మంది విద్యార్థుల గణిత పరీక్ష మార్కులు: 19, 25, 23, 20, 9, 20, 15, 10, 5, 16, 25, 20, 24, 12, 20. బాహుళకం మరియు మధ్యగతం కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a bar graph to represent the following data showing the number of children in six different classes: Class 5: 135, Class 6: 120, Class 7: 95, Class 8: 100, Class 9: 90, Class 10: 80.",
+          "question_text_te": "ఆరు తరగతులలోని విద్యార్థుల సంఖ్యను సూచించడానికి కమ్మీ చిత్రాన్ని గీయండి: తరగతి 5: 135, తరగతి 6: 120, తరగతి 7: 95, తరగతి 8: 100, తరగతి 9: 90, తరగతి 10: 80."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A die is thrown once. What is the probability of getting a prime number?",
+          "question_text_te": "ఒక పాచికను ఒకసారి దొర్లించినప్పుడు ప్రధాన సంఖ్య పడే సంభావ్యత ఎంత?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Simple Equations",
+      "title_te": "సామాన్య సమీకరణాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "An equation is a condition on a variable such that two expressions have equal value.",
+        "Solving linear equations by balancing method and transposition method.",
+        "Transposing a number changes its sign (+ becomes -, * becomes /).",
+        "Forming equations from real-life situations and word problems."
+      ],
+      "formulas_katex": [
+        "ax + b = c \\implies ax = c - b \\implies x = \\frac{c - b}{a} \\quad (a \\neq 0)",
+        "\\frac{x}{a} + b = c \\implies \\frac{x}{a} = c - b \\implies x = a(c - b)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Solve the equation: 4(m + 3) = 18.",
+          "question_text_te": "సమీకరణాన్ని సాధించండి: 4(m + 3) = 18."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Solve: 3s + 12 = 0.",
+          "question_text_te": "సాధించండి: 3s + 12 = 0."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "The teacher tells the class that the highest marks obtained by a student in her class is twice the lowest marks plus 7. The highest score is 87. What is the lowest score?",
+          "question_text_te": "తరగతిలో ఒక విద్యార్థికి వచ్చిన అత్యధిక మార్కులు కనిష్ఠ మార్కుల రెట్టింపు కంటే 7 ఎక్కువ అని ఉపాధ్యాయురాలు చెప్పారు. అత్యధిక మార్కులు 87 అయితే, కనిష్ఠ మార్కులు ఎంత?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Verify whether x = 3 is a solution of 5x - 2 = 13.",
+          "question_text_te": "5x - 2 = 13 సమీకరణానికి x = 3 సాధన అవుతుందో లేదో సరిచూడండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Lines and Angles",
+      "title_te": "రేఖలు మరియు కోణాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Complementary angles: two angles whose sum of measures is 90 degrees.",
+        "Supplementary angles: two angles whose sum of measures is 180 degrees.",
+        "Adjacent angles and Linear pair of angles.",
+        "Vertically opposite angles are equal.",
+        "Transversal intersecting two parallel lines forms equal corresponding angles and alternate interior angles, and co-interior angles are supplementary."
+      ],
+      "formulas_katex": [
+        "\\angle 1 + \\angle 2 = 90^\\circ \\quad (\\text{Complementary Angles})",
+        "\\angle 1 + \\angle 2 = 180^\\circ \\quad (\\text{Supplementary Angles / Linear Pair})",
+        "\\angle 1 = \\angle 3, \\quad \\angle 2 = \\angle 4 \\quad (\\text{Vertically Opposite Angles})",
+        "l \\parallel m \\implies \\angle_{\\text{alt.int}} \\text{ are equal, } \\angle_{\\text{co-int sum}} = 180^\\circ"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the angle which is equal to its complement.",
+          "question_text_te": "దాని పూరక కోణానికి సమానమైన కోణాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the angle which is equal to its supplement.",
+          "question_text_te": "దాని సంపూరక కోణానికి సమానమైన కోణాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Two lines intersect at O. If one vertically opposite angle is 65°, find all the remaining angles and give reasons.",
+          "question_text_te": "రెండు సరళరేఖలు O వద్ద ఖండించుకున్నాయి. ఒక శీర్షాభిముఖ కోణం 65° అయితే, మిగిలిన అన్ని కోణాలను కారణాలతో కనుగొనండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw two parallel lines intersected by a transversal and identify alternate interior angles and corresponding angles.",
+          "question_text_te": "రెండు సమాంతర రేఖలను తిర్యగ్రేఖ ఖండిస్తున్న చిత్రాన్ని గీసి ఏకాంతర కోణాలు మరియు సదృశ కోణాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "The Triangle and its Properties",
+      "title_te": "త్రిభుజము మరియు దాని ధర్మాలు",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Medians and Altitudes of a triangle.",
+        "Exterior angle property: An exterior angle of a triangle is equal to the sum of its interior opposite angles.",
+        "Angle sum property: The total measure of the three angles of a triangle is 180 degrees.",
+        "Triangle inequality theorem: The sum of the lengths of any two sides of a triangle is greater than the third side.",
+        "Right-angled triangle and Pythagoras property: In a right-angled triangle, the square on the hypotenuse equals sum of squares on other two sides."
+      ],
+      "formulas_katex": [
+        "\\angle 4 = \\angle 1 + \\angle 2 \\quad (\\text{Exterior Angle Property})",
+        "\\angle A + \\angle B + \\angle C = 180^\\circ \\quad (\\text{Angle Sum Property})",
+        "a + b > c, \\quad b + c > a, \\quad c + a > b",
+        "c^2 = a^2 + b^2 \\quad (\\text{Pythagoras Theorem: } \\text{Hypotenuse}^2 = \\text{Base}^2 + \\text{Height}^2)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "An exterior angle of a triangle is 70° and one of its interior opposite angles is 25°. Find the other interior opposite angle.",
+          "question_text_te": "ఒక త్రిభుజం యొక్క బాహ్య కోణం 70° మరియు అంతరాభిముఖ కోణాలలో ఒకటి 25°. రెండవ అంతరాభిముఖ కోణాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The two angles of a triangle are 30° and 80°. Find the third angle.",
+          "question_text_te": "ఒక త్రిభుజంలోని రెండు కోణాలు 30° మరియు 80°. మూడవ కోణాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Is it possible to have a triangle with the side lengths 3 cm, 6 cm, 7 cm? Justify using triangle inequality property.",
+          "question_text_te": "3 సెం.మీ, 6 సెం.మీ, 7 సెం.మీ భుజాల కొలతలతో త్రిభుజం సాధ్యమేనా? త్రిభుజ అసమానతా ధర్మంతో సమర్థించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A 15 m long ladder reached a window 12 m high from the ground on placing it against a wall at a distance a. Find the distance of the foot of the ladder from the wall.",
+          "question_text_te": "15 మీటర్ల పొడవున్న నిచ్చెనను గోడకు చేరవేస్తే అది నేల నుండి 12 మీటర్ల ఎత్తులో ఉన్న కిటికీని తాకింది. గోడ నుండి నిచ్చెన అడుగు భాగం ఎంత దూరంలో ఉంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Comparing Quantities",
+      "title_te": "రాశులను పోల్చడం",
+      "semester": 1,
+      "theorems_and_key_concepts": [
+        "Ratios and Proportions.",
+        "Percentage means per hundred: converting fractions/decimals to percentages and vice versa.",
+        "Profit and Loss percentages calculated on Cost Price (CP).",
+        "Simple Interest on principal amount P at rate R% per annum for time T years."
+      ],
+      "formulas_katex": [
+        "\\text{Percentage} = \\frac{\\text{Obtained}}{\\text{Total}} \\times 100\\%",
+        "\\text{Profit} = \\text{SP} - \\text{CP}, \\quad \\text{Profit \\%} = \\frac{\\text{Profit}}{\\text{CP}} \\times 100",
+        "\\text{Loss} = \\text{CP} - \\text{SP}, \\quad \\text{Loss \\%} = \\frac{\\text{Loss}}{\\text{CP}} \\times 100",
+        "I = \\frac{P \\times T \\times R}{100}",
+        "A = P + I = P\\left(1 + \\frac{TR}{100}\\right)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the ratio of: (a) ₹5 to 50 paise, (b) 15 kg to 210 g.",
+          "question_text_te": "నిష్పత్తిని కనుగొనండి: (a) ₹5 కు 50 పైసలు, (b) 15 కి.గ్రా. కు 210 గ్రాములు."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Convert the fractional numbers to per cents: (a) 1/8, (b) 5/4, (c) 3/40.",
+          "question_text_te": "భిన్నాలను శాతాలుగా మార్చండి: (a) 1/8, (b) 5/4, (c) 3/40."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the amount to be paid at the end of 3 years on principal ₹1,200 at 12% per annum.",
+          "question_text_te": "₹1,200 అసలుపై సంవత్సరానికి 12% వడ్డీ రేటు చొప్పున 3 సంవత్సరాల చివర చెల్లించాల్సిన మొత్తాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "An item was sold for ₹540 at a loss of 5%. What was the cost price of the item?",
+          "question_text_te": "ఒక వస్తువును 5% నష్టంతో ₹540 కి విక్రయించారు. ఆ వస్తువు కొన్నవెల ఎంత?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Rational Numbers",
+      "title_te": "అకరణీయ సంఖ్యలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "A rational number is defined as a number that can be expressed in the form p/q, where p and q are integers and q != 0.",
+        "Equivalent rational numbers obtained by multiplying or dividing numerator and denominator by same non-zero integer.",
+        "Standard form: denominator is positive and numerator/denominator have no common factor other than 1.",
+        "Addition, subtraction, multiplication, and division of rational numbers."
+      ],
+      "formulas_katex": [
+        "\\mathbb{Q} = \\left\\{ \\frac{p}{q} : p, q \\in \\mathbb{Z}, q \\neq 0 \\right\\}",
+        "\\frac{p}{q} + \\frac{r}{s} = \\frac{ps + qr}{qs}",
+        "\\frac{p}{q} - \\frac{r}{s} = \\frac{ps - qr}{qs}",
+        "\\frac{p}{q} \\times \\frac{r}{s} = \\frac{p \\times r}{q \\times s}",
+        "\\frac{p}{q} \\div \\frac{r}{s} = \\frac{p}{q} \\times \\frac{s}{r} \\quad (r \\neq 0)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write four rational numbers equivalent to: (a) -2/7, (b) 5/-3.",
+          "question_text_te": "సమానమైన నాలుగు అకరణీయ సంఖ్యలను రాయండి: (a) -2/7, (b) 5/-3."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Reduce to standard form: (a) -45/30, (b) 36/-24.",
+          "question_text_te": "ప్రామాణిక రూపంలోకి మార్చండి: (a) -45/30, (b) 36/-24."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the sum: (a) (5/4) + (-11/4), (b) (-8/19) + (-2/57).",
+          "question_text_te": "మొత్తాన్ని కనుగొనండి: (a) (5/4) + (-11/4), (b) (-8/19) + (-2/57)."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "2M",
+          "question_text_en": "Draw the number line and represent the rational number -5/8 on it.",
+          "question_text_te": "సంఖ్యా రేఖను గీసి దానిపై -5/8 అకరణీయ సంఖ్యను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Perimeter and Area",
+      "title_te": "చుట్టుకొలత మరియు వైశాల్యము",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Perimeter and area of square and rectangle.",
+        "Area of a parallelogram = base * height.",
+        "Area of a triangle = (1/2) * base * height.",
+        "Circumference of a circle = 2 * pi * r.",
+        "Area of a circle = pi * r^2.",
+        "Conversion of area units (1 m^2 = 10,000 cm^2; 1 hectare = 10,000 m^2)."
+      ],
+      "formulas_katex": [
+        "P_{\\text{rect}} = 2(l + b), \\quad A_{\\text{rect}} = l \\times b",
+        "P_{\\text{sq}} = 4s, \\quad A_{\\text{sq}} = s^2",
+        "A_{\\text{parallelogram}} = b \\times h",
+        "A_{\\text{triangle}} = \\frac{1}{2} \\times b \\times h",
+        "C = 2\\pi r = \\pi d, \\quad A_{\\text{circle}} = \\pi r^2"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the area of a parallelogram whose base is 7 cm and height is 4 cm.",
+          "question_text_te": "భూమి 7 సెం.మీ మరియు ఎత్తు 4 సెం.మీ కలిగిన సమాంతర చతుర్భుజ వైశాల్యాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the area of a triangle with base 4 cm and altitude 3 cm.",
+          "question_text_te": "భూమి 4 సెం.మీ మరియు ఉన్నతి 3 సెం.మీ కలిగిన త్రిభుజ వైశాల్యాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the circumference and area of a circular disc of radius 14 cm (Use π = 22/7).",
+          "question_text_te": "14 సెం.మీ వ్యాసార్థం కలిగిన వృత్తాకార డిస్క్ యొక్క చుట్టుకొలత మరియు వైశాల్యాన్ని కనుగొనండి (π = 22/7 తీసుకోండి)."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A path 1 m wide is built along the border and inside a square garden of side 30 m. Find the area of the path.",
+          "question_text_te": "30 మీటర్ల భుజం కలిగిన చతురస్రాకార తోట లోపల చుట్టూ 1 మీటర్ వెడల్పుతో ఒక బాటను నిర్మించారు. బాట వైశాల్యాన్ని కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Algebraic Expressions",
+      "title_te": "బీజీయ సమాసాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Constants, variables, and terms of an expression.",
+        "Monomials (one term), Binomials (two terms), Trinomials (three terms), Polynomials.",
+        "Like terms have the same algebraic factors.",
+        "Addition and subtraction of algebraic expressions by combining like terms.",
+        "Evaluating expressions by substituting given values for variables."
+      ],
+      "formulas_katex": [
+        "4x^2 - 3xy + 7",
+        "(3x^2 + 5x - 2) + (2x^2 - 4x + 6) = 5x^2 + x + 4",
+        "\\text{Value of } 2x^2 - x - 2 \\text{ at } x = 2 \\text{ is } 2(4) - 2 - 2 = 4"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the terms and their factors in the expression: -4x + 5y.",
+          "question_text_te": "-4x + 5y సమాసంలోని పదాలను మరియు వాటి కారణాంకాలను గుర్తించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Add: 3mn, -5mn, 8mn, -4mn.",
+          "question_text_te": "కూడండి: 3mn, -5mn, 8mn, -4mn."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Subtract 4a - 7ab + 3b + 12 from 12a - 9ab + 5b - 3.",
+          "question_text_te": "12a - 9ab + 5b - 3 నుండి 4a - 7ab + 3b + 12 ను తీసివేయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State with reasons whether 7x and 7y are like or unlike terms.",
+          "question_text_te": "7x మరియు 7y లు సజాతి పదాలా లేక విజాతి పదాలా? కారణాలతో తెలపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Exponents and Powers",
+      "title_te": "ఘాతాలు మరియు ఘాతాంకాలు",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Exponential form: a^b represents repeated multiplication of a, b times.",
+        "Laws of exponents for multiplying powers with same base, dividing powers, power of a power.",
+        "Any non-zero base raised to the power 0 is 1.",
+        "Decimal number system and writing numbers in standard scientific notation."
+      ],
+      "formulas_katex": [
+        "a^m \\times a^n = a^{m+n}",
+        "\\frac{a^m}{a^n} = a^{m-n} \\quad (m > n)",
+        "(a^m)^n = a^{mn}",
+        "a^m \\times b^m = (ab)^m",
+        "\\frac{a^m}{b^m} = \\left(\\frac{a}{b}\\right)^m",
+        "a^0 = 1 \\quad (a \\neq 0)",
+        "k \\times 10^n \\quad (1.0 \\le k < 10)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the value of: (a) 2^6, (b) 9^3, (c) 11^2.",
+          "question_text_te": "విలువను కనుగొనండి: (a) 2^6, (b) 9^3, (c) 11^2."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Simplify using laws of exponents: (3^2 × 3^4) ÷ 3^3.",
+          "question_text_te": "ఘాతాంక న్యాయాలను ఉపయోగించి సూక్ష్మీకరించండి: (3^2 × 3^4) ÷ 3^3."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Express the following in standard form: (a) 5,00,00,000, (b) 3,18,65,00,000.",
+          "question_text_te": "కింది వాటిని ప్రామాణిక రూపంలో వ్యక్తపరచండి: (a) 5,00,00,000, (b) 3,18,65,00,000."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Which one is greater: 2^8 or 8^2? Justify your answer.",
+          "question_text_te": "2^8 లేదా 8^2 లలో ఏది పెద్దది? మీ సమాధానాన్ని సమర్థించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Symmetry",
+      "title_te": "సౌష్ఠవం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "Line of symmetry divides a figure into two identical mirror-image halves.",
+        "Regular polygons have equal sides and equal angles; a regular polygon of n sides has n lines of symmetry.",
+        "Rotational symmetry: an object has rotational symmetry if it looks identical more than once during a full 360-degree rotation.",
+        "Centre of rotation, angle of rotation, and order of rotational symmetry."
+      ],
+      "formulas_katex": [
+        "\\text{Order of Rotational Symmetry} = \\frac{360^\\circ}{\\text{Angle of Rotation}}",
+        "\\text{Square: } \\text{Angle} = 90^\\circ, \\quad \\text{Order} = 4, \\quad \\text{Lines of symmetry} = 4",
+        "\\text{Equilateral Triangle: } \\text{Angle} = 120^\\circ, \\quad \\text{Order} = 3, \\quad \\text{Lines} = 3"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name any two figures that have both line symmetry and rotational symmetry.",
+          "question_text_te": "రేఖా సౌష్ఠవం మరియు భ్రమణ సౌష్ఠవం రెండూ గల ఏవైనా రెండు చిత్రాల పేర్లు రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw the lines of symmetry for an equilateral triangle, a rectangle, and a circle.",
+          "question_text_te": "సమబాహు త్రిభుజం, దీర్ఘచతురస్రం మరియు వృత్తాలకు సౌష్ఠవ రేఖలను గీయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Can we have a rotational symmetry of order more than 1 whose angle of rotation is 45°? Why or why not?",
+          "question_text_te": "భ్రమణ కోణం 45° అయితే 1 కంటే ఎక్కువ క్రమం గల భ్రమణ సౌష్ఠవం సాధ్యమేనా? ఎందుకు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Visualising Solid Shapes",
+      "title_te": "ఘన ఆకారాలను ప్రత్యక్షీకరించడం",
+      "semester": 2,
+      "theorems_and_key_concepts": [
+        "2-D figures have length and breadth; 3-D shapes have length, breadth, and height/depth.",
+        "Faces, Edges, and Vertices of polyhedrons (Cube, Cuboid, Prism, Pyramid).",
+        "Euler's formula for polyhedra: F + V - E = 2.",
+        "Nets for 3-D shapes: 2-D outlines that can be folded to make 3-D shapes.",
+        "Drawing 3-D shapes on 2-D paper using Oblique and Isometric sketches."
+      ],
+      "formulas_katex": [
+        "F + V - E = 2 \\quad (\\text{Euler's Formula})",
+        "\\text{Cube: } F = 6, \\quad V = 8, \\quad E = 12 \\implies 6 + 8 - 12 = 2"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Using Euler's formula, find the number of vertices of a polyhedron with Faces = 20 and Edges = 30.",
+          "question_text_te": "యూలర్ సూత్రాన్ని ఉపయోగించి, ముఖాలు = 20 మరియు అంచులు = 30 కలిగిన బహుముఖి యొక్క శీర్షాల సంఖ్యను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Can a polyhedron have 10 faces, 20 edges, and 15 vertices? Justify your answer using Euler's formula.",
+          "question_text_te": "ఒక బహుముఖికి 10 ముఖాలు, 20 అంచులు మరియు 15 శీర్షాలు ఉండవచ్చా? యూలర్ సూత్రంతో సమర్థించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw an oblique sketch of a cube of edge 3 cm.",
+          "question_text_te": "3 సెం.మీ అంచు గల సమఘనం యొక్క ఏటవాలు చిత్రాన్ని (ఆబ్లిక్ స్కెచ్) గీయండి."
+        }
+      ]
+    }
+  ]
+}

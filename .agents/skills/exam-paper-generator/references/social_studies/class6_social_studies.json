@@ -1,0 +1,1035 @@
+{
+  "book_metadata": {
+    "title_en": "Social Studies - Class 6 (AP SCERT 2024-25)",
+    "title_te": "సాంఘిక శాస్త్రం - ఆరవ తరగతి (AP SCERT 2024-25)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "6th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 12,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "source_pdfs": [
+      "6_Social_SEM-1_Textbook.pdf",
+      "6_Social_Studies_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Reading the text (given), understanding and interpretation",
+    "AS3": "Information Skills",
+    "AS4": "Reflection on contemporary issues and questioning",
+    "AS5": "Mapping Skills",
+    "AS6": "Appreciation and Sensitivity"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Our Earth in the Solar System",
+      "title_te": "సౌరకుటుంబంలో మన భూమి",
+      "semester": 1,
+      "core_themes": [
+        "Celestial bodies: Stars, Sun, Planets, Satellites, Asteroids, and Meteoroids.",
+        "Constellations (Ursa Major/Great Bear, Saptarishi) and the Pole Star (North Star).",
+        "The Solar System: The Sun as center, eight planets in order from Sun (Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune).",
+        "Earth as a unique planet: Goldilocks zone, presence of water, air, and protective atmosphere.",
+        "The Moon: Earth's natural satellite, phases of the moon, absence of life.",
+        "Milky Way Galaxy (Akash Ganga) and the expanding Universe."
+      ],
+      "learning_outcomes": [
+        "Differentiate between stars and planets.",
+        "Explain why Earth is called the Blue Planet and a unique planet.",
+        "Understand phases of the moon and distance scales in space.",
+        "Locate solar system planets and recognize asteroids between Mars and Jupiter."
+      ],
+      "summary_points": [
+        "The Sun and celestial bodies revolving around it form the Solar System.",
+        "Earth is the third nearest planet to the Sun and the fifth largest planet.",
+        "Earth is called a unique planet because optimal temperature, liquid water, and life-supporting oxygen are present.",
+        "Light travels at $300,000\\text{ km/s}$; sunlight takes about 8 minutes to reach Earth.",
+        "Asteroids orbit between Mars and Jupiter."
+      ],
+      "map_skills": [
+        "Solar system planet orbits",
+        "Asteroid belt position between Mars and Jupiter"
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How does a planet differ from a star? Give three key differences.",
+          "question_text_te": "గ్రహం నక్షత్రం నుండి ఏ విధంగా భిన్నంగా ఉంటుంది? మూడు ముఖ్యమైన తేడాలను తెలపండి.",
+          "question_text": "Distinguish between a planet and a star."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is the Earth called a unique planet and the 'Blue Planet'?",
+          "question_text_te": "భూమిని ఒక విశిష్టమైన గ్రహం అని మరియు 'నీలి గ్రహం' అని ఎందుకు పిలుస్తారు?",
+          "question_text": "Explain why Earth is called unique planet and Blue Planet."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the section on 'Asteroids and Meteoroids' and interpret what happens when meteoroids enter the Earth's atmosphere.",
+          "question_text_te": "'గ్రహ శకలాలు మరియు ఉల్కలు' భాగాన్ని చదివి, ఉల్కలు భూ వాతావరణంలోకి ప్రవేశించినప్పుడు ఏమి జరుగుతుందో విశ్లేషించండి.",
+          "question_text": "Interpret the phenomenon of meteor friction and shooting stars in Earth's atmosphere."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Prepare a table of the 8 planets showing their distance order from Sun, number of moons, and period of revolution.",
+          "question_text_te": "సూర్యుడి నుండి దూరం, ఉపగ్రహాల సంఖ్య మరియు పరిభ్రమణ కాలాన్ని తెలుపుతూ 8 గ్రహాల వివరాలతో ఒక పట్టికను తయారు చేయండి.",
+          "question_text": "Tabulate data on 8 planets: distance, moons, and revolution period."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram of the Solar System showing the Sun, eight planets in their orbits, and the Asteroid belt.",
+          "question_text_te": "సూర్యుడు, ఎనిమిది గ్రహాల కక్ష్యలు మరియు గ్రహ శకలాల వలయాన్ని చూపే చక్కని సౌరకుటుంబ పటాన్ని గీయండి.",
+          "question_text": "Draw labeled diagram of Solar System orbits."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How do you appreciate Earth as our common home? What responsibility do we have to protect its biosphere from climate change?",
+          "question_text_te": "సమస్త జీవకోటికి నిలయమైన భూమిని మీరు ఎలా అభినందిస్తారు? పర్యావరణ పరిరక్షణలో మన బాధ్యత ఏమిటి?",
+          "question_text": "Express appreciation for Earth's life support and duty towards environmental conservation."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Globe – Model of the Earth",
+      "title_te": "గ్లోబు - భూమికి నమూనా",
+      "semester": 1,
+      "core_themes": [
+        "The Globe as a true 3D miniature model of the Earth.",
+        "Axis, North Pole, and South Pole.",
+        "Equator ($0^\\circ$) dividing Earth into Northern and Southern Hemispheres.",
+        "Parallels of Latitudes: Tropic of Cancer ($23\\frac{1}{2}^\\circ\\text{ N}$), Tropic of Capricorn ($23\\frac{1}{2}^\\circ\\text{ S}$), Arctic Circle ($66\\frac{1}{2}^\\circ\\text{ N}$), Antarctic Circle ($66\\frac{1}{2}^\\circ\\text{ S}$).",
+        "Three Heat Zones of the Earth: Torrid Zone, Temperate Zones, and Frigid Zones.",
+        "Meridians of Longitude, Prime Meridian ($0^\\circ$) passing through Greenwich, Longitude and Local Time, Indian Standard Time (IST, $82^\\circ 30'\\text{ E}$).",
+        "International Date Line ($180^\\circ$ Meridian)."
+      ],
+      "learning_outcomes": [
+        "Locate points on the globe using coordinate grid (latitude and longitude).",
+        "Explain differences between parallels of latitude and meridians of longitude.",
+        "Relate angle of sun rays with heat zones on Earth.",
+        "Calculate local time differences based on longitudes."
+      ],
+      "summary_points": [
+        "Globe represents the true spherical shape (geoid) of the Earth tilted at $23\\frac{1}{2}^\\circ$.",
+        "All parallels of latitude decrease in size from the Equator to the poles.",
+        "All meridians of longitude are semicircles of equal length meeting at the poles.",
+        "Earth rotates $360^\\circ$ in 24 hours, meaning $15^\\circ$ per hour or $1^\\circ$ every 4 minutes.",
+        "Indian Standard Time is based on the longitude of $82^\\circ 30'\\text{ E}$ passing through Mirzapur, which is 5 hours 30 minutes ahead of GMT."
+      ],
+      "map_skills": [
+        "Equator, Tropics, and Polar circles on world outline",
+        "IST $82^\\circ 30'\\text{ E}$ meridian through India"
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the three heat zones of the Earth? Why does the Torrid Zone receive the maximum amount of heat?",
+          "question_text_te": "భూమిపై గల మూడు ఉష్ణమండలాలు ఏవి? ఆయన రేఖా మండలంలో (ఉష్ణమండలం) అత్యధిక వేడి ఎందుకు ఉంటుంది?",
+          "question_text": "Name three heat zones and explain why Torrid zone is hottest."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is it 5:30 p.m. in India when it is 12:00 noon in London?",
+          "question_text_te": "లండన్ లో మధ్యాహ్నం 12:00 గంటలు అయినప్పుడు భారతదేశంలో సాయంత్రం 5:30 గంటలు ఎందుకు అవుతుంది?",
+          "question_text": "Explain time difference between IST and GMT based on longitude."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the paragraph on 'The Frigid Zone' and explain why polar regions experience six months of continuous daylight and six months of night.",
+          "question_text_te": "'శీతల మండలం' పాఠ్యభాగాన్ని చదివి, ధ్రువ ప్రాంతాలలో ఆరు నెలల పగలు, ఆరు నెలల రాత్రి ఎందుకు ఏర్పడతాయో వివరించండి.",
+          "question_text": "Interpret polar daylight and darkness from textbook passage on Frigid zone."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Differentiate between Latitudes and Longitudes on the basis of: (a) Direction, (b) Length of lines, (c) Number of lines, (d) Function.",
+          "question_text_te": "(a) దిశ, (b) రేఖల పొడవు, (c) రేఖల సంఖ్య, (d) ప్రయోజనం ఆధారంగా అక్షాంశాలు మరియు రేఖాంశాల మధ్య తేడాలను పట్టిక రూపంలో రాయండి.",
+          "question_text": "Tabulate differences between latitudes and longitudes."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat sketch of the globe and mark: Equator, Tropic of Cancer, Tropic of Capricorn, Arctic Circle, Antarctic Circle, and North and South Poles.",
+          "question_text_te": "గ్లోబు చిత్రాన్ని గీసి: భూమధ్యరేఖ, కర్కటరేఖ, మకరరేఖ, ఆర్కిటిక్ వలయం, అంటార్కిటిక్ వలయం, ఉత్తర మరియు దక్షిణ ధ్రువాలను గుర్తించండి.",
+          "question_text": "Draw globe sketch and label critical parallels of latitude."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do large countries like Russia and USA have multiple standard time zones, while India follows a single standard time (IST)? What are the advantages and challenges?",
+          "question_text_te": "రష్యా, అమెరికా వంటి విశాలమైన దేశాలు బహుళ కాలమండలాలను కలిగి ఉండగా, భారతదేశం ఒకే ప్రామాణిక కాలాన్ని (IST) ఎందుకు అనుసరిస్తుంది? దీని లాభనష్టాలేమిటి?",
+          "question_text": "Reflect on single vs multiple time zones across large nations."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Maps",
+      "title_te": "పటములు",
+      "semester": 1,
+      "core_themes": [
+        "Difference between a globe, map, sketch, and plan.",
+        "Types of Maps: Physical maps (relief features), Political maps (boundaries, cities, nations), Thematic maps (rainfall, roads, industries).",
+        "Three Components of Maps: Distance (Scale - small scale vs large scale maps), Direction (North Arrow, Cardinal directions N, S, E, W and intermediate directions NE, SE, SW, NW), Symbols (Conventional signs and international colors: blue for water bodies, brown for mountains, yellow for plateaus, green for plains).",
+        "Sketches (rough drawing without scale) and Plans (scaled drawing of small area like a room)."
+      ],
+      "learning_outcomes": [
+        "Identify types of maps and their appropriate uses.",
+        "Use map scale to calculate real ground distances.",
+        "Interpret conventional signs, symbols, and standard colors used in cartography.",
+        "Draw a sketch map of one's school or neighborhood showing landmarks."
+      ],
+      "summary_points": [
+        "A map is a representation of Earth's surface or part of it drawn on a flat surface according to a scale.",
+        "A scale is the ratio between the distance on the map and the corresponding distance on the ground.",
+        "Large scale maps show small areas with high detail; small scale maps show continents or countries.",
+        "The North arrow helps orient directions; conventional symbols provide maximum information in minimum space."
+      ],
+      "map_skills": [
+        "Conventional cartographic signs and symbols",
+        "Direction finding and scale conversion"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the three components of a map? Explain the significance of scale.",
+          "question_text_te": "పటం యొక్క మూడు ముఖ్యమైన అంశాలు ఏవి? స్కేలు (స్కేలు ప్రమాణం) యొక్క ప్రాముఖ్యతను వివరించండి.",
+          "question_text": "Explain the three map components: distance, direction, symbol."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between a physical map and a political map.",
+          "question_text_te": "భౌతిక పటానికి మరియు రాజకీయ పటానికి మధ్య గల తేడాలను తెలపండి.",
+          "question_text": "Distinguish between physical and political maps."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw the conventional symbols used in maps to represent: (a) Broad gauge railway line, (b) Metalled road, (c) River, (d) Temple, (e) Post Office (PO), (f) Police Station (PS).",
+          "question_text_te": "పటాలలో ఉపయోగించే సంప్రదాయ చిహ్నాలను గీయండి: (a) బ్రాడ్ గేజ్ రైల్వే లైన్, (b) పక్కా రోడ్డు, (c) నది, (d) దేవాలయం, (e) పోస్టాఫీసు (PO), (f) పోలీస్ స్టేషన్ (PS).",
+          "question_text": "Draw conventional cartographic symbols for standard infrastructure."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "If the scale of a map is $1\\text{ cm} = 50\\text{ km}$, what is the actual ground distance between two towns that are 6.5 cm apart on the map?",
+          "question_text_te": "ఒక పటంలో స్కేలు $1\\text{ సెం.మీ.} = 50\\text{ కి.మీ.}$ గా ఉన్నప్పుడు, పటంలో 6.5 సెం.మీ. దూరంలో ఉన్న రెండు పట్టణాల మధ్య వాస్తవ భూ దూరం ఎంత?",
+          "question_text": "Calculate ground distance from map scale measurement."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How have digital satellite maps and GPS mobile applications changed navigation and transport in modern daily life?",
+          "question_text_te": "డిజిటల్ ఉపగ్రహ పటాలు మరియు మొబైల్ GPS అప్లికేషన్లు ఆధునిక రవాణా మరియు ప్రయాణ విధానాలను ఏ విధంగా మార్చివేసాయి?",
+          "question_text": "Reflect on impact of digital GIS/GPS maps in daily navigation."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Land Forms - Andhra Pradesh",
+      "title_te": "ఆంధ్రప్రదేశ్ - భూస్వరూపాలు",
+      "semester": 1,
+      "core_themes": [
+        "Major landforms of Andhra Pradesh: Mountains/Hills (Kondalu), Plateaus (Peethabhumulu), and Plains (Mydhanalu).",
+        "The Eastern Ghats in AP: Hill ranges including Nallamala, Veligonda, Palakonda, Erramala, and Seshachalam hills; highest peak Arma Konda ($1,680\\text{ m}$) in Visakhapatnam district.",
+        "Plateau region of Rayalaseema: Deccan plateau extension, rocky terrain, black and red soils, dry climate, drought challenges.",
+        "Coastal Plains of Andhra Pradesh: Srikakulam to Nellore along the Bay of Bengal, fertile Krishna and Godavari deltas.",
+        "Major rivers flowing through AP: Godavari, Krishna, Penna, Vamsadhara, Nagavali.",
+        "Livelihoods, crops, irrigation tanks, borewells, and canal networks."
+      ],
+      "learning_outcomes": [
+        "Identify the three major physiographic divisions of Andhra Pradesh.",
+        "Trace the courses of Krishna and Godavari rivers and their delta formations.",
+        "Compare agricultural practices and water availability between Coastal plains and Rayalaseema plateaus.",
+        "Locate major hill ranges and rivers on the outline map of Andhra Pradesh."
+      ],
+      "summary_points": [
+        "Andhra Pradesh has three distinct landforms: Eastern Ghats, Rayalaseema plateau, and Coastal plains.",
+        "The Coastal plain extends along the Bay of Bengal coastline of about 974 km.",
+        "Krishna and Godavari deltas are known as the rice bowl of Andhra Pradesh due to fertile alluvial soils.",
+        "Rayalaseema plateau receives low rainfall and depends on tanks, borewells, and dryland crops like groundnut and millets."
+      ],
+      "map_skills": [
+        "Rivers Godavari and Krishna delta in AP",
+        "Eastern Ghats hill ranges and Bay of Bengal coastline"
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Name the three major landforms found in Andhra Pradesh and describe the features of the Coastal Plains.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ లోని మూడు ప్రధాన భూస్వరూపాలను పేర్కొని, తీర మైదానాల లక్షణాలను వివరించండి.",
+          "question_text": "Name three major AP landforms and describe Coastal Plains."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is the delta region of Godavari and Krishna rivers very fertile and suitable for extensive agriculture?",
+          "question_text_te": "గోదావరి, కృష్ణా నదుల డెల్టా ప్రాంతం ఎందుకు అత్యంత సారవంతమైనదిగా మరియు వ్యవసాయానికి అనుకూలంగా ఉంటుంది?",
+          "question_text": "Explain fertility and agricultural significance of Krishna-Godavari deltas."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Compare the Rayalaseema Plateau and the Coastal Plains of AP based on: (a) Rainfall, (b) Soil types, (c) Major crops grown, (d) Source of irrigation.",
+          "question_text_te": "(a) వర్షపాతం, (b) నేలల రకాలు, (c) ప్రధాన పంటలు, (d) నీటిపారుదల వనరులు ఆధారంగా రాయలసీమ పీఠభూమి మరియు తీర మైదానాలను పోల్చండి.",
+          "question_text": "Compare Rayalaseema plateau and Coastal plains in tabular format."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Rayalaseema farmers often face drought and ground water depletion. What water conservation methods should be promoted in plateau regions?",
+          "question_text_te": "రాయలసీమ రైతులు తరచూ కరువు మరియు భూగర్భజలాల తగ్గుదల సమస్యలను ఎదుర్కొంటారు. పీఠభూమి ప్రాంతాలలో ఎలాంటి నీటి సంరక్షణ పద్ధతులను ప్రోత్సహించాలి?",
+          "question_text": "Reflect on drought management and rainwater harvesting in Rayalaseema."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of Andhra Pradesh, locate and label: (a) River Godavari, (b) River Krishna, (c) Nallamala Hills, (d) Bay of Bengal, (e) Pulicat Lake.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ అవుట్‌లైన్ మ్యాప్‌లో గుర్తించండి: (a) గోదావరి నది, (b) కృష్ణా నది, (c) నల్లమల కొండలు, (d) బంగాళాఖాతం, (e) పులికాట్ సరస్సు.",
+          "question_text": "Locate key rivers, hills, and water bodies on AP map."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the life and biodiversity in the Eastern Ghats of AP and explain why preserving hill forests like Seshachalam is vital for ecology.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ లోని తూర్పు కనుమలలోని జీవవైవిధ్యాన్ని మీరు ఎలా అభినందిస్తారు? శేషాచలం అడవులను పరిరక్షించడం పర్యావరణానికి ఎందుకు ముఖ్యం?",
+          "question_text": "Appreciate biodiversity of Eastern Ghats and necessity of forest conservation."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Early Life to Settled Life",
+      "title_te": "సంచార జీవనం నుండి స్థిర జీవనం",
+      "semester": 1,
+      "core_themes": [
+        "Hunter-gatherers of the Paleolithic Age (Old Stone Age): Hunting wild animals, gathering fruits, nuts, roots, and seeds.",
+        "Nomadic life and reasons for moving from place to place (seasonal fruits, movement of game animals, drying up of water sources).",
+        "Stone tool technology: Flint core tools, flake tools, and Microliths (Mesolithic).",
+        "Discovery and use of fire (cooking food, protection from wild beasts, light in caves). Rock art at Bhimbetka, Belum caves, and Kurnool caves.",
+        "Beginning of Agriculture and Pastoralism (Neolithic Age): Cultivation of barley, wheat, and rice; domestication of dog, sheep, goat, and cattle.",
+        "Invention of the wheel, pottery for cooking and grain storage, settled mud-brick huts (e.g., Mehrgarh, Burzahom), and Megalithic burial traditions."
+      ],
+      "learning_outcomes": [
+        "Explain reasons why early humans lived a nomadic life.",
+        "Describe how the discovery of fire and invention of agriculture transformed human society.",
+        "Identify archaeological evidence of early humans in Andhra Pradesh (Kurnool caves, Nagarjunakonda).",
+        "Compare life of hunter-gatherers with settled agriculturalists."
+      ],
+      "summary_points": [
+        "Early humans lived by hunting and food gathering for millions of years.",
+        "Traces of ash found in Kurnool caves in AP prove early use of fire by Paleolithic humans.",
+        "Neolithic humans settled in villages, cultivated crops, tamed animals, and made pottery on the potter's wheel.",
+        "Megaliths were large stone slabs placed over burial grounds by early iron age communities."
+      ],
+      "map_skills": [
+        "Paleolithic and Neolithic sites in India: Kurnool caves, Bhimbetka, Mehrgarh, Burzahom"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the hunter-gatherers travel from place to place? In what ways are these similar to/different from the reasons for which we travel today?",
+          "question_text_te": "ఆదిమ మానవులు ఒక ప్రాంతం నుండి మరొక ప్రాంతానికి ఎందుకు తిరిగేవారు? ప్రస్తుత కాలంలో మనం ప్రయాణాలు చేయడానికి గల కారణాలతో వాటిని పోల్చండి.",
+          "question_text": "Explain reasons for nomadic life of hunter-gatherers and compare with modern travel."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What archaeological evidence found in Kurnool caves of Andhra Pradesh indicates that early humans used fire?",
+          "question_text_te": "ఆంధ్రప్రదేశ్ లోని కర్నూలు గుహలలో లభించిన ఏ పురావస్తు ఆధారాలు ప్రాచీన మానవుడు నిప్పును ఉపయోగించాడని నిరూపిస్తున్నాయి?",
+          "question_text": "Cite evidence of ash in Kurnool caves for discovery of fire."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the paragraph on 'Invention of the Wheel' and explain how it revolutionized transport and craft making.",
+          "question_text_te": "'చక్రం కనిపెట్టడం' పాఠ్యభాగాన్ని చదివి, చక్రం రాకతో రవాణా మరియు కుండల తయారీలో ఎలాంటి విప్లవాత్మక మార్పులు వచ్చాయో వివరించండి.",
+          "question_text": "Interpret the transformative impact of the wheel on human civilization."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and mark the following prehistoric sites: (a) Bhimbetka, (b) Kurnool caves, (c) Mehrgarh, (d) Burzahom, (e) Hunsgi.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో క్రింది ప్రాచీన రాతియుగ ప్రదేశాలను గుర్తించండి: (a) భీమ్‌బేట్కా, (b) కర్నూలు గుహలు, (c) మెహర్‌గఢ్, (d) బుర్జాహోమ్, (e) హున్స్‌గి.",
+          "question_text": "Locate major Indian Paleolithic and Neolithic archaeological sites."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How do prehistoric cave paintings in Bhimbetka and Belum show the artistic sensitivity and close relationship of early humans with wildlife?",
+          "question_text_te": "భీమ్‌బేట్కా మరియు బేలుమ్ గుహలలోని రాతి చిత్రాలు ఆదిమ మానవుల కళాత్మక దృష్టిని, జంతువులతో వారికి గల అనుబంధాన్ని ఎలా తెలియజేస్తాయి?",
+          "question_text": "Appreciate prehistoric rock art as evidence of early human creativity and nature harmony."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Early Civilisations",
+      "title_te": "తొలి నాగరికతలు",
+      "semester": 1,
+      "core_themes": [
+        "The Indus Valley (Harappan) Civilisation (2500–1700 BCE): First urban civilisation in the Indian subcontinent.",
+        "Cities and Town Planning: Citadel (Upper town) and Lower town, baked bricks, grid iron street layout.",
+        "Unique architectural marvels: The Great Bath of Mohenjo-daro, granaries of Harappa, dockyard of Lothal, water reservoirs at Dholavira.",
+        "Drainage system: Covered inspection drains running parallel to houses, soak pits.",
+        "Life in the city: Rulers, scribes, craftspersons; seals (Pashupati seal, Unicorn), steatite beads, bronze dancing girl, terracotta toys.",
+        "Trade with Mesopotamia (Dilmun, Magan, Meluhha).",
+        "Causes of decline: Deforestation, floods, shifting of river courses, drying up of Saraswati, over-utilization of resources."
+      ],
+      "learning_outcomes": [
+        "Explain the remarkable features of town planning in Harappan cities.",
+        "Describe the construction and civic hygiene of the Indus drainage system and Great Bath.",
+        "Analyze Harappan crafts, seals, and long-distance trade.",
+        "Locate key Indus sites: Harappa, Mohenjo-daro, Lothal, Kalibangan, and Dholavira on the map."
+      ],
+      "summary_points": [
+        "Harappa was discovered in 1921 in Punjab (now Pakistan), followed by Mohenjo-daro in Sindh.",
+        "Harappan cities were divided into two parts: elevated western citadel and lower eastern town.",
+        "Lothal in Gujarat had a tidal dockyard connected to the Sabarmati river for maritime trade.",
+        "Harappan script was pictographic and remains undeciphered to this day."
+      ],
+      "map_skills": [
+        "Indus Valley Civilisation sites: Harappa, Mohenjo-daro, Lothal, Kalibangan, Dholavira"
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Describe the main architectural features of the Great Bath found at Mohenjo-daro.",
+          "question_text_te": "మొహెంజొదారోలో బయల్పడిన మహా స్నానవాటిక (ది గ్రేట్ బాత్) యొక్క ముఖ్యమైన నిర్మాణ లక్షణాలను వివరించండి.",
+          "question_text": "Describe the Great Bath at Mohenjo-daro."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What made the Harappan drainage system unique and advanced compared to other ancient civilisations?",
+          "question_text_te": "హరప్పా నాగరికత కాలం నాటి భూగర్భ మురుగునీటి పారుదల వ్యవస్థ ఇతర ప్రాచీన నాగరికతల కంటే ఏ విధంగా విశిష్టమైనది?",
+          "question_text": "Explain the advanced underground drainage system of Harappa."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the section on 'The Dockyard at Lothal' and explain how overseas trade was carried out by Harappan merchants.",
+          "question_text_te": "'లోథాల్ లోని ఓడరేవు' భాగాన్ని చదివి, హరప్పా వర్తకులు విదేశీ వ్యాపారాన్ని ఏ విధంగా నిర్వహించేవారో వివరించండి.",
+          "question_text": "Interpret overseas trade network of Harappans via Lothal dockyard."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Prepare a list of raw materials used by Harappans and the distant places from which they were obtained (Copper, Tin, Gold, Silver, Lapis Lazuli).",
+          "question_text_te": "హరప్పా ప్రజలు ఉపయోగించిన ముడి పదార్థాలు మరియు అవి లభించిన సుదూర ప్రాంతాల వివరాలతో ఒక పట్టికను రూపొందించండి (రాగి, తగరం, బంగారం, వెండి, లాపిస్ లాజులీ).",
+          "question_text": "Tabulate Harappan raw materials and their geographic source locations."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label the major Harappan sites: (a) Harappa, (b) Mohenjo-daro, (c) Kalibangan, (d) Lothal, (e) Dholavira.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో ప్రధాన హరప్పా నగరాలను గుర్తించండి: (a) హరప్పా, (b) మొహెంజొదారో, (c) కాలిబంగన్, (d) లోథాల్, (e) ధోలవీర.",
+          "question_text": "Locate major Indus Valley Civilisation archaeological sites on map."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What lessons on urban cleanliness, hygiene, and water conservation can modern smart cities learn from the Harappan civilization?",
+          "question_text_te": "పట్టణ పారిశుధ్యం, పరిశుభ్రత మరియు నీటి సంరక్షణ విషయాలలో నేటి ఆధునిక నగరాలు హరప్పా నాగరికత నుండి నేర్చుకోవలసిన పాఠాలు ఏమిటి?",
+          "question_text": "Reflect on urban planning and civic hygiene lessons from Harappa for modern cities."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Emergence of Kingdoms and Republics",
+      "title_te": "సామ్రాజ్యాలు మరియు గణతంత్రాల ఆవిర్భావం",
+      "semester": 2,
+      "core_themes": [
+        "From Janapadas to Mahajanapadas (around 600 BCE): 16 great territorial realms across the Indo-Gangetic plains.",
+        "Monarchies (Rajyas) vs Republics (Ganas or Sanghas).",
+        "Gana-Sanghas: Governance in Vajji confederacy, Lichchhavis, decision making through discussion in assembly halls (Santhagara).",
+        "Rise of Magadha as the most powerful Mahajanapada: Strategic geography (Ganga and Son rivers for transport and water), iron ore deposits in Rajgir for weapons, fertile plains, war elephants.",
+        "Rulers of Magadha: Bimbisara, Ajatashatru, Mahapadma Nanda.",
+        "Taxation system: Bhaga (1/6th of agricultural produce), taxes on craftspersons, traders, and herders; use of punch-marked coins.",
+        "Agricultural changes: Introduction of heavy iron plowshares, transplantation of paddy seedlings."
+      ],
+      "learning_outcomes": [
+        "Distinguish between a kingdom (monarchy) and a republic (gana-sangha).",
+        "Analyze the geographical and economic factors that led to the rise of Magadha.",
+        "Explain the ancient tax system and changes in agriculture during the Mahajanapada period.",
+        "Locate 16 Mahajanapadas on the outline map of India."
+      ],
+      "summary_points": [
+        "Around 2500 years ago, some Janapadas became more important and were known as Mahajanapadas.",
+        "Most Mahajanapadas had a fortified capital city surrounded by huge brick or stone walls.",
+        "Magadha was ruled by powerful monarchs like Bimbisara and Ajatashatru with capitals at Rajagriha and later Pataliputra.",
+        "In Vajji (capital Vaishali), government was a Gana where decisions were taken in assemblies through debate."
+      ],
+      "map_skills": [
+        "16 Mahajanapadas: Magadha, Vajji, Kosala, Avanti, Gandhara, Vatsa"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the main differences between the system of government in Magadha and the Vajji Gana-sangha?",
+          "question_text_te": "మగధ రాజరికం మరియు వజ్జి గణతంత్ర రాజ్యాల పరిపాలనా విధానాల మధ్య గల ముఖ్యమైన తేడాలు ఏమిటి?",
+          "question_text": "Contrast monarchy of Magadha with democratic assembly of Vajji."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain how the use of iron plowshares and paddy transplantation increased agricultural production around 600 BCE.",
+          "question_text_te": "క్రీ.పూ. 600 కాలంలో ఇనుప నాగలి కర్రుల వాడకం మరియు వరి నాట్ల పద్ధతి వ్యవసాయ దిగుబడిని ఏ విధంగా పెంచాయో వివరించండి.",
+          "question_text": "Explain technological advances in agriculture: iron plowshare and paddy transplantation."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the paragraph on 'Taxes in Mahajanapadas' and explain why kings needed regular taxes instead of voluntary gifts (Bali).",
+          "question_text_te": "'మహాజనపదాలలో పన్నులు' భాగాన్ని చదివి, రాజులు స్వచ్ఛంద బహుమతులకు బదులుగా క్రమబద్ధమైన పన్నులను ఎందుకు వసూలు చేశారో వివరించండి.",
+          "question_text": "Interpret the necessity of regular taxation for building forts and maintaining standing armies."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label the four major Mahajanapadas: (a) Magadha, (b) Vajji, (c) Kosala, (d) Avanti, and their capitals.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో నాలుగు ప్రధాన మహాజనపదాలను, వాటి రాజధానులను గుర్తించండి: (a) మగధ, (b) వజ్జి, (c) కోసల, (d) అవంతి.",
+          "question_text": "Locate major Mahajanapadas on ancient India outline map."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "In what ways was the Vajji Gana assembly similar to our modern democratic Gram Sabha or legislative assembly?",
+          "question_text_te": "వజ్జి గణ పరిషత్ చర్చా విధానం నేటి మన ప్రజాస్వామ్య గ్రామసభ లేదా శాసనసభలతో ఏ విధంగా సారూప్యతను కలిగి ఉంది?",
+          "question_text": "Compare democratic participatory debate in Vajji assemblies with modern Gram Sabha."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Kingdoms and Empires",
+      "title_te": "సామ్రాజ్యాలు మరియు మహా సామ్రాజ్యాలు",
+      "semester": 2,
+      "core_themes": [
+        "The Mauryan Empire (322–185 BCE): First pan-Indian empire founded by Chandragupta Maurya with assistance of Chanakya (Kautilya).",
+        "Kautilya's Arthashastra (principles of statecraft and economy) and Megasthenes' Indica (vivid accounts of Pataliputra).",
+        "Emperor Ashoka the Great: The Kalinga War (261 BCE), devastation, grief, and historic transformation from Digvijaya (military conquest) to Dhammavijaya (conquest by righteousness).",
+        "Ashoka's Dhamma: Moral ethical code (respect for parents, kindness to servants, religious tolerance, non-violence / Ahimsa).",
+        "Inscriptions on rocks and polished pillars in Prakrit language using Brahmi script.",
+        "Sarnath Lion Capital as the National Emblem of India.",
+        "Provincial administration: Pataliputra, Taxila, Ujjain, and Suvarnagiri."
+      ],
+      "learning_outcomes": [
+        "Understand how an empire differs from a kingdom.",
+        "Explain the transformation of Ashoka after the Kalinga war.",
+        "Describe the core ethical teachings of Ashoka's Dhamma.",
+        "Identify the historical legacy of the Sarnath Lion Capital as India's National Emblem."
+      ],
+      "summary_points": [
+        "An empire requires much larger resources, standing armies, and extensive bureaucratic networks than a kingdom.",
+        "Pataliputra was protected by massive wooden ramparts with 570 towers and 64 gates.",
+        "Ashoka is the only king in world history who gave up conquest after winning a war.",
+        "Ashoka appointed Dhamma Mahamattas to preach ethical conduct and inscribed rock edicts across the subcontinent."
+      ],
+      "map_skills": [
+        "Ashokan inscription sites: Sarnath, Kalinga, Taxila, Amaravati, Yerragudi in AP"
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What made Ashoka give up warfare after the Kalinga War? How did his policy of conquest change?",
+          "question_text_te": "కళింగ యుద్ధం తర్వాత అశోకుడు యుద్ధాన్ని ఎందుకు విరమించుకున్నాడు? అతని విజయ విధానంలో ఎలాంటి మార్పు వచ్చింది?",
+          "question_text": "Explain Ashoka's renunciation of war after Kalinga."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the main problems that Ashoka tried to solve by introducing his Dhamma?",
+          "question_text_te": "అశోకుడు తన ధర్మం ద్వారా సమాజంలోని ఏ సమస్యలను పరిష్కరించడానికి ప్రయత్నించాడు?",
+          "question_text": "Explain ethical problems addressed by Ashoka's Dhamma."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read Ashoka's edict on religious tolerance: 'One who honours his own sect and condemns other sects actually harms his own sect'. Interpret this statement in today's multi-religious society.",
+          "question_text_te": "'తన మతాన్ని గౌరవించి, ఇతరుల మతాలను కించపరిచేవాడు వాస్తవానికి తన మతానికే తీరని హాని చేస్తాడు' అనే అశోకుని శాసనాన్ని చదివి, నేటి బహుళ మతాల సమాజానికి దాని ప్రాముఖ్యతను వివరించండి.",
+          "question_text": "Interpret Ashoka's Rock Edict XII on inter-faith harmony and secularism."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "List the historical literary sources that help us reconstruct Mauryan history and specify the author and subject of each work.",
+          "question_text_te": "మౌర్యుల చరిత్రను తెలుసుకోవడానికి ఉపయోగపడే చారిత్రక గ్రంథాలు, వాటి రచయితలు, గ్రంథ విషయాలను పట్టిక రూపంలో రాయండి.",
+          "question_text": "Tabulate Mauryan historical sources: Arthashastra, Indica, Deepavamsa, Mudrarakshasa."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate major Ashokan inscription sites: (a) Sarnath, (b) Kalinga (Dhauli), (c) Pataliputra, (d) Taxila, (e) Yerragudi (Andhra Pradesh).",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో అశోకుని ప్రధాన శాసన ప్రదేశాలను గుర్తించండి: (a) సారనాథ్, (b) కళింగ (ధౌళి), (c) పాటలీపుత్ర, (d) తక్షశిల, (e) ఎర్రగుడి (ఆంధ్రప్రదేశ్).",
+          "question_text": "Locate Ashokan rock and pillar edict sites on map of India."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How do you appreciate the design of the Sarnath Lion Capital which has been adopted as the National Emblem of Independent India?",
+          "question_text_te": "భారత జాతీయ చిహ్నంగా స్వీకరించబడిన సారనాథ్ సింహ రాజధాని (సింహ శిఖరం) యొక్క శిల్పకళా సౌందర్యాన్ని, నైతిక సందేశాన్ని మీరు ఎలా అభినందిస్తారు?",
+          "question_text": "Appreciate architectural majesty and democratic symbolism of Sarnath Lion Capital."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Government",
+      "title_te": "ప్రభుత్వం",
+      "semester": 2,
+      "core_themes": [
+        "What is government? Need for rules, laws, public order, and collective decision making.",
+        "Key functions of government: maintaining law and order, protecting boundaries, ensuring welfare, building infrastructure, managing disasters.",
+        "Three levels of government in India: Local level (village/town), State level (Andhra Pradesh), National/Central level (India).",
+        "Three organs of government: Legislature (makes laws), Executive (implements laws), Judiciary (resolves disputes and interprets laws).",
+        "Types of government: Monarchy, Dictatorship, and Democracy (Representative Democracy).",
+        "Universal Adult Suffrage (right to vote for all adult citizens aged 18 and above without discrimination).",
+        "Women's Suffrage Movement (struggle for voting rights in UK and USA)."
+      ],
+      "learning_outcomes": [
+        "Define government and identify its primary functions in citizen welfare.",
+        "Differentiate between the three levels of government: local, state, and central.",
+        "Explain the significance of Universal Adult Suffrage and free and fair elections.",
+        "Contrast democracy with monarchy and dictatorship."
+      ],
+      "summary_points": [
+        "A government is an institution through which a society makes and enforces public policies.",
+        "India is a representative democracy where citizens elect leaders to make decisions on their behalf.",
+        "Universal Adult Suffrage means that all citizens aged 18 and above have one vote with equal value.",
+        "Laws made by the legislature must be obeyed by everyone; courts ensure laws are followed."
+      ],
+      "map_skills": [
+        "Map of India showing States and Union Territories",
+        "Political administrative divisions"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What do you understand by the word 'government'? List five ways in which the government affects your daily life.",
+          "question_text_te": "'ప్రభుత్వం' అంటే మీరు ఏమి అర్థం చేసుకున్నారు? మీ దైనందిన జీవితంపై ప్రభుత్వం చూపే ఐదు ప్రభావాలను పేర్కొనండి.",
+          "question_text": "Define government and list five daily civic touchpoints."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between a Democratic government and a Monarchy.",
+          "question_text_te": "ప్రజాస్వామ్య ప్రభుత్వానికి మరియు రాచరిక ప్రభుత్వానికి మధ్య గల తేడాలను వివరించండి.",
+          "question_text": "Distinguish between democracy and monarchy."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the section on 'Women's Suffrage Movement' and explain why women had to struggle to get the right to vote in Western democracies.",
+          "question_text_te": "'మహిళా ఓటుహక్కు ఉద్యమం' భాగాన్ని చదివి, పాశ్చాత్య దేశాలలో మహిళలు ఓటుహక్కు సాధించడానికి ఎందుకు పోరాడాల్సి వచ్చిందో వివరించండి.",
+          "question_text": "Interpret historical struggle for women's suffrage in UK and USA."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Classify the following government decisions into Local, State, or Central level: (a) Construction of village road in Chittoor, (b) Introduction of new 500-rupee currency note, (c) Decision to hold Class 10 board exams in AP, (d) Signing peace treaty with neighboring country.",
+          "question_text_te": "క్రింది ప్రభుత్వ నిర్ణయాలను స్థానిక, రాష్ట్ర లేదా కేంద్ర ప్రభుత్వ స్థాయిలుగా వర్గీకరించండి: (a) చిత్తూరులోని ఒక గ్రామీణ రహదారి నిర్మాణం, (b) కొత్త 500 రూపాయల నోటు విడుదల, (c) ఆంధ్రప్రదేశ్ లో పదవ తరగతి పరీక్షల నిర్వహణ, (d) పొరుగు దేశంతో శాంతి ఒప్పందం కుదుర్చుకోవడం.",
+          "question_text": "Classify government decisions into local, state, and central levels."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is Universal Adult Suffrage considered the cornerstone of Indian democracy? What would happen if voting rights were restricted only to educated or wealthy citizens?",
+          "question_text_te": "సార్వత్రిక వయోజన ఓటుహక్కును భారత ప్రజాస్వామ్యానికి పునాదిగా ఎందుకు భావిస్తారు? కేవలం చదువుకున్నవారికి లేదా ధనవంతులకే ఓటుహక్కు పరిమితం చేస్తే ఏమవుతుంది?",
+          "question_text": "Reflect on democratic equality through Universal Adult Suffrage."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Local Self Government",
+      "title_te": "స్థానిక స్వపరిపాలన",
+      "semester": 2,
+      "core_themes": [
+        "Decentralization of power and local democracy in rural and urban areas.",
+        "Panchayati Raj System (Three-tier structure): Gram Panchayat at village level, Mandal Parishad at mandal level, Zilla Parishad at district level.",
+        "Gram Sabha: General body meeting of all adult registered voters in a village, role in approving plans and monitoring Sarpanch.",
+        "Gram Panchayat: Wards, Ward Members (Ward Councillors), Sarpanch (elected head), and Panchayat Secretary (appointed government official).",
+        "Functions of Gram Panchayat: Water supply, drainage, rural roads, street lighting, sanitation, maintaining village records.",
+        "Urban Local Bodies: Nagar Panchayat (transitional town), Municipality (medium town), Municipal Corporation (large city with Mayor and Municipal Commissioner).",
+        "Sources of revenue for local bodies: House tax, water tax, property tax, stamp duty, state government grants."
+      ],
+      "learning_outcomes": [
+        "Explain the structure and functioning of Gram Sabha and Gram Panchayat.",
+        "Describe the three-tier Panchayati Raj system in Andhra Pradesh.",
+        "Differentiate between rural local bodies (Panchayats) and urban local bodies (Municipalities / Corporations).",
+        "Appreciate the importance of citizen participation in local governance."
+      ],
+      "summary_points": [
+        "Gram Sabha is the supreme democratic body in a village where all adult residents can participate and question officials.",
+        "Every village Panchayat is divided into wards, each represented by an elected Ward Member.",
+        "Panchayat Secretary records minutes of meetings and oversees implementation of government development schemes.",
+        "In large cities like Visakhapatnam and Vijayawada, municipal administration is headed by a Municipal Commissioner."
+      ],
+      "map_skills": [
+        "District and Mandal administrative boundaries map of Andhra Pradesh"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the relation between a Gram Sabha and a Gram Panchayat? Who can be a member of the Gram Sabha?",
+          "question_text_te": "గ్రామసభ మరియు గ్రామ పంచాయతీల మధ్య సంబంధం ఏమిటి? గ్రామసభలో ఎవరు సభ్యులుగా ఉంటారు?",
+          "question_text": "Explain relationship between Gram Sabha and Gram Panchayat."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the key civic functions performed by a Municipal Corporation in an urban area?",
+          "question_text_te": "పట్టణ ప్రాంతాలలో నగరపాలక సంస్థ (మున్సిపల్ కార్పొరేషన్) నిర్వహించే ముఖ్యమైన పౌర విధులు ఏమిటి?",
+          "question_text": "Describe civic duties of Municipal Corporations in urban cities."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw an organizational flowchart showing the three-tier Panchayati Raj structure from village to district level in Andhra Pradesh.",
+          "question_text_te": "ఆంధ్రప్రదేశ్ లో గ్రామ స్థాయి నుండి జిల్లా స్థాయి వరకు గల మూడంచెల పంచాయతీరాజ్ వ్యవస్థను చూపే ఫ్లోచార్ట్‌ను గీయండి.",
+          "question_text": "Create flowchart of three-tier Panchayati Raj administration."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is regular attendance of villagers in Gram Sabha meetings crucial for eliminating corruption in village development projects?",
+          "question_text_te": "గ్రామ అభివృద్ధి పనులలో అవినీతిని అరికట్టడానికి గ్రామస్తులు క్రమం తప్పకుండా గ్రామసభలకు హాజరుకావడం ఎందుకు చాలా అవసరం?",
+          "question_text": "Reflect on citizen vigilance in Gram Sabha for transparent governance."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the hard work done by municipal sanitary sanitation workers who clean drains and roads every day to keep our towns disease-free.",
+          "question_text_te": "మన ఊర్లు, పట్టణాలు రోగాల బారిన పడకుండా ప్రతిరోజూ వీధులను, మురుగు కాలువలను శుభ్రపరిచే పారిశుధ్య కార్మికుల సేవలను మీరు ఎలా అభినందిస్తారు?",
+          "question_text": "Express gratitude and empathy towards municipal sanitation workers."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Indian Culture, Languages and Religions",
+      "title_te": "భారతీయ సంస్కృతి, భాషలు మరియు మతాలు",
+      "semester": 2,
+      "core_themes": [
+        "Cultural richness and diversity of India: Unity in Diversity.",
+        "Languages of India: Indo-Aryan, Dravidian, Austro-Asiatic, and Tibeto-Burman language families; 22 Scheduled languages.",
+        "Classical languages of India (Sanskrit, Tamil, Telugu, Kannada, Malayalam, Odia).",
+        "Major religions born in India: Hinduism (Vedic wisdom, Upanishads, Bhagavad Gita, Epics: Ramayana and Mahabharata).",
+        "Buddhism: Gautama Buddha, teachings of Four Noble Truths and Eightfold Path (Ashtangika Marga), spread to Sri Lanka, China, Southeast Asia.",
+        "Jainism: Vardhamana Mahavira, principles of Ahimsa (non-injury), Satya, Asteya, Brahmacharya, Aparigraha; Triratnas.",
+        "World religions in India: Islam, Christianity, Sikhism, Zoroastrianism, and Judaism.",
+        "Ancient art, sculpture, and cave architecture: Amaravati Stupa, Nagarjunakonda, Ajanta and Ellora caves."
+      ],
+      "learning_outcomes": [
+        "Recognize the linguistic diversity and major language families in India.",
+        "Explain the core ethical teachings of Buddhism and Jainism.",
+        "Appreciate the artistic brilliance of ancient Buddhist stupas like Amaravati in Andhra Pradesh.",
+        "Embrace religious tolerance and pluralistic cultural values."
+      ],
+      "summary_points": [
+        "India's culture is a synthesis of diverse customs, faiths, arts, and languages evolving over millennia.",
+        "Telugu is recognized as a classical language known for its rich literary tradition and sweetness ('Desa bhashalandu Telugu lessa').",
+        "Gautama Buddha preached Dhamma in simple Prakrit so common people could easily understand.",
+        "Amaravati and Nagarjunakonda in Andhra Pradesh were world-renowned centers of Mahayana Buddhism and art."
+      ],
+      "map_skills": [
+        "Ancient cultural and religious heritage sites: Sanchi, Amaravati, Bodh Gaya, Sarnath, Sravanabelagola"
+      ],
+      "total_exercises": 6,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the main teachings of Gautama Buddha? Name the Four Noble Truths.",
+          "question_text_te": "గౌతమ బుద్ధుని ప్రధాన బోధనలు ఏవి? చతురార్య సత్యాలను పేర్కొనండి.",
+          "question_text": "State Buddha's Four Noble Truths and Eightfold Path."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the Three Jewels (Triratnas) of Jainism taught by Lord Mahavira?",
+          "question_text_te": "వర్ధమాన మహావీరుడు బోధించిన జైనమత త్రిరత్నాలు ఏవి?",
+          "question_text": "State the Three Jewels (Triratnas) of Jainism."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read the section on 'The Stupa of Amaravati' and explain how Buddhist art depicted life stories of the Buddha (Jataka tales) in limestone relief sculptures.",
+          "question_text_te": "'అమరావతి స్తూపం' భాగాన్ని చదివి, బౌద్ధ శిల్పులు సున్నపురాతి పలకలపై బుద్ధుని జీవిత ఘట్టాలను (జాతక కథలు) ఏ విధంగా మలిచారో వివరించండి.",
+          "question_text": "Interpret the narrative Buddhist art on limestone relief panels at Amaravati."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Classify the major classical languages of India into their respective linguistic families: (a) Sanskrit, (b) Tamil, (c) Telugu, (d) Kannada, (e) Malayalam, (f) Odia.",
+          "question_text_te": "భారతీయ ప్రాచీన (క్లాసికల్) భాషలను వాటి భాషా కుటుంబాల ఆధారంగా వర్గీకరించండి: (a) సంస్కృతం, (b) తమిళం, (c) తెలుగు, (d) కన్నడ, (e) మలయాళం, (f) ఒడియా.",
+          "question_text": "Classify classical Indian languages into Indo-Aryan and Dravidian language families."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: (a) Bodh Gaya, (b) Sanchi, (c) Amaravati, (d) Nagarjunakonda, (e) Sravanabelagola.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో గుర్తించండి: (a) బోధగయ, (b) సాంచి, (c) అమరావతి, (d) నాగార్జునకొండ, (e) శ్రవణబెళగొళ.",
+          "question_text": "Locate major Buddhist and Jain cultural centers on India map."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How does the principle of 'Unity in Diversity' define the essence of Indian society? Express your appreciation with examples from festivals celebrated in Andhra Pradesh.",
+          "question_text_te": "'భిన్నత్వంలో ఏకత్వం' అనే సూత్రం భారతీయ సమాజ ఔన్నత్యాన్ని ఎలా ప్రతిబింబిస్తుంది? ఆంధ్రప్రదేశ్ లో జరుపుకునే పండుగల ఉదాహరణలతో మీ భావనను వ్యక్తం చేయండి.",
+          "question_text": "Express appreciation for Unity in Diversity with festivals of Andhra Pradesh."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Towards Equality",
+      "title_te": "సమానత్వం వైపు",
+      "semester": 2,
+      "core_themes": [
+        "Diversity vs Discrimination: Differences turn into discrimination when people act on prejudices and stereotypes.",
+        "Prejudice (judging other people negatively) and Stereotypes (fixing people into rigid mental images).",
+        "Gender stereotyping ('Boys don't cry', 'Girls should only do domestic work') and its harmful social impacts.",
+        "Caste-based discrimination, social inequality, and untouchability in historical India.",
+        "Dr. B.R. Ambedkar: Childhood experience of discrimination at Koregaon, struggle for social justice, drafting the Constitution of India as Chairman of the Drafting Committee.",
+        "Constitutional safeguards for equality: Fundamental Right to Equality (Articles 14–18), abolition of untouchability (Article 17), freedom to pursue any profession, secularism.",
+        "Government affirmative initiatives: Mid-day Meal Scheme, reservation policies, welfare schemes for women and disadvantaged sections."
+      ],
+      "learning_outcomes": [
+        "Distinguish between difference, prejudice, stereotype, and discrimination.",
+        "Recognize gender stereotypes and challenge discriminatory societal norms.",
+        "Explain the constitutional ideals and laws framed to ensure equality for all citizens.",
+        "Appreciate the visionary leadership and struggles of Dr. B.R. Ambedkar in building an egalitarian India."
+      ],
+      "summary_points": [
+        "Prejudice means to judge others negatively or look down upon them.",
+        "A stereotype creates a fixed, rigid image of a group, ignoring individual abilities and uniqueness.",
+        "The Indian Constitution guarantees that all people of India are equal before the law, regardless of religion, caste, sex, or economic status.",
+        "Untouchability is legally abolished and its practice in any form is a punishable crime by law."
+      ],
+      "map_skills": [
+        "Birthplace and key historical struggle centers of Dr. B.R. Ambedkar in India"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the difference between prejudice and stereotype? Give one example of each.",
+          "question_text_te": "రక్షక భావన (పక్షపాతం) మరియు మూసధోరణి (స్టీరియోటైప్) ల మధ్య గల తేడా ఏమిటి? ఒక్కొక్క ఉదాహరణ ఇవ్వండి.",
+          "question_text": "Distinguish between prejudice and stereotype with everyday examples."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What provisions are made in the Constitution of India to ensure equality for all citizens?",
+          "question_text_te": "పౌరులందరికీ సమానత్వాన్ని కల్పించడానికి భారత రాజ్యాంగంలో ఏ నిబంధనలను చేర్చారు?",
+          "question_text": "Explain constitutional provisions ensuring equality for all citizens."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Read Dr. B.R. Ambedkar's childhood experience at Koregaon railway station and interpret how untouchability denied human dignity to innocent children.",
+          "question_text_te": "కొరేగావ్ రైల్వే స్టేషన్ వద్ద డా. బి.ఆర్. అంబేద్కర్ బాల్య అనుభవాన్ని చదివి, అంటరానితనం అమాయక పిల్లల ఆత్మగౌరవాన్ని ఏ విధంగా దెబ్బతీసిందో వివరించండి.",
+          "question_text": "Interpret Ambedkar's Koregaon experience on the cruelty of untouchability."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How does the Mid-Day Meal scheme implemented in government schools promote social equality among children of different castes?",
+          "question_text_te": "ప్రభుత్వ పాఠశాలల్లో అమలుచేస్తున్న మధ్యాహ్న భోజన పథకం వివిధ కులాల పిల్లల మధ్య సామాజిక సమానత్వాన్ని ఎలా పెంపొందిస్తుంది?",
+          "question_text": "Reflect on how Mid-Day Meal scheme breaks caste and gender barriers."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How do you appreciate the tireless contribution of Dr. B.R. Ambedkar in framing the Constitution of India and championing the rights of oppressed communities?",
+          "question_text_te": "భారత రాజ్యాంగ రూపకల్పనలో మరియు అణగారిన వర్గాల హక్కుల పరిరక్షణలో డా. బి.ఆర్. అంబేద్కర్ చేసిన విశేష కృషిని మీరు ఎలా అభినందిస్తారు?",
+          "question_text": "Express appreciation for Dr. B.R. Ambedkar's crusade for human dignity and constitutional equality."
+        }
+      ]
+    }
+  ]
+}

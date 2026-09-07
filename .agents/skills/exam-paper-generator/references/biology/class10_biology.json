@@ -1,0 +1,886 @@
+{
+  "book_metadata": {
+    "title_en": "Biological Science - Class 10 (AP SSC 2024-25)",
+    "title_te": "జీవ శాస్త్రం - పదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "10th Class (SSC)",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 5,
+    "chapters_list": [
+      5,
+      6,
+      7,
+      8,
+      13
+    ],
+    "source_pdf": "10_Biology_Textbook_BM_2024-25.pdf",
+    "total_pages": 134
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding (Recall, definitions, explanations, differences)",
+    "AS2": "Asking Questions and Making Hypothesis ('What happens if', predicting outcomes)",
+    "AS3": "Experimentation and Field Investigation (Lab experiments, starch test, respiration in seeds, stomata peel)",
+    "AS4": "Information Skills and Projects (Tables, flowcharts, data interpretation)",
+    "AS5": "Communication through Drawing and Model Making (Diagrams: Heart, Brain, Nephron, Reflex Arc, Flower LS)",
+    "AS6": "Daily Life Application and Concern to Biodiversity (Health, organ donation, conservation)",
+    "AS7": "Appreciation and Aesthetic Sense (Appreciating marvel of life, nature)"
+  },
+  "chapters": [
+    {
+      "chapter_no": 5,
+      "title_en": "Life Processes",
+      "title_te": "జీవ క్రియలు",
+      "branch": "Biological Science",
+      "pages_scert": "14 - 51",
+      "learning_outcomes": [
+        "Autotrophic nutrition: Photosynthesis equation, light & dark reactions, stomata function",
+        "Heterotrophic nutrition: Amoeba nutrition, human digestive system (enzymes: ptyalin, pepsin, trypsin, lipase, bile)",
+        "Respiration: Breakdown of glucose by various pathways (aerobic, anaerobic, yeast fermentation, muscle cramps lactic acid), human respiratory system, alveoli",
+        "Transportation in Human Beings: Heart structure, double circulation, arteries, veins, capillaries, blood pressure, lymph",
+        "Transportation in Plants: Xylem (water and minerals, transpiration pull), Phloem (translocation of food, sucrose)",
+        "Excretion: Human excretory system, structure and functioning of Nephron (ultrafiltration, reabsorption, tubular secretion), excretion in plants, artificial kidney (hemodialysis)"
+      ],
+      "key_formulas_and_equations": [
+        "6\\text{CO}_2 + 12\\text{H}_2\\text{O} \\xrightarrow[\\text{Chlorophyll}]{\\text{Sunlight}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 + 6\\text{H}_2\\text{O} \\quad (\\text{Photosynthesis})",
+        "\\text{Glucose (6C)} \\xrightarrow{\\text{Cytoplasm}} \\text{Pyruvate (3C)} + \\text{Energy}",
+        "\\text{Pyruvate} \\xrightarrow{\\text{Absence of } \\text{O}_2 \\text{ (Yeast)}} \\text{Ethanol (2C)} + \\text{CO}_2 + \\text{Energy} \\quad (\\text{Fermentation})",
+        "\\text{Pyruvate} \\xrightarrow{\\text{Lack of } \\text{O}_2 \\text{ (Muscle cells)}} \\text{Lactic acid (3C)} + \\text{Energy} \\quad (\\text{Cramps})",
+        "\\text{Pyruvate} \\xrightarrow{\\text{Presence of } \\text{O}_2 \\text{ (Mitochondria)}} 6\\text{CO}_2 + 6\\text{H}_2\\text{O} + 38\\text{ ATP} \\quad (\\text{Aerobic respiration})"
+      ],
+      "key_diagrams": [
+        "Cross-section of a leaf showing chloroplasts and stomata",
+        "Open and closed stomatal pore (Guard cells)",
+        "Nutrition in Amoeba (Pseudopodia, food vacuole)",
+        "Human Alimentary Canal (Digestive System)",
+        "Human Respiratory System and structure of alveolus",
+        "Sectional view of the human heart showing four chambers, valves, and major blood vessels",
+        "Schematic representation of transport and exchange of oxygen and carbon dioxide (Double circulation)",
+        "Human Excretory System (Kidneys, Ureters, Urinary Bladder, Urethra)",
+        "Structure of a Nephron (Bowman's capsule, Glomerulus, Henle's loop, Collecting duct)"
+      ],
+      "total_activities": 8,
+      "activities": [
+        {
+          "activity_no": "5.1",
+          "aim": "g",
+          "procedure_summary": "Take a potted plant with variegated leaves – for example, money plant or crotons. g Keep the plant in a dark room for three days so that all the starch gets used up.",
+          "full_activity_text": "g\nTake a potted plant with variegated leaves \n– for example, money plant or crotons. \ng\nKeep the plant in a dark room for three \ndays so that all the starch gets used up.\ng\nNow keep the plant in sunlight for about \nsix hours.\ng\nPluck a leaf from the plant. Mark the green \nareas in it and trace them on a sheet of \npaper.\ng\nDip the leaf in boiling water for a few \nminutes. \ng\nAfter this, immerse it in a beaker \ncontaining alcohol. \ng\nCarefully place the above beaker in a \nwater-bath and heat till the alcohol begins \nto boil. \ng\nWhat happens to the colour of the leaf? \nWhat is the colour of the solution?\ng\nNow dip the leaf in a dilute solution of \niodine for a few minutes.\ng\nTake out the leaf and rinse off the iodine \nsolution.\ng\nObserve the colour of the leaf and \ncompare this with the tracing of the leaf \ndone in the beginning (Fig. 5.2).\ng\nWhat can you conclude about the presence \nof starch in various areas of the leaf?\n(a)\n(b)\nNow, let us study how the plant obtains carbon \ndioxide. In Class IX, we had talked about stomata \n(Fig. 5.3) which are tiny pores present on the \nsurface of the leaves. Massive amounts of \ngaseous exchange takes place in the leaves \nthrough these pores for "
+        },
+        {
+          "activity_no": "5.2",
+          "aim": "g",
+          "procedure_summary": "Take two healthy potted plants which are nearly the same size. g Keep them in a dark room for three days. g",
+          "full_activity_text": "g\nTake two healthy potted plants which are \nnearly the same size.\ng\nKeep them in a dark room for three days.\ng\nNow place each plant on separate glass \nplates. Place a watch-glass containing \npotassium hydroxide by the side of one \nof the plants. The potassium hydroxide \nis used to absorb carbon dioxide.\ng\nCover both plants with separate bell-jars \nas shown in Fig. 5.4.\ng\nUse vaseline to seal the bottom of the \njars to the glass plates so that the set-up is \nair-tight.\ng\nKeep the plants in sunlight for about two \nhours.\ng\nPluck a leaf from each plant and check \nfor the presence of starch as in the above \nactivity.\ng\nDo both the leaves show the presence of \nthe same amount of starch?\ng\nWhat can you conclude from this \nactivity?\nnot need carbon dioxide for photosynthesis. The \nopening and closing of the pore is a function of \nthe guard cells. The guard cells swell when water \nows into them, causing the stomatal pore to \nopen. Similarly the pore closes if the guard cells \nshrink. \nBased on the two activities performed above, can \nwe design an experiment to demonstrate that \nsunlight is essential for photosynthesis? \nSo far, we have talked about how autotrophs \nmeet their energy requir"
+        },
+        {
+          "activity_no": "5.3",
+          "aim": "g",
+          "procedure_summary": "Take 1 mL starch solution (1%) in two test tubes (A and B). g Add 1 mL saliva to test tube A and leave both test tubes undisturbed for 20-30",
+          "full_activity_text": "g\nTake 1 mL starch solution (1%) in two test \ntubes (A and B).\ng\nAdd 1 mL saliva to test tube A and leave \nboth test tubes undisturbed for 20-30 \nminutes.\ng\nNow add a few drops of dilute iodine \nsolution to the test tubes.\ng\nIn which test tube do you observe a colour \nchange?\ng\nWhat does this indicate about the \npresence or absence of starch in the two \ntest tubes?\ng\nWhat does this tell us about the action of \nsaliva on starch?\n\n\nANDHRA PRADESH | Biology : Life Processes\n14\nWe eat various types of food which has to pass \nthrough the same digestive tract. Naturally the \nfood has to be processed to generate particles \nwhich are small and of the same texture. This is \nachieved by crushing the food with our teeth. \nSince the lining of the canal is soft, the food is \nalso wetted to make its passage smooth. When \nwe eat something we like, our mouth ‘waters’. \nThis is actually not only water, but a uid called \nsaliva secreted by the salivary glands. Another \naspect of the food we ingest is its complex \nnature. If it is to be absorbed from the \nalimentary canal, it has to be broken into \nsmaller molecules. This is done with the help of \nbiological catalysts called enzymes. The saliva \ncon"
+        },
+        {
+          "activity_no": "5.4",
+          "aim": "1. What are the differences between",
+          "procedure_summary": "autotrophic nutrition and heterotrophic nutrition? 2. Where do plants get each of the raw materials required for photosynthesis? 3. What is the role of the acid in our",
+          "full_activity_text": "1. What are the differences between \nautotrophic nutrition and heterotrophic \nnutrition?\n2. Where do plants get each of the raw \nmaterials required for photosynthesis?\n3. What is the role of the acid in our \nstomach?\n4. What is the function of digestive \nenzymes?\n5. How is the small intestine designed to \nabsorb digested food?\ng\nTake some freshly prepared lime water in \na test tube.\ng\nBlow air through this lime water.\ng\nNote how long it takes for the lime water \nto turn milky.\ng\nUse a syringe or pichkari to pass air \nthrough some fresh lime water taken in \nanother test tube (Fig. 5.7).\ng\nNote how long it takes for this lime water \nto turn milky.\ng\nWhat does this tell us about the amount of \ncarbon dioxide in the air that we breathe \nout?\nallow the cellulose to be digested. Meat is \neasier to digest, hence carnivores like tigers \nhave a shorter small intestine.\n5.3 RESPIRATION\n\n\nANDHRA PRADESH | Biology : Life Processes\n18"
+        },
+        {
+          "activity_no": "5.5",
+          "aim": "g",
+          "procedure_summary": "Take some fruit juice or sugar solution and add some yeast to this. Take this mixture in a test tube tted with a one- holed cork. g",
+          "full_activity_text": "g\nTake some fruit juice or sugar solution \nand add some yeast to this. Take this \nmixture in a test tube tted with a one-\nholed cork.\ng\nFit the cork with a bent glass tube. Dip the \nfree end of the glass tube into a test tube \ncontaining freshly prepared lime water.\ng\nWhat change is observed in the lime \nwater and how long does it take for this \nchange to occur?\ng\nWhat does this tell us about the products \nof fermentation?\n \nWe have discussed nutrition in \norganisms in the last section. The food material \ntaken in during the process of nutrition is used \nin cells to provide energy for various life \nprocesses. Diverse organisms do this in \ndifferent ways – some use oxygen to break-\ndown glucose completely into carbon dioxide \nand water, some use other pathways that do not \ninvolve oxygen (Fig. 5.8). In all cases, the rst \nstep is the break-down of glucose, a six-carbon \nmolecule, into a three-carbon molecule called \npyruvate. This process takes place in the \ncytoplasm. Further, the pyruvate may be \nconverted into ethanol and carbon dioxide. This \nprocess takes place in yeast during \nfermentation. Since this process takes place in \nthe absence of air (oxygen), it is called \nanaerob"
+        },
+        {
+          "activity_no": "5.6",
+          "aim": "g",
+          "procedure_summary": "Observe sh in an aquarium. They open and close their mouths and the gill-slits (or the operculum which covers the gill- slits) behind their eyes also open and close. Are the timings of the opening and",
+          "full_activity_text": "g\nObserve sh in an aquarium. They open \nand close their mouths and the gill-slits \n(or the operculum which covers the gill-\nslits) behind their eyes also open and \nclose. Are the timings of the opening and \nclosing of the mouth and gill-slits \ncoordinated in some manner?\ng\nCount the number of times the sh opens \nand closes its mouth in a minute.\ng\nCompare this to the number of times you \nbreathe in and out in a minute. \n \nSince the amount of dissolved oxygen is \nfairly low compared to the amount of oxygen in \nthe air, the rate of breathing in aquatic organisms \nis much faster than that seen in terrestrial \norganisms. Fishes take in water through their \nmouths and force it past the gills where the \ndissolved oxygen is taken up by blood.\n \nTerrestrial organisms use the oxygen in \nthe atmosphere for respiration. This oxygen is \nabsorbed by different organs in different \nanimals. All these organs have a structure that \nincreases the surface area which is in contact \nwith the oxygen-rich atmosphere. Since the \nexchange of oxygen and carbon dioxide has to \ntake place across this surface, this surface is \nvery ne and delicate. In order to protect this \nsurface, it is usually placed wit"
+        },
+        {
+          "activity_no": "5.7",
+          "aim": "g",
+          "procedure_summary": "Visit a health centre in your locality and nd out what is the normal range of haemoglobin content in human beings. g Is it the same for children and adults?",
+          "full_activity_text": "g\nVisit a health centre in your locality and \nnd out what is the normal range of \nhaemoglobin content in human beings.\ng\nIs it the same for children and adults?\ng\nIs there any difference in the \nhaemoglobin levels for men and women?\ng\nVisit a veterinary clinic in your locality. \nFind out what is the normal range of \nhaemoglobin content in an animal like \nthe buffaloor cow.\ng\nIs this content different in calves, male \nand female animals?\ng\nCompare the difference seen in male and \nfemale human beings and animals.\ng\nHow would the difference, if any, be \nexplained?\n \nWe have seen in previous sections that \nblood transports food, oxygen and waste \nmaterials in our bodies. In Class IX, we learnt \nabout blood being a uid connective tissue. \nBlood consists of a uid medium called plasma \nin which the cells are suspended. Plasma \ntransports food, carbon dioxide and \nnitrogenous wastes in dissolved form. Oxygen \nis carried by the red blood corpuscles. Many \nother substances like salts, are also transported \nby the blood. We thus need a pumping organ to \npush blood around the body, a network of tubes \nto reach all the tissues and a system in place to \nensure that this network can be repaire"
+        },
+        {
+          "activity_no": "5.8",
+          "aim": "g",
+          "procedure_summary": "Take two small pots of approximately the same size and having the same amount of soil. One should have a plant in it. Place a stick of the same height as the plant in the other pot.",
+          "full_activity_text": "g\nTake two small pots of approximately \nthe same size and having the same \namount of soil. One should have a plant \nin it. Place a stick of the same height as \nthe plant in the other pot.\ng\nCover the soil in both pots with a plastic \nsheet so that moisture cannot escape by \nevaporation.\ng\nCover both sets, one with the plant and \nthe other with the stick, with plastic \nsheets and place in bright sunlight for \nhalf an hour.\ng\nDo you observe any difference in the \ntwo cases?\n \nProvided that the plant has an adequate \nsupply of water, the water which is lost through \nthe stomata is replaced by water from the xylem \nvessels in the leaf. In fact, evaporation of water \nmolecules from the cells of a leaf creates a \nsuction which pulls water from the xylem cells \nof roots. The loss of water in the form of vapour \nfrom the aerial parts of the plant is known as \ntranspiration.\nThus, transpiration helps in the absorption and \nupward movement of water and minerals \ndissolved in it from roots to the leaves. It also \nhelps in temperature regulation. The effect of \nroot pressure in transport of water is more \nimportant at night. During the day when the \nstomata are open, the transpiration pull \nbe"
+        }
+      ],
+      "summary_points": [],
+      "total_exercises": 21,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the components of the transport system in human beings? What are the functions of these components?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why is it necessary to separate oxygenated and deoxygenated blood in mammals and birds?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the components of the transport system in highly organised plants?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How are water and minerals transported in plants?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "How is food transported in plants? 5.5 EXCRETION ANDHRA PRADESH | Biology : Life Processes 34 a long tube, the ureter, which connects the kidneys with the urinary bladder. Urine is stored in the urinary bladder until the pressure of the expanded bladder leads to the urge to More to Know! Articial kidney (Hemodialysis) Kidneys are vital organs for survival. Several factors like infections, injury or restricted blood ow to kidneys reduce the activity of kidneys. This leads to accumulation of poisonous wastes in the body, which can even lead to death. In case of kidney failure, an articial kidney can be used. An articial kidney is a device to remove nitrogenous waste products from the blood through dialysis. Articial kidneys contain a number of tubes with a semi- permeable lining, suspended in a tank lled with dialysing uid. This uid has the same osmotic pressure as blood, except that it is devoid of nitrogenous wastes. The patient’s blood is passed through these tubes. During this passage, the waste products from the blood pass into dialysing uid by diffusion. The puried blood is pumped back into the patient. This is similar to the function of the kidney, but it is different since there is no re-absorption involved. Normally, in a healthy adult, the initial ltrate in the kidneys is about 180 L daily. However, the volume actually excreted is only a litre or two a day, because the remaining ltrate is re-absorbed in the kidney tubules. Think it over! Organ donation Organ donation is a generous act of donating an organ to a person who suffers from non- function of organ(s). Donation of an organ may be done by the consent of the donor and his/her family. Anyone regardless of age or gender can become an organ and tissue donor. Organ transplants can save or transform the life of a person. Transplantation is required because recipient’s organ has been damaged or has failed by disease or injury. In organ transplantation the organ is surgically removed from one person (organ donor) and transplanted to another person (the recipient). Common transplantations include corneas, kidneys, heart, liver, pancreas, lungs, intestines and bone marrow. Most organ and tissue donations occur just after the donor has pass it out through the urethra. The bladder is muscular, so it is under nervous control, as we have discussed elsewhere. As a result, we can usually control the urge to urinate. 5.5.2 Excretion in Plants Plants use completely different strategies for excretion than those of animals. Oxygen itself can be thought of as a waste product generated during photosynthesis! We have discussed earlier how plants deal with oxygen as well as CO2. They can get rid of excess water by transpiration. For other wastes, plants use the fact that many of their tissues consist of dead cells, and that they can even lose some parts such as leaves. Many plant waste products are stored in cellular vacuoles. Waste products may be stored in leaves that fall off. Other waste products are stored as resins and gums, especially in old xylem. Plants also excrete some waste substances into the soil around them. died or when the doctor declares a person brain dead. But some organs such as kidney, part of a liver, lung, etc., and tissues can be donated while the donor is alive. ANDHRA PRADESH | Biology : Life Processes 36"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Describe the structure and functioning of nephrons."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the methods used by plants to get rid of excretory products?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "How is the amount of urine produced regulated? What you have learnt g Movement of various types can be taken as an indication of life. g Maintenance of life requires processes like nutrition, respiration, transport of materials within the body and excretion of waste products. g Autotrophic nutrition involves the intake of simple inorganic materials from the environment and using an external energy source like the Sun to synthesise complex high- energy organic material. g Heterotrophic nutrition involves the intake of complex material prepared by other organisms. g In human beings, the food eaten is broken down by various steps along the alimentary canal and the digested food is absorbed in the small intestine to be sent to all cells in the body. g During the process of respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP. ATP is used to provide energy for other reactions in the cell. g Respiration may be aerobic or anaerobic. Aerobic respiration makes more energy available to the organism. g In human beings, the transport of materials such as oxygen, carbon dioxide, food and excretory products is a function of the circulatory system. The circulatory system consists of the heart, blood and blood vessels. g In highly differentiated plants, transport of water, minerals, food and other materials is a function of the vascular tissue which consists of xylem and phloem. g In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys. g Plants use a variety of techniques to get rid of waste material. For example, waste material may be stored in the cell-vacuoles or as gum and resin, removed in the falling leaves, or excreted into the surrounding soil. EXERCISES"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "The kidneys in human beings are a part of the system for (a) nutrition. (c) excretion. (b) respiration. (d) transportation."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The xylem in plants are responsible for (a) transport of water. (c) transport of amino acids. (b) transport of food. (d) transport of oxygen."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The autotrophic mode of nutrition requires (a) carbon dioxide and water. (c) sunlight. (b) chlorophyll. (d) all of the above. ANDHRA PRADESH | Biology : Life Processes 38"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The breakdown of pyruvate to give carbon dioxide, water and energy takes place in (a) cytoplasm. (c) chloroplast. (b) mitochondria. (d) nucleus."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How are fats digested in our bodies? Where does this process take place?"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the role of saliva in the digestion of food?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the necessary conditions for autotrophic nutrition and what are its by-products?"
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "What are the differences between aerobic and anaerobic respiration? Name some organisms that use the anaerobic mode of respiration."
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How are the alveoli designed to maximise the exchange of gases?"
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS2_hypothesis_and_questioning",
+          "question_text": "What would be the consequences of a deciency of haemoglobin in our bodies?"
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Describe double circulation of blood in human beings. Why is it necessary?"
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the differences between the transport of materials in xylem and phloem?"
+        },
+        {
+          "question_no": 13,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Compare the functioning of alveoli in the lungs and nephrons in the kidneys with respect to their structure and functioning."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Control and Coordination",
+      "title_te": "నియంత్రణ మరియు సమన్వయం",
+      "branch": "Biological Science",
+      "pages_scert": "52 - 73",
+      "learning_outcomes": [
+        "Nervous System: Structure of Neuron (Cyton, Dendrites, Axon, Synapse), transmission of nerve impulse",
+        "Reflex Actions and Reflex Arc: Pathway of stimulus -> receptor -> sensory neuron -> spinal cord -> motor neuron -> effector",
+        "Human Brain: Forebrain (Cerebrum), Midbrain, Hindbrain (Cerebellum, Pons, Medulla oblongata), functions and protection (cranium, CSF)",
+        "Coordination in Plants: Immediate response to stimulus (Thigmonasty in Touch-me-not plant Mimosa pudica), Tropic movements (Phototropism, Geotropism, Chemotropism, Hydrotropism)",
+        "Plant Hormones (Phytohormones): Auxins (cell elongation, phototropism), Gibberellins (stem growth), Cytokinins (cell division), Abscisic Acid (growth inhibitor, wilting of leaves)",
+        "Hormones in Animals: Endocrine glands (Pituitary/Growth hormone, Thyroid/Thyroxin & Iodine, Pancreas/Insulin & Diabetes, Adrenal/Adrenaline emergency hormone, Testes/Testosterone, Ovaries/Estrogen), Feedback mechanism"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Reflex Arc: Stimulus} \\rightarrow \\text{Receptor} \\rightarrow \\text{Sensory Neuron} \\rightarrow \\text{Relay Neuron (Spinal Cord)} \\rightarrow \\text{Motor Neuron} \\rightarrow \\text{Effector (Muscle/Gland)}",
+        "\\text{Endocrine axis: Hypothalamus} \\rightarrow \\text{Pituitary Gland} \\rightarrow \\text{Target Endocrine Gland}"
+      ],
+      "key_diagrams": [
+        "Structure of Neuron (Dendrite, Cell body, Nucleus, Axon, Nerve ending)",
+        "Neuromuscular junction and Synapse",
+        "Reflex Arc pathway",
+        "Sagittal section of the Human Brain showing Cerebrum, Corpus callosum, Thalamus, Hypothalamus, Midbrain, Cerebellum, Pons, Medulla, Spinal cord",
+        "Response of the plant to the direction of light (Phototropism)",
+        "Geotropism (Positive geotropism of root, Negative geotropism of shoot)",
+        "Human Endocrine Glands in Male and Female"
+      ],
+      "total_activities": 5,
+      "activities": [
+        {
+          "activity_no": "6.1",
+          "aim": "g",
+          "procedure_summary": "Put some sugar in your mouth. How does it taste? g Block your nose by pressing it between your thumb and index nger. Now eat",
+          "full_activity_text": "g\nPut some sugar in your mouth. How does \nit taste?\ng\nBlock your nose by pressing it between \nyour thumb and index nger. Now eat \nsugar again. Is there any difference in its \ntaste?\ng\nWhile eating lunch, block your nose in \nthe same way and notice if you can fully \nappreciate the taste of the food you are \neating.   \nIs there a difference in how sugar and \nfood taste if your nose is blocked? If so, why \nmight this be happening? Read and talk about \npossible explanations for these kinds of \ndifferences. Do you come across a similar \nsituation when you have a cold? \n6.1.1 What happens in Reex Actions?\n‘Reex’ is a word we use very commonly \nwhen we talk about some sudden action in \nresponse to something in the environment. We \nsay ‘I jumped out of the way of the bus \nreexly’, or ‘I pulled my hand back from the \name reexly’, or ‘I was so hungry my mouth \nstarted watering reexly’. What exactly do we \nmean? A common idea in all such examples is \nthat we do something without thinking about it, \nor without feeling in control of our reactions. \nYet these are situations where we are \nresponding with some action to changes in our \nenvironment. How is control and coordination \nachieved "
+        },
+        {
+          "activity_no": "6.2",
+          "aim": "g",
+          "procedure_summary": "Fill a conical ask with water. g Cover the neck of the ask with a wire mesh. g",
+          "full_activity_text": "g\nFill a conical ask with water.\ng\nCover the neck of the ask with a wire \nmesh.\ng\nKeep two or three freshly germinated \nbean seeds on the wire mesh.\ng\nTake a cardboard box which is open from \none side.\ng\nKeep the ask in the box in such a \nmanner that the open side of the box \nfaces light coming from a window (Fig. \n6.5).\ng\nAfter two or three days, you will notice \nthat the shoots bend towards light and \nroots away from light.\ng\nNow turn the ask so that the shoots are \naway from light and the roots towards \nlight. Leave it undisturbed in this \ncondition for a few days.\ng\nHave the old parts of the shoot and root \nchanged direction? \ng\nAre there differences in the direction of \nthe new growth? \ng\nWhat can we conclude from this \nactivity?\nFigure 6.5 \nResponse of the plant to the direction of light\nFigure 6.6 Plant showing geotropism\n \nEnvironmental triggers such as light, or \ngravity will change the directions that plant parts \ngrow in. These directional, or tropic, movements \ncan be either towards the stimulus, or away from \nit. So, in two different kinds of phototropic \nmovement, shoots respond by bending towards \nlight while roots respond by bending away from \nit. How does this "
+        },
+        {
+          "activity_no": "6.2",
+          "aim": "]. When",
+          "procedure_summary": "growing plants detect light, a hormone called auxin, synthesised at the shoot tip, helps the cells to grow longer. When light is coming from one side of the plant, auxin diffuses towards the shady side of the shoot. This concentration of",
+          "full_activity_text": "]. When \ngrowing plants detect light, a hormone called \nauxin, synthesised at the shoot tip, helps the \ncells to grow longer. When light is coming from \none side of the plant, auxin diffuses towards the \nshady side of the shoot. This concentration of \nauxin stimulates the cells to grow longer on the \nside of the shoot which is away from light. \nThus, the plant appears to bend towards light.  \n \nAnother example of plant hormones are \ngibberellins which, like auxins, help in the \ngrowth of the stem. Cytokinins promote cell \ndivision, and it is natural then that they are \npresent in greater concentration in areas of \nrapid cell division, such as in fruits and seeds. \nThese are examples of plant hormones that help \nin promoting growth. But plants also need \nsignals to stop growing. Abscisic acid is one \nexample of a hormone which inhibits growth. \nIts effects include wilting of leaves.\n1.  What are plant hormones?\n2. How is the movement of leaves of the \nsensitive plant different from the \nmovement of a shoot towards light?\n3. Give an example of a plant hormone that \npromotes growth.\n4. How do auxins promote the growth of a \ntendril around a support?\n5. Design an experiment to demonstr"
+        },
+        {
+          "activity_no": "6.3",
+          "aim": "g",
+          "procedure_summary": "Look at Fig. 6.7. g Identify the endocrine glands mentioned in the gure. g",
+          "full_activity_text": "g\nLook at Fig. 6.7.\ng\nIdentify the endocrine glands mentioned \nin the gure.\ng\nSome of these glands have been listed in \nTable 6.1 and discussed in the text. \nConsult books in the library and discuss \nwith your teachers to nd out about other \nglands.\n \nRemember that plants have hormones \nthat control their directional growth. What \nfunctions do animal hormones perform? On the \nface of it, we cannot imagine their role in \ndirectional growth. We have never seen an \nanimal growing more in one direction or the \nother, depending on light or gravity! But if we \nthink about it a bit more, it will become evident \nthat, even in animal bodies, growth happens in \ncarefully controlled places. Plants will grow \nleaves in many places on the plant body, for \nexample. But we do not grow ngers on our \nfaces. The design of the body is carefully \nmaintained even during the growth of children. \nFigure 6.7 Endocrine glands in human beings (a) male, (b) female\n(a) \n(b) \nDo You Know?\nHypothalamus plays an important role in the \nrelease of many hormones. For example, \nwhen the level of growth hormone is low, the \nhypothalamus releases growth hormone \nreleasing factor which stimulates the \npituitary glan"
+        },
+        {
+          "activity_no": "6.4",
+          "aim": "Thyroxine",
+          "procedure_summary": "Progesterone Estrogen ANDHRA PRADESH | Biology : Control and Coordination 60 EXERCISES",
+          "full_activity_text": "Thyroxine\nProgesterone\nEstrogen\n\n\nANDHRA PRADESH | Biology : Control and Coordination\n60\nEXERCISES\n 1. \nWhich of the following is a plant hormone?\n  \n(a) Insulin \n  \n(b) Thyroxin\n  \n(c) Oestrogen\n  \n(d) Cytokinin.\n 2. \nThe gap between two neurons is called a \n  \n(a) dendrite. \n  \n(b) synapse.\n  \n(c) axon.\n  \n(d) impulse.\n 3. \nThe brain is responsible for\n  \n(a) thinking. \n  \n(b) regulating the heart beat.\n  \n(c) balancing the body.\n  \n(d) all of the above.\n 4. \nWhat is the function of receptors in our body? Think of situations where receptors do not \nwork properly. What problems are likely to arise?\n 5. \nDraw the structure of a neuron and explain its function.\n 6. \nHow does phototropism occur in plants?\n 7. \nWhich signals will get disrupted in case of a spinal cord injury?\n 8. \nHow does chemical coordination occur in plants?\n 9. \nWhat is the need for a system of control and coordination in an organism?\n 10. How are involuntary actions and reex actions different from each other?\n 11. Compare and contrast nervous and hormonal mechanisms for control and coordination \nin animals.\n 12. What is the difference between the manner in which movement takes place in a sensitive \nplant and the"
+        }
+      ],
+      "summary_points": [],
+      "total_exercises": 33,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the difference between a reex action and walking?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What happens at the synapse between two neurons?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which part of the brain maintains posture and equilibrium of the body?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How do we detect the smell of an agarbatti (incense stick)?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "What is the role of the brain in reex action? 6.2 COORDINATION IN PLANTS Animals have a nervous system for controlling and coordinating the activities of the body. But plants have neither a nervous system nor muscles. So, how do they respond to stimuli? When we touch the leaves of a chhui-mui (the ‘sensitive’ or ‘touch-me-not’ plant of the Mimosa family), they begin to fold up and droop. When a seed germinates, the root goes down, the stem comes up into the air. What happens? Firstly, the leaves of the sensitive plant move very quickly in response to touch. There is no growth involved in this movement. On the other hand, the directional movement of a seedling is caused by growth. If it is prevented from growing, it will not show any movement. So plants show two different types of movement – one dependent on growth and the other independent of growth. 6.2.1 Immediate Response to Stimulus Let us think about the rst kind of movement, such as that of the sensitive plant. Since no growth is involved, the plant must actually move its leaves in response to touch. But there is no nervous tissue, nor any muscle tissue. How does the plant detect the touch, and how do the leaves move in response? Figure 6.4 The sensitive plant If we think about where exactly the plant is touched, and what part of the plant actually moves, it is apparent that movement happens at a point different from the point of touch. So, information that a touch has occurred must be communicated. The plants also use electrical- chemical means to convey this information from cell to cell, but unlike in animals, there is no specialised tissue in plants for the conduction of information. Finally, again as in animals, some cells must change shape in order for movement to happen. Instead of the specialised proteins found in animal muscle cells, plant cells change shape by changing the amount of water in them, resulting in swelling or shrinking, and therefore in changing shapes (Fig. 6.4). 6.2.2 Movement Due to Growth Some plants like the pea plant climb up other plants or fences by means of tendrils. These tendrils are sensitive to touch. When they come in contact with any support, the part of the tendril in contact with the object does not grow as rapidly as the part of the tendril away from the object. This causes the tendril to circle around the object and thus cling to it. More commonly, plants respond to stimuli slowly by growing in a particular direction. Because this growth is directional, it appears as if the plant is moving. Let us understand this type of movement with the help of an example. Figure 6.4 The sensitive plant ANDHRA PRADESH | Biology : Control and Coordination 52 Activity 6.2 g Fill a conical ask with water. g Cover the neck of the ask with a wire mesh. g Keep two or three freshly germinated bean seeds on the wire mesh. g Take a cardboard box which is open from one side. g Keep the ask in the box in such a manner that the open side of the box faces light coming from a window (Fig. 6.5). g After two or three days, you will notice that the shoots bend towards light and roots away from light. g Now turn the ask so that the shoots are away from light and the roots towards light. Leave it undisturbed in this condition for a few days. g Have the old parts of the shoot and root changed direction? g Are there differences in the direction of the new growth? g What can we conclude from this activity? Figure 6.5 Response of the plant to the direction of light Figure 6.6 Plant showing geotropism Environmental triggers such as light, or gravity will change the directions that plant parts grow in. These directional, or tropic, movements can be either towards the stimulus, or away from it. So, in two different kinds of phototropic movement, shoots respond by bending towards light while roots respond by bending away from it. How does this help the plant? Plants show tropism in response to other stimuli as well. The roots of a plant always grow downwards while the shoots usually grow upwards and away from the earth. This upward and downward growth of shoots and roots, respectively, in response to the pull of earth or gravity is, obviously, geotropism (Fig. 6.6). If ‘hydro’ means water and ‘chemo’ refers to chemicals, what would ‘hydrotropism’ and ‘chemotropism’ mean? Can we think of examples of these kinds of directional growth movements? One example of chemotropism is the growth of pollen tubes towards ovules, about which we will learn more when we examine the reproductive processes of living organisms. Let us now once again think about how information is communicated in the bodies of multicellular organisms. The movement of the sensitive plant in response to touch is very quick. The movement of sunowers in response to day or night, on the other hand, is quite slow. Growth-related movement of plants will be even slower. Even in animal bodies, there are carefully controlled directions to growth. Our arms and ngers grow in certain directions, not haphazardly. So controlled movements can be either slow or fast. If fast responses to stimuli are to be made, information transfer must happen very quickly. For this, the medium of transmission must be able to move rapidly. Electrical impulses are an excellent means for this. But there are limitations to the use of electrical impulses. Firstly, they will reach only those cells that are connected by nervous tissue, not each and every cell in the animal body. Secondly, once an electrical impulse is generated in a cell and transmitted, the cell will take some time to reset its mechanisms before it can generate and transmit a new impulse. In other words, cells cannot ANDHRA PRADESH | Biology : Control and Coordination 54 continually create and transmit electrical impulses. It is thus no wonder that most multicellular organisms use another means of communication between cells, namely, chemical communication. If, instead of generating an electrical impulse, stimulated cells release a chemical compound, this compound would diffuse all around the original cell. If other cells around have the means to detect this compound using special molecules on their surfaces, then they would be able to recognise information, and even transmit it. This will be slower, of course, but it can potentially reach all cells of the body, regardless of nervous connections, and it can be done steadily and persistently. These compounds, or hormones used by multicellular organisms for control and coordination show a great deal of diversity, as we would expect. Different plant hormones help to coordinate growth, development and responses to the environment. They are synthesised at places away from where they act and simply diffuse to the area of action. Let us take an example that we have worked with earlier [Activity 6.2]. When growing plants detect light, a hormone called auxin, synthesised at the shoot tip, helps the cells to grow longer. When light is coming from one side of the plant, auxin diffuses towards the shady side of the shoot. This concentration of auxin stimulates the cells to grow longer on the side of the shoot which is away from light. Thus, the plant appears to bend towards light. Another example of plant hormones are gibberellins which, like auxins, help in the growth of the stem. Cytokinins promote cell division, and it is natural then that they are present in greater concentration in areas of rapid cell division, such as in fruits and seeds. These are examples of plant hormones that help in promoting growth. But plants also need signals to stop growing. Abscisic acid is one example of a hormone which inhibits growth. Its effects include wilting of leaves."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are plant hormones?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How is the movement of leaves of the sensitive plant different from the movement of a shoot towards light?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Give an example of a plant hormone that promotes growth."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How do auxins promote the growth of a tendril around a support?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "Design an experiment to demonstrate hydrotropism. 6.3 HORMONES IN ANIMALS How are such chemical, or hormonal, means of information transmission used in animals? What do some animals, for instance squirrels, experience when they are in a scary situation? Their bodies have to prepare for either ghting or running away. Both are very complicated activities that will use a great deal of energy in controlled ways. Many different tissue types will be used and their activities integrated together in these actions. However, the two alternate activities, ghting or running, are also quite different! So here is a situation in which some common preparations can be usefully made in the body. These preparations should ideally make it easier to do either activity in the near future. How would this be achieved? If the body design in the squirrel relied only on electrical impulses via nerve cells, the range of tissues instructed to prepare for the coming activity would be limited. On the other hand, if a chemical signal were to be sent as well, it would reach all cells of the body and provide the wide-ranging changes needed. This is done in many animals, including human beings, using a hormone called adrenaline that is secreted from the adrenal glands. Look at Fig. 6.7 to locate these glands. Adrenaline is secreted directly into the blood and carried to different parts of the body. The target organs or the specic tissues on which it acts include the heart. As a result, the heart beats faster, resulting in supply of more oxygen to our muscles. The blood to the digestive system and skin is reduced due to contraction of muscles around small arteries in these organs. This diverts the blood to our skeletal muscles. The breathing ANDHRA PRADESH | Biology : Control and Coordination 56 rate also increases because of the contractions of the diaphragm and the rib muscles. All these responses together enable the animal body to be ready to deal with the situation. Such animal hormones are part of the endocrine system which constitutes a second way of control and coordination in our body. Activity 6.3 g Look at Fig. 6.7. g Identify the endocrine glands mentioned in the gure. g Some of these glands have been listed in Table 6.1 and discussed in the text. Consult books in the library and discuss with your teachers to nd out about other glands. Remember that plants have hormones that control their directional growth. What functions do animal hormones perform? On the face of it, we cannot imagine their role in directional growth. We have never seen an animal growing more in one direction or the other, depending on light or gravity! But if we think about it a bit more, it will become evident that, even in animal bodies, growth happens in carefully controlled places. Plants will grow leaves in many places on the plant body, for example. But we do not grow ngers on our faces. The design of the body is carefully maintained even during the growth of children. Figure 6.7 Endocrine glands in human beings (a) male, (b) female (a) (b) Do You Know? Hypothalamus plays an important role in the release of many hormones. For example, when the level of growth hormone is low, the hypothalamus releases growth hormone releasing factor which stimulates the pituitary gland to release growth hormone. Let us examine some examples to understand how hormones help in coordinated growth. We have all seen salt packets which say ‘iodised salt’ or ‘enriched with iodine’. Why is it important for us to have iodised salt in our diet? Iodine is necessar for the thyroid gland to make thyroxin hormone. Thyroxin regulates carbohydrate, protein and fat metabolism in the body so as to provide the best balance for growth. Iodine is essential for the synthesis of thyroxin. In case iodine is decient in our diet, there is a possibility that we might suffer from goitre. One of the symptoms in this disease is a swollen neck. Can you correlate this with the position of the thyroid gland in Fig. 6.7? Sometimes we come across people who are either very short (dwarfs) or extremely tall (giants). Have you ever wondered how this happens? Growth hormone is one of the hormones secreted by the pituitary. As its name indicates, growth hormone regulates growth and development of the body. If there is a deciency of this hormone in childhood, it ANDHRA PRADESH | Biology : Control and Coordination 58 leads to dwarsm. You must have noticed many dramatic changes in your appearance as well as that of your friends as you approached 10–12 years of age. These changes associated with puberty are because of the secretion of testosterone in males and oestrogen in females. Do you know anyone in your family or friends who has been advised by the doctor to take less sugar in their diet because they are suffering from diabetes? As a treatment, they might be taking injections of insulin. This is a hormone which is produced by the pancreas and helps in regulating blood sugar levels. If it is not secreted in proper amounts, the sugar level in the blood rises causing many harmful effects. If it is so important that hormones should be secreted in precise quantities, we"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How does chemical coordination take place in animals?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why is the use of iodised salt advisable?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How does our body respond when adrenaline is secreted into the blood?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Why are some patients of diabetes treated by giving injections of insulin? need a mechanism through which this is done. The timing and amount of hormone released are regulated by feedback mechanisms. For example, if the sugar levels in blood rise, they are detected by the cells of the pancreas which respond by producing more insulin. As the blood sugar level falls, insulin secretion is reduced. g Hormones are secreted by endocrine glands and have specic functions. Complete Table 6.1 based on the hormone, the endocrine gland or the functions provided. Table 6.1 : Some important hormones and their functions S.No. Hormone Endocrine Gland Functions"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Growth hormone Pituitary gland Stimulates growth in all organs"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Thyroid gland Regulates metabolism for body growth"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Insulin Regulates blood sugar level"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Testosterone Testes"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Ovaries Development of female sex organs, regulates menstrual cycle, etc."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Adrenaline Adrenal gland"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "Releasing Stimulates pituitary gland to release hormones hormones What you have learnt g Control and coordination are the functions of the nervous system and hormones in our bodies. g The responses of the nervous system can be classied as reex action, voluntary action or involuntary action. g The nervous system uses electrical impulses to transmit messages. g The nervous system gets information from our sense organs and acts through our muscles. g Chemical coordination is seen in both plants and animals. g Hormones produced in one part of an organism move to another part to achieve the desired effect. g A feedback mechanism regulates the action of the hormones. Activity 6.4 Thyroxine Progesterone Estrogen ANDHRA PRADESH | Biology : Control and Coordination 60 EXERCISES"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following is a plant hormone? (a) Insulin (b) Thyroxin (c) Oestrogen (d) Cytokinin."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The gap between two neurons is called a (a) dendrite. (b) synapse. (c) axon. (d) impulse."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The brain is responsible for (a) thinking. (b) regulating the heart beat. (c) balancing the body. (d) all of the above."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the function of receptors in our body? Think of situations where receptors do not work properly. What problems are likely to arise?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Draw the structure of a neuron and explain its function."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How does phototropism occur in plants?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which signals will get disrupted in case of a spinal cord injury?"
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How does chemical coordination occur in plants?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the need for a system of control and coordination in an organism?"
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How are involuntary actions and reex actions different from each other?"
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS4_information_skills",
+          "question_text": "Compare and contrast nervous and hormonal mechanisms for control and coordination in animals."
+        },
+        {
+          "question_no": 12,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the difference between the manner in which movement takes place in a sensitive plant and the movement in our legs?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "How do Organisms Reproduce?",
+      "title_te": "జీవులు ఎలా ప్రత్యుత్పత్తి జరుపుతాయి?",
+      "branch": "Biological Science",
+      "pages_scert": "74 - 99",
+      "learning_outcomes": [
+        "Importance of variation and DNA copying during reproduction",
+        "Asexual Reproduction: Binary fission (Amoeba, Leishmania), Multiple fission (Plasmodium), Fragmentation (Spirogyra), Regeneration (Planaria), Budding (Hydra, Yeast), Vegetative propagation (Bryophyllum, layering, grafting), Spore formation (Rhizopus)",
+        "Sexual Reproduction in Flowering Plants: Structure of flower (Sepals, Petals, Stamen/Anther/Filament, Carpel/Stigma/Style/Ovary), Pollination (Self & Cross), Pollen tube germination, Double fertilization, seed formation",
+        "Reproduction in Human Beings: Changes at puberty, Male reproductive system (Testes, Vas deferens, Prostate gland, Seminal vesicles, Penis), Female reproductive system (Ovaries, Fallopian tubes/Oviducts, Uterus, Cervix, Vagina)",
+        "Fertilization, Zygote formation, Placenta function, Menstrual cycle, Gestation period",
+        "Reproductive Health: STDs (Bacterial: Gonorrhoea, Syphilis; Viral: Warts, HIV-AIDS), Contraceptive methods (Barrier: condoms; Chemical: oral pills; Surgical: Vasectomy, Tubectomy; IUCD: Copper-T)"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Pollen grain} + \\text{Female gamete (Egg)} \\rightarrow \\text{Zygote (2n)} \\rightarrow \\text{Embryo}",
+        "\\text{Male gamete} + \\text{Secondary nucleus (2n)} \\rightarrow \\text{Endosperm (3n)} \\quad (\\text{Double Fertilization})"
+      ],
+      "key_diagrams": [
+        "Binary fission in Amoeba",
+        "Budding in Hydra",
+        "Regeneration in Planaria",
+        "Spore formation in Rhizopus (Bread mould)",
+        "Longitudinal section (LS) of a typical bisexual flower (Hibiscus/Datura)",
+        "Germination of pollen on stigma and growth of pollen tube into ovule",
+        "Human Male Reproductive System",
+        "Human Female Reproductive System"
+      ],
+      "total_activities": 10,
+      "activities": [
+        {
+          "activity_no": "7.1",
+          "aim": "Activity 7.1",
+          "procedure_summary": "",
+          "full_activity_text": ""
+        },
+        {
+          "activity_no": "7.3",
+          "aim": "Activity 7.3",
+          "procedure_summary": "",
+          "full_activity_text": ""
+        },
+        {
+          "activity_no": "7.2",
+          "aim": "g",
+          "procedure_summary": "Dissolve about 10 gm of sugar in 100 mL of water. g Take 20 mL of this solution in a test tube and add a pinch of yeast granules to it.",
+          "full_activity_text": "g\nDissolve about 10 gm of sugar in 100 mL \nof water.\ng\nTake 20 mL of this solution in a test tube \nand add a pinch of yeast granules to it.\ng\nPut a cotton plug on the mouth of the test \ntube and keep it in a warm place.\ng\nAfter 1 or 2 hours, put a small drop of \nyeast culture from the test tube on a slide \nand cover it with a coverslip.\ng\nObserve the slide under a microscope.\ng\nObserve a permanent slide of Amoeba \nunder a microscope.\ng\nSimilarly observe another permanent \nslide of Amoeba showing binary ssion.\ng\nNow, compare the observations of both \nthe slides.\ng\nWet a slice of bread, and keep it in a cool, \nmoist and dark place.\ng\nObserve the surface of the slice with a \nmagnifying glass.\ng\nRecord your observations for a week.\n \nCompare and contrast the ways in which \nyeast grows in the rst case, and how mould \ngrows in the second.\n \nHaving discussed the context in which \nreproductive processes work, let us now \nexamine how different organisms actually \nreproduce. The modes by which various \norganisms reproduce depend on the body \ndesign of the organisms.\n7.2.1 Fission\nFor unicellular organisms, cell division, or \nssion, leads to the creation of new individuals. \nMany different"
+        },
+        {
+          "activity_no": "7.4",
+          "aim": "In multi-cellular organisms with",
+          "procedure_summary": "relatively simple body organisation, simple reproductive methods can still work. Spirogyra, for example, simply breaks up into smaller pieces upon maturation. These pieces or fragments grow into new individuals. Can",
+          "full_activity_text": "In multi-cellular organisms with \nrelatively simple body organisation, simple \nreproductive methods can still work. \nSpirogyra, for example, simply breaks up into \nsmaller pieces upon maturation. These pieces \nor fragments grow into new individuals. Can \nwe work out the reason for this, based on what \nwe saw in"
+        },
+        {
+          "activity_no": "7.4",
+          "aim": "?",
+          "procedure_summary": "This is not true for all multi-cellular organisms. They cannot simply divide cell-by- cell. The reason is that many multi-cellular organisms, as we have seen, are not simply a random collection of cells. Specialised cells are",
+          "full_activity_text": "?\n \nThis is not true for all multi-cellular \norganisms. They cannot simply divide cell-by-\ncell. The reason is that many multi-cellular \norganisms, as we have seen, are not simply a \nrandom collection of cells. Specialised cells are \norganised as tissues, and tissues are organised \ninto organs, which then have to be placed at \ndenite positions in the body. In such a \ncarefully organised situation, cell-by-cell \ndivision would be impractical. Multi-cellular \norganisms, therefore, need to use more \ncomplex ways of reproduction.\n \nA basic strategy used in multi-cellular \norganisms is that different cell types perform \ndifferent specialised functions. Following this \ngeneral pattern, reproduction in such organisms \nis also the function of a specic cell type. How \nis reproduction to be achieved from a single cell \ntype, if the organism itself consists of many cell \ntypes? The answer is that there must be a single \ncell type in the organism that is capable of \ngrowing, proliferating and making other cell \ntypes under the right circumstances.\n7.2.3 Regeneration \nMany fully differentiated organisms have the \nability to give rise to new individual organisms \nfrom their body parts. That is"
+        },
+        {
+          "activity_no": "7.1",
+          "aim": ".",
+          "procedure_summary": "7.2.4 Budding Organisms such as Hydra use regenerative cells for reproduction in the process of budding. In Hydra, a bud develops as an outgrowth due to repeated cell division at",
+          "full_activity_text": ".\n7.2.4 Budding\n \nOrganisms such as Hydra use \nregenerative cells for reproduction in the \nprocess of budding. In Hydra, a bud develops \nas an outgrowth due to repeated cell division at \none specic site (Fig. 7.4). These buds develop \ninto tiny individuals and when fully mature, \ndetach from the parent body and become new \nindependent individuals.\n\n\nANDHRA PRADESH | Biology : How do Organisms Reproduce?\n70\nFigure 7.4 Budding in Hydra\n7.2.5 Vegetative Propagation \nThere are many plants in which parts like the \nroot, stem and leaves develop into new plants \nunder appropriate conditions. Unlike in most \nanimals, plants can indeed use such a mode for \nreproduction. This property of vegetative \npropagation is used in methods such as layering \nor grafting to grow many plants like sugarcane, \nroses, or grapes for agricultural purposes. \nPlants raised by vegetative propagation can \nbear owers and fruits earlier than those \nproduced from seeds. Such methods also make \npossible the propagation of plants such as \nbanana, orange, rose and jasmine that have lost \nthe capacity to produce seeds. Another \nadvantage of vegetative propagation is that all \nplants produced are genetically similar en"
+        },
+        {
+          "activity_no": "7.5",
+          "aim": "Figure 7.5",
+          "procedure_summary": "Leaf of Bryophyllum with buds g Select a money-plant. g Cut some pieces such that they contain at",
+          "full_activity_text": "Figure 7.5\nLeaf of Bryophyllum with buds\ng\nSelect a money-plant.\ng\nCut some pieces such that they contain at \nleast one leaf.\ng\nCut out some other portions between two \nleaves.\ng\nDip one end of all the pieces in water and \nobserve over the next few days. \ng\nWhich ones grow and give rise to fresh \nleaves?\ng\nWhat can you conclude from your \nobservations?"
+        },
+        {
+          "activity_no": "7.6",
+          "aim": "g",
+          "procedure_summary": "Observe changes taking place in these potato pieces over the next few days. Make sure that the cotton is kept moistened. g",
+          "full_activity_text": "g\nObserve changes taking place in these \npotato pieces over the next few days. \nMake sure that the cotton is kept \nmoistened.\ng\nWhich are the potato pieces that give rise \nto fresh green shoots and roots?\nTissue culture\nIn tissue culture, new plants are grown by removing tissue or separating cells from the growing tip \nof a plant. The cells are then placed in an articial medium where they divide rapidly to form a \nsmall group of cells or callus. The callus is transferred to another medium containing hormones \nfor growth and differentiation. The plantlets are then placed in the soil so that they can grow into \nmature plants. Using tissue culture, many plants can be grown from one parent in disease-free \nconditions. This technique is commonly used for ornamental plants.\nMore to Know!\n\n\nANDHRA PRADESH | Biology : How do Organisms Reproduce?\n72\nFigure 7.6\nSpore formation in Rhizopus\n7.2.6 Spore Formation\nEven in many simple multi-cellular organisms, \nspecic reproductive parts can be identied. \nThe thread-like structures that developed on the \nbread in"
+        },
+        {
+          "activity_no": "7.2",
+          "aim": "above are the hyphae of",
+          "procedure_summary": "the bread mould (Rhizopus). They are not reproductive parts. On the other hand, the tiny blob-on-a-stick structures are involved in reproduction. The blobs are sporangia, which contain cells, or spores, that can eventually",
+          "full_activity_text": "above are the hyphae of \nthe bread mould (Rhizopus). They are not \nreproductive parts. On the other hand, the tiny \nblob-on-a-stick structures are involved in \nreproduction. The blobs are sporangia, which \ncontain cells, or spores, that can eventually \ndevelop into new Rhizopus individuals (Fig. \n7.6). The spores are covered by thick walls that \nprotect them until they come into contact with \nanother moist surface and can begin to grow.\nAll the modes of reproduction that we have \ndiscussed so far allow new generations to be \ncreated from a single individual. This is known \nas asexual reproduction.\n1. How does binary ssion differ from \nmultiple ssion?\n2. How will an organism be beneted if it \nreproduces through spores?\n3. Can you think of reasons why more \ncomplex organisms cannot give rise to \nnew individuals through regeneration?\n4. Why is vegetative propagation practised \nfor growing some types of plants?\n5. Why is DNA copying an essential part of \nthe process of reproduction?\n7.3 SEXUAL REPRODUCTION\nWe are also familiar with modes of \nreproduction that depend on the involvement of \ntwo individuals before a new generation can be \ncreated. Bulls alone cannot produce new \ncalves"
+        },
+        {
+          "activity_no": "7.7",
+          "aim": "g",
+          "procedure_summary": "Soak a few seeds of Bengal gram (chana) and keep them overnight. g Drain the excess water and cover the seeds with a wet cloth and leave them for a",
+          "full_activity_text": "g\nSoak a few seeds of Bengal gram (chana) \nand keep them overnight.\ng\nDrain the excess water and cover the \nseeds with a wet cloth and leave them for a \nday. Make sure that the seeds do not \nbecome dry.\ng\nCut open the seeds carefully and observe \nthe different parts. \ng\nCompare your observations with the Fig. \n7.9 and see if you can identify all the parts.\n7.3.3 Reproduction in Human Beings\nSo far, we have been discussing the variety of \nmodes that different species use for \nreproduction. Let us now look at the species \nthat we are most interested in, namely, humans. \nHumans use a sexual mode of reproduction. \nHow does this process work?\n \nLet us begin at an apparently unrelated \npoint. All of us know that our bodies change as \nwe become older. You have learnt changes that \ntake place in your body earlier in Class VIII \nalso. We notice that our height has increased \ncontinuously from early age till now. We \nacquire teeth, we even lose the old, so-called \nmilk teeth and acquire new ones. \nFigure 7.8\nGermination of pollen on stigma\nFigure 7.9   Germination\n\n\nANDHRA PRADESH | Biology : How do Organisms Reproduce?\n78\nAll of these are changes that can be grouped \nunder the general proce"
+        }
+      ],
+      "summary_points": [],
+      "total_exercises": 16,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How is the process of pollination different from fertilisation?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is the role of the seminal vesicles and the prostate gland?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the changes seen in girls at the time of puberty?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How does the embryo get nourishment inside the mother’s body?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "If a woman is using a copper-T, will it help in protecting her from sexually transmitted diseases? What you have learnt g Reproduction, unlike other life processes, is not essential to maintain the life of an individual organism. g Reproduction involves creation of a DNA copy and additional cellular apparatus by the cell involved in the process. g Various organisms use different modes of reproduction depending on their body design. g In ssion, many bacteria and protozoa simply divide into two or more daughter cells. g Organisms such as hydra can regenerate if they are broken into pieces. They can also give out buds which mature into new individuals. g Roots, stems and leaves of some plants develop into new plants through vegetative propagation. g These are examples of asexual reproduction where new generations are created from a single individual. g Sexual reproduction involves two individuals for the creation of a new individual. g DNA copying mechanisms creates variations which are useful for ensuring the survival of the species. Modes of sexual reproduction allow for greater variation to be generated. g Reproduction in owering plants involves transfer of pollen grains from the anther to the stigma which is referred to as pollination. This is followed by fertilisation. g Changes in the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation. g The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis. g The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina. g Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube. g Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper-T and other methods. and other problems if not performed properly. Surgery can also be used for removal of unwanted pregnancies. These may be misused by people who do not want a particular child, as happens in illegal sex-selective abortion of female foetuses. For a healthy society, the female-male sex ratio must be maintained. Because of reckless female foeticides, child sex ratio is declining at an alarming rate in some sections of our society, although prenatal sex determination has been prohibited by law. We have noted earlier that reproduction is the process by which organisms increase their populations. The rates of birth and death in a given population will determine its size. The size of the human population is a cause for concern for many people. This is because an expanding population makes it harder to improve everybody’s standard of living. However, if inequality in society is the main reason for poor standards of living for many people, the size of the population is relatively unimportant. If we look around us, what can we identify as the most important reason(s) for poor living standards? ANDHRA PRADESH | Biology : How do Organisms Reproduce? 86 EXERCISES"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Asexual reproduction takes place through budding in (a) Amoeba. (b) Yeast. (c) Plasmodium. (d) Leishmania."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following is not a part of the female reproductive system in human beings? (a) Ovary (b) Uterus (c) Vas deferens (d) Fallopian tube"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "The anther contains (a) sepals. (b) ovules. (c) pistil. (d) pollen grains."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the advantages of sexual reproduction over asexual reproduction?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the functions performed by the testis in human beings?"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why does menstruation occur?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_text": "Draw a labelled diagram of the longitudinal section of a ower."
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the different methods of contraception?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How are the modes for reproduction different in unicellular and multicellular organisms?"
+        },
+        {
+          "question_no": 10,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How does reproduction help in providing stability to populations of species?"
+        },
+        {
+          "question_no": 11,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What could be the reasons for adopting contraceptive methods?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Heredity",
+      "title_te": "అనువంశికత",
+      "branch": "Biological Science",
+      "pages_scert": "100 - 113",
+      "learning_outcomes": [
+        "Heredity and inherited traits: Accumulation of variations during reproduction",
+        "Mendel's experiments with Garden Pea (Pisum sativum): Monohybrid cross, Law of Segregation, Law of Dominance (Phenotypic ratio 3:1, Genotypic ratio 1:2:1)",
+        "Dihybrid cross: Law of Independent Assortment (Phenotypic ratio 9:3:3:1)",
+        "Expression of traits (Genes synthesize proteins/enzymes)",
+        "Sex determination in humans: Allosomes (XX female, XY male), role of father's sperm in determining sex of the child (50% probability)"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Monohybrid Cross (F2): Phenotypic Ratio } = 3:1 \\text{ (Tall : Dwarf)}, \\quad \\text{Genotypic Ratio } = 1:2:1 \\text{ (TT : Tt : tt)}",
+        "\\text{Dihybrid Cross (F2): Phenotypic Ratio } = 9:3:3:1 \\text{ (Round Yellow : Round Green : Wrinkled Yellow : Wrinkled Green)}",
+        "\\text{Sex Determination: Female } (44 + \\text{XX}) \\times \\text{Male } (44 + \\text{XY}) \\rightarrow 50\\% \\text{ XX (Girl)}, 50\\% \\text{ XY (Boy)}"
+      ],
+      "key_diagrams": [
+        "Inheritance of traits over two generations (Mendel's monohybrid cross Punnett square)",
+        "Independent inheritance of two separate traits: Shape and colour of seeds (Dihybrid cross)",
+        "Sex determination in human beings flowchart"
+      ],
+      "total_activities": 2,
+      "activities": [
+        {
+          "activity_no": "8.1",
+          "aim": "(a)",
+          "procedure_summary": "(b) Figure 8.2 (a) Free and (b) attached earlobes. The lowest part of the ear, called the earlobe, is closely attached to the side of the head in some of us, and not in others. Free",
+          "full_activity_text": "(a)\n(b)\nFigure 8.2\n(a) Free and (b) attached earlobes. The lowest part of \nthe ear, called the earlobe, is closely attached to the \nside of the head in some of us, and not in others. Free \nand attached earlobes are two variants found in human \npopulations.\nMendel used a number of contrasting visible \ncharacters of garden peas–round/wrinkled seeds, \ntall/short plants, white/violet owers and so on. \nHe took pea plants with different characteristics \n–a tall plant and a short plant, produced progeny \nby crossing them, and calculated the percentages \nof tall or short progeny.\nIn the rst place, there were no halfway \ncharacteristics in this rst-generation, or F1 \nprogeny –no ‘medium-height’ plants. All plants \nwere tall. This meant that only one of the parental \ntraits was seen, not some mixture of the two. So the \nnext question was, were the tall plants in the F1 \ngeneration exactly the same as the tall plants of the \nparent generation? Mendelian experiments test \nthis by getting both the parental plants and these F1 \ntall plants to reproduce by self-pollination. The \nprogeny of the parental plants are, of course, all \ntall. However, the second-generation, or F2, \nprogeny of the F1 "
+        },
+        {
+          "activity_no": "8.2",
+          "aim": "g",
+          "procedure_summary": "In Fig. 8.3, what experiment would we do to conrm that the F2 generation did in fact have a 1:2:1 ratio of TT, Tt and tt trait combinations? In this explanation, both TT and Tt are tall",
+          "full_activity_text": "g\nIn Fig. 8.3, what experiment would we \ndo to conrm that the F2 generation did \nin fact have a 1:2:1 ratio of TT, Tt and tt \ntrait combinations?\nIn this explanation, both TT and Tt are tall \nplants, while only tt is a short plant. In other \nwords, a single copy of ‘T’ is enough to make \nthe plant tall, while both copies have to be ‘t’ for \nthe plant to be short. Traits like ‘T’ are called \ndominant traits, while those that behave like ‘t’ \nare called recessive traits. Work out which trait \nwould be considered dominant and which one \nrecessive in Fig. 8.4.\n What happens when pea plants showing \ntwo different characteristics, rather than just \none, are bred with each other? What do the \nprogeny of a tall plant with round seeds and a \nshort plant with wrinkled-seeds look like? They \nare all tall and have round seeds. Tallness and \nround seeds are thus dominant traits. But what \nhappens when these F1 progeny are used to \ngenerate F2 progeny by self-pollination? A \nMendelian experiment will nd that some F2 \nprogeny are tall plants with round seeds, and \nsome were short plants with wrinkled seeds.  \nHowever, there would also be some F2 progeny \nthat showed new combinations. Some of th"
+        }
+      ],
+      "summary_points": [],
+      "total_exercises": 10,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "If a trait A exists in 10% of a population of an asexually reproducing species and a trait B exists in 60% of the same population, which trait is likely to have arisen earlier?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "How does the creation of variations in a species promote survival? ANDHRA PRADESH | Biology : Heredity 92 human populations show a great deal of variation. Mendel was educated in a monastery and went on to study science and mathematics at the University of Vienna. Failure in the examinations for a teaching certicate did not suppress his zeal for scientic quest. He went back to his monastery and started growing peas. Many others had studied the inheritance of traits in peas and other organisms earlier, but Mendel blended his knowledge of science and mathematics and was the rst one to keep count of individuals exhibiting a particular trait in each generation. This helped him to arrive at the laws of inheritance. g Observe the ears of all the students in the class. Prepare a list of students having free or attached earlobes and calculate the percentage of students having each (Fig. 8.2). Find out about the earlobes of the parents of each student in the class. Correlate the earlobe type of each student with that of their parents. Based on this evidence, suggest a possible rule for the inheritance of earlobe types. Activity 8.1 (a) (b) Figure 8.2 (a) Free and (b) attached earlobes. The lowest part of the ear, called the earlobe, is closely attached to the side of the head in some of us, and not in others. Free and attached earlobes are two variants found in human populations. Mendel used a number of contrasting visible characters of garden peas–round/wrinkled seeds, tall/short plants, white/violet owers and so on. He took pea plants with different characteristics –a tall plant and a short plant, produced progeny by crossing them, and calculated the percentages of tall or short progeny. In the rst place, there were no halfway characteristics in this rst-generation, or F1 progeny –no ‘medium-height’ plants. All plants were tall. This meant that only one of the parental traits was seen, not some mixture of the two. So the next question was, were the tall plants in the F1 generation exactly the same as the tall plants of the parent generation? Mendelian experiments test this by getting both the parental plants and these F1 tall plants to reproduce by self-pollination. The progeny of the parental plants are, of course, all tall. However, the second-generation, or F2, progeny of the F1 tall plants are not all tall. Instead, one quarter of them are short. This indicates that both the tallness and shortness traits were inherited in the F1 plants, but only the tallness trait was expressed. This led Mendel  to propose that two copies of factor (now called genes) controlling traits are present in sexually reproducing organism. These two may be identical, or may be different, depending on the parentage. A pattern of inheritance can be worked out with this assumption, as shown in Fig. 8.3. 8.2.2 Rules for the Inheritance of Traits – Mendel’s Contributions The rules for inheritance of such traits in human beings are related to the fact that both the father and the mother contribute practically equal amounts of genetic material to the child. This means that each trait can be inuenced by both paternal and maternal DNA. Thus, for each trait there will be two versions in each child. What will, then, the trait seen in the child be? Mendel (see box) worked out the main rules of such inheritance, and it is interesting to look at some of his experiments from more than a century ago. Gregor Johann Mendel (1822–1884) ANDHRA PRADESH | Biology : Heredity 94 Figure 8.3 Inheritance of traits  over two generations Activity 8.2 g In Fig. 8.3, what experiment would we do to conrm that the F2 generation did in fact have a 1:2:1 ratio of TT, Tt and tt trait combinations? In this explanation, both TT and Tt are tall plants, while only tt is a short plant. In other words, a single copy of ‘T’ is enough to make the plant tall, while both copies have to be ‘t’ for the plant to be short. Traits like ‘T’ are called dominant traits, while those that behave like ‘t’ are called recessive traits. Work out which trait would be considered dominant and which one recessive in Fig. 8.4. What happens when pea plants showing two different characteristics, rather than just one, are bred with each other? What do the progeny of a tall plant with round seeds and a short plant with wrinkled-seeds look like? They are all tall and have round seeds. Tallness and round seeds are thus dominant traits. But what happens when these F1 progeny are used to generate F2 progeny by self-pollination? A Mendelian experiment will nd that some F2 progeny are tall plants with round seeds, and some were short plants with wrinkled seeds. However, there would also be some F2 progeny that showed new combinations. Some of them would be tall, but have wrinkled seeds, while others would be short, but have round seeds. You can see as to how new combinations of traits are formed in F2 offspring when factors controlling for seed shape and seed colour recombine to form zygote leading to form F2 offspring (Fig. 8.5). Thus, the tall/short trait and the round seed/wrinkled seed trait are independently inherited. 8.2.3 How do these Traits get Expressed? How does the mechanism of heredity work? Cellular DNA is the information source for making proteins in the cell. A section of DNA that provides information for one protein is called the gene for that protein. How do proteins control the characteristics that we are discussing here? Let us take the example of tallness as a characteristic. We know that plants have hormones that can trigger growth. Plant height can thus depend on the amount of a particular plant hormone. The amount of the plant hormone made will depend on the efciency of the process for making it. Consider now an enzyme that is important for this process. If this enzyme works efciently, a lot of hormone will be made, and the plant will be tall. If the gene for that enzyme has an alteration that makes the enzyme less efcient, the amount of hormone will be less, and the plant will be short. Thus, genes control characteristics, or traits. If the interpretations of Mendelian experiments we have been discussing are correct, then both parents must be contributing equally to the DNA of the progeny during sexual reproduction. We have disscussed this issue in the previous Chapter. If both parents can help determine the trait in the progeny, both parents must be contributing a copy of the same gene. This means that each pea plant must have two sets of all genes, one inherited from each parent. For this mechanism to work, each germ cell must have only one gene set. How do germ-cells make a single set of genes from the normal two copies that all other cells in the body have? If progeny plants inherited a single whole gene set from each parent, then the experiment explained in Fig. 8.5 cannot work. This is because the two characteristics ‘R’ and ‘y’ would then be linked to each other and cannot be independently F1 ANDHRA PRADESH | Biology : Heredity 96 inherited. This is explained by the fact that each gene set is present, not as a single long thread of DNA, but as separate independent pieces, each called a chromosome. Thus, each cell will have two copies of each chromosome, one each from the male and female parents. Every germ-cell will take one chromosome from each pair and these may be of either maternal or paternal origin. When two germ cells combine, they will restore the normal number of chromosomes in the progeny, ensuring the stability of the DNA of the species. Such a mechanism of inheritance explains the results of the Mendel experiments, and is used by all sexually reproducing organisms. But asexually reproducing organisms also follow similar rules of inheritance. Can we work out how their inheritance might work? 8.2.4 Sex Determination We have discussed the idea that the two sexes participating in sexual reproduction must be somewhat different from each other for a number of reasons. How is the sex of a newborn individual determined? Different species use very different strategies for this. Some rely entirely on environmental cues. Thus, in some animals like a few reptiles, the temperature at which fertilised eggs are kept determines whether the animals developing in the eggs will be male or female. In other animals, such as snails, individuals can change sex, indicating that sex is not genetically determined. However, in human beings, the sex of the individual is largely genetically determined. In other words, the genes inherited from our parents decide whether we will be boys or girls. But so far, we have assumed that similar gene sets are inherited from both parents. If that is the case, how can genetic inheritance determine sex? The explanation lies in the fact that all human chromosomes are not paired. Most human chromosomes have a maternal and a paternal copy, and we have 22  such pairs. But one pair, called the sex chromosomes, is odd in not always being a perfect pair. Women have a perfect pair of sex chromosomes, both called X. But men have a mismatched pair in which one is a normal-sized X while the other is a short Figure 8.5 Independent inheritance of two separate traits, shape and colour of seeds ANDHRA PRADESH | Biology : Heredity 98 one called Y. So women are XX, while men are XY. Now, can we work out what the inheritance pattern of X and Y will be? As Fig. 8.6 shows, half the children will be boys and half will be girls. All children will inherit an X chromosome from their mother regardless of whether they are boys or girls. Thus, the sex of the children will be determined by what they inherit from their father. A child who inherits an X chromosome from her father will be a girl, and one who inherits a Y chromosome  from him will be a boy."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "How do Mendel’s experiments show that traits may be dominant or recessive?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "How do Mendel’s experiments show that traits are inherited independently?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A man with blood group A marries a woman with blood group O and their daughter has blood group O. Is this information enough to tell you which of the traits – blood group A or O – is dominant? Why or why not?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How is the sex of the child determined in human beings? What you have learnt g Variations arising during the process of reproduction can be inherited. g These variations may lead to increased survival of the individuals. g Sexually reproducing individuals have two copies of genes for the same trait. If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait. g Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction. g Sex is determined by different factors in various species. In human beings, the sex of the child depends on whether the paternal chromosome is X (for girls) or Y (for boys). Figure 8.6 Sex determination in human beings ANDHRA PRADESH | Biology : Heredity 100 EXERCISES"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "A Mendelian experiment consisted of breeding tall pea plants bearing violet owers with short pea plants bearing white owers. The progeny all bore violet owers, but almost half of them were short. This suggests that the genetic make-up of the tall parent can be depicted as (a) TTWW (b) TTww (c) TtWW (d) TtWw"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "A study found that children with light-coloured eyes are likely to have parents with light- coloured eyes. On this basis, can we say anything about whether the light eye colour trait is dominant or recessive? Why or why not?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Outline a project which aims to nd the dominant coat colour in dogs."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "How is the equal genetic contribution of male and female parents ensured in the progeny?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Our Environment",
+      "title_te": "మన పర్యావరణం",
+      "branch": "Biological Science",
+      "pages_scert": "114 - 134",
+      "learning_outcomes": [
+        "Ecosystem components: Biotic (Producers, Consumers: Herbivores, Carnivores, Omnivores, Parasites; Decomposers) and Abiotic factors (Light, temperature, soil, water)",
+        "Food chains and Food webs: Trophic levels (T1 Producers -> T2 Primary consumers -> T3 Secondary consumers -> T4 Tertiary consumers)",
+        "Energy flow in an ecosystem: Unidirectional flow, Lindeman's 10% Law of energy transfer",
+        "Biological Magnification: Progressive accumulation of non-biodegradable pesticides (e.g. DDT) at successive trophic levels",
+        "Environmental problems: Ozone layer depletion (CFCs, Montreal Protocol 1987), Managing garbage/waste (Biodegradable vs Non-biodegradable waste, Recycling, Incineration, Composting)"
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Lindeman's 10\\% Law: Energy available at next trophic level } = 10\\% \\text{ of previous level}",
+        "\\text{Ozone Formation: } \\text{O}_2 \\xrightarrow{\\text{UV}} \\text{O} + \\text{O}, \\quad \\text{O} + \\text{O}_2 \\rightarrow \\text{O}_3",
+        "\\text{Trophic Levels: } \\text{Producers } (10000\\text{ J}) \\rightarrow \\text{Herbivores } (1000\\text{ J}) \\rightarrow \\text{Carnivores } (100\\text{ J}) \\rightarrow \\text{Top Carnivore } (10\\text{ J})"
+      ],
+      "key_diagrams": [
+        "Trophic levels pyramid",
+        "Food chain in a forest, grassland, and pond",
+        "Food web showing interconnected feeding relationships",
+        "Energy flow diagram in an ecosystem",
+        "Ozone cycle and depletion mechanism"
+      ],
+      "total_activities": 10,
+      "activities": [
+        {
+          "activity_no": "13.1",
+          "aim": "g",
+          "procedure_summary": "You might have seen an aquarium. Let us try to design one. g What are the things that we need to keep in mind when we create an aquarium?",
+          "full_activity_text": "g\nYou might have seen an aquarium. Let us \ntry to design one. \ng\nWhat are the things that we need to keep \nin mind when we create an aquarium? \nThe sh would need a free space for \nswimming (it could be a large jar), water, \noxygen and food. \ng\nWe can provide oxygen through an \noxygen pump (aerator) and sh food \nwhich is available in the market.\ng\nIf we add a few aquatic plants and \nanimals it can become a self-sustaining \nsystem. Can you think how this happens? \nAn aquarium is an example of a human-\nmade ecosystem. \ng\nCan we leave the aquarium as such after \nwe set it up? Why does it have to be \ncleaned once in a while? Do we have to \nclean ponds or lakes in the same manner? \nWhy or why not?\nWe have seen in earlier classes that \norganisms can be grouped as producers, \nconsumers and decomposers according to the \nmanner in which they obtain their sustenance \nfrom the environment. Let us recall what we \nhave learnt through the self sustaining \necosystem created by us above. Which \norganisms can make organic compounds like \nsugar and starch from inorganic substances \nusing the radiant energy of the Sun in the \npresence of chlorophyll? All green plants and \ncertain bacteria  which can"
+        },
+        {
+          "activity_no": "13.2",
+          "aim": "g",
+          "procedure_summary": "While creating an aquarium did you take care not to put an aquatic animal which would eat others? What would have happened otherwise? g",
+          "full_activity_text": "g\nWhile creating an aquarium did you take \ncare not to put an aquatic animal which \nwould eat others? What would have \nhappened otherwise?\ng\nMake groups and discuss how each of the \nabove groups of organisms are dependent \non each other. \ng\nWrite the aquatic organisms in order of \nwho eats whom and form a chain of at \nleast three steps.   \ng\nWould you consider any one group of \norganisms to be of primary importance? \nWhy or why not?\n13.1.1 Food Chains and Webs\nIn"
+        },
+        {
+          "activity_no": "13.2",
+          "aim": "we have formed a series",
+          "procedure_summary": "of organisms feeding on one another. This series or organisms taking part at various biotic levels form a food chain (Fig. 13.1). Each step or level of the food chain forms a trophic level. The autotrophs or the producers",
+          "full_activity_text": "we have formed a series \nof organisms feeding on one another. This \nseries or organisms taking part at various biotic \nlevels form a food chain (Fig. 13.1).\nEach step or level of the food chain forms \na trophic level. The autotrophs or the producers \nare at the rst trophic level. They x up the solar \nenergy and make it available for heterotrophs or \nthe consumers. The herbivores or the primary \nconsumers come at the second, small \ncarnivores or the secondary consumers at the \nthird and larger carnivores or the tertiary \nconsumers form the fourth trophic level (Fig. \n13.2).\nWe know that the food we eat acts as a \nfuel to provide us energy to do work. Thus the \ninteractions among various components of the \nenvironment involves ow of energy from one \ncomponent of the system to another. As we \nhave studied, the autotrophs capture the energy \npresent in sunlight and convert it into chemical \nenergy. This energy supports all the activities of \nthe living world. From autotrophs, the energy \ngoes to the heterotrophs and decomposers. \nHowever, as we saw in the previous Chapter on \n‘Sources of Energy’, when one form of energy \nis changed to another, some energy is lost to the \nenvironment"
+        },
+        {
+          "activity_no": "13.3",
+          "aim": "g",
+          "procedure_summary": "Newspaper reports about pesticide levels in ready-made food items are often seen these days and some states have banned these products. Debate in groups the need for such bans.",
+          "full_activity_text": "g\nNewspaper reports about pesticide levels \nin ready-made food items are often seen \nthese days and some states have banned \nthese products. Debate in groups the \nneed for such bans.\ng\nWhat do you think would be the source \nof pesticides in these food items? Could \npesticides get into our bodies from this \nsource through other food products too?\ng\nDiscuss what methods could be applied \nto reduce our intake of pesticides.\n1. What are trophic levels? Give an example \nof a food chain and state the different \ntrophic levels in it.\n2. What is the role of decomposers in the \necosystem?\n13.2 HOW DO OUR ACTIVITIES \nAFFECT THE ENVIRONMENT?\nWe are an integral part of the environment. \nChanges in the environment affect us and our \nactivities change the environment around us. \nWe have already seen in Class IX how our \nactivities pollute the environment. In this \nchapter, we shall be looking at two of the \nenvironmental problems in detail, that is, \ndepletion of the ozone layer and waste disposal.\n13.2.1 Ozone Layer and How it is Getting \nDepleted\nOzone (O ) is a molecule formed by three atoms \n3\nof oxygen. While O , which we normally refer \n2\nto as oxygen, is essential for all aerobic forms \no"
+        },
+        {
+          "activity_no": "13.4",
+          "aim": "g",
+          "procedure_summary": "Find out from the library, internet or newspaper reports, which chemicals are responsible for the depletion of the ozone layer. g",
+          "full_activity_text": "g\nFind out from the library, internet or \nnewspaper reports, which chemicals are \nresponsible for the depletion of the ozone \nlayer.\ng\nFind out if the regulations put in place to \ncontrol the emission of these chemicals \nhave succeeded in reducing the damage to \nthe ozone layer. Has the size of the hole in \nthe ozone layer changed in recent years?\n\n\nANDHRA PRADESH | Biology : Our Environment\n112"
+        },
+        {
+          "activity_no": "13.5",
+          "aim": "Activity 13.5",
+          "procedure_summary": "",
+          "full_activity_text": ""
+        },
+        {
+          "activity_no": "13.6",
+          "aim": "g",
+          "procedure_summary": "Collect waste material from your homes. This could include all the waste generated during a day, like kitchen waste (spoilt food, vegetable peels, used tea leaves, milk packets and empty",
+          "full_activity_text": "g\nCollect waste material from your homes. \nThis could include all the waste \ngenerated during a day, like kitchen \nwaste (spoilt food, vegetable peels, used \ntea leaves, milk packets and empty \ncartons), waste paper, empty medicine \nbottles/strips/bubble packs, old and torn \nclothes and broken footwear.\ng\nBury this material in a pit in the school \ngarden or if there is no space available, \nyou can collect the material in an old \nbucket/ower pot and cover with at least \n15 cm of soil.\ng\nKeep this material moist and observe at \n15-day intervals. \ng\nWhat are the materials that remain \nunchanged over long periods of time?\ng\nWhat are the materials which change \ntheir form and structure over time?\ng\nOf these materials that are changed, \nwhich ones change the fastest?\ng\nUse the library or internet to nd out \nmore about biodegradable and non-\nbiodegradable substances.\ng\nHow long are various nonbiodegradable \nsubstances expected to last in our \nenvironment?\ng\nThese days, new types of plastics which \nare said to be biodegradable are \navailable. Find out more about such \nmaterials and whether they do or do not \nharm the environment.\nWe have seen in the chapter on ‘Life \nProcesses’ that the "
+        },
+        {
+          "activity_no": "13.7",
+          "aim": "g",
+          "procedure_summary": "Find out what happens to the waste generated at home. Is there a system in place to collect this waste? g Find out how the local body (panchayat,",
+          "full_activity_text": "g\nFind out what happens to the waste \ngenerated at home. Is there a system in \nplace to collect this waste?\ng\nFind out how the local body (panchayat, \nmunicipal corporation, resident welfare \nassociation) deals with the waste. Are \nthere mechanisms in place to treat the \nbiodegradable and non-biodegradable \nwastes separately?\ng\nCalculate how much waste is generated \nat home in a day.\ng\nH o w m u c h o f t h i s w a s t e i s \nbiodegradable?\ng\nCalculate how much waste is generated \nin the classroom in a day.\n\n\nANDHRA PRADESH | Biology : Our Environment\n114\ng\nHow much of this waste is biodegradable?\ng\nSuggest ways of dealing with this waste."
+        },
+        {
+          "activity_no": "13.8",
+          "aim": "Activity 13.8",
+          "procedure_summary": "",
+          "full_activity_text": ""
+        },
+        {
+          "activity_no": "13.9",
+          "aim": "g",
+          "procedure_summary": "Find out how the sewage in your locality is treated. Are there mechanisms in place to ensure that local water bodies are not polluted by untreated sewage. g",
+          "full_activity_text": "g\nFind out how the sewage in your locality \nis treated. Are there mechanisms in place \nto ensure that local water bodies are not \npolluted by untreated sewage.\ng\nFind out how the local industries in your \nlocality treat their wastes. Are there \nmechanisms in place to ensure that the \nsoil and water are not polluted by this \nwaste?\ng\nSearch the internet or library to nd out \nwhat hazardous materials have to be \ndealt with while disposing of electronic \nitems. How would these materials affect \nthe environment?\ng\nFind out how plastics are recycled. Does \nthe recycling process have any impact \non the environment?\nImprovements in our life-style have \nresulted in greater amounts of waste material \ngeneration. Changes in attitude also have a role \nto play, with more and more things we use \nbecoming disposable. Changes in packaging \nThink it over"
+        }
+      ],
+      "summary_points": [],
+      "total_exercises": 14,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why are some substances biodegradable and some non-biodegradable?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "G i v e a n y t w o w a y s i n w h i c h biodegradable substances would affect the environment."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_text": "Give any two ways in which non- biodegradable substances would affect the environment. Visit any town or city, and we are sure to nd heaps of garbage all over the place. Visit any place of tourist interest and we are sure to nd the place littered with empty food wrappers. In the earlier classes we have talked about this problem of dealing with the garbage that we generate. Let us now look at the problem a bit more deeply. Activity 13.7 g Find out what happens to the waste generated at home. Is there a system in place to collect this waste? g Find out how the local body (panchayat, municipal corporation, resident welfare association) deals with the waste. Are there mechanisms in place to treat the biodegradable and non-biodegradable wastes separately? g Calculate how much waste is generated at home in a day. g H o w m u c h o f t h i s w a s t e i s biodegradable? g Calculate how much waste is generated in the classroom in a day. ANDHRA PRADESH | Biology : Our Environment 114 g How much of this waste is biodegradable? g Suggest ways of dealing with this waste. Activity 13.8 Activity 13.9 g Find out how the sewage in your locality is treated. Are there mechanisms in place to ensure that local water bodies are not polluted by untreated sewage. g Find out how the local industries in your locality treat their wastes. Are there mechanisms in place to ensure that the soil and water are not polluted by this waste? g Search the internet or library to nd out what hazardous materials have to be dealt with while disposing of electronic items. How would these materials affect the environment? g Find out how plastics are recycled. Does the recycling process have any impact on the environment? Improvements in our life-style have resulted in greater amounts of waste material generation. Changes in attitude also have a role to play, with more and more things we use becoming disposable. Changes in packaging Think it over What you have learnt Disposable cups in trains If you ask your parents, they will probably remember a time when tea in trains was served in plastic glasses which had to be returned to the vendor. The introduction of disposable cups was hailed as a step forward for reasons of hygiene. No one at that time perhaps thought about the impact caused by the disposal of millions of these cups on a daily basis. Some time back, kulhads, that is, disposable cups made of clay, were suggested as an alternative. But a little thought showed that making these kulhads on a large scale would result in the loss of the fertile top-soil. Now disposable paper-cups are being used. What do you think are the advantages of disposable paper-cups over disposable plastic cups? g The various components of an ecosystem are interdependent. g The producers make the energy from sunlight available to the rest of the ecosystem. g There is a loss of energy as we go from one trophic level to the next, this limits the number of trophic levels in a food-chain. g Human activities have an impact on the environment. g The use of chemicals like CFCs has endangered the ozone layer. Since the ozone layer protects against the ultraviolet radiation from the Sun, this could damage the environment. g The waste we generate may be biodegradable or non-biodegradable. g The disposal of the waste we generate is causing serious environmental problems."
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is ozone and how does it affect any ecosystem?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "How can you help in reducing the problem of waste disposal? Give any two methods. have resulted in much of our waste becoming non-biodegradable. What do you think will be the impact of these on our environment? ANDHRA PRADESH | Biology : Our Environment 116 EXERCISES"
+        },
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following groups contain only biodegradable items? (a) Grass, owers and leather (b) Grass, wood and plastic (c) Fruit-peels, cake and lime-juice (d) Cake, wood and grass"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Which of the following constitute a food-chain? (a) Grass, wheat and mango (b) Grass, goat and human (c)  Goat, cow and elephant (d) Grass, sh and goat"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "Which of the following are environment-friendly practices? (a) Carrying cloth-bags to put purchases in while shopping (b) Switching off unnecessary lights and fans (c) Walking to school instead of getting your mother to drop you on her scooter (d) All of the above"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What will happen if we kill all the organisms in one trophic level?"
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Will the impact of removing all the organisms in a trophic level be different for different trophic levels? Can the organisms of any trophic level be removed without causing any damage to the ecosystem?"
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What is biological magnication? Will the levels of this magnication be different at different levels of the ecosystem?"
+        },
+        {
+          "question_no": 7,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "What are the problems caused by the non-biodegradable wastes that we generate?"
+        },
+        {
+          "question_no": 8,
+          "academic_standard": "AS6_daily_life_application",
+          "question_text": "If all the waste we generate is biodegradable, will this have no impact on the environment?"
+        },
+        {
+          "question_no": 9,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_text": "Why is damage to the ozone layer a cause for concern? What steps are being taken to limit this damage? 118"
+        }
+      ]
+    }
+  ]
+}

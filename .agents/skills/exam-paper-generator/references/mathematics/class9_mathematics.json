@@ -1,0 +1,668 @@
+{
+  "book_metadata": {
+    "title_en": "Mathematics - Class 9 (AP SCERT 2024-25)",
+    "title_te": "గణితం - తొమ్మిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 12,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "source_pdfs": [
+      "9_Maths_SEM-1_Textbook.pdf",
+      "9_Maths_SEM-2_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Problem Solving",
+    "AS2": "Reasoning and Proof",
+    "AS3": "Communication",
+    "AS4": "Connections",
+    "AS5": "Representation and Visualization"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Number Systems",
+      "title_te": "సంఖ్యా వ్యవస్థలు",
+      "semester": 1,
+      "pages_scert": "1 - 32",
+      "theorems_and_key_concepts": [
+        "Representation of real numbers on the number line using successive magnification.",
+        "Existence of square root of x for any positive real number x geometrically.",
+        "Fundamental definition: A number s is called irrational if it cannot be written in the form p/q where p, q are integers and q != 0.",
+        "Real numbers R consists of rational numbers and irrational numbers.",
+        "Laws of exponents with real powers: a^p * a^q = a^{p+q}, (a^p)^q = a^{pq}, a^p / a^q = a^{p-q}, a^p * b^p = (ab)^p."
+      ],
+      "formulas_katex": [
+        "\\sqrt{ab} = \\sqrt{a}\\sqrt{b}",
+        "\\sqrt{\\frac{a}{b}} = \\frac{\\sqrt{a}}{\\sqrt{b}}",
+        "(\\sqrt{a} + \\sqrt{b})(\\sqrt{a} - \\sqrt{b}) = a - b",
+        "(a + \\sqrt{b})(a - \\sqrt{b}) = a^2 - b",
+        "(\\sqrt{a} + \\sqrt{b})^2 = a + 2\\sqrt{ab} + b",
+        "\\frac{1}{\\sqrt{a} + b} = \\frac{\\sqrt{a} - b}{a - b^2} \\quad (\\text{Rationalizing the Denominator})",
+        "a^p \\cdot a^q = a^{p+q}, \\quad (a^p)^q = a^{pq}, \\quad \\frac{a^p}{a^q} = a^{p-q}, \\quad a^p b^p = (ab)^p"
+      ],
+      "total_exercises": 5,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Simplify the expression: $(3 + \\sqrt{3})(2 + \\sqrt{2})$.",
+          "question_text_te": "సూక్ష్మీకరించండి: $(3 + \\sqrt{3})(2 + \\sqrt{2})$."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Show that $0.2353535... = 0.2\\bar{35}$ can be expressed in the form $p/q$, where $p$ and $q$ are integers and $q \\neq 0$.",
+          "question_text_te": "$0.2353535... = 0.2\\bar{35}$ ను $p/q$ రూపంలో వ్యక్తపరచవచ్చని చూపండి (ఇక్కడ $p, q$ లు పూర్ణసంఖ్యలు మరియు $q \\neq 0$)."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Rationalise the denominator of $\\frac{1}{\\sqrt{7} - \\sqrt{6}}$.",
+          "question_text_te": "హారాన్ని అకరణీయం చేయండి: $\\frac{1}{\\sqrt{7} - \\sqrt{6}}$."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Represent $\\sqrt{9.3}$ geometrically on the number line.",
+          "question_text_te": "సంఖ్యా రేఖపై $\\sqrt{9.3}$ ను జ్యామితీయంగా సూచించండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_communication",
+          "question_type": "very_short_answer",
+          "marks_weightage": "1M",
+          "question_text_en": "State whether every irrational number is a real number. Justify your answer.",
+          "question_text_te": "ప్రతి కరణీయ సంఖ్య వాస్తవ సంఖ్య అవుతుందా? మీ సమాధానాన్ని సమర్థించండి."
+        },
+        {
+          "question_no": 6,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the value of $(125)^{1/3}$ and $(64)^{-1/2}$.",
+          "question_text_te": "విలువలను కనుగొనండి: $(125)^{1/3}$ మరియు $(64)^{-1/2}$."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Polynomials",
+      "title_te": "బహుపదులు",
+      "semester": 1,
+      "pages_scert": "33 - 61",
+      "theorems_and_key_concepts": [
+        "Definition of a polynomial in one variable x of degree n: p(x) = a_n x^n + a_{n-1} x^{n-1} + ... + a_1 x + a_0.",
+        "Remainder Theorem: If p(x) is divided by the linear polynomial (x - a), then the remainder is p(a).",
+        "Factor Theorem: (x - a) is a factor of p(x) if p(a) = 0, and if (x - a) is a factor of p(x), then p(a) = 0.",
+        "Algebraic Identities for quadratic and cubic expansions."
+      ],
+      "formulas_katex": [
+        "(x + y)^2 = x^2 + 2xy + y^2",
+        "(x - y)^2 = x^2 - 2xy + y^2",
+        "x^2 - y^2 = (x + y)(x - y)",
+        "(x + a)(x + b) = x^2 + (a + b)x + ab",
+        "(x + y + z)^2 = x^2 + y^2 + z^2 + 2xy + 2yz + 2zx",
+        "(x + y)^3 = x^3 + y^3 + 3xy(x + y)",
+        "(x - y)^3 = x^3 - y^3 - 3xy(x - y)",
+        "x^3 + y^3 + z^3 - 3xyz = (x + y + z)(x^2 + y^2 + z^2 - xy - yz - zx)"
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the value of the polynomial $5x - 4x^2 + 3$ at $x = -1$.",
+          "question_text_te": "$x = -1$ వద్ద $5x - 4x^2 + 3$ బహుపది విలువను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Use the Factor Theorem to determine whether $(x + 1)$ is a factor of $2x^3 + x^2 - 2x - 1$.",
+          "question_text_te": "కారణాంక సిద్ధాంతం ఉపయోగించి $2x^3 + x^2 - 2x - 1$ కు $(x + 1)$ కారణాంకమో కాదో నిర్ణయించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Factorise: $x^3 - 23x^2 + 142x - 120$.",
+          "question_text_te": "కారణాంకాలుగా విభజించండి: $x^3 - 23x^2 + 142x - 120$."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Evaluate $105 \\times 106$ without multiplying directly using suitable identity.",
+          "question_text_te": "సరైన నిత్యసమీకరణాన్ని ఉపయోగించి $105 \\times 106$ విలువను ప్రత్యక్ష గుణకారం లేకుండా కనుగొనండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS3_communication",
+          "question_type": "very_short_answer",
+          "marks_weightage": "1M",
+          "question_text_en": "Write the degree of the zero polynomial and a non-zero constant polynomial.",
+          "question_text_te": "శూన్య బహుపది మరియు శూన్యేతర స్థిర బహుపది పరిమాణాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Coordinate Geometry",
+      "title_te": "నిరూపక రేఖాగణితం",
+      "semester": 1,
+      "pages_scert": "62 - 76",
+      "theorems_and_key_concepts": [
+        "Cartesian coordinate system: Two mutually perpendicular number lines intersecting at origin O(0,0).",
+        "Horizontal line is called X-axis; vertical line is called Y-axis.",
+        "The plane is divided into four quadrants: Quadrant I (+, +), Quadrant II (-, +), Quadrant III (-, -), Quadrant IV (+, -).",
+        "Coordinates of a point P are written as an ordered pair (x, y) where x is the abscissa and y is the ordinate."
+      ],
+      "formulas_katex": [
+        "P(x, y) \\implies x = \\text{Abscissa}, \\quad y = \\text{Ordinate}",
+        "\\text{Origin } O = (0, 0)",
+        "\\text{Point on X-axis} = (x, 0), \\quad \\text{Point on Y-axis} = (0, y)"
+      ],
+      "total_exercises": 2,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write the coordinates of the point which lies on Y-axis at a distance of 4 units in negative direction.",
+          "question_text_te": "Y-అక్షంపై రుణ దిశలో 4 ప్రమాణాల దూరంలో ఉన్న బిందువు నిరూపకాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Plot the points $A(2, 4), B(-3, 2), C(-2, -4), D(3, -1)$ on the Cartesian plane and identify their quadrants.",
+          "question_text_te": "కార్టీజియన్ తలంలో $A(2, 4), B(-3, 2), C(-2, -4), D(3, -1)$ బిందువులను గుర్తించి అవి ఏ పాదాలలో ఉంటాయో తెలపండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "very_short_answer",
+          "marks_weightage": "1M",
+          "question_text_en": "What is the name of each part of the plane formed by horizontal and vertical coordinate axes?",
+          "question_text_te": "క్షితిజ సమాంతర మరియు నిలువు నిరూపక అక్షాలు తలాన్ని విభజించే ప్రతి భాగాన్ని ఏమంటారు?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "In which quadrant or on which axis do the points $(-2, 4), (3, -1), (-1, 0), (1, 2)$ lie?",
+          "question_text_te": "$(-2, 4), (3, -1), (-1, 0), (1, 2)$ బిందువులు ఏ పాదంలో లేదా ఏ అక్షంపై ఉంటాయి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Linear Equations in Two Variables",
+      "title_te": "రెండు చరరాశులలో సరళ సమీకరణాలు",
+      "semester": 1,
+      "pages_scert": "77 - 90",
+      "theorems_and_key_concepts": [
+        "An equation of the form ax + by + c = 0, where a, b, c are real numbers and a, b are not both zero, is called a linear equation in two variables.",
+        "A linear equation in two variables has infinitely many solutions.",
+        "Every point (x, y) on the line of the equation is a solution of the equation.",
+        "The graph of a linear equation in two variables is always a straight line."
+      ],
+      "formulas_katex": [
+        "ax + by + c = 0, \\quad a, b, c \\in \\mathbb{R}, \\quad a^2 + b^2 \\neq 0",
+        "y = mx + c \\quad (\\text{Slope-Intercept Form})",
+        "x = 0 \\implies \\text{Equation of Y-axis}, \\quad y = 0 \\implies \\text{Equation of X-axis}",
+        "x = a \\implies \\text{Line parallel to Y-axis}, \\quad y = b \\implies \\text{Line parallel to X-axis}"
+      ],
+      "total_exercises": 2,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write four solutions for the linear equation $2x + y = 7$.",
+          "question_text_te": "$2x + y = 7$ సరళ సమీకరణానికి నాలుగు సాధనలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the value of $k$, if $x = 2, y = 1$ is a solution of the equation $2x + 3y = k$.",
+          "question_text_te": "$2x + 3y = k$ సమీకరణానికి $x = 2, y = 1$ ఒక సాధన అయితే $k$ విలువను కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw the graph of the linear equation $x + y = 4$ on graph paper.",
+          "question_text_te": "గ్రాఫ్ పేపరుపై $x + y = 4$ సరళ సమీకరణ గ్రాఫ్‌ను గీయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "The taxi fare in a city is Rs 8 for first kilometre and Rs 5 per km for subsequent distance. Taking distance as x km and fare as Rs y, write linear equation.",
+          "question_text_te": "ఒక నగరంలో టాక్సీ చార్జీ మొదటి కిలోమీటరుకు రూ. 8, ఆ తర్వాత ప్రయాణించే ప్రతి కిలోమీటరుకు రూ. 5. ప్రయాణించిన దూరం x కి.మీ., మొత్తం చార్జీ రూ. y అనుకొని సరళ సమీకరణం రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Introduction to Euclid's Geometry",
+      "title_te": "యూక్లిడ్ రేఖాగణిత పరిచయం",
+      "semester": 1,
+      "pages_scert": "91 - 104",
+      "theorems_and_key_concepts": [
+        "Euclid's definitions: A point is that which has no part; A line is breadthless length; A surface is that which has length and breadth only.",
+        "Euclid's Axioms (common notions): Things equal to the same thing are equal to one another; If equals are added to equals, wholes are equal.",
+        "Euclid's 5 Postulates: Postulate 1 (A straight line may be drawn from any one point to any other point); Postulate 5 (Parallel postulate)."
+      ],
+      "formulas_katex": [
+        "A = B \\text{ and } B = C \\implies A = C \\quad (\\text{Euclid's Axiom 1})",
+        "\\text{If } A = B \\implies A + C = B + C \\quad (\\text{Euclid's Axiom 2})",
+        "\\text{The whole is greater than the part: } A > B \\text{ if } A = B + C, \\, C > 0"
+      ],
+      "total_exercises": 1,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State Euclid's Postulate 5 (Parallel Postulate) in your own words.",
+          "question_text_te": "యూక్లిడ్ 5వ స్వీకృతాన్ని (సమాంతర స్వీకృతం) మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "If a point C lies between two points A and B such that $AC = BC$, then prove that $AC = \\frac{1}{2}AB$.",
+          "question_text_te": "A, B బిందువుల మధ్య C అనే బిందువు $AC = BC$ అయ్యేటట్లు ఉంటే, $AC = \\frac{1}{2}AB$ అని నిరూపించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Prove that an equilateral triangle can be constructed on any given line segment.",
+          "question_text_te": "ఏదైనా ఇచ్చిన రేఖాఖండంపై సమబాహు త్రిభుజాన్ని నిర్మించవచ్చని నిరూపించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Lines and Angles",
+      "title_te": "రేఖలు మరియు కోణాలు",
+      "semester": 1,
+      "pages_scert": "105 - 130",
+      "theorems_and_key_concepts": [
+        "Linear Pair Axiom: If a ray stands on a line, then the sum of two adjacent angles so formed is 180 degrees.",
+        "Vertically Opposite Angles Theorem: If two lines intersect each other, then vertically opposite angles are equal.",
+        "Lines parallel to the same line are parallel to each other.",
+        "Alternate interior angles are equal when two parallel lines are cut by a transversal."
+      ],
+      "formulas_katex": [
+        "\\angle 1 + \\angle 2 = 180^\\circ \\quad (\\text{Linear Pair})",
+        "\\angle AOD = \\angle BOC \\quad (\\text{Vertically Opposite Angles})",
+        "l \\parallel m \\text{ cut by transversal } t \\implies \\angle 3 = \\angle 5 \\quad (\\text{Alternate Interior Angles})",
+        "\\text{Co-interior angles: } \\angle 4 + \\angle 5 = 180^\\circ"
+      ],
+      "total_exercises": 2,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "In the given figure, lines AB and CD intersect at O. If $\\angle AOC + \\angle BOE = 70^\\circ$ and $\\angle BOD = 40^\\circ$, find $\\angle BOE$ and reflex $\\angle COE$.",
+          "question_text_te": "పటంలో AB, CD రేఖలు O వద్ద ఖండించుకుంటున్నాయి. $\\angle AOC + \\angle BOE = 70^\\circ$ మరియు $\\angle BOD = 40^\\circ$ అయితే $\\angle BOE$ మరియు పరావర్తన $\\angle COE$ లను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Prove that if two lines intersect each other, then the vertically opposite angles are equal.",
+          "question_text_te": "రెండు సరళరేఖలు ఒకదానికొకటి ఖండించుకుంటే శీర్షాభిముఖ కోణాలు సమానమని నిరూపించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "If $AB \\parallel CD, CD \\parallel EF$ and $y : z = 3 : 7$, find $x$.",
+          "question_text_te": "$AB \\parallel CD, CD \\parallel EF$ మరియు $y : z = 3 : 7$ అయితే $x$ విలువను కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Triangles",
+      "title_te": "త్రిభుజాలు",
+      "semester": 2,
+      "pages_scert": "131 - 172",
+      "theorems_and_key_concepts": [
+        "Congruence of Triangles: Two triangles are congruent if sides and angles of one are equal to corresponding sides and angles of other.",
+        "Axiom 7.1 (SAS Congruence rule): Two triangles are congruent if two sides and included angle of one are equal to two sides and included angle of other.",
+        "Theorem 7.1 (ASA Congruence rule): Two triangles are congruent if two angles and included side are equal.",
+        "Theorem 7.2: Angles opposite to equal sides of an isosceles triangle are equal.",
+        "SSS Congruence Rule and RHS Congruence Rule."
+      ],
+      "formulas_katex": [
+        "\\triangle ABC \\cong \\triangle DEF \\implies AB = DE, \\, BC = EF, \\, AC = DF",
+        "\\angle A = \\angle D, \\, \\angle B = \\angle E, \\, \\angle C = \\angle F \\quad (\\text{CPCT})",
+        "AB = AC \\implies \\angle B = \\angle C \\quad (\\text{Isosceles Triangle Theorem})",
+        "\\text{RHS Rule: Hypotenuse and one side of right-angled triangle are equal}"
+      ],
+      "total_exercises": 3,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "In quadrilateral ABCD, $AC = AD$ and $AB$ bisects $\\angle A$. Show that $\\triangle ABC \\cong \\triangle ABD$. What can you say about BC and BD?",
+          "question_text_te": "చతుర్భుజం ABCD లో $AC = AD$ మరియు AB రేఖ $\\angle A$ ను సమద్విఖండన చేస్తుంది. $\\triangle ABC \\cong \\triangle ABD$ అని చూపండి. BC మరియు BD ల గురించి మీరు ఏమి చెప్పగలరు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Prove that angles opposite to equal sides of an isosceles triangle are equal.",
+          "question_text_te": "సమద్విబాహు త్రిభుజంలో సమాన భుజాలకు ఎదురుగా ఉండే కోణాలు సమానమని నిరూపించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "ABC and DBC are two isosceles triangles on the same base BC. Show that $\\angle ABD = \\angle ACD$.",
+          "question_text_te": "ఒకే భూమి BC పై ABC, DBC లు రెండు సమద్విబాహు త్రిభుజాలు. $\\angle ABD = \\angle ACD$ అని చూపండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_communication",
+          "question_type": "very_short_answer",
+          "marks_weightage": "1M",
+          "question_text_en": "What does CPCT stand for in triangle congruence?",
+          "question_text_te": "త్రిభుజాల సర్వసమానత్వంలో CPCT అనగా ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Quadrilaterals",
+      "title_te": "చతుర్భుజాలు",
+      "semester": 2,
+      "pages_scert": "173 - 198",
+      "theorems_and_key_concepts": [
+        "Angle Sum Property of a Quadrilateral: Sum of angles of a quadrilateral is 360 degrees.",
+        "Properties of a Parallelogram: Diagonal divides it into two congruent triangles; Opposite sides and opposite angles are equal; Diagonals bisect each other.",
+        "Mid-point Theorem: The line segment joining the mid-points of two sides of a triangle is parallel to the third side and half of it.",
+        "Converse of Mid-point Theorem."
+      ],
+      "formulas_katex": [
+        "\\angle A + \\angle B + \\angle C + \\angle D = 360^\\circ",
+        "\\text{Parallelogram } ABCD \\implies AB = CD, \\, AD = BC, \\, \\angle A = \\angle C, \\, \\angle B = \\angle D",
+        "DE \\parallel BC \\quad \\text{and} \\quad DE = \\frac{1}{2}BC \\quad (\\text{Mid-point Theorem})"
+      ],
+      "total_exercises": 2,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The angles of quadrilateral are in the ratio $3 : 5 : 9 : 13$. Find all the angles of the quadrilateral.",
+          "question_text_te": "ఒక చతుర్భుజంలోని కోణాల నిష్పత్తి $3 : 5 : 9 : 13$. ఆ చతుర్భుజం యొక్క అన్ని కోణాలను కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Prove that the line segment joining the mid-points of two sides of a triangle is parallel to the third side and is half of it.",
+          "question_text_te": "త్రిభుజంలో ఏవైనా రెండు భుజాల మధ్యబిందువులను కలిపే రేఖాఖండం మూడవ భుజానికి సమాంతరంగా మరియు దానిలో సగం ఉంటుందని నిరూపించండి (మధ్యబిందు సిద్ధాంతం)."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Show that the diagonals of a square are equal and bisect each other at right angles.",
+          "question_text_te": "చతురస్రం యొక్క కర్ణాలు సమానమని మరియు అవి ఒకదానికొకటి లంబంగా సమద్విఖండన చేసుకుంటాయని చూపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Circles",
+      "title_te": "వృత్తాలు",
+      "semester": 2,
+      "pages_scert": "199 - 228",
+      "theorems_and_key_concepts": [
+        "A circle is the collection of all points in a plane which are at a fixed distance from a fixed point.",
+        "Equal chords of a circle subtend equal angles at the centre.",
+        "The perpendicular from the centre of a circle to a chord bisects the chord.",
+        "The angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle.",
+        "Angles in the same segment of a circle are equal.",
+        "The sum of either pair of opposite angles of a cyclic quadrilateral is 180 degrees."
+      ],
+      "formulas_katex": [
+        "AB = CD \\implies \\angle AOB = \\angle COD \\quad (\\text{Equal Chords Subtend Equal Angles})",
+        "\\angle AOB = 2\\angle APB \\quad (\\text{Angle at Centre is Double Angle at Circumference})",
+        "\\angle A + \\angle C = 180^\\circ, \\quad \\angle B + \\angle D = 180^\\circ \\quad (\\text{Cyclic Quadrilateral})"
+      ],
+      "total_exercises": 3,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Recall that two circles are congruent if they have the same radii. Prove that equal chords of congruent circles subtend equal angles at their centres.",
+          "question_text_te": "ఒకే వ్యాసార్థం కలిగిన రెండు వృత్తాలు సర్వసమానాలని గుర్తుచేసుకోండి. సర్వసమాన వృత్తాలలో సమాన జ్యాలు వాటి కేంద్రాల వద్ద సమాన కోణాలను చేస్తాయని నిరూపించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reasoning_proof",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Prove that the angle subtended by an arc at the centre is double the angle subtended by it at any point on the remaining part of the circle.",
+          "question_text_te": "వృత్తంలో ఒక చాపం కేంద్రం వద్ద చేసే కోణం, మిగిలిన వృత్త భాగంపై ఏదైనా బిందువు వద్ద చేసే కోణానికి రెట్టింపు అని నిరూపించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "In a cyclic quadrilateral ABCD, if $\\angle A = 2x + 4$ and $\\angle C = 3x + 1$, find the angles.",
+          "question_text_te": "చక్రీయ చతుర్భుజం ABCD లో $\\angle A = 2x + 4$ మరియు $\\angle C = 3x + 1$ అయితే ఆ కోణాలను కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Heron's Formula",
+      "title_te": "హెరాన్ సూత్రం",
+      "semester": 2,
+      "pages_scert": "229 - 240",
+      "theorems_and_key_concepts": [
+        "Area of a triangle with sides a, b, and c using Heron's formula.",
+        "Semi-perimeter s = (a + b + c) / 2.",
+        "Application of Heron's formula to find area of scalene triangles, quadrilaterals, and parks."
+      ],
+      "formulas_katex": [
+        "s = \\frac{a + b + c}{2} \\quad (\\text{Semi-perimeter})",
+        "\\text{Area} = \\sqrt{s(s - a)(s - b)(s - c)} \\quad (\\text{Heron's Formula})",
+        "\\text{Area of Equilateral Triangle} = \\frac{\\sqrt{3}}{4}a^2"
+      ],
+      "total_exercises": 1,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A traffic signal board, indicating 'SCHOOL AHEAD', is an equilateral triangle with side 'a'. Find the area of the signal board using Heron's formula. If its perimeter is 180 cm, what will be its area?",
+          "question_text_te": "'SCHOOL AHEAD' అని ఉన్న ట్రాఫిక్ సిగ్నల్ బోర్డు 'a' భుజం గల సమబాహు త్రిభుజాకారంలో ఉంది. హెరాన్ సూత్రం ఉపయోగించి దాని వైశాల్యాన్ని కనుగొనండి. దాని చుట్టుకొలత 180 సెం.మీ. అయితే దాని వైశాల్యం ఎంత?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "The sides of a triangle are in the ratio of $12 : 17 : 25$ and its perimeter is 540 cm. Find its area.",
+          "question_text_te": "ఒక త్రిభుజం యొక్క భుజాలు $12 : 17 : 25$ నిష్పత్తిలో ఉన్నాయి మరియు దాని చుట్టుకొలత 540 సెం.మీ. దాని వైశాల్యాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "An isosceles triangle has perimeter 30 cm and each of the equal sides is 12 cm. Find the area of the triangle.",
+          "question_text_te": "ఒక సమద్విబాహు త్రిభుజం చుట్టుకొలత 30 సెం.మీ. మరియు సమాన భుజాలలో ప్రతి ఒక్కటి 12 సెం.మీ. ఆ త్రిభుజ వైశాల్యాన్ని కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Surface Areas and Volumes",
+      "title_te": "ఉపరితల వైశాల్యాలు మరియు ఘనపరిమాణాలు",
+      "semester": 2,
+      "pages_scert": "241 - 272",
+      "theorems_and_key_concepts": [
+        "Surface area and volume of right circular cone: Curved surface area, total surface area, volume.",
+        "Surface area and volume of sphere and hemisphere.",
+        "Relationship between slant height l, radius r, and height h of a cone: l = \\sqrt{r^2 + h^2}."
+      ],
+      "formulas_katex": [
+        "l = \\sqrt{r^2 + h^2} \\quad (\\text{Slant height of cone})",
+        "\\text{CSA of Cone} = \\pi r l, \\quad \\text{TSA of Cone} = \\pi r (l + r)",
+        "\\text{Volume of Cone} = \\frac{1}{3}\\pi r^2 h",
+        "\\text{Surface Area of Sphere} = 4\\pi r^2, \\quad \\text{Volume of Sphere} = \\frac{4}{3}\\pi r^3",
+        "\\text{CSA of Hemisphere} = 2\\pi r^2, \\quad \\text{TSA of Hemisphere} = 3\\pi r^2, \\quad \\text{Volume} = \\frac{2}{3}\\pi r^3"
+      ],
+      "total_exercises": 4,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Diameter of the base of a cone is 10.5 cm and its slant height is 10 cm. Find its curved surface area.",
+          "question_text_te": "శంఖువు భూ వ్యాసం 10.5 సెం.మీ. మరియు దాని ఏటవాలు ఎత్తు 10 సెం.మీ. అయితే దాని వక్రతల వైశాల్యాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Find the volume of a right circular cone with radius 6 cm, height 7 cm.",
+          "question_text_te": "వ్యాసార్థం 6 సెం.మీ., ఎత్తు 7 సెం.మీ. గల క్రమ వృత్తాకార శంఖువు ఘనపరిమాణాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_problem_solving",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Find the surface area of a sphere of radius 7 cm.",
+          "question_text_te": "7 సెం.మీ. వ్యాసార్థం గల గోళం యొక్క ఉపరితల వైశాల్యాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_connections",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A hemispherical bowl made of brass has inner diameter 10.5 cm. Find the cost of tin-plating it on the inside at the rate of Rs 16 per $100\\text{ cm}^2$.",
+          "question_text_te": "ఇత్తడితో చేసిన అర్ధగోళాకార గిన్నె లోపలి వ్యాసం 10.5 సెం.మీ. లోపలి భాగానికి $100\\text{ సెం.మీ.}^2$ కు రూ. 16 చొప్పున టిన్-పూత పూయడానికి అయ్యే ఖర్చును కనుగొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Statistics",
+      "title_te": "సాంఖ్యక శాస్త్రం",
+      "semester": 2,
+      "pages_scert": "273 - 304",
+      "theorems_and_key_concepts": [
+        "Graphical representation of data: Bar graphs, Histograms of uniform width and varying widths, Frequency polygons.",
+        "Area of rectangles in histogram is proportional to frequencies.",
+        "Construction of frequency polygons using class marks: Class mark = (Upper limit + Lower limit) / 2."
+      ],
+      "formulas_katex": [
+        "\\text{Class Mark} = \\frac{\\text{Upper Limit} + \\text{Lower Limit}}{2}",
+        "\\text{Width of Class} = \\text{Upper Limit} - \\text{Lower Limit}",
+        "\\text{Adjusted Frequency} = \\frac{\\text{Minimum class size}}{\\text{Class size of this class}} \\times \\text{Frequency}"
+      ],
+      "total_exercises": 1,
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "A family with a monthly income of Rs 20,000 had planned expenditures under various heads. Draw a bar graph for the data.",
+          "question_text_te": "నెలకు రూ. 20,000 ఆదాయం గల ఒక కుటుంబం వివిధ పద్దుల కింద చేసిన ఖర్చుల ప్రణాళిక దత్తాంశానికి కమ్మీ రేఖాచిత్రాన్ని గీయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_representation",
+          "question_type": "diagram_task",
+          "marks_weightage": "8M",
+          "question_text_en": "The following table gives the life times of 400 neon lamps: Represent the given information with the help of a histogram.",
+          "question_text_te": "400 నియాన్ దీపాల జీవితకాలాన్ని తెలిపే పట్టిక ఇవ్వబడింది: ఈ సమాచారాన్ని హిస్టోగ్రామ్ (సోపాన చిత్రపటం) రూపంలో ప్రాతినిధ్యపరచండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_communication",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain how a frequency polygon can be drawn without drawing a histogram.",
+          "question_text_te": "హిస్టోగ్రామ్ గీయకుండానే పౌనఃపున్య బహుభుజిని ఎలా గీయవచ్చో వివరించండి."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2065 @@
+{
+  "book_metadata": {
+    "title_en": "Social Studies - Class 8 (AP SCERT 2024-25)",
+    "title_te": "సాంఘిక శాస్త్రం - ఎనిమిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 26,
+    "four_branches": [
+      "History",
+      "Geography",
+      "Political Science"
+    ],
+    "source_pdfs": [
+      "8_Social_History_Textbook.pdf",
+      "8_Social_Geography_Textbook.pdf",
+      "8_Social_Politics_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Reading the text (given), understanding and interpretation",
+    "AS3": "Information Skills",
+    "AS4": "Reflection on contemporary issues and questioning",
+    "AS5": "Mapping Skills",
+    "AS6": "Appreciation and Sensitivity"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "How, When and Where",
+      "title_te": "ఎలా, ఎప్పుడు మరియు ఎక్కడ",
+      "branch": "History",
+      "core_themes": [
+        "How important are dates in history: History is certainly about changes that occur over time.",
+        "Which dates? Criteria for selecting significant historical milestones.",
+        "How do we periodise: James Mill's division of Indian history into Hindu, Muslim, and British periods.",
+        "Problems with Mill's communal periodisation; Classification into Ancient, Medieval, and Modern periods.",
+        "What is colonial: Colonisation involves political subjugation, economic exploitation, and cultural change.",
+        "How do we know: Official colonial records, Archives, and National Archives of India.",
+        "Surveys become important: Revenue surveys, Census operations, Botanical and anthropological surveys.",
+        "What official records do not tell: Perspectives of peasants, tribals, workers, and prisoners."
+      ],
+      "learning_outcomes": [
+        "Understand the significance of dates and historical periodisation.",
+        "Critique colonial historiography by James Mill.",
+        "Differentiate between official records and unrepresented subaltern perspectives."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the problem with the periodisation of Indian history that James Mill offers?",
+          "question_text_te": "జేమ్స్ మిల్ చేసిన భారత చరిత్ర కాల విభజనలోని లోపాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the British preserve official documents and establish archival repositories?",
+          "question_text_te": "బ్రిటిష్ వారు అధికారిక పత్రాలను ఎందుకు భద్రపరిచారు మరియు ఆర్కైవ్‌లను ఎందుకు స్థాపించారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How will the information historians get from old newspapers be different from that found in police reports?",
+          "question_text_te": "పాత వార్తాపత్రికల నుండి చరిత్రకారులకు లభించే సమాచారం పోలీసు నివేదికలలోని సమాచారంతో ఎలా భిన్నంగా ఉంటుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "From Trade to Territory: The Company Establishes Power",
+      "title_te": "వాణిజ్య స్థావరాల నుంచి సామ్రాజ్య స్థాపన వరకు కంపెనీ అధికార స్థాపన",
+      "branch": "History",
+      "core_themes": [
+        "East India Company comes east: Royal Charter from Queen Elizabeth I granting monopoly on trade in 1600.",
+        "Mercantile trade: Buying goods cheap and selling them at higher prices in Europe (spices, cotton, silk).",
+        "East India Company begins trade in Bengal: First English factory on the banks of River Hugli in 1651.",
+        "Battle of Plassey (1757): Robert Clive defeats Nawab Sirajuddaulah with betrayal of Mir Jafar.",
+        "Battle of Buxar (1764) and Diwani of Bengal granted by Mughal Emperor Shah Alam II in 1765.",
+        "Company rule expands: Subsidiary Alliance system introduced by Richard Wellesley.",
+        "Tipu Sultan - The 'Tiger of Mysore' and Anglo-Mysore Wars (1767–1799); War with the Marathas.",
+        "Doctrine of Lapse introduced by Lord Dalhousie (annexation of Satara, Sambalpur, Udaipur, Nagpur, Jhansi).",
+        "Setting up a new administration: Warren Hastings, separation of civil and criminal courts, the Company army."
+      ],
+      "learning_outcomes": [
+        "Analyse how a trading company transformed into a territorial colonial power.",
+        "Examine the causes and consequences of the Battle of Plassey.",
+        "Explain the expansionist policies: Subsidiary Alliance and Doctrine of Lapse."
+      ],
+      "map_points": [
+        "Plassey",
+        "Buxar",
+        "Calcutta",
+        "Seringapatam",
+        "Jhansi",
+        "Nagpur"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the areas of conflict between the Bengal nawabs and the East India Company?",
+          "question_text_te": "బెంగాల్ నవాబులకు మరియు ఈస్ట్ ఇండియా కంపెనీకి మధ్య వివాదాలకు దారితీసిన అంశాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: Plassey, Buxar, Seringapatam, and Jhansi.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో ప్లాసీ, బక్సార్, శ్రీరంగపట్నం మరియు ఝాన్సీ ప్రాంతాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Ruling the Countryside",
+      "title_te": "గ్రామీణ ప్రాంతాల పరిపాలన",
+      "branch": "History",
+      "core_themes": [
+        "The Company becomes the Diwan (August 12, 1765) and assumes financial administrative control of Bengal.",
+        "The need to improve agriculture: The Permanent Settlement introduced by Lord Cornwallis in 1793.",
+        "The Ryotwari (Munro) system developed in South India by Thomas Munro: direct settlement with cultivators (ryots).",
+        "The Mahalwari settlement devised by Holt Mackenzie in 1822 in North-Western provinces.",
+        "Crops for Europe: Opium, Indigo, Cotton, Jute, Tea, Sugarcane, Wheat.",
+        "Why the demand for Indian indigo: Nij cultivation and Ryoti cultivation.",
+        "The 'Blue Rebellion' of 1859 in Bengal: Peasants refuse to grow indigo, Indigo Commission recommendations."
+      ],
+      "learning_outcomes": [
+        "Compare Permanent Settlement, Mahalwari, and Ryotwari land revenue systems.",
+        "Explain the coercive nature of commercial indigo cultivation in Bengal.",
+        "Describe the causes and impact of the Blue Rebellion."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Describe the main features of the Permanent Settlement.",
+          "question_text_te": "శాశ్వత శిస్తు పద్ధతి (పర్మనెంట్ సెటిల్‌మెంట్) యొక్క ముఖ్య లక్షణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why were ryots in Bengal reluctant to grow indigo under the planters' contracts?",
+          "question_text_te": "యూరోపియన్ ప్లాంటర్ల ఒప్పందాల కింద నీలిమందును పండించడానికి బెంగాల్‌లోని రైతులు ఎందుకు విముఖత చూపారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Tribals, Dikus and the Vision of a Golden Age",
+      "title_te": "గిరిజనులు, దికూలు - ఒక స్వర్ణ యుగ వీక్షణ",
+      "branch": "History",
+      "core_themes": [
+        "How tribal groups lived: Jhum (shifting) cultivators, hunters and gatherers (Khonds of Orissa), pastoralists (Gaddis, Gujjars).",
+        "Settled cultivation: Mundas of Chhota Nagpur, Gonds, and Santhals.",
+        "How did colonial rule affect tribal lives: Loss of power of tribal chiefs, forest laws and their impact (Reserved, Protected forests).",
+        "The problem with trade: Exploitation by moneylenders and traders (Dikus / outsiders).",
+        "Search for work: Harsh lives of tribals in tea plantations of Assam and coal mines of Jharia.",
+        "Birsa Munda and his movement: Ulgulan (great rebellion) against British, moneylenders, and landlords for Birsa Raj."
+      ],
+      "learning_outcomes": [
+        "Understand the livelihoods of tribal communities before colonial intervention.",
+        "Assess the devastating impact of British forest laws on tribal customs.",
+        "Explain the leadership of Birsa Munda in the tribal uprising of Chhota Nagpur."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What problems did shifting cultivators face under British colonial administration?",
+          "question_text_te": "బ్రిటిష్ పాలనలో పోడు (జూమ్) వ్యవసాయం చేసే గిరిజనులు ఎదుర్కొన్న సమస్యలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate Birsa Munda's vision of a Golden Age (Satyug) for his tribal community.",
+          "question_text_te": "తన గిరిజన ప్రజల కోసం బిర్సా ముండా కలలుగన్న స్వర్ణ యుగ (సత్యయుగ్) భావనను ప్రశంసిస్తూ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "When People Rebel: 1857 and After",
+      "title_te": "1857 ప్రజా తిరుగుబాటు - అనంతర పరిణామాలు",
+      "branch": "History",
+      "core_themes": [
+        "Policies and the People: Nawabs lose power, peasants and sepoys suffer grievances, responses to reforms.",
+        "The Greased Cartridges controversy (Mangal Pandey at Barrackpore, March 29, 1857).",
+        "From Meerut to Delhi: May 10, 1857 revolt, declaring Bahadur Shah Zafar as Emperor of Hindustan.",
+        "The rebellion spreads: Nana Saheb at Kanpur, Begum Hazrat Mahal at Lucknow, Rani Lakshmibai at Jhansi, Kunwar Singh in Bihar.",
+        "The Company fights back: Recapture of Delhi (September 1857), hanging of rebels, siege of Jhansi.",
+        "Aftermath of 1857: Government of India Act 1858, transfer of power from Company to British Crown, Queen Victoria's Proclamation, changes in army composition."
+      ],
+      "learning_outcomes": [
+        "Identify economic, political, social, and military causes of the 1857 Revolt.",
+        "Trace key centres and leadership of the 1857 uprising.",
+        "Explain administrative changes introduced by the British Crown after 1858."
+      ],
+      "map_points": [
+        "Delhi",
+        "Meerut",
+        "Lucknow",
+        "Kanpur",
+        "Jhansi",
+        "Faizabad",
+        "Bareilly"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the major changes introduced by the British Government in India after the Revolt of 1857?",
+          "question_text_te": "1857 తిరుగుబాటు తర్వాత బ్రిటిష్ ప్రభుత్వం భారత పరిపాలనలో ప్రవేశపెట్టిన ముఖ్యమైన మార్పులు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label the prominent centres of the 1857 revolt: Meerut, Delhi, Kanpur, Lucknow, and Jhansi.",
+          "question_text_te": "భారతదేశ పటంలో 1857 తిరుగుబాటు ముఖ్య కేంద్రాలైన మీరట్, ఢిల్లీ, కాన్పూర్, లక్నో మరియు ఝాన్సీలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Weavers, Iron Smelters and Factory Owners",
+      "title_te": "చేనేత కార్మికులు, ఇనుము శుద్ధి చేయువారు, కర్మాగార యజమానులు",
+      "branch": "History",
+      "core_themes": [
+        "Indian textiles in world markets: Calico, Chintz, Muslin, Bandanna, and fine cotton textiles.",
+        "Decline of Indian textiles following Industrial Revolution in Britain, Calico Act of 1720, and mechanised steam spinning.",
+        "Who were the weavers: Tanti weavers of Bengal, Julahas of north India, Sale and Kaikkolar of South India.",
+        "Cotton mills come up: First cotton textile mill established in Bombay in 1854.",
+        "The sword of Tipu Sultan and Wootz steel: High carbon alloy steel made in crucible furnaces across South India.",
+        "Decline of traditional iron smelting in villages due to colonial forest reservation laws.",
+        "Iron and steel factories come up: Jamsetji Tata and setting up of TISCO at Jamshedpur on the banks of Subarnarekha (1912)."
+      ],
+      "learning_outcomes": [
+        "Explain the global renown and subsequent decline of traditional Indian handloom textiles.",
+        "Describe the exceptional metallurgical qualities of South Indian Wootz steel.",
+        "Trace the emergence of modern iron and steel industries in India with TISCO."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did traditional Indian textile industries decline under British colonial rule?",
+          "question_text_te": "బ్రిటిష్ వలస పాలనలో సాంప్రదాయ భారతీయ వస్త్ర పరిశ్రమ ఎందుకు క్షీణించింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How does supporting indigenous handloom weavers protect traditional craft heritage in modern India?",
+          "question_text_te": "ఆధునిక భారతదేశంలో చేనేత కార్మికులకు మద్దతు ఇవ్వడం మన సంస్కృతీ వారసత్వాన్ని ఎలా కాపాడుతుందో చర్చించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Civilising the 'Native', Educating the Nation",
+      "title_te": "'స్థానికులను' నాగరికులుగా చేయుట, దేశానికి విద్యను అందించడం",
+      "branch": "History",
+      "core_themes": [
+        "How the British saw education: The Orientalist tradition (William Jones, Henry Thomas Colebrooke, Asiatic Society of Bengal).",
+        "Anglicist critics: James Mill and Thomas Babington Macaulay attacking Orientalist learning.",
+        "Macaulay's Minute (1835) and English Education Act of 1835 introducing English medium higher education.",
+        "Wood's Despatch of 1854: Outlining educational policy emphasising practical utility and European knowledge.",
+        "What happened to local pathshalas: William Adam's report on flexible indigenous schools; colonial bureaucratic regulations.",
+        "The agenda for national education: Mahatma Gandhi on English education creating slaves; Rabindranath Tagore and Santiniketan (1901)."
+      ],
+      "learning_outcomes": [
+        "Differentiate between Orientalist and Anglicist views on Indian education.",
+        "Summarise key provisions of Wood's Despatch of 1854.",
+        "Compare educational philosophies of Mahatma Gandhi and Rabindranath Tagore."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Mahatma Gandhi want to teach children handicrafts instead of reading and writing alone?",
+          "question_text_te": "మహాత్మా గాంధీ చదవడం, రాయడంతో పాటు పిల్లలకు చేతివృత్తులను ఎందుకు నేర్పించాలనుకున్నారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "In what ways did Rabindranath Tagore's concept of learning at Santiniketan differ from Western schooling?",
+          "question_text_te": "శాంతినికేతన్‌లో రవీంద్రనాథ్ ఠాగూర్ ప్రతిపాదించిన విద్యా విధానం పాశ్చాత్య పాఠశాల వ్యవస్థ కంటే ఎలా భిన్నంగా ఉంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Women, Caste and Reform",
+      "title_te": "మహిళలు, కులాలు - సంస్కరణలు",
+      "branch": "History",
+      "core_themes": [
+        "Working towards change: Raja Rammohun Roy and Brahmo Samaj; Abolition of Sati in 1829.",
+        "Widow remarriage: Ishwar Chandra Vidyasagar and Hindu Widows' Remarriage Act of 1856; Kandukuri Veeresalingam in Andhra.",
+        "Girls begin going to school: Jyotirao Phule in Maharashtra, Begum Rokeya Sakhawat Hossain in Bengal.",
+        "Women write about women: Tarabai Shinde (Stripurush-tulna) and Pandita Ramabai (Mukti Mission).",
+        "Caste and social reform: Satnami movement by Ghasidas, Shri Narayana Guru (One Caste, One Religion, One God for Man).",
+        "Jyotirao Phule and Gulamgiri (1873); B.R. Ambedkar and Temple Entry Movement (1927–1935); E.V. Ramasamy Periyar and Self-Respect Movement."
+      ],
+      "learning_outcomes": [
+        "Identify social evils targeted by 19th-century Indian social reformers.",
+        "Explain contributions of Kandukuri Veeresalingam and Ishwar Chandra Vidyasagar to widow welfare.",
+        "Critique caste hierarchy based on writings of Phule, Ambedkar, and Periyar."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the role played by Raja Rammohun Roy in bringing about the abolition of Sati in 1829.",
+          "question_text_te": "1829లో సతీసహగమన నిషేధ చట్టం తీసుకురావడంలో రాజా రామ్మోహన్ రాయ్ పాత్రను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the pioneering contribution of Kandukuri Veeresalingam Pantulu to women's education and widow remarriage in Andhra.",
+          "question_text_te": "ఆంధ్రదేశంలో స్త్రీ విద్య మరియు వితంతు పునర్వివాహాల కోసం కందుకూరి వీరేశలింగం పంతులు చేసిన సేవలను అభినందిస్తూ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "The Making of the National Movement: 1870s–1947",
+      "title_te": "భారత జాతీయ ఉద్యమం: 1870–1947",
+      "branch": "History",
+      "core_themes": [
+        "The emergence of nationalism: Indian National Congress established in 1885 at Bombay (A.O. Hume, W.C. Bonnerjee).",
+        "Moderates (Dadabhai Naoroji, Gopal Krishna Gokhale) and their peaceful constitutional petitions.",
+        "Radicals: Lal-Bal-Pal ('Swaraj is my birthright and I shall have it').",
+        "Partition of Bengal (1905) by Lord Curzon and the Swadeshi and Vande Mataram Movement.",
+        "The Advent of Mahatma Gandhi: Champaran (1917), Kheda (1918), Ahmedabad Mill strike (1918).",
+        "Rowlatt Satyagraha (1919) and Jallianwala Bagh Massacre (April 13, 1919, General Dyer).",
+        "Khilafat issue and Non-Cooperation Movement (1920–1922); Chauri Chaura incident (February 1922).",
+        "Civil Disobedience Movement: Dandi Salt March (March 12 – April 6, 1930).",
+        "Quit India Movement (August 1942, 'Do or Die'); Subhas Chandra Bose and Indian National Army (INA).",
+        "Towards Independence and Partition: Cabinet Mission, Direct Action Day (August 1946), Indian Independence Act 1947."
+      ],
+      "learning_outcomes": [
+        "Trace key phases of Indian national movement from Moderate era to Gandhian mass struggle.",
+        "Explain the historic significance of the Dandi March in breaking salt monopoly.",
+        "Describe events leading to Indian independence and tragic partition in August 1947."
+      ],
+      "map_points": [
+        "Bombay",
+        "Calcutta",
+        "Amritsar",
+        "Champaran",
+        "Dandi",
+        "Chauri Chaura"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Mahatma Gandhi decide to break the Salt Law through the historic Dandi March in 1930?",
+          "question_text_te": "1930లో చారిత్రాత్మక దండి యాత్ర ద్వారా ఉప్పు చట్టాన్ని ఉల్లంఘించాలని మహాత్మా గాంధీ ఎందుకు నిర్ణయించుకున్నారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: Amritsar, Champaran, Dandi, and Chauri Chaura.",
+          "question_text_te": "భారతదేశ పటంలో అమృత్‌సర్, చంపారన్, దండి మరియు చౌరీచౌరా ప్రదేశాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "India After Independence",
+      "title_te": "స్వాతంత్ర్యానంతర భారతదేశం",
+      "branch": "History",
+      "core_themes": [
+        "A new and divided nation: Rehabilitation of 8 million refugees and integration of 500+ princely states (Sardar Vallabhbhai Patel).",
+        "A Constitution is written: Constituent Assembly meetings (1946–1949), Universal adult franchise, Abolition of untouchability.",
+        "How were states to be formed: Demand for linguistic states; Fast unto death of Potti Sreeramulu (1952) leading to creation of Andhra State on October 1, 1953; States Reorganisation Commission (1956).",
+        "Planning for development: Setting up Planning Commission (1950), Five-Year Plans, Mixed economy model.",
+        "Foreign policy: Non-Aligned Movement (NAM) led by Jawaharlal Nehru, Panchsheel principles."
+      ],
+      "learning_outcomes": [
+        "Understand immediate challenges faced by newly independent India.",
+        "Explain the role of Potti Sreeramulu in the creation of linguistic states in India.",
+        "Describe India's mixed economy planning and non-aligned foreign policy."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the major challenges before the newly independent Indian republic in 1947?",
+          "question_text_te": "1947లో నవ స్వతంత్ర భారత రిపబ్లిక్ ఎదుర్కొన్న ప్రధాన సవాళ్లు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the supreme sacrifice of Amarajeevi Potti Sreeramulu for the linguistic rights of Telugu people.",
+          "question_text_te": "తెలుగు ప్రజల భాషా ప్రయుక్త రాష్ట్ర సాధన కోసం అమరజీవి పొట్టి శ్రీరాములు చేసిన ప్రాణత్యాగాన్ని అభినందిస్తూ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Resources",
+      "title_te": "వనరులు",
+      "branch": "Geography",
+      "core_themes": [
+        "Utility and value make an object or substance a resource.",
+        "Types of resources: Natural resources, Human-made resources, and Human resources.",
+        "Natural resources classification: On basis of origin (Biotic, Abiotic), Renewability (Renewable, Non-renewable).",
+        "Human resources: People with knowledge, skill, and technology who extract value.",
+        "Conservation of resources and Sustainable development: 3R principle, meeting current needs without compromising future generations."
+      ],
+      "learning_outcomes": [
+        "Classify resources into natural, human-made, and human categories.",
+        "Define sustainable development and explain principles of resource conservation."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is sustainable development? State two principles of sustainable development.",
+          "question_text_te": "సుస్థిర అభివృద్ధి అంటే ఏమిటి? సుస్థిర అభివృద్ధి యొక్క రెండు ముఖ్య సూత్రాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are human resources considered the most important asset of a nation?",
+          "question_text_te": "మానవ వనరులను ఒక దేశం యొక్క అత్యంత ముఖ్యమైన సంపదగా ఎందుకు పరిగణిస్తారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+      "title_te": "భూమి, నేల, నీరు, సహజ వృక్ష సంపద మరియు వన్యప్రాణులు",
+      "branch": "Geography",
+      "core_themes": [
+        "Land: Covers only about 30% of Earth's surface; Land use patterns and factors determining land use.",
+        "Soil: Thin layer of grainy substance covering Earth; Soil profile (Topsoil, Subsoil, Weathered rock, Bedrock).",
+        "Factors of soil formation: Parent rock, climate, relief, flora/fauna, and time.",
+        "Soil conservation methods: Mulching, Contour barriers, Rock dam, Terrace farming, Intercropping, Shelter belts.",
+        "Water: 3/4th of Earth is covered by water, but only 2.7% is freshwater; Rainwater harvesting.",
+        "Natural vegetation and Wildlife: Ecosystem, Biosphere, Forests (Tropical evergreen, Deciduous, Tundra). CITES convention."
+      ],
+      "learning_outcomes": [
+        "Describe factors responsible for soil formation and soil erosion.",
+        "Explain soil conservation practices such as terrace farming and shelter belts.",
+        "Highlight the significance of rainwater harvesting."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain any two soil conservation methods suitable for hilly slopes.",
+          "question_text_te": "కొండ ప్రాంతాలలో నేల కోతను నివారించడానికి ఉపయోగపడే ఏవైనా రెండు నేల సంరక్షణ పద్ధతులను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram of a Soil Profile showing Topsoil, Subsoil, Weathered rock, and Bedrock.",
+          "question_text_te": "ఉపరితల నేల, ఉపనేల, శిథిలమైన రాతి పదార్థం, మూలశిల భాగాలను చూపుతూ నేల అంతర్గత నిర్మాణం (సాయిల్ ప్రొఫైల్) పటం గీయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Mineral and Power Resources",
+      "title_te": "ఖనిజాలు మరియు శక్తి వనరులు",
+      "branch": "Geography",
+      "core_themes": [
+        "What is a mineral: Naturally occurring substance that has a definite chemical composition.",
+        "Types of minerals: Metallic (Ferrous: Iron ore, Manganese; Non-ferrous: Copper, Bauxite) and Non-metallic (Limestone, Mica).",
+        "Extraction of minerals: Mining (Open-cast, Shaft), Drilling, and Quarrying.",
+        "Distribution of minerals across continents: Asia, Europe, North America, South America, Africa, Australia, Antarctica.",
+        "Conventional sources of energy: Firewood, Coal, Petroleum, Natural Gas, Hydel Power.",
+        "Non-conventional sources of energy: Solar energy, Wind energy, Nuclear power, Geothermal energy, Tidal energy, Biogas."
+      ],
+      "learning_outcomes": [
+        "Classify minerals into metallic (ferrous/non-ferrous) and non-metallic.",
+        "Compare conventional and non-conventional energy sources.",
+        "Locate major mineral belts of India on a map."
+      ],
+      "map_points": [
+        "Kudremukh",
+        "Singhbhum",
+        "Bailadila",
+        "Jharia",
+        "Digboi",
+        "Bombay High"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between conventional and non-conventional sources of energy with examples.",
+          "question_text_te": "సాంప్రదాయ మరియు సాంప్రదాయేతర శక్తి వనరుల మధ్య గల తేడాలను ఉదాహరణలతో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate major coal and oil fields: Jharia, Raniganj, Digboi, and Bombay High.",
+          "question_text_te": "భారతదేశ పటంలో ప్రముఖ బొగ్గు మరియు పెట్రోలియం క్షేత్రాలైన ఝరియా, రాణిగంజ్, డిగ్బోయ్ మరియు బొంబాయి హైలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "Agriculture",
+      "title_te": "వ్యవసాయం",
+      "branch": "Geography",
+      "core_themes": [
+        "Agriculture is a primary activity that includes growing crops, fruits, vegetables, flowers, and rearing livestock.",
+        "Farm system: Inputs (seeds, fertilizers, machinery), Processes (ploughing, sowing, spraying), Outputs (crops, wool, dairy).",
+        "Types of farming: Subsistence farming (Intensive subsistence, Primitive subsistence: Shifting cultivation, Nomadic herding) and Commercial farming (Commercial grain farming, Mixed farming, Plantations).",
+        "Major crops of the world: Rice, Wheat, Millets, Maize, Cotton, Jute, Coffee, Tea.",
+        "Agricultural development and comparative study: A farm in India vs A farm in USA."
+      ],
+      "learning_outcomes": [
+        "Explain the components of a farm system.",
+        "Differentiate between subsistence and commercial farming.",
+        "Compare farming conditions and technology between Indian and American agriculture."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is plantation agriculture? Give four examples of plantation crops.",
+          "question_text_te": "తోట వ్యవసాయం (ప్లాంటేషన్ అగ్రికల్చర్) అంటే ఏమిటి? నాలుగు తోట పంటలకు ఉదాహరణలు ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Compare farm sizes, mechanisation, and living standards between a farmer in India and a farmer in the USA.",
+          "question_text_te": "భారతదేశ రైతుకు మరియు అమెరికాలోని రైతుకు గల పొలం విస్తీర్ణం, యంత్రీకరణ మరియు జీవన ప్రమాణాలను పోల్చండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Industries",
+      "title_te": "పరిశ్రమలు",
+      "branch": "Geography",
+      "core_themes": [
+        "Secondary activity or manufacturing transforms raw materials into finished products of higher value.",
+        "Classification of industries: On basis of raw materials (Agro-based, Mineral-based, Marine-based, Forest-based); Size (Small scale, Large scale); Ownership (Private, Public, Joint, Co-operative).",
+        "Factors affecting location of industries: Raw material, land, water, labour, power, capital, transport, market.",
+        "Industrial system: Inputs, processes, and outputs.",
+        "Industrial regions: Major industrial clusters across the world and in India (Mumbai-Pune, Hugli, Bengaluru-Tamil Nadu, Gujarat).",
+        "Industrial disasters: Case study of Bhopal Gas Tragedy (December 3, 1984 - Methyl Isocyanate leak).",
+        "Distribution of major industries: Iron and Steel industry (Jamshedpur vs Pittsburgh); Information Technology (Silicon Valley, California vs Bengaluru)."
+      ],
+      "learning_outcomes": [
+        "Classify industries on basis of raw material, size, and ownership.",
+        "Identify factors influencing industrial location.",
+        "Compare Iron and steel industries in Jamshedpur and Pittsburgh."
+      ],
+      "map_points": [
+        "Jamshedpur",
+        "Bhilai",
+        "Rourkela",
+        "Durgapur",
+        "Bengaluru",
+        "Ahmedabad"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the major factors that influence the location of an industry?",
+          "question_text_te": "పరిశ్రమల స్థాపనకు అనుకూలమైన భౌగోళిక మరియు ఆర్థిక కారకాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why has Bengaluru emerged as the premier Information Technology (IT) hub in India?",
+          "question_text_te": "భారతదేశంలో బెంగళూరు ప్రముఖ సమాచార సాంకేతిక (IT) కేంద్రంగా ఎందుకు అభివృద్ధి చెందింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "Human Resources",
+      "title_te": "మానవ వనరులు",
+      "branch": "Geography",
+      "core_themes": [
+        "People are a nation's greatest resource; Healthy, educated, and skilled people create resources.",
+        "Distribution of population: Uneven distribution across Earth (crowded river plains vs sparsely populated polar/desert regions).",
+        "Density of population: Average density of world (approx 51 persons/sq km) and India (382 persons/sq km).",
+        "Factors affecting distribution of population: Geographical (Topography, Climate, Soil, Water, Minerals) and Social/Economic/Cultural factors.",
+        "Population change: Birth rate, Death rate, Migration; Natural growth rate = Birth rate - Death rate.",
+        "Patterns of population change across countries.",
+        "Population composition and Population Pyramid (Age-sex pyramid): Expanding population (Kenya), Stable (India), Contracting/Aging (Japan)."
+      ],
+      "learning_outcomes": [
+        "Explain the factors influencing population distribution across regions.",
+        "Interpret population pyramids to understand demographic trends.",
+        "Define birth rate, death rate, and natural growth rate."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is meant by population composition? How is it represented visually?",
+          "question_text_te": "జనాభా నిర్మాణం అంటే ఏమిటి? దానిని దృశ్యరూపంలో ఎలా సూచిస్తారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What does a population pyramid with a broad base and rapidly narrowing top tell about a country's birth and death rates?",
+          "question_text_te": "విశాలమైన అడుగుభాగం మరియు వేగంగా సన్నబడే పైభాగం గల జనాభా పిరమిడ్ ఒక దేశ జనన మరియు మరణాల రేటు గురించి ఏమి తెలియజేస్తుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "title_en": "The Indian Constitution",
+      "title_te": "భారత రాజ్యాంగం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why does a country need a Constitution: Lays out ideals, defines political system, prevents abuse of power, protects minorities.",
+        "Case study: Nepal's struggle for democracy and transition from monarchy to democratic constitution (2015).",
+        "Key features of the Indian Constitution: 1. Federalism (existence of more than one level of government); 2. Parliamentary Form of Government (Universal Adult Suffrage); 3. Separation of Powers (Legislature, Executive, Judiciary); 4. Fundamental Rights (Conscience of the Indian Constitution); 5. Secularism (State does not officially promote any one religion).",
+        "Six Fundamental Rights guaranteed by Indian Constitution: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies.",
+        "Directive Principles of State Policy (DPSP) designed by Constituent Assembly for social and economic justice."
+      ],
+      "learning_outcomes": [
+        "Understand why democratic countries require a written Constitution.",
+        "Explain the five key features of the Indian Constitution.",
+        "Identify the Fundamental Rights and their significance in protecting citizens."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the six Fundamental Rights guaranteed to all citizens in the Indian Constitution?",
+          "question_text_te": "భారత రాజ్యాంగం పౌరులందరికీ హామీ ఇచ్చిన ఆరు ప్రాథమిక హక్కులు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the separation of powers between the Legislature, Executive, and Judiciary considered crucial for a vibrant democracy?",
+          "question_text_te": "శాసనసభ, కార్యనిర్వాహక వర్గం మరియు న్యాయవ్యవస్థల మధ్య అధికార విభజన ప్రజాస్వామ్య మనుగడకు ఎందుకు కీలకమైనది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "title_en": "Understanding Secularism",
+      "title_te": "లౌకికతత్త్వం - అవగాహన",
+      "branch": "Political Science",
+      "core_themes": [
+        "What is Secularism: Separation of religion from the power of the State.",
+        "Why is it important to separate religion from the State: To prevent the tyranny of the majority and protect freedom of individuals to profess, practice, and propagate their faith.",
+        "What is Indian Secularism: The Indian State works in three ways to prevent religious domination: 1. Distancing itself from religion; 2. Policy of non-interference (respecting religious practices, e.g. turban exemption for Sikhs); 3. Policy of intervention (banning untouchability, personal law reforms).",
+        "How Indian secularism differs from Western secularism: Western strict wall of separation vs Indian 'principled distance'."
+      ],
+      "learning_outcomes": [
+        "Define secularism and understand why separation of religion and state is essential.",
+        "Explain the three strategies of Indian secularism.",
+        "Distinguish Indian secularism from secularism in the United States."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is meant by 'principled distance' in Indian secularism?",
+          "question_text_te": "భారతీయ లౌకికవాదంలో 'సూత్రబద్ధమైన దూరం' (ప్రిన్సిపల్డ్ డిస్టెన్స్) అంటే ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is it important for a multi-religious country like India to be a secular state?",
+          "question_text_te": "భారతదేశం వంటి బహుళ మతాలున్న దేశంలో లౌకిక రాజ్యంగా ఉండటం ఎందుకు అత్యంత ఆవశ్యకం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "title_en": "Why do we need a Parliament?",
+      "title_te": "మనకు పార్లమెంటు ఎందుకు అవసరం?",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why should people decide: Colonial experience created demand for democratic participation.",
+        "People and their representatives: Voting through Universal Adult Suffrage; Citizens elect MPs to Parliament.",
+        "Role of the Parliament: 1. To select the National Government (Lok Sabha with 543 elected members, Rajya Sabha with 245 members); 2. To control, guide, and inform the government (Question Hour, Zero Hour, No-confidence motion); 3. Law-making.",
+        "Who are the people in Parliament: Increasing diversity of representatives, reservations for SC, ST, and demand for women's reservation."
+      ],
+      "learning_outcomes": [
+        "Explain the composition and functions of Lok Sabha and Rajya Sabha.",
+        "Describe the importance of Question Hour in holding the executive accountable.",
+        "Discuss the need for representative diversity in legislative bodies."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the Question Hour in Parliament? Why is it an important device for MPs?",
+          "question_text_te": "పార్లమెంటులో ప్రశ్నోత్తరాల సమయం (క్వశ్చన్ అవర్) అంటే ఏమిటి? ఎంపీలకు ఇది ఎందుకు ముఖ్యమైన సాధనం?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Differentiate between the Lok Sabha and Rajya Sabha in terms of membership, term, and powers.",
+          "question_text_te": "సభ్యుల సంఖ్య, పదవీకాలం మరియు అధికారాల పరంగా లోక్‌సభ మరియు రాజ్యసభల మధ్య గల తేడాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "title_en": "Understanding Laws",
+      "title_te": "చట్టాలను అర్థం చేసుకుందాం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Do laws apply to all: Rule of Law means all persons are equal before the law; No one is above the law.",
+        "Historical legacy: Arbitrary British colonial laws (Sedition Act of 1870, Rowlatt Act of 1919) challenged by Indian nationalists.",
+        "How do new laws come about: Crucial role of citizens, women's groups, and civil society.",
+        "Case study: Enactment of the Protection of Women from Domestic Violence Act, 2005.",
+        "Unpopular and controversial laws: Laws that are constitutionally valid but rejected by people through public protests, rallies, and court challenges."
+      ],
+      "learning_outcomes": [
+        "Explain the concept of Rule of Law and its historical evolution.",
+        "Trace the law-making journey of the Domestic Violence Act 2005.",
+        "Describe democratic methods used by citizens to challenge unpopular laws."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What do you understand by the 'Rule of Law'? Cite an example of its violation.",
+          "question_text_te": "'చట్టబద్ధ పాలన' (రూల్ ఆఫ్ లా) అనగానేమి? దాని ఉల్లంఘనకు ఒక ఉదాహరణ ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How can ordinary citizens and civil society organisations influence the making of new laws in Parliament?",
+          "question_text_te": "పార్లమెంటులో కొత్త చట్టాల రూపకల్పనపై సామాన్య పౌరులు మరియు ప్రజా సంఘాలు ఎలా ప్రభావం చూపగలవు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 21,
+      "title_en": "Judiciary",
+      "title_te": "న్యాయవ్యవస్థ",
+      "branch": "Political Science",
+      "core_themes": [
+        "Role of the Judiciary: Dispute resolution, Judicial review, Upholding the law and enforcing Fundamental Rights.",
+        "What is an independent judiciary: Separation of powers ensures executive and legislature cannot interfere in judicial decisions.",
+        "Structure of courts in India: Integrated judicial system; Supreme Court of India at the apex, High Courts in States, Subordinate/District Courts at base.",
+        "Appellate system: A citizen can appeal to a higher court if they feel that the judgment by lower court is not just.",
+        "Different branches of the legal system: Criminal Law (theft, murder, harassment) vs Civil Law (rent disputes, property sale, divorce).",
+        "Does everyone have access to courts: Financial hardship, legal delays, and introduction of Public Interest Litigation (PIL) in 1980s."
+      ],
+      "learning_outcomes": [
+        "Explain the significance of an independent judiciary in a democracy.",
+        "Describe the hierarchical structure of courts in India.",
+        "Differentiate between Criminal Law and Civil Law, and explain PIL."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is Public Interest Litigation (PIL)? How has it expanded access to justice for the poor?",
+          "question_text_te": "ప్రజా ప్రయోజన వ్యాజ్యం (PIL) అంటే ఏమిటి? పేదలకు న్యాయం చేరువ చేయడంలో ఇది ఎలా తోడ్పడింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is an independent judiciary essential for protecting the Fundamental Rights of citizens?",
+          "question_text_te": "పౌరుల ప్రాథమిక హక్కుల రక్షణకు స్వతంత్ర న్యాయవ్యవస్థ ఎందుకు తప్పనిసరి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 22,
+      "title_en": "Understanding Our Criminal Justice System",
+      "title_te": "మన నేర న్యాయవ్యవస్థను అర్థం చేసుకుందాం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Four key players in the criminal justice system: Police, Public Prosecutor, Defence Lawyer, and Judge.",
+        "Role of the Police in investigating a crime: Filing an FIR (First Information Report), recording statements, collecting evidence; Police do not decide guilt.",
+        "Guidelines for arrest, detention, and interrogation (Article 22 of Constitution and D.K. Basu guidelines).",
+        "What is an FIR: Section 154 of CrPC; Must contain date, time, location, detailed description of cognizable offence.",
+        "Role of the Public Prosecutor: Represents the interests of the State in prosecuting criminal cases.",
+        "Role of the Judge: Hears witnesses, examines evidence, acts impartially, pronounces verdict and sentence.",
+        "What is a Fair Trial: Guaranteed under Article 21 (Right to Life); Held in open court, presence of accused, legal representation, cross-examination, presumption of innocence until proven guilty."
+      ],
+      "learning_outcomes": [
+        "Describe the distinct roles of Police, Public Prosecutor, Defence Lawyer, and Judge.",
+        "Explain the essential requirements of a First Information Report (FIR).",
+        "List essential elements of a Fair Trial under Article 21."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is a Fair Trial? State two conditions essential for ensuring a fair trial.",
+          "question_text_te": "న్యాయమైన విచారణ (ఫెయిర్ ట్రయల్) అంటే ఏమిటి? న్యాయమైన విచారణకు అవసరమైన రెండు షరతులను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the D.K. Basu guidelines laid down by the Supreme Court regarding arrest and detention of a person?",
+          "question_text_te": "ఒక వ్యక్తి అరెస్టు మరియు నిర్బంధానికి సంబంధించి సుప్రీంకోర్టు విధించిన డి.కె. బసు మార్గదర్శకాలు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 23,
+      "title_en": "Understanding Marginalisation",
+      "title_te": "వివక్షతను అర్థం చేసుకుందాం",
+      "branch": "Political Science",
+      "core_themes": [
+        "What does it mean to be socially marginalised: Being pushed to the edges or margins of society due to language, customs, or poverty.",
+        "Who are Adivasis: Original inhabitants who lived and often continue to live in close association with forests; Approx 8% of India's population.",
+        "Adivasi stereotyping: Portrayed in colourful costumes, exotic dances, perceived as backward.",
+        "Adivasis and development: Loss of ancestral forest land to mining, dams, and sanctuaries; Forced migration to cities.",
+        "Minorities and marginalisation: Muslims and Sachar Committee Report (2005) highlighting social, economic, and educational deficits.",
+        "Ghettoisation and preservation of minority cultural identity under constitutional safeguards."
+      ],
+      "learning_outcomes": [
+        "Define social marginalisation with respect to Adivasis and religious minorities.",
+        "Deconstruct stereotypes associated with tribal communities.",
+        "Explain key findings of the Justice Sachar Committee Report (2005)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write in your own words what you understand by the term 'marginalisation'.",
+          "question_text_te": "'వివక్షత' లేదా 'పార్శ్వవల్కరణ' (మార్జినలైజేషన్) అనే పదం ద్వారా మీరు ఏమి అర్థం చేసుకున్నారో మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are constitutional safeguards necessary for protecting minority communities in a democracy?",
+          "question_text_te": "ప్రజాస్వామ్యంలో అల్పసంఖ్యాక (మైనారిటీ) వర్గాల సంరక్షణకు రాజ్యాంగపరమైన రక్షణలు ఎందుకు అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 24,
+      "title_en": "Confronting Marginalisation",
+      "title_te": "వివక్షతను ఎదుర్కోవడం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Invoking Fundamental Rights: Article 14 (Equality), Article 15 (No discrimination), Article 17 (Abolition of Untouchability).",
+        "Laws for the marginalised: State policies and reservations for Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC).",
+        "Protecting the rights of Dalits and Adivasis: The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
+        "The Scourge of Manual Scavenging: Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act, 1993, and Safai Karamchari Andolan.",
+        "Adivasi demands and the 1989 Act: Defending tribal land ownership against non-tribal encroachments (C.K. Janu movement); Forest Rights Act, 2006."
+      ],
+      "learning_outcomes": [
+        "Explain how marginalised groups invoke Fundamental Rights against discrimination.",
+        "Highlight key features of the SC/ST Prevention of Atrocities Act, 1989.",
+        "Discuss efforts to eradicate manual scavenging in India."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "List two Fundamental Rights that Dalits can draw upon to insist on being treated with dignity.",
+          "question_text_te": "దళితులు గౌరవంగా జీవించడానికి తోడ్పడే రెండు ప్రాథమిక హక్కులను పేర్కొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 essential for preventing violence against marginalised communities?",
+          "question_text_te": "ఎస్సీ, ఎస్టీ అట్రాసిటీల నిరోధక చట్టం 1989 అణగారిన వర్గాలపై దౌర్జన్యాలను అరికట్టడానికి ఎందుకు ఎంతో అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 25,
+      "title_en": "Public Facilities",
+      "title_te": "ప్రజా సౌకర్యాలు",
+      "branch": "Political Science",
+      "core_themes": [
+        "Water and the people of Chennai: Severe inequalities in water supply (Anna Nagar vs Mylapore vs Saidapet slums).",
+        "Water as part of the Fundamental Right to Life (Article 21): Safe drinking water is essential for health; Subhash Kumar vs State of Bihar (1991).",
+        "Public facilities: Healthcare, Sanitation, Electricity, Public transport, Schools and Colleges.",
+        "The government's role: Why public facilities cannot be left to private profit-making enterprises.",
+        "Where does the government get money for public facilities: Taxes collected from citizens.",
+        "Water supply to Chennai: Is water available to all? Private water tankers and water commodification."
+      ],
+      "learning_outcomes": [
+        "Explain why safe drinking water is recognized as an integral part of Right to Life (Article 21).",
+        "Identify essential public facilities and justify government responsibility in providing them.",
+        "Analyse inequalities in urban water distribution."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does the Constitution recognize safe drinking water as part of the Right to Life under Article 21?",
+          "question_text_te": "రాజ్యాంగంలోని ఆర్టికల్ 21 ప్రకారం సురక్షితమైన తాగునీటిని జీవించే హక్కులో భాగంగా ఎందుకు గుర్తించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why should the provision of basic public facilities like drinking water and sanitation be the responsibility of the government rather than private companies?",
+          "question_text_te": "తాగునీరు, పారిశుద్ధ్యం వంటి ప్రాథమిక ప్రజా సౌకర్యాల బాధ్యతను ప్రైవేట్ సంస్థలకు కాకుండా ప్రభుత్వమే ఎందుకు వహించాలి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 26,
+      "title_en": "Law and Social Justice",
+      "title_te": "చట్టం - సామాజిక న్యాయం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why do we need laws to protect workers: Minimum Wages Act, protecting consumers and producers from market exploitation.",
+        "What is a worker's worth: Cheap labour, long hours, lack of safety measures in developing countries.",
+        "Bhopal Gas Tragedy (December 2–3, 1984): World's worst industrial disaster at Union Carbide pesticide factory; Leaking of Methyl Isocyanate (MIC).",
+        "Negligence of safety standards by MNCs and inadequate compensation to victims.",
+        "New laws to protect the environment: Right to a healthy environment recognized as part of Article 21; Polluter Pays principle.",
+        "Clean environment as a public good: Strict enforcement of emission standards and worker safety regulations."
+      ],
+      "learning_outcomes": [
+        "Explain the need for Minimum Wages Act and workplace safety enforcement.",
+        "Analyse corporate culpability in the Bhopal Gas Tragedy.",
+        "Describe the evolution of environmental jurisprudence under Article 21."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the Minimum Wages Act? Why is its enforcement essential to prevent exploitation of workers?",
+          "question_text_te": "కనిష్ఠ వేతనాల చట్టం అంటే ఏమిటి? కార్మికుల శ్రమ దోపిడీని నివారించడానికి దీని అమలు ఎందుకు తప్పనిసరి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What lessons should governments and multinational corporations draw from the Bhopal Gas Tragedy regarding industrial safety?",
+          "question_text_te": "పారిశ్రామిక భద్రత విషయంలో భోపాల్ గ్యాస్ విషాదం నుండి ప్రభుత్వాలు మరియు బహుళజాతి సంస్థలు నేర్చుకోవలసిన పాఠాలు ఏమిటి?"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "chapter_no": 1,
+      "title_en": "How, When and Where",
+      "title_te": "ఎలా, ఎప్పుడు మరియు ఎక్కడ",
+      "branch": "History",
+      "core_themes": [
+        "How important are dates in history: History is certainly about changes that occur over time.",
+        "Which dates? Criteria for selecting significant historical milestones.",
+        "How do we periodise: James Mill's division of Indian history into Hindu, Muslim, and British periods.",
+        "Problems with Mill's communal periodisation; Classification into Ancient, Medieval, and Modern periods.",
+        "What is colonial: Colonisation involves political subjugation, economic exploitation, and cultural change.",
+        "How do we know: Official colonial records, Archives, and National Archives of India.",
+        "Surveys become important: Revenue surveys, Census operations, Botanical and anthropological surveys.",
+        "What official records do not tell: Perspectives of peasants, tribals, workers, and prisoners."
+      ],
+      "learning_outcomes": [
+        "Understand the significance of dates and historical periodisation.",
+        "Critique colonial historiography by James Mill.",
+        "Differentiate between official records and unrepresented subaltern perspectives."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the problem with the periodisation of Indian history that James Mill offers?",
+          "question_text_te": "జేమ్స్ మిల్ చేసిన భారత చరిత్ర కాల విభజనలోని లోపాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the British preserve official documents and establish archival repositories?",
+          "question_text_te": "బ్రిటిష్ వారు అధికారిక పత్రాలను ఎందుకు భద్రపరిచారు మరియు ఆర్కైవ్‌లను ఎందుకు స్థాపించారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How will the information historians get from old newspapers be different from that found in police reports?",
+          "question_text_te": "పాత వార్తాపత్రికల నుండి చరిత్రకారులకు లభించే సమాచారం పోలీసు నివేదికలలోని సమాచారంతో ఎలా భిన్నంగా ఉంటుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "From Trade to Territory: The Company Establishes Power",
+      "title_te": "వాణిజ్య స్థావరాల నుంచి సామ్రాజ్య స్థాపన వరకు కంపెనీ అధికార స్థాపన",
+      "branch": "History",
+      "core_themes": [
+        "East India Company comes east: Royal Charter from Queen Elizabeth I granting monopoly on trade in 1600.",
+        "Mercantile trade: Buying goods cheap and selling them at higher prices in Europe (spices, cotton, silk).",
+        "East India Company begins trade in Bengal: First English factory on the banks of River Hugli in 1651.",
+        "Battle of Plassey (1757): Robert Clive defeats Nawab Sirajuddaulah with betrayal of Mir Jafar.",
+        "Battle of Buxar (1764) and Diwani of Bengal granted by Mughal Emperor Shah Alam II in 1765.",
+        "Company rule expands: Subsidiary Alliance system introduced by Richard Wellesley.",
+        "Tipu Sultan - The 'Tiger of Mysore' and Anglo-Mysore Wars (1767–1799); War with the Marathas.",
+        "Doctrine of Lapse introduced by Lord Dalhousie (annexation of Satara, Sambalpur, Udaipur, Nagpur, Jhansi).",
+        "Setting up a new administration: Warren Hastings, separation of civil and criminal courts, the Company army."
+      ],
+      "learning_outcomes": [
+        "Analyse how a trading company transformed into a territorial colonial power.",
+        "Examine the causes and consequences of the Battle of Plassey.",
+        "Explain the expansionist policies: Subsidiary Alliance and Doctrine of Lapse."
+      ],
+      "map_points": [
+        "Plassey",
+        "Buxar",
+        "Calcutta",
+        "Seringapatam",
+        "Jhansi",
+        "Nagpur"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the areas of conflict between the Bengal nawabs and the East India Company?",
+          "question_text_te": "బెంగాల్ నవాబులకు మరియు ఈస్ట్ ఇండియా కంపెనీకి మధ్య వివాదాలకు దారితీసిన అంశాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: Plassey, Buxar, Seringapatam, and Jhansi.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో ప్లాసీ, బక్సార్, శ్రీరంగపట్నం మరియు ఝాన్సీ ప్రాంతాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Ruling the Countryside",
+      "title_te": "గ్రామీణ ప్రాంతాల పరిపాలన",
+      "branch": "History",
+      "core_themes": [
+        "The Company becomes the Diwan (August 12, 1765) and assumes financial administrative control of Bengal.",
+        "The need to improve agriculture: The Permanent Settlement introduced by Lord Cornwallis in 1793.",
+        "The Ryotwari (Munro) system developed in South India by Thomas Munro: direct settlement with cultivators (ryots).",
+        "The Mahalwari settlement devised by Holt Mackenzie in 1822 in North-Western provinces.",
+        "Crops for Europe: Opium, Indigo, Cotton, Jute, Tea, Sugarcane, Wheat.",
+        "Why the demand for Indian indigo: Nij cultivation and Ryoti cultivation.",
+        "The 'Blue Rebellion' of 1859 in Bengal: Peasants refuse to grow indigo, Indigo Commission recommendations."
+      ],
+      "learning_outcomes": [
+        "Compare Permanent Settlement, Mahalwari, and Ryotwari land revenue systems.",
+        "Explain the coercive nature of commercial indigo cultivation in Bengal.",
+        "Describe the causes and impact of the Blue Rebellion."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Describe the main features of the Permanent Settlement.",
+          "question_text_te": "శాశ్వత శిస్తు పద్ధతి (పర్మనెంట్ సెటిల్‌మెంట్) యొక్క ముఖ్య లక్షణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why were ryots in Bengal reluctant to grow indigo under the planters' contracts?",
+          "question_text_te": "యూరోపియన్ ప్లాంటర్ల ఒప్పందాల కింద నీలిమందును పండించడానికి బెంగాల్‌లోని రైతులు ఎందుకు విముఖత చూపారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Tribals, Dikus and the Vision of a Golden Age",
+      "title_te": "గిరిజనులు, దికూలు - ఒక స్వర్ణ యుగ వీక్షణ",
+      "branch": "History",
+      "core_themes": [
+        "How tribal groups lived: Jhum (shifting) cultivators, hunters and gatherers (Khonds of Orissa), pastoralists (Gaddis, Gujjars).",
+        "Settled cultivation: Mundas of Chhota Nagpur, Gonds, and Santhals.",
+        "How did colonial rule affect tribal lives: Loss of power of tribal chiefs, forest laws and their impact (Reserved, Protected forests).",
+        "The problem with trade: Exploitation by moneylenders and traders (Dikus / outsiders).",
+        "Search for work: Harsh lives of tribals in tea plantations of Assam and coal mines of Jharia.",
+        "Birsa Munda and his movement: Ulgulan (great rebellion) against British, moneylenders, and landlords for Birsa Raj."
+      ],
+      "learning_outcomes": [
+        "Understand the livelihoods of tribal communities before colonial intervention.",
+        "Assess the devastating impact of British forest laws on tribal customs.",
+        "Explain the leadership of Birsa Munda in the tribal uprising of Chhota Nagpur."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What problems did shifting cultivators face under British colonial administration?",
+          "question_text_te": "బ్రిటిష్ పాలనలో పోడు (జూమ్) వ్యవసాయం చేసే గిరిజనులు ఎదుర్కొన్న సమస్యలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate Birsa Munda's vision of a Golden Age (Satyug) for his tribal community.",
+          "question_text_te": "తన గిరిజన ప్రజల కోసం బిర్సా ముండా కలలుగన్న స్వర్ణ యుగ (సత్యయుగ్) భావనను ప్రశంసిస్తూ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "When People Rebel: 1857 and After",
+      "title_te": "1857 ప్రజా తిరుగుబాటు - అనంతర పరిణామాలు",
+      "branch": "History",
+      "core_themes": [
+        "Policies and the People: Nawabs lose power, peasants and sepoys suffer grievances, responses to reforms.",
+        "The Greased Cartridges controversy (Mangal Pandey at Barrackpore, March 29, 1857).",
+        "From Meerut to Delhi: May 10, 1857 revolt, declaring Bahadur Shah Zafar as Emperor of Hindustan.",
+        "The rebellion spreads: Nana Saheb at Kanpur, Begum Hazrat Mahal at Lucknow, Rani Lakshmibai at Jhansi, Kunwar Singh in Bihar.",
+        "The Company fights back: Recapture of Delhi (September 1857), hanging of rebels, siege of Jhansi.",
+        "Aftermath of 1857: Government of India Act 1858, transfer of power from Company to British Crown, Queen Victoria's Proclamation, changes in army composition."
+      ],
+      "learning_outcomes": [
+        "Identify economic, political, social, and military causes of the 1857 Revolt.",
+        "Trace key centres and leadership of the 1857 uprising.",
+        "Explain administrative changes introduced by the British Crown after 1858."
+      ],
+      "map_points": [
+        "Delhi",
+        "Meerut",
+        "Lucknow",
+        "Kanpur",
+        "Jhansi",
+        "Faizabad",
+        "Bareilly"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the major changes introduced by the British Government in India after the Revolt of 1857?",
+          "question_text_te": "1857 తిరుగుబాటు తర్వాత బ్రిటిష్ ప్రభుత్వం భారత పరిపాలనలో ప్రవేశపెట్టిన ముఖ్యమైన మార్పులు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label the prominent centres of the 1857 revolt: Meerut, Delhi, Kanpur, Lucknow, and Jhansi.",
+          "question_text_te": "భారతదేశ పటంలో 1857 తిరుగుబాటు ముఖ్య కేంద్రాలైన మీరట్, ఢిల్లీ, కాన్పూర్, లక్నో మరియు ఝాన్సీలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Weavers, Iron Smelters and Factory Owners",
+      "title_te": "చేనేత కార్మికులు, ఇనుము శుద్ధి చేయువారు, కర్మాగార యజమానులు",
+      "branch": "History",
+      "core_themes": [
+        "Indian textiles in world markets: Calico, Chintz, Muslin, Bandanna, and fine cotton textiles.",
+        "Decline of Indian textiles following Industrial Revolution in Britain, Calico Act of 1720, and mechanised steam spinning.",
+        "Who were the weavers: Tanti weavers of Bengal, Julahas of north India, Sale and Kaikkolar of South India.",
+        "Cotton mills come up: First cotton textile mill established in Bombay in 1854.",
+        "The sword of Tipu Sultan and Wootz steel: High carbon alloy steel made in crucible furnaces across South India.",
+        "Decline of traditional iron smelting in villages due to colonial forest reservation laws.",
+        "Iron and steel factories come up: Jamsetji Tata and setting up of TISCO at Jamshedpur on the banks of Subarnarekha (1912)."
+      ],
+      "learning_outcomes": [
+        "Explain the global renown and subsequent decline of traditional Indian handloom textiles.",
+        "Describe the exceptional metallurgical qualities of South Indian Wootz steel.",
+        "Trace the emergence of modern iron and steel industries in India with TISCO."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did traditional Indian textile industries decline under British colonial rule?",
+          "question_text_te": "బ్రిటిష్ వలస పాలనలో సాంప్రదాయ భారతీయ వస్త్ర పరిశ్రమ ఎందుకు క్షీణించింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How does supporting indigenous handloom weavers protect traditional craft heritage in modern India?",
+          "question_text_te": "ఆధునిక భారతదేశంలో చేనేత కార్మికులకు మద్దతు ఇవ్వడం మన సంస్కృతీ వారసత్వాన్ని ఎలా కాపాడుతుందో చర్చించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Civilising the 'Native', Educating the Nation",
+      "title_te": "'స్థానికులను' నాగరికులుగా చేయుట, దేశానికి విద్యను అందించడం",
+      "branch": "History",
+      "core_themes": [
+        "How the British saw education: The Orientalist tradition (William Jones, Henry Thomas Colebrooke, Asiatic Society of Bengal).",
+        "Anglicist critics: James Mill and Thomas Babington Macaulay attacking Orientalist learning.",
+        "Macaulay's Minute (1835) and English Education Act of 1835 introducing English medium higher education.",
+        "Wood's Despatch of 1854: Outlining educational policy emphasising practical utility and European knowledge.",
+        "What happened to local pathshalas: William Adam's report on flexible indigenous schools; colonial bureaucratic regulations.",
+        "The agenda for national education: Mahatma Gandhi on English education creating slaves; Rabindranath Tagore and Santiniketan (1901)."
+      ],
+      "learning_outcomes": [
+        "Differentiate between Orientalist and Anglicist views on Indian education.",
+        "Summarise key provisions of Wood's Despatch of 1854.",
+        "Compare educational philosophies of Mahatma Gandhi and Rabindranath Tagore."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Mahatma Gandhi want to teach children handicrafts instead of reading and writing alone?",
+          "question_text_te": "మహాత్మా గాంధీ చదవడం, రాయడంతో పాటు పిల్లలకు చేతివృత్తులను ఎందుకు నేర్పించాలనుకున్నారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "In what ways did Rabindranath Tagore's concept of learning at Santiniketan differ from Western schooling?",
+          "question_text_te": "శాంతినికేతన్‌లో రవీంద్రనాథ్ ఠాగూర్ ప్రతిపాదించిన విద్యా విధానం పాశ్చాత్య పాఠశాల వ్యవస్థ కంటే ఎలా భిన్నంగా ఉంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Women, Caste and Reform",
+      "title_te": "మహిళలు, కులాలు - సంస్కరణలు",
+      "branch": "History",
+      "core_themes": [
+        "Working towards change: Raja Rammohun Roy and Brahmo Samaj; Abolition of Sati in 1829.",
+        "Widow remarriage: Ishwar Chandra Vidyasagar and Hindu Widows' Remarriage Act of 1856; Kandukuri Veeresalingam in Andhra.",
+        "Girls begin going to school: Jyotirao Phule in Maharashtra, Begum Rokeya Sakhawat Hossain in Bengal.",
+        "Women write about women: Tarabai Shinde (Stripurush-tulna) and Pandita Ramabai (Mukti Mission).",
+        "Caste and social reform: Satnami movement by Ghasidas, Shri Narayana Guru (One Caste, One Religion, One God for Man).",
+        "Jyotirao Phule and Gulamgiri (1873); B.R. Ambedkar and Temple Entry Movement (1927–1935); E.V. Ramasamy Periyar and Self-Respect Movement."
+      ],
+      "learning_outcomes": [
+        "Identify social evils targeted by 19th-century Indian social reformers.",
+        "Explain contributions of Kandukuri Veeresalingam and Ishwar Chandra Vidyasagar to widow welfare.",
+        "Critique caste hierarchy based on writings of Phule, Ambedkar, and Periyar."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the role played by Raja Rammohun Roy in bringing about the abolition of Sati in 1829.",
+          "question_text_te": "1829లో సతీసహగమన నిషేధ చట్టం తీసుకురావడంలో రాజా రామ్మోహన్ రాయ్ పాత్రను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the pioneering contribution of Kandukuri Veeresalingam Pantulu to women's education and widow remarriage in Andhra.",
+          "question_text_te": "ఆంధ్రదేశంలో స్త్రీ విద్య మరియు వితంతు పునర్వివాహాల కోసం కందుకూరి వీరేశలింగం పంతులు చేసిన సేవలను అభినందిస్తూ రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "The Making of the National Movement: 1870s–1947",
+      "title_te": "భారత జాతీయ ఉద్యమం: 1870–1947",
+      "branch": "History",
+      "core_themes": [
+        "The emergence of nationalism: Indian National Congress established in 1885 at Bombay (A.O. Hume, W.C. Bonnerjee).",
+        "Moderates (Dadabhai Naoroji, Gopal Krishna Gokhale) and their peaceful constitutional petitions.",
+        "Radicals: Lal-Bal-Pal ('Swaraj is my birthright and I shall have it').",
+        "Partition of Bengal (1905) by Lord Curzon and the Swadeshi and Vande Mataram Movement.",
+        "The Advent of Mahatma Gandhi: Champaran (1917), Kheda (1918), Ahmedabad Mill strike (1918).",
+        "Rowlatt Satyagraha (1919) and Jallianwala Bagh Massacre (April 13, 1919, General Dyer).",
+        "Khilafat issue and Non-Cooperation Movement (1920–1922); Chauri Chaura incident (February 1922).",
+        "Civil Disobedience Movement: Dandi Salt March (March 12 – April 6, 1930).",
+        "Quit India Movement (August 1942, 'Do or Die'); Subhas Chandra Bose and Indian National Army (INA).",
+        "Towards Independence and Partition: Cabinet Mission, Direct Action Day (August 1946), Indian Independence Act 1947."
+      ],
+      "learning_outcomes": [
+        "Trace key phases of Indian national movement from Moderate era to Gandhian mass struggle.",
+        "Explain the historic significance of the Dandi March in breaking salt monopoly.",
+        "Describe events leading to Indian independence and tragic partition in August 1947."
+      ],
+      "map_points": [
+        "Bombay",
+        "Calcutta",
+        "Amritsar",
+        "Champaran",
+        "Dandi",
+        "Chauri Chaura"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did Mahatma Gandhi decide to break the Salt Law through the historic Dandi March in 1930?",
+          "question_text_te": "1930లో చారిత్రాత్మక దండి యాత్ర ద్వారా ఉప్పు చట్టాన్ని ఉల్లంఘించాలని మహాత్మా గాంధీ ఎందుకు నిర్ణయించుకున్నారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: Amritsar, Champaran, Dandi, and Chauri Chaura.",
+          "question_text_te": "భారతదేశ పటంలో అమృత్‌సర్, చంపారన్, దండి మరియు చౌరీచౌరా ప్రదేశాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "India After Independence",
+      "title_te": "స్వాతంత్ర్యానంతర భారతదేశం",
+      "branch": "History",
+      "core_themes": [
+        "A new and divided nation: Rehabilitation of 8 million refugees and integration of 500+ princely states (Sardar Vallabhbhai Patel).",
+        "A Constitution is written: Constituent Assembly meetings (1946–1949), Universal adult franchise, Abolition of untouchability.",
+        "How were states to be formed: Demand for linguistic states; Fast unto death of Potti Sreeramulu (1952) leading to creation of Andhra State on October 1, 1953; States Reorganisation Commission (1956).",
+        "Planning for development: Setting up Planning Commission (1950), Five-Year Plans, Mixed economy model.",
+        "Foreign policy: Non-Aligned Movement (NAM) led by Jawaharlal Nehru, Panchsheel principles."
+      ],
+      "learning_outcomes": [
+        "Understand immediate challenges faced by newly independent India.",
+        "Explain the role of Potti Sreeramulu in the creation of linguistic states in India.",
+        "Describe India's mixed economy planning and non-aligned foreign policy."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the major challenges before the newly independent Indian republic in 1947?",
+          "question_text_te": "1947లో నవ స్వతంత్ర భారత రిపబ్లిక్ ఎదుర్కొన్న ప్రధాన సవాళ్లు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Appreciate the supreme sacrifice of Amarajeevi Potti Sreeramulu for the linguistic rights of Telugu people.",
+          "question_text_te": "తెలుగు ప్రజల భాషా ప్రయుక్త రాష్ట్ర సాధన కోసం అమరజీవి పొట్టి శ్రీరాములు చేసిన ప్రాణత్యాగాన్ని అభినందిస్తూ రాయండి."
+        }
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "chapter_no": 11,
+      "title_en": "Resources",
+      "title_te": "వనరులు",
+      "branch": "Geography",
+      "core_themes": [
+        "Utility and value make an object or substance a resource.",
+        "Types of resources: Natural resources, Human-made resources, and Human resources.",
+        "Natural resources classification: On basis of origin (Biotic, Abiotic), Renewability (Renewable, Non-renewable).",
+        "Human resources: People with knowledge, skill, and technology who extract value.",
+        "Conservation of resources and Sustainable development: 3R principle, meeting current needs without compromising future generations."
+      ],
+      "learning_outcomes": [
+        "Classify resources into natural, human-made, and human categories.",
+        "Define sustainable development and explain principles of resource conservation."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is sustainable development? State two principles of sustainable development.",
+          "question_text_te": "సుస్థిర అభివృద్ధి అంటే ఏమిటి? సుస్థిర అభివృద్ధి యొక్క రెండు ముఖ్య సూత్రాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are human resources considered the most important asset of a nation?",
+          "question_text_te": "మానవ వనరులను ఒక దేశం యొక్క అత్యంత ముఖ్యమైన సంపదగా ఎందుకు పరిగణిస్తారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Land, Soil, Water, Natural Vegetation and Wildlife Resources",
+      "title_te": "భూమి, నేల, నీరు, సహజ వృక్ష సంపద మరియు వన్యప్రాణులు",
+      "branch": "Geography",
+      "core_themes": [
+        "Land: Covers only about 30% of Earth's surface; Land use patterns and factors determining land use.",
+        "Soil: Thin layer of grainy substance covering Earth; Soil profile (Topsoil, Subsoil, Weathered rock, Bedrock).",
+        "Factors of soil formation: Parent rock, climate, relief, flora/fauna, and time.",
+        "Soil conservation methods: Mulching, Contour barriers, Rock dam, Terrace farming, Intercropping, Shelter belts.",
+        "Water: 3/4th of Earth is covered by water, but only 2.7% is freshwater; Rainwater harvesting.",
+        "Natural vegetation and Wildlife: Ecosystem, Biosphere, Forests (Tropical evergreen, Deciduous, Tundra). CITES convention."
+      ],
+      "learning_outcomes": [
+        "Describe factors responsible for soil formation and soil erosion.",
+        "Explain soil conservation practices such as terrace farming and shelter belts.",
+        "Highlight the significance of rainwater harvesting."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain any two soil conservation methods suitable for hilly slopes.",
+          "question_text_te": "కొండ ప్రాంతాలలో నేల కోతను నివారించడానికి ఉపయోగపడే ఏవైనా రెండు నేల సంరక్షణ పద్ధతులను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram of a Soil Profile showing Topsoil, Subsoil, Weathered rock, and Bedrock.",
+          "question_text_te": "ఉపరితల నేల, ఉపనేల, శిథిలమైన రాతి పదార్థం, మూలశిల భాగాలను చూపుతూ నేల అంతర్గత నిర్మాణం (సాయిల్ ప్రొఫైల్) పటం గీయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Mineral and Power Resources",
+      "title_te": "ఖనిజాలు మరియు శక్తి వనరులు",
+      "branch": "Geography",
+      "core_themes": [
+        "What is a mineral: Naturally occurring substance that has a definite chemical composition.",
+        "Types of minerals: Metallic (Ferrous: Iron ore, Manganese; Non-ferrous: Copper, Bauxite) and Non-metallic (Limestone, Mica).",
+        "Extraction of minerals: Mining (Open-cast, Shaft), Drilling, and Quarrying.",
+        "Distribution of minerals across continents: Asia, Europe, North America, South America, Africa, Australia, Antarctica.",
+        "Conventional sources of energy: Firewood, Coal, Petroleum, Natural Gas, Hydel Power.",
+        "Non-conventional sources of energy: Solar energy, Wind energy, Nuclear power, Geothermal energy, Tidal energy, Biogas."
+      ],
+      "learning_outcomes": [
+        "Classify minerals into metallic (ferrous/non-ferrous) and non-metallic.",
+        "Compare conventional and non-conventional energy sources.",
+        "Locate major mineral belts of India on a map."
+      ],
+      "map_points": [
+        "Kudremukh",
+        "Singhbhum",
+        "Bailadila",
+        "Jharia",
+        "Digboi",
+        "Bombay High"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between conventional and non-conventional sources of energy with examples.",
+          "question_text_te": "సాంప్రదాయ మరియు సాంప్రదాయేతర శక్తి వనరుల మధ్య గల తేడాలను ఉదాహరణలతో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate major coal and oil fields: Jharia, Raniganj, Digboi, and Bombay High.",
+          "question_text_te": "భారతదేశ పటంలో ప్రముఖ బొగ్గు మరియు పెట్రోలియం క్షేత్రాలైన ఝరియా, రాణిగంజ్, డిగ్బోయ్ మరియు బొంబాయి హైలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "Agriculture",
+      "title_te": "వ్యవసాయం",
+      "branch": "Geography",
+      "core_themes": [
+        "Agriculture is a primary activity that includes growing crops, fruits, vegetables, flowers, and rearing livestock.",
+        "Farm system: Inputs (seeds, fertilizers, machinery), Processes (ploughing, sowing, spraying), Outputs (crops, wool, dairy).",
+        "Types of farming: Subsistence farming (Intensive subsistence, Primitive subsistence: Shifting cultivation, Nomadic herding) and Commercial farming (Commercial grain farming, Mixed farming, Plantations).",
+        "Major crops of the world: Rice, Wheat, Millets, Maize, Cotton, Jute, Coffee, Tea.",
+        "Agricultural development and comparative study: A farm in India vs A farm in USA."
+      ],
+      "learning_outcomes": [
+        "Explain the components of a farm system.",
+        "Differentiate between subsistence and commercial farming.",
+        "Compare farming conditions and technology between Indian and American agriculture."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is plantation agriculture? Give four examples of plantation crops.",
+          "question_text_te": "తోట వ్యవసాయం (ప్లాంటేషన్ అగ్రికల్చర్) అంటే ఏమిటి? నాలుగు తోట పంటలకు ఉదాహరణలు ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Compare farm sizes, mechanisation, and living standards between a farmer in India and a farmer in the USA.",
+          "question_text_te": "భారతదేశ రైతుకు మరియు అమెరికాలోని రైతుకు గల పొలం విస్తీర్ణం, యంత్రీకరణ మరియు జీవన ప్రమాణాలను పోల్చండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Industries",
+      "title_te": "పరిశ్రమలు",
+      "branch": "Geography",
+      "core_themes": [
+        "Secondary activity or manufacturing transforms raw materials into finished products of higher value.",
+        "Classification of industries: On basis of raw materials (Agro-based, Mineral-based, Marine-based, Forest-based); Size (Small scale, Large scale); Ownership (Private, Public, Joint, Co-operative).",
+        "Factors affecting location of industries: Raw material, land, water, labour, power, capital, transport, market.",
+        "Industrial system: Inputs, processes, and outputs.",
+        "Industrial regions: Major industrial clusters across the world and in India (Mumbai-Pune, Hugli, Bengaluru-Tamil Nadu, Gujarat).",
+        "Industrial disasters: Case study of Bhopal Gas Tragedy (December 3, 1984 - Methyl Isocyanate leak).",
+        "Distribution of major industries: Iron and Steel industry (Jamshedpur vs Pittsburgh); Information Technology (Silicon Valley, California vs Bengaluru)."
+      ],
+      "learning_outcomes": [
+        "Classify industries on basis of raw material, size, and ownership.",
+        "Identify factors influencing industrial location.",
+        "Compare Iron and steel industries in Jamshedpur and Pittsburgh."
+      ],
+      "map_points": [
+        "Jamshedpur",
+        "Bhilai",
+        "Rourkela",
+        "Durgapur",
+        "Bengaluru",
+        "Ahmedabad"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the major factors that influence the location of an industry?",
+          "question_text_te": "పరిశ్రమల స్థాపనకు అనుకూలమైన భౌగోళిక మరియు ఆర్థిక కారకాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why has Bengaluru emerged as the premier Information Technology (IT) hub in India?",
+          "question_text_te": "భారతదేశంలో బెంగళూరు ప్రముఖ సమాచార సాంకేతిక (IT) కేంద్రంగా ఎందుకు అభివృద్ధి చెందింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "Human Resources",
+      "title_te": "మానవ వనరులు",
+      "branch": "Geography",
+      "core_themes": [
+        "People are a nation's greatest resource; Healthy, educated, and skilled people create resources.",
+        "Distribution of population: Uneven distribution across Earth (crowded river plains vs sparsely populated polar/desert regions).",
+        "Density of population: Average density of world (approx 51 persons/sq km) and India (382 persons/sq km).",
+        "Factors affecting distribution of population: Geographical (Topography, Climate, Soil, Water, Minerals) and Social/Economic/Cultural factors.",
+        "Population change: Birth rate, Death rate, Migration; Natural growth rate = Birth rate - Death rate.",
+        "Patterns of population change across countries.",
+        "Population composition and Population Pyramid (Age-sex pyramid): Expanding population (Kenya), Stable (India), Contracting/Aging (Japan)."
+      ],
+      "learning_outcomes": [
+        "Explain the factors influencing population distribution across regions.",
+        "Interpret population pyramids to understand demographic trends.",
+        "Define birth rate, death rate, and natural growth rate."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is meant by population composition? How is it represented visually?",
+          "question_text_te": "జనాభా నిర్మాణం అంటే ఏమిటి? దానిని దృశ్యరూపంలో ఎలా సూచిస్తారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What does a population pyramid with a broad base and rapidly narrowing top tell about a country's birth and death rates?",
+          "question_text_te": "విశాలమైన అడుగుభాగం మరియు వేగంగా సన్నబడే పైభాగం గల జనాభా పిరమిడ్ ఒక దేశ జనన మరియు మరణాల రేటు గురించి ఏమి తెలియజేస్తుంది?"
+        }
+      ]
+    }
+  ],
+  "political_science": [
+    {
+      "chapter_no": 17,
+      "title_en": "The Indian Constitution",
+      "title_te": "భారత రాజ్యాంగం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why does a country need a Constitution: Lays out ideals, defines political system, prevents abuse of power, protects minorities.",
+        "Case study: Nepal's struggle for democracy and transition from monarchy to democratic constitution (2015).",
+        "Key features of the Indian Constitution: 1. Federalism (existence of more than one level of government); 2. Parliamentary Form of Government (Universal Adult Suffrage); 3. Separation of Powers (Legislature, Executive, Judiciary); 4. Fundamental Rights (Conscience of the Indian Constitution); 5. Secularism (State does not officially promote any one religion).",
+        "Six Fundamental Rights guaranteed by Indian Constitution: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies.",
+        "Directive Principles of State Policy (DPSP) designed by Constituent Assembly for social and economic justice."
+      ],
+      "learning_outcomes": [
+        "Understand why democratic countries require a written Constitution.",
+        "Explain the five key features of the Indian Constitution.",
+        "Identify the Fundamental Rights and their significance in protecting citizens."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What are the six Fundamental Rights guaranteed to all citizens in the Indian Constitution?",
+          "question_text_te": "భారత రాజ్యాంగం పౌరులందరికీ హామీ ఇచ్చిన ఆరు ప్రాథమిక హక్కులు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the separation of powers between the Legislature, Executive, and Judiciary considered crucial for a vibrant democracy?",
+          "question_text_te": "శాసనసభ, కార్యనిర్వాహక వర్గం మరియు న్యాయవ్యవస్థల మధ్య అధికార విభజన ప్రజాస్వామ్య మనుగడకు ఎందుకు కీలకమైనది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "title_en": "Understanding Secularism",
+      "title_te": "లౌకికతత్త్వం - అవగాహన",
+      "branch": "Political Science",
+      "core_themes": [
+        "What is Secularism: Separation of religion from the power of the State.",
+        "Why is it important to separate religion from the State: To prevent the tyranny of the majority and protect freedom of individuals to profess, practice, and propagate their faith.",
+        "What is Indian Secularism: The Indian State works in three ways to prevent religious domination: 1. Distancing itself from religion; 2. Policy of non-interference (respecting religious practices, e.g. turban exemption for Sikhs); 3. Policy of intervention (banning untouchability, personal law reforms).",
+        "How Indian secularism differs from Western secularism: Western strict wall of separation vs Indian 'principled distance'."
+      ],
+      "learning_outcomes": [
+        "Define secularism and understand why separation of religion and state is essential.",
+        "Explain the three strategies of Indian secularism.",
+        "Distinguish Indian secularism from secularism in the United States."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is meant by 'principled distance' in Indian secularism?",
+          "question_text_te": "భారతీయ లౌకికవాదంలో 'సూత్రబద్ధమైన దూరం' (ప్రిన్సిపల్డ్ డిస్టెన్స్) అంటే ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is it important for a multi-religious country like India to be a secular state?",
+          "question_text_te": "భారతదేశం వంటి బహుళ మతాలున్న దేశంలో లౌకిక రాజ్యంగా ఉండటం ఎందుకు అత్యంత ఆవశ్యకం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "title_en": "Why do we need a Parliament?",
+      "title_te": "మనకు పార్లమెంటు ఎందుకు అవసరం?",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why should people decide: Colonial experience created demand for democratic participation.",
+        "People and their representatives: Voting through Universal Adult Suffrage; Citizens elect MPs to Parliament.",
+        "Role of the Parliament: 1. To select the National Government (Lok Sabha with 543 elected members, Rajya Sabha with 245 members); 2. To control, guide, and inform the government (Question Hour, Zero Hour, No-confidence motion); 3. Law-making.",
+        "Who are the people in Parliament: Increasing diversity of representatives, reservations for SC, ST, and demand for women's reservation."
+      ],
+      "learning_outcomes": [
+        "Explain the composition and functions of Lok Sabha and Rajya Sabha.",
+        "Describe the importance of Question Hour in holding the executive accountable.",
+        "Discuss the need for representative diversity in legislative bodies."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the Question Hour in Parliament? Why is it an important device for MPs?",
+          "question_text_te": "పార్లమెంటులో ప్రశ్నోత్తరాల సమయం (క్వశ్చన్ అవర్) అంటే ఏమిటి? ఎంపీలకు ఇది ఎందుకు ముఖ్యమైన సాధనం?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Differentiate between the Lok Sabha and Rajya Sabha in terms of membership, term, and powers.",
+          "question_text_te": "సభ్యుల సంఖ్య, పదవీకాలం మరియు అధికారాల పరంగా లోక్‌సభ మరియు రాజ్యసభల మధ్య గల తేడాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "title_en": "Understanding Laws",
+      "title_te": "చట్టాలను అర్థం చేసుకుందాం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Do laws apply to all: Rule of Law means all persons are equal before the law; No one is above the law.",
+        "Historical legacy: Arbitrary British colonial laws (Sedition Act of 1870, Rowlatt Act of 1919) challenged by Indian nationalists.",
+        "How do new laws come about: Crucial role of citizens, women's groups, and civil society.",
+        "Case study: Enactment of the Protection of Women from Domestic Violence Act, 2005.",
+        "Unpopular and controversial laws: Laws that are constitutionally valid but rejected by people through public protests, rallies, and court challenges."
+      ],
+      "learning_outcomes": [
+        "Explain the concept of Rule of Law and its historical evolution.",
+        "Trace the law-making journey of the Domestic Violence Act 2005.",
+        "Describe democratic methods used by citizens to challenge unpopular laws."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What do you understand by the 'Rule of Law'? Cite an example of its violation.",
+          "question_text_te": "'చట్టబద్ధ పాలన' (రూల్ ఆఫ్ లా) అనగానేమి? దాని ఉల్లంఘనకు ఒక ఉదాహరణ ఇవ్వండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How can ordinary citizens and civil society organisations influence the making of new laws in Parliament?",
+          "question_text_te": "పార్లమెంటులో కొత్త చట్టాల రూపకల్పనపై సామాన్య పౌరులు మరియు ప్రజా సంఘాలు ఎలా ప్రభావం చూపగలవు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 21,
+      "title_en": "Judiciary",
+      "title_te": "న్యాయవ్యవస్థ",
+      "branch": "Political Science",
+      "core_themes": [
+        "Role of the Judiciary: Dispute resolution, Judicial review, Upholding the law and enforcing Fundamental Rights.",
+        "What is an independent judiciary: Separation of powers ensures executive and legislature cannot interfere in judicial decisions.",
+        "Structure of courts in India: Integrated judicial system; Supreme Court of India at the apex, High Courts in States, Subordinate/District Courts at base.",
+        "Appellate system: A citizen can appeal to a higher court if they feel that the judgment by lower court is not just.",
+        "Different branches of the legal system: Criminal Law (theft, murder, harassment) vs Civil Law (rent disputes, property sale, divorce).",
+        "Does everyone have access to courts: Financial hardship, legal delays, and introduction of Public Interest Litigation (PIL) in 1980s."
+      ],
+      "learning_outcomes": [
+        "Explain the significance of an independent judiciary in a democracy.",
+        "Describe the hierarchical structure of courts in India.",
+        "Differentiate between Criminal Law and Civil Law, and explain PIL."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is Public Interest Litigation (PIL)? How has it expanded access to justice for the poor?",
+          "question_text_te": "ప్రజా ప్రయోజన వ్యాజ్యం (PIL) అంటే ఏమిటి? పేదలకు న్యాయం చేరువ చేయడంలో ఇది ఎలా తోడ్పడింది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is an independent judiciary essential for protecting the Fundamental Rights of citizens?",
+          "question_text_te": "పౌరుల ప్రాథమిక హక్కుల రక్షణకు స్వతంత్ర న్యాయవ్యవస్థ ఎందుకు తప్పనిసరి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 22,
+      "title_en": "Understanding Our Criminal Justice System",
+      "title_te": "మన నేర న్యాయవ్యవస్థను అర్థం చేసుకుందాం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Four key players in the criminal justice system: Police, Public Prosecutor, Defence Lawyer, and Judge.",
+        "Role of the Police in investigating a crime: Filing an FIR (First Information Report), recording statements, collecting evidence; Police do not decide guilt.",
+        "Guidelines for arrest, detention, and interrogation (Article 22 of Constitution and D.K. Basu guidelines).",
+        "What is an FIR: Section 154 of CrPC; Must contain date, time, location, detailed description of cognizable offence.",
+        "Role of the Public Prosecutor: Represents the interests of the State in prosecuting criminal cases.",
+        "Role of the Judge: Hears witnesses, examines evidence, acts impartially, pronounces verdict and sentence.",
+        "What is a Fair Trial: Guaranteed under Article 21 (Right to Life); Held in open court, presence of accused, legal representation, cross-examination, presumption of innocence until proven guilty."
+      ],
+      "learning_outcomes": [
+        "Describe the distinct roles of Police, Public Prosecutor, Defence Lawyer, and Judge.",
+        "Explain the essential requirements of a First Information Report (FIR).",
+        "List essential elements of a Fair Trial under Article 21."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is a Fair Trial? State two conditions essential for ensuring a fair trial.",
+          "question_text_te": "న్యాయమైన విచారణ (ఫెయిర్ ట్రయల్) అంటే ఏమిటి? న్యాయమైన విచారణకు అవసరమైన రెండు షరతులను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the D.K. Basu guidelines laid down by the Supreme Court regarding arrest and detention of a person?",
+          "question_text_te": "ఒక వ్యక్తి అరెస్టు మరియు నిర్బంధానికి సంబంధించి సుప్రీంకోర్టు విధించిన డి.కె. బసు మార్గదర్శకాలు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 23,
+      "title_en": "Understanding Marginalisation",
+      "title_te": "వివక్షతను అర్థం చేసుకుందాం",
+      "branch": "Political Science",
+      "core_themes": [
+        "What does it mean to be socially marginalised: Being pushed to the edges or margins of society due to language, customs, or poverty.",
+        "Who are Adivasis: Original inhabitants who lived and often continue to live in close association with forests; Approx 8% of India's population.",
+        "Adivasi stereotyping: Portrayed in colourful costumes, exotic dances, perceived as backward.",
+        "Adivasis and development: Loss of ancestral forest land to mining, dams, and sanctuaries; Forced migration to cities.",
+        "Minorities and marginalisation: Muslims and Sachar Committee Report (2005) highlighting social, economic, and educational deficits.",
+        "Ghettoisation and preservation of minority cultural identity under constitutional safeguards."
+      ],
+      "learning_outcomes": [
+        "Define social marginalisation with respect to Adivasis and religious minorities.",
+        "Deconstruct stereotypes associated with tribal communities.",
+        "Explain key findings of the Justice Sachar Committee Report (2005)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write in your own words what you understand by the term 'marginalisation'.",
+          "question_text_te": "'వివక్షత' లేదా 'పార్శ్వవల్కరణ' (మార్జినలైజేషన్) అనే పదం ద్వారా మీరు ఏమి అర్థం చేసుకున్నారో మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are constitutional safeguards necessary for protecting minority communities in a democracy?",
+          "question_text_te": "ప్రజాస్వామ్యంలో అల్పసంఖ్యాక (మైనారిటీ) వర్గాల సంరక్షణకు రాజ్యాంగపరమైన రక్షణలు ఎందుకు అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 24,
+      "title_en": "Confronting Marginalisation",
+      "title_te": "వివక్షతను ఎదుర్కోవడం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Invoking Fundamental Rights: Article 14 (Equality), Article 15 (No discrimination), Article 17 (Abolition of Untouchability).",
+        "Laws for the marginalised: State policies and reservations for Scheduled Castes (SC), Scheduled Tribes (ST), and Other Backward Classes (OBC).",
+        "Protecting the rights of Dalits and Adivasis: The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
+        "The Scourge of Manual Scavenging: Employment of Manual Scavengers and Construction of Dry Latrines (Prohibition) Act, 1993, and Safai Karamchari Andolan.",
+        "Adivasi demands and the 1989 Act: Defending tribal land ownership against non-tribal encroachments (C.K. Janu movement); Forest Rights Act, 2006."
+      ],
+      "learning_outcomes": [
+        "Explain how marginalised groups invoke Fundamental Rights against discrimination.",
+        "Highlight key features of the SC/ST Prevention of Atrocities Act, 1989.",
+        "Discuss efforts to eradicate manual scavenging in India."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "List two Fundamental Rights that Dalits can draw upon to insist on being treated with dignity.",
+          "question_text_te": "దళితులు గౌరవంగా జీవించడానికి తోడ్పడే రెండు ప్రాథమిక హక్కులను పేర్కొనండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 essential for preventing violence against marginalised communities?",
+          "question_text_te": "ఎస్సీ, ఎస్టీ అట్రాసిటీల నిరోధక చట్టం 1989 అణగారిన వర్గాలపై దౌర్జన్యాలను అరికట్టడానికి ఎందుకు ఎంతో అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 25,
+      "title_en": "Public Facilities",
+      "title_te": "ప్రజా సౌకర్యాలు",
+      "branch": "Political Science",
+      "core_themes": [
+        "Water and the people of Chennai: Severe inequalities in water supply (Anna Nagar vs Mylapore vs Saidapet slums).",
+        "Water as part of the Fundamental Right to Life (Article 21): Safe drinking water is essential for health; Subhash Kumar vs State of Bihar (1991).",
+        "Public facilities: Healthcare, Sanitation, Electricity, Public transport, Schools and Colleges.",
+        "The government's role: Why public facilities cannot be left to private profit-making enterprises.",
+        "Where does the government get money for public facilities: Taxes collected from citizens.",
+        "Water supply to Chennai: Is water available to all? Private water tankers and water commodification."
+      ],
+      "learning_outcomes": [
+        "Explain why safe drinking water is recognized as an integral part of Right to Life (Article 21).",
+        "Identify essential public facilities and justify government responsibility in providing them.",
+        "Analyse inequalities in urban water distribution."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does the Constitution recognize safe drinking water as part of the Right to Life under Article 21?",
+          "question_text_te": "రాజ్యాంగంలోని ఆర్టికల్ 21 ప్రకారం సురక్షితమైన తాగునీటిని జీవించే హక్కులో భాగంగా ఎందుకు గుర్తించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why should the provision of basic public facilities like drinking water and sanitation be the responsibility of the government rather than private companies?",
+          "question_text_te": "తాగునీరు, పారిశుద్ధ్యం వంటి ప్రాథమిక ప్రజా సౌకర్యాల బాధ్యతను ప్రైవేట్ సంస్థలకు కాకుండా ప్రభుత్వమే ఎందుకు వహించాలి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 26,
+      "title_en": "Law and Social Justice",
+      "title_te": "చట్టం - సామాజిక న్యాయం",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why do we need laws to protect workers: Minimum Wages Act, protecting consumers and producers from market exploitation.",
+        "What is a worker's worth: Cheap labour, long hours, lack of safety measures in developing countries.",
+        "Bhopal Gas Tragedy (December 2–3, 1984): World's worst industrial disaster at Union Carbide pesticide factory; Leaking of Methyl Isocyanate (MIC).",
+        "Negligence of safety standards by MNCs and inadequate compensation to victims.",
+        "New laws to protect the environment: Right to a healthy environment recognized as part of Article 21; Polluter Pays principle.",
+        "Clean environment as a public good: Strict enforcement of emission standards and worker safety regulations."
+      ],
+      "learning_outcomes": [
+        "Explain the need for Minimum Wages Act and workplace safety enforcement.",
+        "Analyse corporate culpability in the Bhopal Gas Tragedy.",
+        "Describe the evolution of environmental jurisprudence under Article 21."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the Minimum Wages Act? Why is its enforcement essential to prevent exploitation of workers?",
+          "question_text_te": "కనిష్ఠ వేతనాల చట్టం అంటే ఏమిటి? కార్మికుల శ్రమ దోపిడీని నివారించడానికి దీని అమలు ఎందుకు తప్పనిసరి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What lessons should governments and multinational corporations draw from the Bhopal Gas Tragedy regarding industrial safety?",
+          "question_text_te": "పారిశ్రామిక భద్రత విషయంలో భోపాల్ గ్యాస్ విషాదం నుండి ప్రభుత్వాలు మరియు బహుళజాతి సంస్థలు నేర్చుకోవలసిన పాఠాలు ఏమిటి?"
+        }
+      ]
+    }
+  ]
+}

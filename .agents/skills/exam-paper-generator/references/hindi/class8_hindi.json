@@ -1,0 +1,815 @@
+{
+  "book_metadata": {
+    "title_hi": "हिंदी भारती - कक्षा 8",
+    "title_en": "Hindi Bharati - Class 8",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "8th Class",
+    "medium": "Hindi Second Language",
+    "total_chapters": 12,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "source_pdfs": [
+      "8_Hindi_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "सुनना-बोलना / पढ़ना-समझना",
+    "AS2": "अभिव्यक्ति - सृजनात्मकता",
+    "AS3": "भाषा की बात / व्याकरण"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "सुबह",
+      "title_en": "Subah",
+      "genre": "कविता",
+      "author": "श्री प्रसाद",
+      "semester": 1,
+      "learning_outcomes": [
+        "प्रातःकाल के प्राकृतिक सौंदर्य का आनंद लेना और आलस्य त्यागकर कर्मठ बनना।",
+        "प्रकृति प्रेम और दैनिक स्वास्थ्य के प्रति जागरूकता विकसित करना।"
+      ],
+      "vocabulary": {
+        "paryayvachi": {
+          "सूरज": [
+            "सूर्य",
+            "रवि",
+            "दिनकर"
+          ],
+          "हवा": [
+            "वायु",
+            "समीर",
+            "पवन"
+          ]
+        },
+        "vilom": {
+          "सुबह": "शाम",
+          "सुंदर": "कुरूप",
+          "अंधकार": "प्रकाश"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सूरज की किरणें आते ही प्रकृति में क्या-क्या परिवर्तन होते हैं?",
+          "question_text_en": "What changes take place in nature with the arrival of morning sun rays?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "'प्रातःकाल का भ्रमण स्वास्थ्य के लिए लाभदायक है' - इस विषय पर अपने विचार लिखिए।",
+          "question_text_en": "Write your thoughts on the topic 'Morning walk is beneficial for health'."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "निम्नलिखित शब्दों के विलोम शब्द लिखिए: (क) सुख (ख) आलस।",
+          "question_text_en": "Write antonyms for: (a) Sukh (b) Aalas."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "तेनालीराम की चतुराई",
+      "title_en": "Tenalirama ki Chaturayi",
+      "genre": "कहानी",
+      "author": "लोककथा",
+      "semester": 1,
+      "learning_outcomes": [
+        "बुद्धिमत्ता और हाजिरजवाबी से कठिन समस्याओं को हल करने का कौशल सीखना।",
+        "तेनालीराम के प्रसंगों से न्यायप्रियता और विनोदप्रियता की समझ।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "तेनालीराम ने चोरों को सबक सिखाने के लिए क्या उपाय किया?",
+          "question_text_en": "What trick did Tenalirama use to teach a lesson to the thieves?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "तेनालीराम की बुद्धिमत्ता की कोई अन्य घटना संक्षेप में लिखिए।",
+          "question_text_en": "Briefly narrate any other witty anecdote highlighting Tenalirama's intelligence."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "श्रीहरिकोटा",
+      "title_en": "Sriharikota",
+      "genre": "वार्तालाप / वैज्ञानिक निबंध",
+      "author": "संकलित",
+      "semester": 1,
+      "learning_outcomes": [
+        "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) और सतीश धवन अंतरिक्ष केंद्र के बारे में जानना।",
+        "उपग्रह प्रक्षेपण और विज्ञान-प्रौद्योगिकी के महत्व को समझना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "श्रीहरिकोटा अंतरिक्ष केंद्र किस राज्य में स्थित है और इसका क्या महत्व है?",
+          "question_text_en": "In which state is Sriharikota Space Centre situated and what is its significance?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "संधि-विच्छेद कीजिए: (क) सूर्योदय (ख) अंतरिक्ष।",
+          "question_text_en": "Split the sandhi: (a) Suryoday (b) Antariksh."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "गीत",
+      "title_en": "Geet",
+      "genre": "कविता",
+      "author": "केदारनाथ अग्रवाल",
+      "semester": 1,
+      "learning_outcomes": [
+        "श्रम और किसान के जीवन से जुड़े गीतों का गायन और भाव ग्रहण।",
+        "कविता में लय, तुकबंदी और बिंब-विधान की पहचान।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कवि ने खेतों में लहलहाती फसल को देखकर क्या अनुभव किया?",
+          "question_text_en": "What did the poet experience upon seeing the lush crops swaying in the fields?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "भारतीय किसान के परिश्रम पर अपने शब्दों में एक कविता या अनुच्छेद लिखिए।",
+          "question_text_en": "Write a poem or paragraph in your own words on the hard work of Indian farmers."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "कूड़ेदान",
+      "title_en": "Kudedan",
+      "genre": "आत्मकथा",
+      "author": "संकलित",
+      "semester": 1,
+      "learning_outcomes": [
+        "स्वच्छता और कचरा प्रबंधन के प्रति सजग होना।",
+        "कूड़ेदान की आत्मकथा के माध्यम से नागरिक कर्तव्यों को समझना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कूड़ेदान ने मनुष्यों से अपने उपयोग के बारे में क्या प्रार्थना की?",
+          "question_text_en": "What appeal did the dustbin make to humans regarding its proper usage?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपने विद्यालय परिसर को स्वच्छ रखने के लिए आप क्या-क्या कदम उठाएंगे?",
+          "question_text_en": "What steps will you take to keep your school campus clean and green?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "मित्र को पत्र",
+      "title_en": "Mitra ko Patra",
+      "genre": "पत्र लेखन",
+      "author": "संकलित",
+      "semester": 1,
+      "learning_outcomes": [
+        "अनौपचारिक पत्र लेखन की शैली और प्रारूप से परिचित होना।",
+        "ऐतिहासिक व दर्शनीय स्थलों के भ्रमण का सजीव वर्णन करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "पत्र में मित्र ने तिरुपति अथवा विशाखापट्टनम के किस दर्शनीय स्थल का वर्णन किया है?",
+          "question_text_en": "Which tourist attraction did the friend describe in the letter?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपने ग्रीष्मावकाश के अनुभव बताते हुए अपने मित्र को एक पत्र लिखिए।",
+          "question_text_en": "Write a letter to your friend sharing your summer vacation experiences."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "धरती की शान",
+      "title_en": "Dharti ki Shaan",
+      "genre": "कविता",
+      "author": "पंडित भरत व्यास",
+      "semester": 2,
+      "learning_outcomes": [
+        "मानव की असीम शक्तियों, साहस और आत्मविश्वास को पहचानना।",
+        "राष्ट्रनिर्माण में अपनी क्षमता का सकारात्मक उपयोग करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कवि ने मनुष्य को 'धरती की शान' क्यों कहा है?",
+          "question_text_en": "Why has the poet addressed man as the 'glory of the earth'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "समानार्थी शब्द लिखिए: (क) नभ (ख) पर्वत।",
+          "question_text_en": "Write synonyms for: (a) Nabh (b) Parvat."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "परिश्रम का फल",
+      "title_en": "Parishram ka Phal",
+      "genre": "कहानी",
+      "author": "प्रेरक प्रसंग",
+      "semester": 2,
+      "learning_outcomes": [
+        "कड़ी मेहनत, लगन और ईमानदारी के महत्व को समझना।",
+        "कठिनाइयों से घबराए बिना लक्ष्य प्राप्ति हेतु निरंतर प्रयासरत रहना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कठिन परिश्रम करने वाले व्यक्ति को अंत में क्या फल मिलता है?",
+          "question_text_en": "What fruit does a hardworking person ultimately reap?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "'परिश्रम ही सफलता की कुंजी है' - इस कथन की सार्थकता सिद्ध कीजिए।",
+          "question_text_en": "Justify the statement 'Hard work is the key to success'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "सरदार",
+      "title_en": "Sardar",
+      "genre": "जीवनी",
+      "author": "जीवनी संग्रह",
+      "semester": 2,
+      "learning_outcomes": [
+        "लौह पुरुष सरदार वल्लभभाई पटेल के दृढ़ संकल्प और राष्ट्रभक्ति से प्रेरणा लेना।",
+        "देशी रियासतों के एकीकरण में सरदार पटेल के ऐतिहासिक योगदान को जानना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सरदार वल्लभभाई पटेल को 'लौह पुरुष' क्यों कहा जाता है?",
+          "question_text_en": "Why is Sardar Vallabhbhai Patel known as the 'Iron Man of India'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "भारतीय रियासतों के एकीकरण में सरदार पटेल के योगदान पर एक निबंध लिखिए।",
+          "question_text_en": "Write an essay on Sardar Patel's historic role in the integration of Indian princely states."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "मधुरवाणी",
+      "title_en": "Madhurvani",
+      "genre": "दोहा संग्रह",
+      "author": "कबीरदास, तुलसीदास, रहीम",
+      "semester": 2,
+      "learning_outcomes": [
+        "नीतिपरक दोहों का सस्वर वाचन और उनके अर्थ का जीवन में अनुप्रयोग।",
+        "मीठी वाणी, विनम्रता और सत्संगति के गुणों को आत्मसात करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "'ऐसी बानी बोलिए, मन का आपा खोइ' - कबीरदास जी के इस दोहे का भावार्थ लिखिए।",
+          "question_text_en": "Explain the meaning of Kabirdas's doha on speaking sweet words."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "मुहावरे का अर्थ लिखकर वाक्य में प्रयोग कीजिए: 'मीठी छुरी चलाना'।",
+          "question_text_en": "Write the meaning and make a sentence with the idiom 'Meethi Chhuri Chalana'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "भाई का प्रेम",
+      "title_en": "Bhai ka Prem",
+      "genre": "कहानी",
+      "author": "पारिवारिक कहानी",
+      "semester": 2,
+      "learning_outcomes": [
+        "पारिवारिक सौहार्द, भ्रातृ-प्रेम और परस्पर त्याग की भावना को समझना।",
+        "कथा साहित्य में मानवीय संवेदनाओं का मूल्यांकन करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कहानी में दोनों भाइयों ने एक-दूसरे के प्रति अपने प्रेम का प्रदर्शन कैसे किया?",
+          "question_text_en": "How did both brothers demonstrate their mutual love and sacrifice in the story?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "भाई-बहन या परिवार के सदस्यों के बीच परस्पर प्रेम क्यों आवश्यक है?",
+          "question_text_en": "Why is mutual affection and bonding essential among family members?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "जो देखकर भी नहीं देखते",
+      "title_en": "Jo Dekhkar Bhi Nahi Dekhte",
+      "genre": "निबंध",
+      "author": "हेलन केलर",
+      "semester": 2,
+      "learning_outcomes": [
+        "दृष्टि और श्रवण बाधित हेलन केलर के जीवन संघर्ष और प्रकृति प्रेम को जानना।",
+        "प्रकृति के सूक्ष्म सौंदर्य को स्पर्श और अनुभव के माध्यम से महसूस करने की क्षमता विकसित करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "लेखिका हेलन केलर अपनी सहेली की किस बात को सुनकर हैरान रह गईं?",
+          "question_text_en": "Why was author Helen Keller surprised by her friend's response after a walk in the forest?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "हेलन केलर स्पर्श के माध्यम से प्रकृति की किन-किन चीजों को पहचानती थीं?",
+          "question_text_en": "What aspects of nature did Helen Keller experience and cherish through the sense of touch?"
+        }
+      ]
+    }
+  ],
+  "table_of_contents": [
+    {
+      "chapter_no": 1,
+      "title": "सुबह",
+      "title_en": "Subah",
+      "genre": "कविता",
+      "author": "श्री प्रसाद",
+      "semester": 1,
+      "learning_outcomes": [
+        "प्रातःकाल के प्राकृतिक सौंदर्य का आनंद लेना और आलस्य त्यागकर कर्मठ बनना।",
+        "प्रकृति प्रेम और दैनिक स्वास्थ्य के प्रति जागरूकता विकसित करना।"
+      ],
+      "vocabulary": {
+        "paryayvachi": {
+          "सूरज": [
+            "सूर्य",
+            "रवि",
+            "दिनकर"
+          ],
+          "हवा": [
+            "वायु",
+            "समीर",
+            "पवन"
+          ]
+        },
+        "vilom": {
+          "सुबह": "शाम",
+          "सुंदर": "कुरूप",
+          "अंधकार": "प्रकाश"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सूरज की किरणें आते ही प्रकृति में क्या-क्या परिवर्तन होते हैं?",
+          "question_text_en": "What changes take place in nature with the arrival of morning sun rays?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "'प्रातःकाल का भ्रमण स्वास्थ्य के लिए लाभदायक है' - इस विषय पर अपने विचार लिखिए।",
+          "question_text_en": "Write your thoughts on the topic 'Morning walk is beneficial for health'."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "निम्नलिखित शब्दों के विलोम शब्द लिखिए: (क) सुख (ख) आलस।",
+          "question_text_en": "Write antonyms for: (a) Sukh (b) Aalas."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "तेनालीराम की चतुराई",
+      "title_en": "Tenalirama ki Chaturayi",
+      "genre": "कहानी",
+      "author": "लोककथा",
+      "semester": 1,
+      "learning_outcomes": [
+        "बुद्धिमत्ता और हाजिरजवाबी से कठिन समस्याओं को हल करने का कौशल सीखना।",
+        "तेनालीराम के प्रसंगों से न्यायप्रियता और विनोदप्रियता की समझ।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "तेनालीराम ने चोरों को सबक सिखाने के लिए क्या उपाय किया?",
+          "question_text_en": "What trick did Tenalirama use to teach a lesson to the thieves?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "तेनालीराम की बुद्धिमत्ता की कोई अन्य घटना संक्षेप में लिखिए।",
+          "question_text_en": "Briefly narrate any other witty anecdote highlighting Tenalirama's intelligence."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "श्रीहरिकोटा",
+      "title_en": "Sriharikota",
+      "genre": "वार्तालाप / वैज्ञानिक निबंध",
+      "author": "संकलित",
+      "semester": 1,
+      "learning_outcomes": [
+        "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) और सतीश धवन अंतरिक्ष केंद्र के बारे में जानना।",
+        "उपग्रह प्रक्षेपण और विज्ञान-प्रौद्योगिकी के महत्व को समझना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "श्रीहरिकोटा अंतरिक्ष केंद्र किस राज्य में स्थित है और इसका क्या महत्व है?",
+          "question_text_en": "In which state is Sriharikota Space Centre situated and what is its significance?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "संधि-विच्छेद कीजिए: (क) सूर्योदय (ख) अंतरिक्ष।",
+          "question_text_en": "Split the sandhi: (a) Suryoday (b) Antariksh."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "गीत",
+      "title_en": "Geet",
+      "genre": "कविता",
+      "author": "केदारनाथ अग्रवाल",
+      "semester": 1,
+      "learning_outcomes": [
+        "श्रम और किसान के जीवन से जुड़े गीतों का गायन और भाव ग्रहण।",
+        "कविता में लय, तुकबंदी और बिंब-विधान की पहचान।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कवि ने खेतों में लहलहाती फसल को देखकर क्या अनुभव किया?",
+          "question_text_en": "What did the poet experience upon seeing the lush crops swaying in the fields?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "भारतीय किसान के परिश्रम पर अपने शब्दों में एक कविता या अनुच्छेद लिखिए।",
+          "question_text_en": "Write a poem or paragraph in your own words on the hard work of Indian farmers."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "कूड़ेदान",
+      "title_en": "Kudedan",
+      "genre": "आत्मकथा",
+      "author": "संकलित",
+      "semester": 1,
+      "learning_outcomes": [
+        "स्वच्छता और कचरा प्रबंधन के प्रति सजग होना।",
+        "कूड़ेदान की आत्मकथा के माध्यम से नागरिक कर्तव्यों को समझना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कूड़ेदान ने मनुष्यों से अपने उपयोग के बारे में क्या प्रार्थना की?",
+          "question_text_en": "What appeal did the dustbin make to humans regarding its proper usage?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपने विद्यालय परिसर को स्वच्छ रखने के लिए आप क्या-क्या कदम उठाएंगे?",
+          "question_text_en": "What steps will you take to keep your school campus clean and green?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "मित्र को पत्र",
+      "title_en": "Mitra ko Patra",
+      "genre": "पत्र लेखन",
+      "author": "संकलित",
+      "semester": 1,
+      "learning_outcomes": [
+        "अनौपचारिक पत्र लेखन की शैली और प्रारूप से परिचित होना।",
+        "ऐतिहासिक व दर्शनीय स्थलों के भ्रमण का सजीव वर्णन करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "पत्र में मित्र ने तिरुपति अथवा विशाखापट्टनम के किस दर्शनीय स्थल का वर्णन किया है?",
+          "question_text_en": "Which tourist attraction did the friend describe in the letter?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपने ग्रीष्मावकाश के अनुभव बताते हुए अपने मित्र को एक पत्र लिखिए।",
+          "question_text_en": "Write a letter to your friend sharing your summer vacation experiences."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "धरती की शान",
+      "title_en": "Dharti ki Shaan",
+      "genre": "कविता",
+      "author": "पंडित भरत व्यास",
+      "semester": 2,
+      "learning_outcomes": [
+        "मानव की असीम शक्तियों, साहस और आत्मविश्वास को पहचानना।",
+        "राष्ट्रनिर्माण में अपनी क्षमता का सकारात्मक उपयोग करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कवि ने मनुष्य को 'धरती की शान' क्यों कहा है?",
+          "question_text_en": "Why has the poet addressed man as the 'glory of the earth'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "समानार्थी शब्द लिखिए: (क) नभ (ख) पर्वत।",
+          "question_text_en": "Write synonyms for: (a) Nabh (b) Parvat."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "परिश्रम का फल",
+      "title_en": "Parishram ka Phal",
+      "genre": "कहानी",
+      "author": "प्रेरक प्रसंग",
+      "semester": 2,
+      "learning_outcomes": [
+        "कड़ी मेहनत, लगन और ईमानदारी के महत्व को समझना।",
+        "कठिनाइयों से घबराए बिना लक्ष्य प्राप्ति हेतु निरंतर प्रयासरत रहना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कठिन परिश्रम करने वाले व्यक्ति को अंत में क्या फल मिलता है?",
+          "question_text_en": "What fruit does a hardworking person ultimately reap?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "'परिश्रम ही सफलता की कुंजी है' - इस कथन की सार्थकता सिद्ध कीजिए।",
+          "question_text_en": "Justify the statement 'Hard work is the key to success'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "सरदार",
+      "title_en": "Sardar",
+      "genre": "जीवनी",
+      "author": "जीवनी संग्रह",
+      "semester": 2,
+      "learning_outcomes": [
+        "लौह पुरुष सरदार वल्लभभाई पटेल के दृढ़ संकल्प और राष्ट्रभक्ति से प्रेरणा लेना।",
+        "देशी रियासतों के एकीकरण में सरदार पटेल के ऐतिहासिक योगदान को जानना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सरदार वल्लभभाई पटेल को 'लौह पुरुष' क्यों कहा जाता है?",
+          "question_text_en": "Why is Sardar Vallabhbhai Patel known as the 'Iron Man of India'?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "भारतीय रियासतों के एकीकरण में सरदार पटेल के योगदान पर एक निबंध लिखिए।",
+          "question_text_en": "Write an essay on Sardar Patel's historic role in the integration of Indian princely states."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "मधुरवाणी",
+      "title_en": "Madhurvani",
+      "genre": "दोहा संग्रह",
+      "author": "कबीरदास, तुलसीदास, रहीम",
+      "semester": 2,
+      "learning_outcomes": [
+        "नीतिपरक दोहों का सस्वर वाचन और उनके अर्थ का जीवन में अनुप्रयोग।",
+        "मीठी वाणी, विनम्रता और सत्संगति के गुणों को आत्मसात करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "'ऐसी बानी बोलिए, मन का आपा खोइ' - कबीरदास जी के इस दोहे का भावार्थ लिखिए।",
+          "question_text_en": "Explain the meaning of Kabirdas's doha on speaking sweet words."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "मुहावरे का अर्थ लिखकर वाक्य में प्रयोग कीजिए: 'मीठी छुरी चलाना'।",
+          "question_text_en": "Write the meaning and make a sentence with the idiom 'Meethi Chhuri Chalana'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "भाई का प्रेम",
+      "title_en": "Bhai ka Prem",
+      "genre": "कहानी",
+      "author": "पारिवारिक कहानी",
+      "semester": 2,
+      "learning_outcomes": [
+        "पारिवारिक सौहार्द, भ्रातृ-प्रेम और परस्पर त्याग की भावना को समझना।",
+        "कथा साहित्य में मानवीय संवेदनाओं का मूल्यांकन करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कहानी में दोनों भाइयों ने एक-दूसरे के प्रति अपने प्रेम का प्रदर्शन कैसे किया?",
+          "question_text_en": "How did both brothers demonstrate their mutual love and sacrifice in the story?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "भाई-बहन या परिवार के सदस्यों के बीच परस्पर प्रेम क्यों आवश्यक है?",
+          "question_text_en": "Why is mutual affection and bonding essential among family members?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "जो देखकर भी नहीं देखते",
+      "title_en": "Jo Dekhkar Bhi Nahi Dekhte",
+      "genre": "निबंध",
+      "author": "हेलन केलर",
+      "semester": 2,
+      "learning_outcomes": [
+        "दृष्टि और श्रवण बाधित हेलन केलर के जीवन संघर्ष और प्रकृति प्रेम को जानना।",
+        "प्रकृति के सूक्ष्म सौंदर्य को स्पर्श और अनुभव के माध्यम से महसूस करने की क्षमता विकसित करना।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "लेखिका हेलन केलर अपनी सहेली की किस बात को सुनकर हैरान रह गईं?",
+          "question_text_en": "Why was author Helen Keller surprised by her friend's response after a walk in the forest?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "हेलन केलर स्पर्श के माध्यम से प्रकृति की किन-किन चीजों को पहचानती थीं?",
+          "question_text_en": "What aspects of nature did Helen Keller experience and cherish through the sense of touch?"
+        }
+      ]
+    }
+  ]
+}

@@ -28,6 +28,7 @@ Comprehensive skill for managing, controlling, and automating Android devices ru
 1. **⚡ 24/7 Power Outage & UPS Sentinel**:
    * Continuous charger state detection (5s polling interval).
    * Automatically triggers Android notification banners, high-priority audible alarms, and spoken voice warnings upon power cuts.
+   * **Armin Discord Webhook Alerts**: Automatically dispatches rich embed cards with battery, temp, voltage, and timestamps to Discord channel upon power cut or recovery.
    * Maintains an in-memory chronological event log of all power interruptions.
 
 2. **📍 Real-Time GNSS & Geolocation**:
@@ -74,6 +75,9 @@ curl -X POST http://100.123.244.85:8000/api/torch -H "Content-Type: application/
 
 # Trigger Haptic Vibration
 curl -X POST http://100.123.244.85:8000/api/vibrate -H "Content-Type: application/json" -d '{"duration_ms": 500}'
+
+# Dispatch Discord Webhook Test Alert (Armin Sentinel)
+curl -X POST http://100.123.244.85:8000/api/discord/test
 
 # Voice Speech Synthesis (TTS)
 curl -X POST http://100.123.244.85:8000/api/tts -H "Content-Type: application/json" -d '{"text": "Alert: Sentinel online"}'

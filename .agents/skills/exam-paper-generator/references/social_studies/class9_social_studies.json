@@ -1,0 +1,1729 @@
+{
+  "book_metadata": {
+    "title_en": "Social Studies - Class 9 (AP SCERT 2024-25)",
+    "title_te": "సాంఘిక శాస్త్రం - తొమ్మిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "four_branches": [
+      "History",
+      "Geography",
+      "Political Science",
+      "Economics"
+    ],
+    "total_chapters": 20,
+    "source_pdfs": [
+      "9_Social_History_Textbook.pdf",
+      "9_Social_Geography_Textbook.pdf",
+      "9_Social_Politics_Textbook.pdf",
+      "9_Social_Economics_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Reading the text (given), understanding and interpretation",
+    "AS3": "Information Skills",
+    "AS4": "Reflection on contemporary issues and questioning",
+    "AS5": "Mapping Skills",
+    "AS6": "Appreciation and Sensitivity"
+  },
+  "history": [
+    {
+      "chapter_no": 1,
+      "title_en": "The French Revolution",
+      "title_te": "ఫ్రెంచ్ విప్లవం",
+      "branch": "History",
+      "core_themes": [
+        "French society during late eighteenth century: The Three Estates, feudal privileges, tax burden on Third Estate.",
+        "The Outbreak of the Revolution: Estates General meeting May 5, 1789; National Assembly; Storming of Bastille July 14, 1789.",
+        "France becomes a Constitutional Monarchy: Declaration of Rights of Man and Citizen.",
+        "France abolishes Monarchy and becomes a Republic: The Convention, Reign of Terror under Robespierre (Jacobins), Guillotine.",
+        "The Directory and the Rise of Napoleon Bonaparte; Abolition of slavery in French colonies."
+      ],
+      "learning_outcomes": [
+        "Understand the socio-economic causes of the French Revolution.",
+        "Examine the Declaration of Rights of Man and Citizen as a landmark in human rights.",
+        "Analyze the legacy of French revolutionary ideas of liberty, equality, and fraternity across Europe."
+      ],
+      "map_points": [
+        "Paris",
+        "Bordeaux",
+        "Nantes",
+        "Marseilles",
+        "Versailles"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the circumstances leading to the outbreak of revolutionary protest in France.",
+          "question_text_te": "ఫ్రాన్స్‌లో విప్లవాత్మక నిరసనలు చెలరేగడానికి దారితీసిన పరిస్థితులను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Read the Declaration of the Rights of Man and Citizen. Which fundamental rights are emphasized as natural and inalienable?",
+          "question_text_te": "మానవ హక్కుల ప్రకటనను చదివి, సహజమైన మరియు పరాయీకరించలేనివిగా పేర్కొన్న ప్రాథమిక హక్కులు ఏవో రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of France, locate and label the following revolutionary centres: Paris, Nantes, Bordeaux, and Marseilles.",
+          "question_text_te": "ఫ్రాన్స్ అవుట్‌లైన్ మ్యాప్‌లో ప్యారిస్, నాంటెస్, బోర్డియక్స్ మరియు మార్సెల్లెస్ నగరాలను గుర్తించి పేర్లు రాయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the significance of the revolutionary slogan 'Liberty, Equality, Fraternity' in modern democracies.",
+          "question_text_te": "ఆధునిక ప్రజాస్వామ్యాలలో 'స్వేచ్ఛ, సమానత్వం, సౌభ్రాతృత్వం' అనే విప్లవ నినాదం ప్రాముఖ్యతను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Socialism in Europe and the Russian Revolution",
+      "title_te": "ఐరోపాలో సామ్యవాదం మరియు రష్యన్ విప్లవం",
+      "branch": "History",
+      "core_themes": [
+        "The Age of Social Change: Liberals, Radicals, and Conservatives.",
+        "Industrial Society and the Coming of Socialism to Europe: Karl Marx and Friedrich Engels.",
+        "The Russian Empire in 1914: Economy and Society, 1905 Revolution, Bloody Sunday, Duma.",
+        "The First World War and the Russian Empire: February Revolution in Petrograd, fall of Tsarist autocracy.",
+        "The October Revolution of 1917: Lenin and the Bolsheviks, Soviet power.",
+        "Civil War, Making a Socialist Society, and Stalin's Collectivization program."
+      ],
+      "learning_outcomes": [
+        "Trace the development of socialist ideology in 19th-century Europe.",
+        "Examine the causes and course of the February and October Revolutions in Russia.",
+        "Analyze the global impact of the Russian Revolution and the USSR."
+      ],
+      "map_points": [
+        "Petrograd (St. Petersburg)",
+        "Moscow",
+        "Baltic Sea",
+        "Black Sea"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the main differences between Liberals, Radicals, and Conservatives in 19th-century Europe?",
+          "question_text_te": "19వ శతాబ్దపు ఐరోపాలో ఉదారవాదులు, తీవ్రవాదులు మరియు సాంప్రదాయవాదుల మధ్య గల ప్రధాన భేదాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Explain the major events leading to the October Revolution of 1917 in Russia and the role played by Vladimir Lenin.",
+          "question_text_te": "రష్యాలో 1917 అక్టోబర్ విప్లవానికి దారితీసిన ప్రధాన సంఘటనలను మరియు వ్లాదిమిర్ లెనిన్ పోషించిన పాత్రను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the effects of the collectivization program introduced by Stalin on Russian peasants?",
+          "question_text_te": "రష్యన్ రైతులపై స్టాలిన్ ప్రవేశపెట్టిన సమిష్టి వ్యవసాయ విధానం (కలెక్టివైజేషన్) చూపిన ప్రభావాలు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Nazism and the Rise of Hitler",
+      "title_te": "నాజీయిజం మరియు హిట్లర్ ఎదుగుదల",
+      "branch": "History",
+      "core_themes": [
+        "Birth of the Weimar Republic after World War I; Treaty of Versailles; Economic Crisis (1923) and Great Depression.",
+        "Hitler's Rise to Power: Nazi propaganda, speechcraft, Enabling Act of 1933, establishment of totalitarian dictatorship.",
+        "The Nazi Worldview: Racial hierarchy, Nordic Aryans, Anti-Semitism, Lebensraum (living space).",
+        "Youth in Nazi Germany: Jungvolk, Hitler Youth; Motherhood cult.",
+        "The Holocaust: Ghettos, gas chambers, Nuremberg trials."
+      ],
+      "learning_outcomes": [
+        "Understand the humiliating impact of the Treaty of Versailles on Germany.",
+        "Explain the political and economic conditions that enabled Hitler's fascist dictatorship.",
+        "Sensitize students against racism, discrimination, and genocide."
+      ],
+      "map_points": [
+        "Berlin",
+        "Munich",
+        "Nuremberg",
+        "Poland",
+        "Austria"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain why the Weimar Republic was politically fragile in Germany.",
+          "question_text_te": "జర్మనీలో వీమర్ రిపబ్లిక్ రాజకీయంగా ఎందుకు బలహీనంగా ఉండిందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "What was the Holocaust? Why is it considered one of the darkest chapters in human history?",
+          "question_text_te": "హోలోకాస్ట్ (మారణహోమం) అంటే ఏమిటి? మానవ చరిత్రలో ఇది అత్యంత చీకటి అధ్యాయంగా ఎందుకు పరిగణించబడుతుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Forest Society and Colonialism",
+      "title_te": "అటవీ సమాజం మరియు వలసవాదం",
+      "branch": "History",
+      "core_themes": [
+        "Deforestation under British Rule: Timber for Royal Navy, railway sleepers, commercial crops (tea, coffee, rubber).",
+        "Scientific Forestry: Dietrich Brandis, Indian Forest Act of 1865 and 1878 amendments (Reserved, Protected, Village forests).",
+        "Impact on forest dwellers: Shifting cultivation banned, hunting criminalized, forced labour.",
+        "Rebellion in the Forest: Bastar rebellion (1910) led by Gunda Dhur; Dutch forest laws in Java (Blandongdiensten system) and Saminist movement."
+      ],
+      "learning_outcomes": [
+        "Understand the commercial and imperial reasons for British deforestation in India.",
+        "Examine the loss of tribal livelihoods and autonomy under colonial forest laws.",
+        "Compare forest resistance in Bastar (India) with Java (Indonesia)."
+      ],
+      "map_points": [
+        "Bastar",
+        "Chhattisgarh",
+        "Java",
+        "Sumatra"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain why the British introduced 'Scientific Forestry' in India. What were its consequences for forest communities?",
+          "question_text_te": "బ్రిటిష్ వారు భారతదేశంలో 'శాస్త్రీయ అటవీ విధానాన్ని' ఎందుకు ప్రవేశపెట్టారు? అటవీ సమాజాలపై దాని పరిణామాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did the 1910 Bastar Rebellion reflect the grievances of indigenous tribal communities?",
+          "question_text_te": "1910 బస్తర్ తిరుగుబాటు స్థానిక ఆదివాసీ తెగల సమస్యలను ఎలా ప్రతిబింబించింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Pastoralists in the Modern World",
+      "title_te": "ఆధునిక ప్రపంచంలో పశుపోషకులు",
+      "branch": "History",
+      "core_themes": [
+        "Pastoral Nomads in India: Gujjar Bakarwals (Jammu & Kashmir), Gaddis (Himachal Pradesh), Dhangars (Maharashtra), Raikas (Rajasthan).",
+        "Colonial Rule and Pastoral Life: Waste Land Rules, Forest Acts, Criminal Tribes Act of 1871, Grazing tax.",
+        "Pastoralism in Africa: Maasai community of East Africa, loss of grazing lands, creation of game reserves (Serengeti, Maasai Mara)."
+      ],
+      "learning_outcomes": [
+        "Understand pastoral nomadic life as an ecologically sustainable adaptation to arid and mountain environments.",
+        "Examine how colonial borders, grazing taxes, and wildlife reserves destroyed traditional pastoral economies."
+      ],
+      "map_points": [
+        "Jammu and Kashmir",
+        "Himachal Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Kenya",
+        "Tanzania"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain how the seasonal movement of the Gujjar Bakarwals is adapted to the mountain environment.",
+          "question_text_te": "గుజ్జర్ బకర్వాల్స్ పశువుల కాపరుల కాలానుగుణ వలసలు పర్వత పర్యావరణానికి ఎలా అనుగుణంగా ఉంటాయో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the colonial state consider pastoralists as unproductive and view mobile communities with suspicion?",
+          "question_text_te": "వలస పాలకులు పశుపోషకులను నిరుపయోగమైన వారిగా ఎందుకు భావించారు మరియు సంచార జాతులను అనుమానంతో ఎందుకు చూశారు?"
+        }
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "chapter_no": 6,
+      "title_en": "India – Size and Location",
+      "title_te": "భారతదేశం - పరిమాణం మరియు ఉనికి",
+      "branch": "Geography",
+      "core_themes": [
+        "Location: Entirely in Northern Hemisphere; Latitudes 8°4'N to 37°6'N, Longitudes 68°7'E to 97°25'E.",
+        "Tropic of Cancer (23°30'N) divides India into almost two equal halves.",
+        "Size: Total area 3.28 million sq km (2.4% of total world area); 7th largest country; Land boundary 15,200 km; Coastline 7,516.6 km.",
+        "Standard Meridian of India (82°30'E passing through Mirzapur in UP); IST is GMT + 5:30.",
+        "India and the World: Strategic central location at head of Indian Ocean; Neighbours (Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar, Bangladesh, Sri Lanka, Maldives)."
+      ],
+      "learning_outcomes": [
+        "Locate India's latitudinal and longitudinal extent on the world globe.",
+        "Understand why 82°30'E longitude was selected as the Standard Meridian of India.",
+        "Identify India's strategic maritime and land neighbours."
+      ],
+      "map_points": [
+        "Tropic of Cancer",
+        "Standard Meridian (82°30'E)",
+        "Indira Point",
+        "Kanyakumari",
+        "Palk Strait"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The sun rises two hours earlier in Arunachal Pradesh as compared to Gujarat in the west, but the watches show the same time. How does this happen?",
+          "question_text_te": "గుజరాత్‌తో పోలిస్తే అరుణాచల్ ప్రదేశ్‌లో సూర్యుడు రెండు గంటల ముందే ఉదయిస్తాడు, కానీ గడియారాలు ఒకే సమయాన్ని చూపుతాయి. ఇది ఎలా సాధ్యం?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, identify and locate: (a) Tropic of Cancer, (b) Standard Meridian of India, (c) Southernmost tip of Indian mainland.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో గుర్తించండి: (a) కర్కట రేఖ, (b) ప్రామాణిక రేఖాంశం (82°30' తూర్పు), (c) భారతదేశ ప్రధాన భూభాగ దక్షిణ అగ్రం (కన్యాకుమారి)."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Physical Features of India",
+      "title_te": "భారతదేశ భౌగోళిక స్వరూపాలు",
+      "branch": "Geography",
+      "core_themes": [
+        "Theory of Plate Tectonics: Convergent, Divergent, Transform boundaries; Gondwanaland breakup.",
+        "The Himalayan Mountains: Himadri (Greater Himalayas), Himachal (Lesser Himalayas), Shiwaliks (Outer Himalayas).",
+        "The Northern Plains: Bhabar, Terai, Bhangar, Khadar; Alluvial deposits of Indus, Ganga, Brahmaputra.",
+        "The Peninsular Plateau: Central Highlands, Deccan Plateau, Western Ghats (Anamudi 2695 m), Eastern Ghats (Mahendragiri 1501 m).",
+        "The Indian Desert (Thar), The Coastal Plains (Konkan, Kannad, Malabar, Coromandel, Northern Circars), and The Islands (Lakshadweep, Andaman and Nicobar)."
+      ],
+      "learning_outcomes": [
+        "Understand tectonic plate movements creating Himalayas and Indo-Gangetic plains.",
+        "Compare the physical features of Western Ghats and Eastern Ghats.",
+        "Classify Northern Plains based on relief features."
+      ],
+      "map_points": [
+        "K2 (Mt. Godwin Austen)",
+        "Kanchenjunga",
+        "Anamudi",
+        "Chota Nagpur Plateau",
+        "Thar Desert",
+        "Western Ghats",
+        "Eastern Ghats"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Distinguish between Western Ghats and Eastern Ghats.",
+          "question_text_te": "పశ్చిమ కనుమలు మరియు తూర్పు కనుమల మధ్య గల భేదాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Contrast the relief of the Himalayan region with that of the Peninsular plateau.",
+          "question_text_te": "హిమాలయ ప్రాంత భౌగోళిక స్వరూపాలను ద్వీపకల్ప పీఠభూమి స్వరూపాలతో పోల్చి భేదాలను రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: Kanchenjunga peak, Chota Nagpur plateau, and Malabar Coast.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో కాంచన్‌జంగా శిఖరం, చోటానాగ్‌పూర్ పీఠభూమి, మలబార్ తీరాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Drainage",
+      "title_te": "నీటిపారుదల / భారతదేశ నదీ వ్యవస్థ",
+      "branch": "Geography",
+      "core_themes": [
+        "Drainage basins, water divides, and drainage patterns (Dendritic, Trellis, Rectangular, Radial).",
+        "Himalayan Rivers: The Indus River System, The Ganga River System, The Brahmaputra River System (perennial, antecedent).",
+        "Peninsular Rivers: Narmada and Tapi (rift valleys, flowing into Arabian Sea), Godavari (Dakshin Ganga), Mahanadi, Krishna, Kaveri (flowing into Bay of Bengal).",
+        "Lakes of India: Fresh water lakes (Wular, Dal, Nainital, Loktak) and Salt water lakes (Sambhar, Chilika, Pulicat).",
+        "Role of rivers in the economy and National River Conservation Plan (NRCP)."
+      ],
+      "learning_outcomes": [
+        "Distinguish between Himalayan and Peninsular river systems.",
+        "Explain the economic importance of freshwater lakes and rivers in agriculture and power generation.",
+        "Identify causes of river pollution and measures for river cleaning."
+      ],
+      "map_points": [
+        "Indus",
+        "Ganga",
+        "Brahmaputra",
+        "Narmada",
+        "Tapi",
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Wular Lake",
+        "Chilika Lake"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Compare the east-flowing and west-flowing rivers of the Peninsular plateau.",
+          "question_text_te": "ద్వీపకల్ప పీఠభూమిలోని తూర్పుగా ప్రవహించే నదులు మరియు పశ్చిమంగా ప్రవహించే నదులను పోల్చండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, trace the course of the River Godavari and River Narmada, and mark Chilika Lake.",
+          "question_text_te": "భారతదేశ పటంలో గోదావరి, నర్మదా నదుల ప్రవాహ మార్గాలను మరియు చిల్కా సరస్సును గుర్తించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are rivers considered the lifelines of human civilization? Mention two steps to prevent river pollution.",
+          "question_text_te": "నదులను మానవ నాగరికతకు జీవనాధారాలుగా ఎందుకు పరిగణిస్తారు? నదీ కాలుష్యాన్ని నివారించే రెండు మార్గాలను తెలపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Climate",
+      "title_te": "శీతోష్ణస్థితి",
+      "branch": "Geography",
+      "core_themes": [
+        "Difference between weather and climate.",
+        "Climatic controls: Latitude, Altitude, Pressure and wind systems, Distance from the sea (Continentality), Ocean currents, Relief.",
+        "Mechanism of the Indian Monsoon: ITCZ (Inter Tropical Convergence Zone), El Nino, Southern Oscillation (ENSO), Jet Streams.",
+        "Seasons of India: Cold weather season (Winter), Hot weather season (Summer), Advancing Monsoon (South-West Monsoon), Retreating Monsoon (North-East Monsoon / Cyclones).",
+        "Distribution of rainfall and Monsoon as a unifying bond."
+      ],
+      "learning_outcomes": [
+        "Explain the factors influencing the climate of India.",
+        "Describe the mechanism of onset and withdrawal of the monsoon.",
+        "Analyze the distribution of rainfall across western coast vs interior Deccan."
+      ],
+      "map_points": [
+        "Mawsynram",
+        "Thiruvananthapuram",
+        "Mumbai",
+        "Kolkata",
+        "Delhi",
+        "Chennai"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the six major climatic controls of any place?",
+          "question_text_te": "ఏదైనా ప్రాంతం యొక్క శీతోష్ణస్థితిని నియంత్రించే ఆరు ప్రధాన కారకాలు ఏవి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the Coromandel Coast receive winter rainfall?",
+          "question_text_te": "కోరమాండల్ తీరానికి శీతాకాలంలో వర్షపాతం ఎందుకు లభిస్తుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate Mawsynram (highest rainfall in the world) and regions receiving less than 20 cm rainfall.",
+          "question_text_te": "భారతదేశ పటంలో ప్రపంచంలోనే అత్యధిక వర్షపాతం నమోదయ్యే మాసిన్‌రామ్ మరియు 20 సెం.మీ. కంటే తక్కువ వర్షపాతం పొందే ప్రాంతాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Natural Vegetation and Wildlife",
+      "title_te": "సహజ వృక్షసంపద మరియు వన్యప్రాణులు",
+      "branch": "Geography",
+      "core_themes": [
+        "Factors affecting diversity of flora and fauna: Relief (Land, Soil) and Climate (Temperature, Photoperiod, Precipitation).",
+        "Types of Vegetation: Tropical Evergreen Forests, Tropical Deciduous Forests (Monsoon forests), Tropical Thorn Forests and Scrubs, Montane Forests, Mangrove Forests (Sundarbans).",
+        "Wildlife diversity in India; Endemic and endangered species.",
+        "Conservation of Forests and Wildlife: National Parks, Wildlife Sanctuaries, Biosphere Reserves (18 in India, e.g. Nilgiri, Sunderbans)."
+      ],
+      "learning_outcomes": [
+        "Identify ecological conditions required for various natural vegetation types in India.",
+        "Understand the importance of Sundarbans mangroves and biodiversity conservation.",
+        "Appreciate wildlife protection laws (Wildlife Protection Act 1972)."
+      ],
+      "map_points": [
+        "Sundarbans",
+        "Kaziranga National Park",
+        "Corbett National Park",
+        "Gir National Park",
+        "Simlipal"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Distinguish between Tropical Evergreen Forests and Tropical Deciduous Forests.",
+          "question_text_te": "ఉష్ణమండల సతతహరిత అరణ్యాలు మరియు ఉష్ణమండల ఆకురాల్చే అడవుల మధ్య గల భేదాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, mark Kaziranga National Park, Gir Forest, and Sundarbans Biosphere Reserve.",
+          "question_text_te": "భారతదేశ పటంలో కాజిరంగా జాతీయ ఉద్యానవనం, గిర్ అభయారణ్యం, మరియు సుందర్‌బన్స్ బయోస్పియర్ రిజర్వ్‌లను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Population",
+      "title_te": "జనాభా",
+      "branch": "Geography",
+      "core_themes": [
+        "Population Size and Distribution: Census of India, population density (people per sq km).",
+        "Population Growth and Processes of Population Change: Birth rate, Death rate, Migration (Internal and International).",
+        "Age Composition: Children (below 15), Working age (15-59), Aged (60+); Dependency ratio.",
+        "Sex Ratio: Number of females per 1000 males; Literacy rate.",
+        "Occupational Structure: Primary, Secondary, Tertiary sectors; National Population Policy (NPP 2000)."
+      ],
+      "learning_outcomes": [
+        "Explain the components of population change: fertility, mortality, and migration.",
+        "Interpret population pyramids and age sex composition.",
+        "Understand key objectives of National Population Policy 2000."
+      ],
+      "map_points": [
+        "State with highest population density (Bihar)",
+        "State with lowest density (Arunachal Pradesh)",
+        "State with highest sex ratio (Kerala)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the three main components of population change? Explain how each influences population growth.",
+          "question_text_te": "జనాభా మార్పుకు గల మూడు ప్రధాన కారకాలు ఏవి? ప్రతి ఒక్కటి జనాభా పెరుగుదలను ఎలా ప్రభావితం చేస్తుందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is meant by Sex Ratio? Why is a favorable sex ratio considered an indicator of women empowerment?",
+          "question_text_te": "స్త్రీ-పురుష నిష్పత్తి (సెక్స్ రేషియో) అనగా ఏమిటి? అనుకూలమైన స్త్రీ-పురుష నిష్పత్తి మహిళా సాధికారతకు సూచికగా ఎందుకు పరిగణించబడుతుంది?"
+        }
+      ]
+    }
+  ],
+  "political_science": [
+    {
+      "chapter_no": 12,
+      "title_en": "What is Democracy? Why Democracy?",
+      "title_te": "ప్రజాస్వామ్యం అంటే ఏమిటి? ఎందుకు ప్రజాస్వామ్యం?",
+      "branch": "Political Science",
+      "core_themes": [
+        "Simple Definition: Democracy is a form of government in which rulers are elected by the people.",
+        "Features of Democracy: Major decisions by elected leaders (Pakistan under Musharraf case); Free and fair electoral competition (China and Mexico cases); One person, one vote, one value (Fiji, Saudi Arabia, Estonia cases); Rule of law and respect for rights (Zimbabwe under Mugabe case).",
+        "Arguments against Democracy: Instability, delays, political competition, corruption.",
+        "Arguments for Democracy: Accountable government, improves decision quality, accommodates diversity, enhances dignity of citizens."
+      ],
+      "learning_outcomes": [
+        "Distinguish between genuine democracy and facade democratic systems.",
+        "Critically evaluate arguments for and against democracy.",
+        "Appreciate the democratic principles of equality, accountability, and rule of law."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the four core features of a democratic government.",
+          "question_text_te": "ప్రజాస్వామ్య ప్రభుత్వానికి గల నాలుగు ముఖ్యమైన లక్షణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "'Democracy is better than any other form of government in responding to the needs of the people.' Justify this statement with examples.",
+          "question_text_te": "'ప్రజల అవసరాలకు స్పందించడంలో ప్రజాస్వామ్యం ఇతర ప్రభుత్వ రూపాల కంటే మెరుగైనది.' ఉదాహరణలతో ఈ ప్రకటనను సమర్థించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Constitutional Design",
+      "title_te": "రాజ్యాంగ రూపకల్పన",
+      "branch": "Political Science",
+      "core_themes": [
+        "Democratic Constitution in South Africa: Apartheid struggle, Nelson Mandela, transition to non-racial democracy in 1994.",
+        "Why do we need a Constitution? Establishes trust, specifies decision-making authority, limits government power, expresses aspirations.",
+        "Making of the Indian Constitution: Constituent Assembly, Motilal Nehru draft (1928), Karachi session (1931), Dr. B.R. Ambedkar.",
+        "Guiding Values of the Indian Constitution: Preamble: Sovereign, Socialist, Secular, Democratic Republic, Justice, Liberty, Equality, Fraternity."
+      ],
+      "learning_outcomes": [
+        "Understand the struggle against apartheid and the making of South African constitution.",
+        "Analyze the historical consensus and debates within India's Constituent Assembly.",
+        "Examine the core constitutional values enshrined in the Preamble."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the challenges faced by the makers of the Indian Constitution during its drafting?",
+          "question_text_te": "భారత రాజ్యాంగ రూపకల్పన సమయంలో రాజ్యాంగ నిర్మాతలు ఎదుర్కొన్న ప్రధాన సవాళ్లు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Read the Preamble to the Constitution of India. Explain the significance of the terms 'Secular' and 'Republic'.",
+          "question_text_te": "భారత రాజ్యాంగ ప్రవేశికను చదివి, అందులోని 'లౌకిక' మరియు 'గణతంత్ర' పదాల అంతరార్థాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "Electoral Politics",
+      "title_te": "ఎన్నికల రాజకీయాలు",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why Elections? Mechanism for citizens to choose representatives and policy makers.",
+        "What makes an election democratic? Universal adult suffrage, genuine choices, regular intervals, free and fair process.",
+        "Electoral system in India: Lok Sabha and Vidhan Sabha constituencies, Reserved constituencies for SC and ST.",
+        "Voters' list (Electoral Roll), Nomination of candidates, Election campaign, Model Code of Conduct, Polling and counting.",
+        "Independent Election Commission of India (ECI): Powers, autonomous constitutional status, acceptance of election outcomes."
+      ],
+      "learning_outcomes": [
+        "Understand how periodic elections ensure representative democratic accountability.",
+        "Evaluate the powers and constitutional independence of the Election Commission of India.",
+        "Explain provisions ensuring free, fair, and inclusive elections."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What powers make the Election Commission of India independent and powerful?",
+          "question_text_te": "భారత ఎన్నికల సంఘానికి గల ఏ అధికారాలు దానిని స్వతంత్రమైన మరియు శక్తివంతమైన సంస్థగా నిలబెడుతున్నాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the Model Code of Conduct for election campaigns? Mention any three prohibitions under it.",
+          "question_text_te": "ఎన్నికల ప్రవర్తనా నియమావళి (మోడల్ కోడ్ ఆఫ్ కండక్ట్) అంటే ఏమిటి? దాని కింద విధించిన ఏవైనా మూడు నిబంధనలను పేర్కొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Working of Institutions",
+      "title_te": "సంస్థల పనితీరు",
+      "branch": "Political Science",
+      "core_themes": [
+        "How a Major Policy Decision is Taken: Office Memorandum example, Mandal Commission report.",
+        "Parliament: Need for political institutions, two Houses (Lok Sabha and Rajya Sabha), powers comparison.",
+        "Political Executive: Difference between Political Executive (Ministers) and Permanent Executive (Civil Servants).",
+        "Prime Minister and Council of Ministers: Cabinet, powers of Prime Minister; President of India (Head of State).",
+        "Judiciary: Supreme Court of India, High Courts, Judicial Review, Public Interest Litigation (PIL), Independence of Judiciary."
+      ],
+      "learning_outcomes": [
+        "Analyze the division of powers between Legislature, Executive, and Judiciary.",
+        "Compare the legislative and financial powers of Lok Sabha versus Rajya Sabha.",
+        "Understand the independence of judiciary and judicial review."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the Lok Sabha exercise supreme power over the Rajya Sabha in matters of money bills?",
+          "question_text_te": "ధన బిల్లుల విషయంలో రాజ్యసభ కంటే లోక్‌సభకు అత్యున్నత అధికారాలు ఎందుకు ఉన్నాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Distinguish between the Political Executive and the Permanent Executive.",
+          "question_text_te": "రాజకీయ కార్యనిర్వాహక వర్గం మరియు శాశ్వత కార్యనిర్వాహక వర్గం (సివిల్ సర్వీసెస్) మధ్య గల భేదాలను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "Democratic Rights",
+      "title_te": "ప్రజాస్వామ్య హక్కులు",
+      "branch": "Political Science",
+      "core_themes": [
+        "Life without rights: Prison in Guantanamo Bay (US), Citizens' rights in Saudi Arabia, Ethnic massacre in Kosovo.",
+        "Rights in a Democracy: Definition of rights as reasonable claims of persons recognized by society and sanctioned by law.",
+        "Fundamental Rights in the Indian Constitution: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies (Article 32).",
+        "Expanding scope of rights: RTI, Right to Education, Human Rights Commission."
+      ],
+      "learning_outcomes": [
+        "Appreciate the vital role of constitutional fundamental rights in protecting individual liberty.",
+        "Examine Article 32 as the 'Heart and Soul of the Constitution' (Ambedkar).",
+        "Understand the evolving landscape of socioeconomic human rights."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the Right to Constitutional Remedies considered the heart and soul of our Constitution?",
+          "question_text_te": "రాజ్యాంగ పరిహార హక్కును మన రాజ్యాంగానికి గుండెకాయ మరియు ఆత్మగా ఎందుకు భావిస్తారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain how the Right to Equality protects citizens against discrimination in India.",
+          "question_text_te": "భారతదేశంలో పౌరులను వివక్ష నుండి సమానత్వపు హక్కు ఏ విధంగా కాపాడుతుందో వివరించండి."
+        }
+      ]
+    }
+  ],
+  "economics": [
+    {
+      "chapter_no": 17,
+      "title_en": "The Story of Village Palampur",
+      "title_te": "పాలంపూర్ గ్రామ కథ",
+      "branch": "Economics",
+      "core_themes": [
+        "Overview of production: Organization of production (Land, Labour, Physical Capital, Human Capital).",
+        "Farming in Palampur: Land is fixed; Multiple cropping, Green Revolution with HYV seeds, chemical fertilizers, irrigation tube-wells.",
+        "Impact of Green Revolution on soil fertility and groundwater depletion.",
+        "Land distribution among farmers: Small vs medium and large farmers.",
+        "Non-farm activities in Palampur: Dairy farming, small-scale manufacturing, shopkeeping, transport services."
+      ],
+      "learning_outcomes": [
+        "Understand the four essential factors of production: Land, Labour, Capital, and Enterprise.",
+        "Examine the benefits and ecological drawbacks of Green Revolution agricultural modernization.",
+        "Identify non-farm rural livelihood opportunities."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the four requirements for the production of goods and services.",
+          "question_text_te": "వస్తువులు మరియు సేవల ఉత్పత్తికి అవసరమైన నాలుగు ప్రధాన కారకాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the environmental hazards associated with excessive use of chemical fertilizers in Green Revolution farming?",
+          "question_text_te": "హరిత విప్లవ వ్యవసాయంలో రసాయన ఎరువుల మితిమీరిన వినియోగం వల్ల కలిగే పర్యావరణ ముప్పులు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "title_en": "People as Resource",
+      "title_te": "వనరుగా ప్రజలు",
+      "branch": "Economics",
+      "core_themes": [
+        "Overview: Human capital formation through investment in education, training, and healthcare.",
+        "Economic Activities by Men and Women: Primary, Secondary, and Tertiary sectors; Market and non-market activities.",
+        "Quality of Population: Education (literacy rates, Sarva Shiksha Abhiyan), Health (life expectancy, infant mortality rate).",
+        "Unemployment: Disguised unemployment, Seasonal unemployment in rural areas, Educated unemployment in urban areas.",
+        "Consequences of unemployment: Wastage of manpower, economic overload, social unrest."
+      ],
+      "learning_outcomes": [
+        "Understand how human capital increases productivity and national income.",
+        "Differentiate between seasonal and disguised unemployment.",
+        "Examine public investment in education and public healthcare systems."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the difference between economic activities and non-economic activities?",
+          "question_text_te": "ఆర్థిక కార్యకలాపాలు మరియు ఆర్థికేతర కార్యకలాపాల మధ్య గల వ్యత్యాసం ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is disguised unemployment? Give an agricultural example.",
+          "question_text_te": "ప్రచ్ఛన్న నిరుద్యోగం అనగా ఏమిటి? వ్యవసాయ రంగం నుండి ఒక ఉదాహరణ ఇవ్వండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "title_en": "Poverty as a Challenge",
+      "title_te": "ఒక సవాలుగా పేదరికం",
+      "branch": "Economics",
+      "core_themes": [
+        "Dimensions of poverty: Hunger, lack of shelter, safe drinking water, healthcare, sanitation, job insecurity.",
+        "Poverty as seen by social scientists: Social exclusion, vulnerability.",
+        "Poverty Line concept: Minimum subsistence level, calorie norms (2400 rural, 2100 urban), monetary value.",
+        "Poverty estimates in India; Vulnerable groups (SC, ST, landless agricultural labourers).",
+        "Inter-state disparities in poverty (high in Bihar, Odisha; low in Kerala, Punjab).",
+        "Anti-Poverty Measures: Promotion of economic growth; Targeted anti-poverty programmes: MGNREGA 2005, PMRY, PMGY, AAY."
+      ],
+      "learning_outcomes": [
+        "Understand the multidimensional nature of poverty and poverty line estimation.",
+        "Analyze inter-state and social group disparities in poverty incidence.",
+        "Evaluate government welfare and employment generation schemes (MGNREGA)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How is the poverty line estimated in India? Explain the calorie and monetary criteria.",
+          "question_text_te": "భారతదేశంలో పేదరిక రేఖను ఎలా అంచనా వేస్తారు? కేలరీల వినియోగం మరియు ఆదాయ ప్రమాణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Discuss the major features of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) 2005.",
+          "question_text_te": "మహాత్మా గాంధీ జాతీయ గ్రామీణ ఉపాధి హామీ చట్టం (MGNREGA) 2005 యొక్క ముఖ్య లక్షణాలను చర్చించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "title_en": "Food Security in India",
+      "title_te": "భారతదేశంలో ఆహార భద్రత",
+      "branch": "Economics",
+      "core_themes": [
+        "What is Food Security? Availability, Accessibility, and Affordability of food to all citizens.",
+        "Why Food Security? Famine of Bengal (1943), disaster mitigation, food insecurity during natural calamities.",
+        "Who are Food-Insecure? Landless agricultural labourers, traditional artisans, urban casual workers, vulnerable castes.",
+        "Food Security System in India: Buffer Stock (FCI procurement at Minimum Support Price - MSP) and Public Distribution System (PDS - Fair Price Shops).",
+        "Role of Cooperatives in Food Security: Amul (Gujarat), Mother Dairy (Delhi), Academy of Development Science (Grain banks in Maharashtra)."
+      ],
+      "learning_outcomes": [
+        "Understand the triple pillars of food security: Availability, Accessibility, Affordability.",
+        "Explain the functioning of Buffer Stock and the Public Distribution System (PDS).",
+        "Appreciate the vital role of agricultural and consumer cooperatives in ensuring food security."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is Buffer Stock? Why is it created by the government?",
+          "question_text_te": "బఫర్ స్టాక్ (నిల్వ ఆహార ధాన్యాలు) అనగా ఏమిటి? ప్రభుత్వం దీనిని ఎందుకు నిర్వహిస్తుంది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the role of the Public Distribution System (PDS) in ensuring food security in India.",
+          "question_text_te": "భారతదేశంలో ఆహార భద్రతను కల్పించడంలో ప్రజా పంపిణీ వ్యవస్థ (PDS) పోషిస్తున్న పాత్రను వివరించండి."
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "The French Revolution",
+      "title_te": "ఫ్రెంచ్ విప్లవం",
+      "branch": "History",
+      "core_themes": [
+        "French society during late eighteenth century: The Three Estates, feudal privileges, tax burden on Third Estate.",
+        "The Outbreak of the Revolution: Estates General meeting May 5, 1789; National Assembly; Storming of Bastille July 14, 1789.",
+        "France becomes a Constitutional Monarchy: Declaration of Rights of Man and Citizen.",
+        "France abolishes Monarchy and becomes a Republic: The Convention, Reign of Terror under Robespierre (Jacobins), Guillotine.",
+        "The Directory and the Rise of Napoleon Bonaparte; Abolition of slavery in French colonies."
+      ],
+      "learning_outcomes": [
+        "Understand the socio-economic causes of the French Revolution.",
+        "Examine the Declaration of Rights of Man and Citizen as a landmark in human rights.",
+        "Analyze the legacy of French revolutionary ideas of liberty, equality, and fraternity across Europe."
+      ],
+      "map_points": [
+        "Paris",
+        "Bordeaux",
+        "Nantes",
+        "Marseilles",
+        "Versailles"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Describe the circumstances leading to the outbreak of revolutionary protest in France.",
+          "question_text_te": "ఫ్రాన్స్‌లో విప్లవాత్మక నిరసనలు చెలరేగడానికి దారితీసిన పరిస్థితులను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Read the Declaration of the Rights of Man and Citizen. Which fundamental rights are emphasized as natural and inalienable?",
+          "question_text_te": "మానవ హక్కుల ప్రకటనను చదివి, సహజమైన మరియు పరాయీకరించలేనివిగా పేర్కొన్న ప్రాథమిక హక్కులు ఏవో రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of France, locate and label the following revolutionary centres: Paris, Nantes, Bordeaux, and Marseilles.",
+          "question_text_te": "ఫ్రాన్స్ అవుట్‌లైన్ మ్యాప్‌లో ప్యారిస్, నాంటెస్, బోర్డియక్స్ మరియు మార్సెల్లెస్ నగరాలను గుర్తించి పేర్లు రాయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain the significance of the revolutionary slogan 'Liberty, Equality, Fraternity' in modern democracies.",
+          "question_text_te": "ఆధునిక ప్రజాస్వామ్యాలలో 'స్వేచ్ఛ, సమానత్వం, సౌభ్రాతృత్వం' అనే విప్లవ నినాదం ప్రాముఖ్యతను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Socialism in Europe and the Russian Revolution",
+      "title_te": "ఐరోపాలో సామ్యవాదం మరియు రష్యన్ విప్లవం",
+      "branch": "History",
+      "core_themes": [
+        "The Age of Social Change: Liberals, Radicals, and Conservatives.",
+        "Industrial Society and the Coming of Socialism to Europe: Karl Marx and Friedrich Engels.",
+        "The Russian Empire in 1914: Economy and Society, 1905 Revolution, Bloody Sunday, Duma.",
+        "The First World War and the Russian Empire: February Revolution in Petrograd, fall of Tsarist autocracy.",
+        "The October Revolution of 1917: Lenin and the Bolsheviks, Soviet power.",
+        "Civil War, Making a Socialist Society, and Stalin's Collectivization program."
+      ],
+      "learning_outcomes": [
+        "Trace the development of socialist ideology in 19th-century Europe.",
+        "Examine the causes and course of the February and October Revolutions in Russia.",
+        "Analyze the global impact of the Russian Revolution and the USSR."
+      ],
+      "map_points": [
+        "Petrograd (St. Petersburg)",
+        "Moscow",
+        "Baltic Sea",
+        "Black Sea"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the main differences between Liberals, Radicals, and Conservatives in 19th-century Europe?",
+          "question_text_te": "19వ శతాబ్దపు ఐరోపాలో ఉదారవాదులు, తీవ్రవాదులు మరియు సాంప్రదాయవాదుల మధ్య గల ప్రధాన భేదాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Explain the major events leading to the October Revolution of 1917 in Russia and the role played by Vladimir Lenin.",
+          "question_text_te": "రష్యాలో 1917 అక్టోబర్ విప్లవానికి దారితీసిన ప్రధాన సంఘటనలను మరియు వ్లాదిమిర్ లెనిన్ పోషించిన పాత్రను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the effects of the collectivization program introduced by Stalin on Russian peasants?",
+          "question_text_te": "రష్యన్ రైతులపై స్టాలిన్ ప్రవేశపెట్టిన సమిష్టి వ్యవసాయ విధానం (కలెక్టివైజేషన్) చూపిన ప్రభావాలు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Nazism and the Rise of Hitler",
+      "title_te": "నాజీయిజం మరియు హిట్లర్ ఎదుగుదల",
+      "branch": "History",
+      "core_themes": [
+        "Birth of the Weimar Republic after World War I; Treaty of Versailles; Economic Crisis (1923) and Great Depression.",
+        "Hitler's Rise to Power: Nazi propaganda, speechcraft, Enabling Act of 1933, establishment of totalitarian dictatorship.",
+        "The Nazi Worldview: Racial hierarchy, Nordic Aryans, Anti-Semitism, Lebensraum (living space).",
+        "Youth in Nazi Germany: Jungvolk, Hitler Youth; Motherhood cult.",
+        "The Holocaust: Ghettos, gas chambers, Nuremberg trials."
+      ],
+      "learning_outcomes": [
+        "Understand the humiliating impact of the Treaty of Versailles on Germany.",
+        "Explain the political and economic conditions that enabled Hitler's fascist dictatorship.",
+        "Sensitize students against racism, discrimination, and genocide."
+      ],
+      "map_points": [
+        "Berlin",
+        "Munich",
+        "Nuremberg",
+        "Poland",
+        "Austria"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain why the Weimar Republic was politically fragile in Germany.",
+          "question_text_te": "జర్మనీలో వీమర్ రిపబ్లిక్ రాజకీయంగా ఎందుకు బలహీనంగా ఉండిందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "What was the Holocaust? Why is it considered one of the darkest chapters in human history?",
+          "question_text_te": "హోలోకాస్ట్ (మారణహోమం) అంటే ఏమిటి? మానవ చరిత్రలో ఇది అత్యంత చీకటి అధ్యాయంగా ఎందుకు పరిగణించబడుతుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Forest Society and Colonialism",
+      "title_te": "అటవీ సమాజం మరియు వలసవాదం",
+      "branch": "History",
+      "core_themes": [
+        "Deforestation under British Rule: Timber for Royal Navy, railway sleepers, commercial crops (tea, coffee, rubber).",
+        "Scientific Forestry: Dietrich Brandis, Indian Forest Act of 1865 and 1878 amendments (Reserved, Protected, Village forests).",
+        "Impact on forest dwellers: Shifting cultivation banned, hunting criminalized, forced labour.",
+        "Rebellion in the Forest: Bastar rebellion (1910) led by Gunda Dhur; Dutch forest laws in Java (Blandongdiensten system) and Saminist movement."
+      ],
+      "learning_outcomes": [
+        "Understand the commercial and imperial reasons for British deforestation in India.",
+        "Examine the loss of tribal livelihoods and autonomy under colonial forest laws.",
+        "Compare forest resistance in Bastar (India) with Java (Indonesia)."
+      ],
+      "map_points": [
+        "Bastar",
+        "Chhattisgarh",
+        "Java",
+        "Sumatra"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain why the British introduced 'Scientific Forestry' in India. What were its consequences for forest communities?",
+          "question_text_te": "బ్రిటిష్ వారు భారతదేశంలో 'శాస్త్రీయ అటవీ విధానాన్ని' ఎందుకు ప్రవేశపెట్టారు? అటవీ సమాజాలపై దాని పరిణామాలు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did the 1910 Bastar Rebellion reflect the grievances of indigenous tribal communities?",
+          "question_text_te": "1910 బస్తర్ తిరుగుబాటు స్థానిక ఆదివాసీ తెగల సమస్యలను ఎలా ప్రతిబింబించింది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Pastoralists in the Modern World",
+      "title_te": "ఆధునిక ప్రపంచంలో పశుపోషకులు",
+      "branch": "History",
+      "core_themes": [
+        "Pastoral Nomads in India: Gujjar Bakarwals (Jammu & Kashmir), Gaddis (Himachal Pradesh), Dhangars (Maharashtra), Raikas (Rajasthan).",
+        "Colonial Rule and Pastoral Life: Waste Land Rules, Forest Acts, Criminal Tribes Act of 1871, Grazing tax.",
+        "Pastoralism in Africa: Maasai community of East Africa, loss of grazing lands, creation of game reserves (Serengeti, Maasai Mara)."
+      ],
+      "learning_outcomes": [
+        "Understand pastoral nomadic life as an ecologically sustainable adaptation to arid and mountain environments.",
+        "Examine how colonial borders, grazing taxes, and wildlife reserves destroyed traditional pastoral economies."
+      ],
+      "map_points": [
+        "Jammu and Kashmir",
+        "Himachal Pradesh",
+        "Maharashtra",
+        "Rajasthan",
+        "Kenya",
+        "Tanzania"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain how the seasonal movement of the Gujjar Bakarwals is adapted to the mountain environment.",
+          "question_text_te": "గుజ్జర్ బకర్వాల్స్ పశువుల కాపరుల కాలానుగుణ వలసలు పర్వత పర్యావరణానికి ఎలా అనుగుణంగా ఉంటాయో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the colonial state consider pastoralists as unproductive and view mobile communities with suspicion?",
+          "question_text_te": "వలస పాలకులు పశుపోషకులను నిరుపయోగమైన వారిగా ఎందుకు భావించారు మరియు సంచార జాతులను అనుమానంతో ఎందుకు చూశారు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "India – Size and Location",
+      "title_te": "భారతదేశం - పరిమాణం మరియు ఉనికి",
+      "branch": "Geography",
+      "core_themes": [
+        "Location: Entirely in Northern Hemisphere; Latitudes 8°4'N to 37°6'N, Longitudes 68°7'E to 97°25'E.",
+        "Tropic of Cancer (23°30'N) divides India into almost two equal halves.",
+        "Size: Total area 3.28 million sq km (2.4% of total world area); 7th largest country; Land boundary 15,200 km; Coastline 7,516.6 km.",
+        "Standard Meridian of India (82°30'E passing through Mirzapur in UP); IST is GMT + 5:30.",
+        "India and the World: Strategic central location at head of Indian Ocean; Neighbours (Pakistan, Afghanistan, China, Nepal, Bhutan, Myanmar, Bangladesh, Sri Lanka, Maldives)."
+      ],
+      "learning_outcomes": [
+        "Locate India's latitudinal and longitudinal extent on the world globe.",
+        "Understand why 82°30'E longitude was selected as the Standard Meridian of India.",
+        "Identify India's strategic maritime and land neighbours."
+      ],
+      "map_points": [
+        "Tropic of Cancer",
+        "Standard Meridian (82°30'E)",
+        "Indira Point",
+        "Kanyakumari",
+        "Palk Strait"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "The sun rises two hours earlier in Arunachal Pradesh as compared to Gujarat in the west, but the watches show the same time. How does this happen?",
+          "question_text_te": "గుజరాత్‌తో పోలిస్తే అరుణాచల్ ప్రదేశ్‌లో సూర్యుడు రెండు గంటల ముందే ఉదయిస్తాడు, కానీ గడియారాలు ఒకే సమయాన్ని చూపుతాయి. ఇది ఎలా సాధ్యం?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, identify and locate: (a) Tropic of Cancer, (b) Standard Meridian of India, (c) Southernmost tip of Indian mainland.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో గుర్తించండి: (a) కర్కట రేఖ, (b) ప్రామాణిక రేఖాంశం (82°30' తూర్పు), (c) భారతదేశ ప్రధాన భూభాగ దక్షిణ అగ్రం (కన్యాకుమారి)."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Physical Features of India",
+      "title_te": "భారతదేశ భౌగోళిక స్వరూపాలు",
+      "branch": "Geography",
+      "core_themes": [
+        "Theory of Plate Tectonics: Convergent, Divergent, Transform boundaries; Gondwanaland breakup.",
+        "The Himalayan Mountains: Himadri (Greater Himalayas), Himachal (Lesser Himalayas), Shiwaliks (Outer Himalayas).",
+        "The Northern Plains: Bhabar, Terai, Bhangar, Khadar; Alluvial deposits of Indus, Ganga, Brahmaputra.",
+        "The Peninsular Plateau: Central Highlands, Deccan Plateau, Western Ghats (Anamudi 2695 m), Eastern Ghats (Mahendragiri 1501 m).",
+        "The Indian Desert (Thar), The Coastal Plains (Konkan, Kannad, Malabar, Coromandel, Northern Circars), and The Islands (Lakshadweep, Andaman and Nicobar)."
+      ],
+      "learning_outcomes": [
+        "Understand tectonic plate movements creating Himalayas and Indo-Gangetic plains.",
+        "Compare the physical features of Western Ghats and Eastern Ghats.",
+        "Classify Northern Plains based on relief features."
+      ],
+      "map_points": [
+        "K2 (Mt. Godwin Austen)",
+        "Kanchenjunga",
+        "Anamudi",
+        "Chota Nagpur Plateau",
+        "Thar Desert",
+        "Western Ghats",
+        "Eastern Ghats"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Distinguish between Western Ghats and Eastern Ghats.",
+          "question_text_te": "పశ్చిమ కనుమలు మరియు తూర్పు కనుమల మధ్య గల భేదాలను రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Contrast the relief of the Himalayan region with that of the Peninsular plateau.",
+          "question_text_te": "హిమాలయ ప్రాంత భౌగోళిక స్వరూపాలను ద్వీపకల్ప పీఠభూమి స్వరూపాలతో పోల్చి భేదాలను రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate and label: Kanchenjunga peak, Chota Nagpur plateau, and Malabar Coast.",
+          "question_text_te": "భారతదేశ అవుట్‌లైన్ మ్యాప్‌లో కాంచన్‌జంగా శిఖరం, చోటానాగ్‌పూర్ పీఠభూమి, మలబార్ తీరాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Drainage",
+      "title_te": "నీటిపారుదల / భారతదేశ నదీ వ్యవస్థ",
+      "branch": "Geography",
+      "core_themes": [
+        "Drainage basins, water divides, and drainage patterns (Dendritic, Trellis, Rectangular, Radial).",
+        "Himalayan Rivers: The Indus River System, The Ganga River System, The Brahmaputra River System (perennial, antecedent).",
+        "Peninsular Rivers: Narmada and Tapi (rift valleys, flowing into Arabian Sea), Godavari (Dakshin Ganga), Mahanadi, Krishna, Kaveri (flowing into Bay of Bengal).",
+        "Lakes of India: Fresh water lakes (Wular, Dal, Nainital, Loktak) and Salt water lakes (Sambhar, Chilika, Pulicat).",
+        "Role of rivers in the economy and National River Conservation Plan (NRCP)."
+      ],
+      "learning_outcomes": [
+        "Distinguish between Himalayan and Peninsular river systems.",
+        "Explain the economic importance of freshwater lakes and rivers in agriculture and power generation.",
+        "Identify causes of river pollution and measures for river cleaning."
+      ],
+      "map_points": [
+        "Indus",
+        "Ganga",
+        "Brahmaputra",
+        "Narmada",
+        "Tapi",
+        "Godavari",
+        "Krishna",
+        "Kaveri",
+        "Wular Lake",
+        "Chilika Lake"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Compare the east-flowing and west-flowing rivers of the Peninsular plateau.",
+          "question_text_te": "ద్వీపకల్ప పీఠభూమిలోని తూర్పుగా ప్రవహించే నదులు మరియు పశ్చిమంగా ప్రవహించే నదులను పోల్చండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, trace the course of the River Godavari and River Narmada, and mark Chilika Lake.",
+          "question_text_te": "భారతదేశ పటంలో గోదావరి, నర్మదా నదుల ప్రవాహ మార్గాలను మరియు చిల్కా సరస్సును గుర్తించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why are rivers considered the lifelines of human civilization? Mention two steps to prevent river pollution.",
+          "question_text_te": "నదులను మానవ నాగరికతకు జీవనాధారాలుగా ఎందుకు పరిగణిస్తారు? నదీ కాలుష్యాన్ని నివారించే రెండు మార్గాలను తెలపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Climate",
+      "title_te": "శీతోష్ణస్థితి",
+      "branch": "Geography",
+      "core_themes": [
+        "Difference between weather and climate.",
+        "Climatic controls: Latitude, Altitude, Pressure and wind systems, Distance from the sea (Continentality), Ocean currents, Relief.",
+        "Mechanism of the Indian Monsoon: ITCZ (Inter Tropical Convergence Zone), El Nino, Southern Oscillation (ENSO), Jet Streams.",
+        "Seasons of India: Cold weather season (Winter), Hot weather season (Summer), Advancing Monsoon (South-West Monsoon), Retreating Monsoon (North-East Monsoon / Cyclones).",
+        "Distribution of rainfall and Monsoon as a unifying bond."
+      ],
+      "learning_outcomes": [
+        "Explain the factors influencing the climate of India.",
+        "Describe the mechanism of onset and withdrawal of the monsoon.",
+        "Analyze the distribution of rainfall across western coast vs interior Deccan."
+      ],
+      "map_points": [
+        "Mawsynram",
+        "Thiruvananthapuram",
+        "Mumbai",
+        "Kolkata",
+        "Delhi",
+        "Chennai"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the six major climatic controls of any place?",
+          "question_text_te": "ఏదైనా ప్రాంతం యొక్క శీతోష్ణస్థితిని నియంత్రించే ఆరు ప్రధాన కారకాలు ఏవి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the Coromandel Coast receive winter rainfall?",
+          "question_text_te": "కోరమాండల్ తీరానికి శీతాకాలంలో వర్షపాతం ఎందుకు లభిస్తుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, locate Mawsynram (highest rainfall in the world) and regions receiving less than 20 cm rainfall.",
+          "question_text_te": "భారతదేశ పటంలో ప్రపంచంలోనే అత్యధిక వర్షపాతం నమోదయ్యే మాసిన్‌రామ్ మరియు 20 సెం.మీ. కంటే తక్కువ వర్షపాతం పొందే ప్రాంతాలను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Natural Vegetation and Wildlife",
+      "title_te": "సహజ వృక్షసంపద మరియు వన్యప్రాణులు",
+      "branch": "Geography",
+      "core_themes": [
+        "Factors affecting diversity of flora and fauna: Relief (Land, Soil) and Climate (Temperature, Photoperiod, Precipitation).",
+        "Types of Vegetation: Tropical Evergreen Forests, Tropical Deciduous Forests (Monsoon forests), Tropical Thorn Forests and Scrubs, Montane Forests, Mangrove Forests (Sundarbans).",
+        "Wildlife diversity in India; Endemic and endangered species.",
+        "Conservation of Forests and Wildlife: National Parks, Wildlife Sanctuaries, Biosphere Reserves (18 in India, e.g. Nilgiri, Sunderbans)."
+      ],
+      "learning_outcomes": [
+        "Identify ecological conditions required for various natural vegetation types in India.",
+        "Understand the importance of Sundarbans mangroves and biodiversity conservation.",
+        "Appreciate wildlife protection laws (Wildlife Protection Act 1972)."
+      ],
+      "map_points": [
+        "Sundarbans",
+        "Kaziranga National Park",
+        "Corbett National Park",
+        "Gir National Park",
+        "Simlipal"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Distinguish between Tropical Evergreen Forests and Tropical Deciduous Forests.",
+          "question_text_te": "ఉష్ణమండల సతతహరిత అరణ్యాలు మరియు ఉష్ణమండల ఆకురాల్చే అడవుల మధ్య గల భేదాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_mapping_skills",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "On an outline map of India, mark Kaziranga National Park, Gir Forest, and Sundarbans Biosphere Reserve.",
+          "question_text_te": "భారతదేశ పటంలో కాజిరంగా జాతీయ ఉద్యానవనం, గిర్ అభయారణ్యం, మరియు సుందర్‌బన్స్ బయోస్పియర్ రిజర్వ్‌లను గుర్తించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Population",
+      "title_te": "జనాభా",
+      "branch": "Geography",
+      "core_themes": [
+        "Population Size and Distribution: Census of India, population density (people per sq km).",
+        "Population Growth and Processes of Population Change: Birth rate, Death rate, Migration (Internal and International).",
+        "Age Composition: Children (below 15), Working age (15-59), Aged (60+); Dependency ratio.",
+        "Sex Ratio: Number of females per 1000 males; Literacy rate.",
+        "Occupational Structure: Primary, Secondary, Tertiary sectors; National Population Policy (NPP 2000)."
+      ],
+      "learning_outcomes": [
+        "Explain the components of population change: fertility, mortality, and migration.",
+        "Interpret population pyramids and age sex composition.",
+        "Understand key objectives of National Population Policy 2000."
+      ],
+      "map_points": [
+        "State with highest population density (Bihar)",
+        "State with lowest density (Arunachal Pradesh)",
+        "State with highest sex ratio (Kerala)"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the three main components of population change? Explain how each influences population growth.",
+          "question_text_te": "జనాభా మార్పుకు గల మూడు ప్రధాన కారకాలు ఏవి? ప్రతి ఒక్కటి జనాభా పెరుగుదలను ఎలా ప్రభావితం చేస్తుందో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is meant by Sex Ratio? Why is a favorable sex ratio considered an indicator of women empowerment?",
+          "question_text_te": "స్త్రీ-పురుష నిష్పత్తి (సెక్స్ రేషియో) అనగా ఏమిటి? అనుకూలమైన స్త్రీ-పురుష నిష్పత్తి మహిళా సాధికారతకు సూచికగా ఎందుకు పరిగణించబడుతుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "What is Democracy? Why Democracy?",
+      "title_te": "ప్రజాస్వామ్యం అంటే ఏమిటి? ఎందుకు ప్రజాస్వామ్యం?",
+      "branch": "Political Science",
+      "core_themes": [
+        "Simple Definition: Democracy is a form of government in which rulers are elected by the people.",
+        "Features of Democracy: Major decisions by elected leaders (Pakistan under Musharraf case); Free and fair electoral competition (China and Mexico cases); One person, one vote, one value (Fiji, Saudi Arabia, Estonia cases); Rule of law and respect for rights (Zimbabwe under Mugabe case).",
+        "Arguments against Democracy: Instability, delays, political competition, corruption.",
+        "Arguments for Democracy: Accountable government, improves decision quality, accommodates diversity, enhances dignity of citizens."
+      ],
+      "learning_outcomes": [
+        "Distinguish between genuine democracy and facade democratic systems.",
+        "Critically evaluate arguments for and against democracy.",
+        "Appreciate the democratic principles of equality, accountability, and rule of law."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the four core features of a democratic government.",
+          "question_text_te": "ప్రజాస్వామ్య ప్రభుత్వానికి గల నాలుగు ముఖ్యమైన లక్షణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "'Democracy is better than any other form of government in responding to the needs of the people.' Justify this statement with examples.",
+          "question_text_te": "'ప్రజల అవసరాలకు స్పందించడంలో ప్రజాస్వామ్యం ఇతర ప్రభుత్వ రూపాల కంటే మెరుగైనది.' ఉదాహరణలతో ఈ ప్రకటనను సమర్థించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Constitutional Design",
+      "title_te": "రాజ్యాంగ రూపకల్పన",
+      "branch": "Political Science",
+      "core_themes": [
+        "Democratic Constitution in South Africa: Apartheid struggle, Nelson Mandela, transition to non-racial democracy in 1994.",
+        "Why do we need a Constitution? Establishes trust, specifies decision-making authority, limits government power, expresses aspirations.",
+        "Making of the Indian Constitution: Constituent Assembly, Motilal Nehru draft (1928), Karachi session (1931), Dr. B.R. Ambedkar.",
+        "Guiding Values of the Indian Constitution: Preamble: Sovereign, Socialist, Secular, Democratic Republic, Justice, Liberty, Equality, Fraternity."
+      ],
+      "learning_outcomes": [
+        "Understand the struggle against apartheid and the making of South African constitution.",
+        "Analyze the historical consensus and debates within India's Constituent Assembly.",
+        "Examine the core constitutional values enshrined in the Preamble."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What were the challenges faced by the makers of the Indian Constitution during its drafting?",
+          "question_text_te": "భారత రాజ్యాంగ రూపకల్పన సమయంలో రాజ్యాంగ నిర్మాతలు ఎదుర్కొన్న ప్రధాన సవాళ్లు ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_reading_and_interpretation",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Read the Preamble to the Constitution of India. Explain the significance of the terms 'Secular' and 'Republic'.",
+          "question_text_te": "భారత రాజ్యాంగ ప్రవేశికను చదివి, అందులోని 'లౌకిక' మరియు 'గణతంత్ర' పదాల అంతరార్థాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "Electoral Politics",
+      "title_te": "ఎన్నికల రాజకీయాలు",
+      "branch": "Political Science",
+      "core_themes": [
+        "Why Elections? Mechanism for citizens to choose representatives and policy makers.",
+        "What makes an election democratic? Universal adult suffrage, genuine choices, regular intervals, free and fair process.",
+        "Electoral system in India: Lok Sabha and Vidhan Sabha constituencies, Reserved constituencies for SC and ST.",
+        "Voters' list (Electoral Roll), Nomination of candidates, Election campaign, Model Code of Conduct, Polling and counting.",
+        "Independent Election Commission of India (ECI): Powers, autonomous constitutional status, acceptance of election outcomes."
+      ],
+      "learning_outcomes": [
+        "Understand how periodic elections ensure representative democratic accountability.",
+        "Evaluate the powers and constitutional independence of the Election Commission of India.",
+        "Explain provisions ensuring free, fair, and inclusive elections."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What powers make the Election Commission of India independent and powerful?",
+          "question_text_te": "భారత ఎన్నికల సంఘానికి గల ఏ అధికారాలు దానిని స్వతంత్రమైన మరియు శక్తివంతమైన సంస్థగా నిలబెడుతున్నాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the Model Code of Conduct for election campaigns? Mention any three prohibitions under it.",
+          "question_text_te": "ఎన్నికల ప్రవర్తనా నియమావళి (మోడల్ కోడ్ ఆఫ్ కండక్ట్) అంటే ఏమిటి? దాని కింద విధించిన ఏవైనా మూడు నిబంధనలను పేర్కొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 15,
+      "title_en": "Working of Institutions",
+      "title_te": "సంస్థల పనితీరు",
+      "branch": "Political Science",
+      "core_themes": [
+        "How a Major Policy Decision is Taken: Office Memorandum example, Mandal Commission report.",
+        "Parliament: Need for political institutions, two Houses (Lok Sabha and Rajya Sabha), powers comparison.",
+        "Political Executive: Difference between Political Executive (Ministers) and Permanent Executive (Civil Servants).",
+        "Prime Minister and Council of Ministers: Cabinet, powers of Prime Minister; President of India (Head of State).",
+        "Judiciary: Supreme Court of India, High Courts, Judicial Review, Public Interest Litigation (PIL), Independence of Judiciary."
+      ],
+      "learning_outcomes": [
+        "Analyze the division of powers between Legislature, Executive, and Judiciary.",
+        "Compare the legislative and financial powers of Lok Sabha versus Rajya Sabha.",
+        "Understand the independence of judiciary and judicial review."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the Lok Sabha exercise supreme power over the Rajya Sabha in matters of money bills?",
+          "question_text_te": "ధన బిల్లుల విషయంలో రాజ్యసభ కంటే లోక్‌సభకు అత్యున్నత అధికారాలు ఎందుకు ఉన్నాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Distinguish between the Political Executive and the Permanent Executive.",
+          "question_text_te": "రాజకీయ కార్యనిర్వాహక వర్గం మరియు శాశ్వత కార్యనిర్వాహక వర్గం (సివిల్ సర్వీసెస్) మధ్య గల భేదాలను వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 16,
+      "title_en": "Democratic Rights",
+      "title_te": "ప్రజాస్వామ్య హక్కులు",
+      "branch": "Political Science",
+      "core_themes": [
+        "Life without rights: Prison in Guantanamo Bay (US), Citizens' rights in Saudi Arabia, Ethnic massacre in Kosovo.",
+        "Rights in a Democracy: Definition of rights as reasonable claims of persons recognized by society and sanctioned by law.",
+        "Fundamental Rights in the Indian Constitution: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, Right to Constitutional Remedies (Article 32).",
+        "Expanding scope of rights: RTI, Right to Education, Human Rights Commission."
+      ],
+      "learning_outcomes": [
+        "Appreciate the vital role of constitutional fundamental rights in protecting individual liberty.",
+        "Examine Article 32 as the 'Heart and Soul of the Constitution' (Ambedkar).",
+        "Understand the evolving landscape of socioeconomic human rights."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why is the Right to Constitutional Remedies considered the heart and soul of our Constitution?",
+          "question_text_te": "రాజ్యాంగ పరిహార హక్కును మన రాజ్యాంగానికి గుండెకాయ మరియు ఆత్మగా ఎందుకు భావిస్తారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_appreciation_sensitivity",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain how the Right to Equality protects citizens against discrimination in India.",
+          "question_text_te": "భారతదేశంలో పౌరులను వివక్ష నుండి సమానత్వపు హక్కు ఏ విధంగా కాపాడుతుందో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 17,
+      "title_en": "The Story of Village Palampur",
+      "title_te": "పాలంపూర్ గ్రామ కథ",
+      "branch": "Economics",
+      "core_themes": [
+        "Overview of production: Organization of production (Land, Labour, Physical Capital, Human Capital).",
+        "Farming in Palampur: Land is fixed; Multiple cropping, Green Revolution with HYV seeds, chemical fertilizers, irrigation tube-wells.",
+        "Impact of Green Revolution on soil fertility and groundwater depletion.",
+        "Land distribution among farmers: Small vs medium and large farmers.",
+        "Non-farm activities in Palampur: Dairy farming, small-scale manufacturing, shopkeeping, transport services."
+      ],
+      "learning_outcomes": [
+        "Understand the four essential factors of production: Land, Labour, Capital, and Enterprise.",
+        "Examine the benefits and ecological drawbacks of Green Revolution agricultural modernization.",
+        "Identify non-farm rural livelihood opportunities."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the four requirements for the production of goods and services.",
+          "question_text_te": "వస్తువులు మరియు సేవల ఉత్పత్తికి అవసరమైన నాలుగు ప్రధాన కారకాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the environmental hazards associated with excessive use of chemical fertilizers in Green Revolution farming?",
+          "question_text_te": "హరిత విప్లవ వ్యవసాయంలో రసాయన ఎరువుల మితిమీరిన వినియోగం వల్ల కలిగే పర్యావరణ ముప్పులు ఏమిటి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 18,
+      "title_en": "People as Resource",
+      "title_te": "వనరుగా ప్రజలు",
+      "branch": "Economics",
+      "core_themes": [
+        "Overview: Human capital formation through investment in education, training, and healthcare.",
+        "Economic Activities by Men and Women: Primary, Secondary, and Tertiary sectors; Market and non-market activities.",
+        "Quality of Population: Education (literacy rates, Sarva Shiksha Abhiyan), Health (life expectancy, infant mortality rate).",
+        "Unemployment: Disguised unemployment, Seasonal unemployment in rural areas, Educated unemployment in urban areas.",
+        "Consequences of unemployment: Wastage of manpower, economic overload, social unrest."
+      ],
+      "learning_outcomes": [
+        "Understand how human capital increases productivity and national income.",
+        "Differentiate between seasonal and disguised unemployment.",
+        "Examine public investment in education and public healthcare systems."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the difference between economic activities and non-economic activities?",
+          "question_text_te": "ఆర్థిక కార్యకలాపాలు మరియు ఆర్థికేతర కార్యకలాపాల మధ్య గల వ్యత్యాసం ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is disguised unemployment? Give an agricultural example.",
+          "question_text_te": "ప్రచ్ఛన్న నిరుద్యోగం అనగా ఏమిటి? వ్యవసాయ రంగం నుండి ఒక ఉదాహరణ ఇవ్వండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 19,
+      "title_en": "Poverty as a Challenge",
+      "title_te": "ఒక సవాలుగా పేదరికం",
+      "branch": "Economics",
+      "core_themes": [
+        "Dimensions of poverty: Hunger, lack of shelter, safe drinking water, healthcare, sanitation, job insecurity.",
+        "Poverty as seen by social scientists: Social exclusion, vulnerability.",
+        "Poverty Line concept: Minimum subsistence level, calorie norms (2400 rural, 2100 urban), monetary value.",
+        "Poverty estimates in India; Vulnerable groups (SC, ST, landless agricultural labourers).",
+        "Inter-state disparities in poverty (high in Bihar, Odisha; low in Kerala, Punjab).",
+        "Anti-Poverty Measures: Promotion of economic growth; Targeted anti-poverty programmes: MGNREGA 2005, PMRY, PMGY, AAY."
+      ],
+      "learning_outcomes": [
+        "Understand the multidimensional nature of poverty and poverty line estimation.",
+        "Analyze inter-state and social group disparities in poverty incidence.",
+        "Evaluate government welfare and employment generation schemes (MGNREGA)."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How is the poverty line estimated in India? Explain the calorie and monetary criteria.",
+          "question_text_te": "భారతదేశంలో పేదరిక రేఖను ఎలా అంచనా వేస్తారు? కేలరీల వినియోగం మరియు ఆదాయ ప్రమాణాలను వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Discuss the major features of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) 2005.",
+          "question_text_te": "మహాత్మా గాంధీ జాతీయ గ్రామీణ ఉపాధి హామీ చట్టం (MGNREGA) 2005 యొక్క ముఖ్య లక్షణాలను చర్చించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 20,
+      "title_en": "Food Security in India",
+      "title_te": "భారతదేశంలో ఆహార భద్రత",
+      "branch": "Economics",
+      "core_themes": [
+        "What is Food Security? Availability, Accessibility, and Affordability of food to all citizens.",
+        "Why Food Security? Famine of Bengal (1943), disaster mitigation, food insecurity during natural calamities.",
+        "Who are Food-Insecure? Landless agricultural labourers, traditional artisans, urban casual workers, vulnerable castes.",
+        "Food Security System in India: Buffer Stock (FCI procurement at Minimum Support Price - MSP) and Public Distribution System (PDS - Fair Price Shops).",
+        "Role of Cooperatives in Food Security: Amul (Gujarat), Mother Dairy (Delhi), Academy of Development Science (Grain banks in Maharashtra)."
+      ],
+      "learning_outcomes": [
+        "Understand the triple pillars of food security: Availability, Accessibility, Affordability.",
+        "Explain the functioning of Buffer Stock and the Public Distribution System (PDS).",
+        "Appreciate the vital role of agricultural and consumer cooperatives in ensuring food security."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is Buffer Stock? Why is it created by the government?",
+          "question_text_te": "బఫర్ స్టాక్ (నిల్వ ఆహార ధాన్యాలు) అనగా ఏమిటి? ప్రభుత్వం దీనిని ఎందుకు నిర్వహిస్తుంది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_reflection_contemporary",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the role of the Public Distribution System (PDS) in ensuring food security in India.",
+          "question_text_te": "భారతదేశంలో ఆహార భద్రతను కల్పించడంలో ప్రజా పంపిణీ వ్యవస్థ (PDS) పోషిస్తున్న పాత్రను వివరించండి."
+        }
+      ]
+    }
+  ]
+}

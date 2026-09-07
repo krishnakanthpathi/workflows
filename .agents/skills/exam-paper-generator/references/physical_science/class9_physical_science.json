@@ -1,0 +1,1056 @@
+{
+  "book_metadata": {
+    "title_en": "Physical Science - Class 9 (AP SCERT 2024-25)",
+    "title_te": "భౌతిక రసాయన శాస్త్రం - తొమ్మిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 9,
+    "branches": [
+      "Chemistry",
+      "Physics"
+    ],
+    "chemistry_chapters": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "physics_chapters": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "source_pdfs": [
+      "9_Physics_SEM-1_Textbook.pdf",
+      "9_Physics_SEM-2_Textbook.pdf"
+    ],
+    "total_pages": 276
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Asking Questions and Making Hypothesis",
+    "AS3": "Experimentation and Field Investigation",
+    "AS4": "Information Skills and Projects",
+    "AS5": "Communication through Drawing and Model Making",
+    "AS6": "Daily Life Application and Concern to Biodiversity",
+    "AS7": "Appreciation and Aesthetic Sense / Values"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Matter in Our Surroundings",
+      "title_te": "మన పరిసరాల్లోని పదార్థం",
+      "branch": "Chemistry",
+      "semester": 1,
+      "pages_scert": "1 - 27",
+      "learning_outcomes": [
+        "Understand that matter is particulate and possesses mass and volume.",
+        "Explain characteristics of particles: continuous motion, attraction, inter-particle spaces.",
+        "Differentiate between the three common states of matter: solid, liquid, and gas.",
+        "Explain interconversion of states using temperature and pressure changes, latent heat.",
+        "Explain evaporation and its cooling effect."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Sublimation",
+          "term_te": "ఉత్పాదనము",
+          "definition": "A change of state directly from solid to gas without changing into liquid state upon heating."
+        },
+        {
+          "term": "Latent Heat of Vaporization",
+          "term_te": "బాష్పీభవన గుప్తోష్ణం",
+          "definition": "The amount of heat energy required to change 1 kg of a liquid into gas at atmospheric pressure at its boiling point."
+        },
+        {
+          "term": "Evaporation",
+          "term_te": "భాష్పీభవనం",
+          "definition": "The phenomenon of change of a liquid into vapours at any temperature below its boiling point."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Kinetic Molecular Theory of Matter",
+          "statement": "All matter consists of tiny particles in constant random motion possessing kinetic energy directly proportional to temperature."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "T(\\text{K}) = T(^\\circ\\text{C}) + 273.15",
+        "\\text{Density} = \\frac{\\text{Mass}}{\\text{Volume}} = \\frac{m}{V}",
+        "\\text{Rate of Evaporation} \\propto \\text{Surface Area} \\times \\text{Temperature} \\times \\text{Wind Speed} \\times \\frac{1}{\\text{Humidity}}"
+      ],
+      "key_diagrams": [
+        "Interconversion of the three states of matter",
+        "Sublimation of Ammonium Chloride in China Dish"
+      ],
+      "activities": [
+        {
+          "activity_no": "1.13",
+          "title": "Sublimation of Ammonium Chloride",
+          "title_te": "అమ్మోనియం క్లోరైడ్ ఉత్పాదన ప్రయోగం",
+          "type": "lab_activity",
+          "aim": "To observe sublimation in ammonium chloride upon heating.",
+          "apparatus": [
+            "China dish",
+            "Inverted glass funnel",
+            "Cotton plug",
+            "Bunsen burner",
+            "Tripod stand",
+            "Wire gauze"
+          ],
+          "procedure": [
+            "Take crushed ammonium chloride in a clean china dish.",
+            "Put an inverted glass funnel over the china dish.",
+            "Put a cotton plug on the stem of the funnel.",
+            "Heat slowly with a burner and observe."
+          ],
+          "precautions": [
+            "Plug the funnel stem tightly with cotton to prevent escape of vapors.",
+            "Heat gently to prevent thermal cracking of the porcelain dish."
+          ],
+          "observations": "Solid ammonium chloride changes directly into white vapors which rise and condense on the cooler inner walls of the funnel as pure solid deposits.",
+          "conclusion": "Ammonium chloride sublimes on heating."
+        }
+      ],
+      "summary_points": [
+        "Matter exists in solid, liquid, and gaseous states.",
+        "Evaporation causes cooling due to absorption of latent heat from surroundings."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Convert the following temperatures to the Celsius scale: (a) 293 K (b) 470 K.",
+          "question_text_te": "క్రింది ఉష్ణోగ్రతలను సెల్సియస్ స్కేలులోకి మార్చండి: (a) 293 K (b) 470 K."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do we see water droplets on the outer surface of a glass containing ice-cold water?",
+          "question_text_te": "మంచు ముక్కలు ఉన్న గ్లాసు బయటి ఉపరితలంపై నీటి బిందువులు ఎందుకు ఏర్పడతాయి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to demonstrate the sublimation of camphor or ammonium chloride under the headings: Aim, Apparatus, Procedure, Precautions, and Observations.",
+          "question_text_te": "కర్పూరం లేదా అమ్మోనియం క్లోరైడ్ ఉత్పాదనను నిరూపించే ప్రయోగాన్ని లక్ష్యం, పరికరాలు, పద్ధతి, జాగ్రత్తలు, పరిశీలనల శీర్షికల కింద వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat labeled diagram showing the interconversion of the three states of matter.",
+          "question_text_te": "పదార్థం యొక్క మూడు స్థితుల పరస్పర మార్పిడిని చూపే చక్కని నామకరణం చేసిన పటాన్ని గీయండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why should we wear cotton clothes in summer?",
+          "question_text_te": "వేసవి కాలంలో మనం నూలు దుస్తులను ఎందుకు ధరించాలి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Is Matter Around Us Pure?",
+      "title_te": "మన చుట్టూ ఉన్న పదార్థం శుద్ధమైనదేనా?",
+      "branch": "Chemistry",
+      "semester": 1,
+      "pages_scert": "28 - 51",
+      "learning_outcomes": [
+        "Distinguish between pure substances and mixtures (homogeneous and heterogeneous).",
+        "Understand properties of solutions, suspensions, and colloidal solutions.",
+        "Explain Tyndall effect and Brownian motion.",
+        "Calculate mass percentage and volume percentage of solutions."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Tyndall Effect",
+          "term_te": "టిండాల్ ప్రభావం",
+          "definition": "The scattering of a beam of light by colloidal particles in a medium."
+        },
+        {
+          "term": "Colloid",
+          "term_te": "కొల్లాయిడ్",
+          "definition": "A heterogeneous mixture in which solute particles are intermediate in size (1 to 1000 nm) and remain uniformly dispersed."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Law of Constant Proportions in Compounds",
+          "statement": "In a pure chemical compound, elements are always present in definite proportions by mass."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Mass \\% of Solute} = \\frac{\\text{Mass of Solute}}{\\text{Mass of Solution}} \\times 100",
+        "\\text{Volume \\% of Solute} = \\frac{\\text{Volume of Solute}}{\\text{Volume of Solution}} \\times 100",
+        "\\text{Mass of Solution} = \\text{Mass of Solute} + \\text{Mass of Solvent}"
+      ],
+      "key_diagrams": [
+        "Separation of immiscible liquids using separating funnel",
+        "Chromatography of black ink dyes"
+      ],
+      "activities": [
+        {
+          "activity_no": "2.2",
+          "title": "Demonstration of Tyndall Effect in Colloidal Solutions",
+          "title_te": "కొల్లాయిడ్ ద్రావణాలలో టిండాల్ ప్రభావ ప్రదర్శన",
+          "type": "lab_activity",
+          "aim": "To observe the scattering of light (Tyndall effect) in a colloidal solution compared to a true solution.",
+          "apparatus": [
+            "Two glass beakers",
+            "Torch light / laser pointer",
+            "Water",
+            "Copper sulphate crystals",
+            "Milk or dilute starch solution"
+          ],
+          "procedure": [
+            "In beaker A, prepare copper sulphate true solution in water.",
+            "In beaker B, prepare colloidal milk-water mixture.",
+            "Direct a focused light beam through both beakers from the side in a dark room.",
+            "Observe the path of light through both beakers."
+          ],
+          "precautions": [
+            "Perform the experiment in a dimly lit or dark room for distinct visibility.",
+            "Do not look directly into the laser beam."
+          ],
+          "observations": "The path of light is not visible in the true solution (beaker A), but is clearly illuminated and visible in the colloidal milk solution (beaker B).",
+          "conclusion": "Colloidal particles are large enough to scatter visible light, displaying the Tyndall effect."
+        }
+      ],
+      "summary_points": [
+        "Solutions are homogeneous mixtures.",
+        "Suspensions and colloids are heterogeneous mixtures."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Differentiate between homogeneous and heterogeneous mixtures with two examples of each.",
+          "question_text_te": "సజాతీయ మరియు విజాతీయ మిశ్రమాల మధ్య భేదాలను ఒక్కొక్క దానికి రెండు ఉదాహరణలతో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "A solution contains 40 g of common salt in 320 g of water. Calculate the concentration in terms of mass by mass percentage.",
+          "question_text_te": "320 గ్రాముల నీటిలో 40 గ్రాముల సాధారణ ఉప్పు కరిగి ఉన్న ద్రావణం యొక్క ద్రవ్యరాశి శాతాన్ని లెక్కించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Explain the paper chromatography technique to separate the dyes present in black ink.",
+          "question_text_te": "బ్లాక్ ఇంక్‌లో ఉన్న వివిధ రంగులను వేరుచేయడానికి కాగితపు క్రోమటోగ్రఫీ ప్రయోగ విధానాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does a solution of sodium chloride not show the Tyndall effect whereas a mixture of water and milk does?",
+          "question_text_te": "సోడియం క్లోరైడ్ ద్రావణం టిండాల్ ప్రభావాన్ని ప్రదర్శించదు కానీ పాలు-నీటి మిశ్రమం ప్రదర్శిస్తుంది ఎందుకు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Atoms and Molecules",
+      "title_te": "పరమాణువులు మరియు అణువులు",
+      "branch": "Chemistry",
+      "semester": 1,
+      "pages_scert": "52 - 75",
+      "learning_outcomes": [
+        "State the Law of Conservation of Mass and Law of Constant Proportions.",
+        "Explain Dalton's Atomic Theory and its postulates.",
+        "Write chemical formulas using criss-cross valency method.",
+        "Calculate molecular mass and formula unit mass.",
+        "Understand the mole concept and Avogadro constant."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Atomic Mass Unit (u)",
+          "term_te": "పరమాణు ద్రవ్యరాశి ప్రమాణం",
+          "definition": "One atomic mass unit is equal to exactly 1/12th of the mass of one carbon-12 atom."
+        },
+        {
+          "term": "Mole",
+          "term_te": "మోల్",
+          "definition": "One mole of any species contains exactly 6.022 x 10^23 elementary particles."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Law of Conservation of Mass",
+          "statement": "Mass can neither be created nor destroyed in a chemical reaction: Total mass of reactants equals total mass of products."
+        },
+        {
+          "name": "Law of Definite Proportions",
+          "statement": "In a chemical substance, the elements are always present in definite proportions by mass."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "N_A = 6.022 \\times 10^{23} \\text{ particles/mol} \\quad (\\text{Avogadro Constant})",
+        "n = \\frac{m}{M} = \\frac{N}{N_A}",
+        "\\text{Molecular Mass of } \\text{H}_2\\text{O} = 2(1) + 16 = 18\\text{ u}",
+        "\\text{Ca(OH)}_2 \\implies \\text{Formula Unit Mass} = 40 + 2(16 + 1) = 74\\text{ u}",
+        "2\\text{H}_2 + \\text{O}_2 \\rightarrow 2\\text{H}_2\\text{O}"
+      ],
+      "key_diagrams": [
+        "Apparatus verifying law of conservation of mass in conical flask",
+        "Criss-cross representation of ionic valencies"
+      ],
+      "activities": [
+        {
+          "activity_no": "3.1",
+          "title": "Verification of the Law of Conservation of Mass",
+          "title_te": "ద్రవ్య నిత్యత్వ నియమ నిరూపణ ప్రయోగం",
+          "type": "lab_activity",
+          "aim": "To verify that total mass of reactants equals total mass of products in a precipitation reaction.",
+          "apparatus": [
+            "Conical flask",
+            "Ignition tube / small test tube",
+            "Thread",
+            "Rubber cork",
+            "Digital weighing balance",
+            "Barium chloride solution",
+            "Sodium sulphate solution"
+          ],
+          "procedure": [
+            "Take 10 mL of sodium sulphate solution in the conical flask.",
+            "Take 5 mL of barium chloride solution in the ignition tube.",
+            "Suspend the ignition tube inside the flask with a thread without letting the two solutions mix, and cork the flask tightly.",
+            "Weigh the flask with its contents on the balance (initial mass m1).",
+            "Tilt and swirl the flask to mix the solutions thoroughly, forming white BaSO4 precipitate.",
+            "Weigh the flask again (final mass m2)."
+          ],
+          "precautions": [
+            "Cork the flask tightly so no vapor escapes.",
+            "Handle the balance carefully for precision."
+          ],
+          "observations": "A white precipitate of barium sulphate forms: m1 = m2 (no change in reading).",
+          "conclusion": "Mass is conserved in a chemical reaction: BaCl2 + Na2SO4 -> BaSO4(s) + 2NaCl."
+        }
+      ],
+      "summary_points": [
+        "Atoms combine in whole numbers to form molecules and compounds.",
+        "A mole represents 6.022 x 10^23 particles."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write down the chemical formulae of: (a) Sodium oxide (b) Aluminium chloride (c) Calcium carbonate.",
+          "question_text_te": "క్రింది వాటికి రసాయన సంకేతాలు రాయండి: (a) సోడియం ఆక్సైడ్ (b) అల్యూమినియం క్లోరైడ్ (c) కాల్షియం కార్బోనేట్."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Calculate the molar mass of: (a) $\\text{H}_2\\text{O}$ (b) $\\text{HNO}_3$ (c) $\\text{C}_2\\text{H}_6$.",
+          "question_text_te": "క్రింది పదార్థాల మోలార్ ద్రవ్యరాశిని లెక్కించండి: (a) $\\text{H}_2\\text{O}$ (b) $\\text{HNO}_3$ (c) $\\text{C}_2\\text{H}_6$."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe a lab experiment to verify the Law of Conservation of Mass using barium chloride and sodium sulphate solutions.",
+          "question_text_te": "బేరియం క్లోరైడ్ మరియు సోడియం సల్ఫేట్ ద్రావణాలను ఉపయోగించి ద్రవ్య నిత్యత్వ నియమాన్ని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Convert into moles: (a) 12 g of oxygen gas (b) 20 g of water.",
+          "question_text_te": "మోల్స్‌లోకి మార్చండి: (a) 12 గ్రాముల ఆక్సిజన్ వాయువు (b) 20 గ్రాముల నీరు."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Structure of the Atom",
+      "title_te": "పరమాణు నిర్మాణం",
+      "branch": "Chemistry",
+      "semester": 1,
+      "pages_scert": "76 - 97",
+      "learning_outcomes": [
+        "Describe the discovery of subatomic particles: electron, proton, neutron.",
+        "Explain Thomson's plum pudding model, Rutherford's alpha-scattering experiment, and Bohr's model.",
+        "Explain distribution of electrons in different orbits (Bohr-Bury scheme: 2n^2 rule).",
+        "Define atomic number (Z), mass number (A), valency, isotopes, and isobars."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Atomic Number (Z)",
+          "term_te": "పరమాణు సంఖ్య (Z)",
+          "definition": "The total number of protons present in the nucleus of an atom."
+        },
+        {
+          "term": "Mass Number (A)",
+          "term_te": "ద్రవ్యరాశి సంఖ్య (A)",
+          "definition": "The sum of the total number of protons and neutrons in the nucleus of an atom."
+        },
+        {
+          "term": "Isotopes",
+          "term_te": "ఐసోటోపులు",
+          "definition": "Atoms of the same element having the same atomic number but different mass numbers."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Bohr-Bury Scheme of Electronic Distribution",
+          "statement": "The maximum number of electrons in a shell of principal quantum number n is given by 2n^2, with outermost valence shell accommodating maximum 8 electrons."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "2n^2 \\quad (\\text{Maximum electrons in shell } n)",
+        "A = Z + N \\implies N = A - Z",
+        "^A_Z\\text{X} \\quad (\\text{Nuclide Notation, e.g. } ^{12}_6\\text{C}, \\, ^{35}_{17}\\text{Cl}, \\, ^{37}_{17}\\text{Cl})"
+      ],
+      "key_diagrams": [
+        "Rutherford's alpha-particle scattering experiment setup and trajectories",
+        "Bohr's model of atom showing K, L, M, N energy levels"
+      ],
+      "activities": [
+        {
+          "activity_no": "4.1",
+          "title": "Simulation of Alpha Particle Scattering",
+          "title_te": "ఆల్ఫా కణ పరిక్షేపణ నమూనా పరిశీలన",
+          "type": "lab_activity",
+          "aim": "To understand Rutherford's nuclear model of the atom through alpha particle scattering observations.",
+          "apparatus": [
+            "Gold foil target (thin film)",
+            "Alpha particle radiation source",
+            "Zinc sulphide fluorescent screen",
+            "Microscope detector"
+          ],
+          "procedure": [
+            "Bombard a thin gold foil (about 1000 atoms thick) with fast-moving alpha particles.",
+            "Observe the scintillations on the circular fluorescent screen using detector.",
+            "Record angles of deflection and frequency of scattered particles."
+          ],
+          "precautions": [
+            "Shield alpha source with lead container to avoid radiation hazard.",
+            "Conduct experiment in high vacuum chamber."
+          ],
+          "observations": "Most alpha particles pass straight through; a few are deflected by small angles; about 1 in 12,000 rebounds back at nearly 180 degrees.",
+          "conclusion": "Most of the space inside atom is empty; positive charge and nearly all mass is concentrated in a tiny central nucleus."
+        }
+      ],
+      "summary_points": [
+        "An atom contains protons, neutrons, and electrons.",
+        "Electrons revolve around the nucleus in discrete energy shells."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Compare the properties of electrons, protons, and neutrons in terms of charge, mass, and location in an atom.",
+          "question_text_te": "ఆవేశం, ద్రవ్యరాశి మరియు పరమాణువులో స్థానం పరంగా ఎలక్ట్రాన్లు, ప్రోటాన్లు, న్యూట్రాన్ల ధర్మాలను పోల్చండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What do you think would be the observation if the alpha-particle scattering experiment is carried out using a foil of a heavy metal other than gold?",
+          "question_text_te": "బంగారానికి బదులుగా వేరొక భార లోహపు రేకును ఉపయోగించి ఆల్ఫా-కణ పరిక్షేపణ ప్రయోగాన్ని నిర్వహిస్తే ఫలితం ఎలా ఉంటుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Sketch Bohr's model of an atom with three shells (K, L, M) and indicate the energy levels.",
+          "question_text_te": "మూడు కక్ష్యలు (K, L, M) కలిగిన బోర్ పరమాణు నమూనా పటాన్ని గీసి శక్తి స్థాయిలను సూచించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Define valency by taking examples of Silicon and Oxygen.",
+          "question_text_te": "సిలికాన్ మరియు ఆక్సిజన్ ఉదాహరణలతో సంయోజకతను నిర్వచించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Motion",
+      "title_te": "చలనం",
+      "branch": "Physics",
+      "semester": 1,
+      "pages_scert": "98 - 144",
+      "learning_outcomes": [
+        "Distinguish between distance and displacement, speed and velocity.",
+        "Define uniform motion, non-uniform motion, and acceleration.",
+        "Derive equations of motion using graphical method.",
+        "Understand uniform circular motion and calculate speed."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Displacement",
+          "term_te": "స్థానభ్రంశం",
+          "definition": "The shortest straight-line distance measured from initial to final position of an object."
+        },
+        {
+          "term": "Acceleration",
+          "term_te": "త్వరణం",
+          "definition": "The rate of change of velocity with respect to time: a = (v - u) / t."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Kinematic Equations of Uniformly Accelerated Motion",
+          "statement": "For motion along a straight line with constant acceleration a, relationships between initial velocity u, final velocity v, displacement s, and time t are given by the three equations of motion."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "v = u + at",
+        "s = ut + \\frac{1}{2}at^2",
+        "v^2 - u^2 = 2as",
+        "\\text{Average Velocity } v_{\\text{avg}} = \\frac{u + v}{2}",
+        "v = \\frac{2\\pi r}{t} \\quad (\\text{Uniform Circular Motion})"
+      ],
+      "key_diagrams": [
+        "Distance-time graph for uniform and non-uniform motion",
+        "Velocity-time graph for uniformly accelerated motion"
+      ],
+      "activities": [
+        {
+          "activity_no": "7.5",
+          "title": "Measuring Average Speed and Velocity along an Inclined Plane",
+          "title_te": "వాలుతలంపై సరాసరి వేగం మరియు త్వరణాన్ని కొలవడం",
+          "type": "lab_activity",
+          "aim": "To determine the acceleration of a marble rolling down an inclined plane using distance and time measurements.",
+          "apparatus": [
+            "Long wooden grooved plank (2 m)",
+            "Steel ball or marble",
+            "Stopwatch",
+            "Meter scale",
+            "Support blocks"
+          ],
+          "procedure": [
+            "Set up the grooved plank at a gentle slope using wooden blocks.",
+            "Mark points at 40 cm, 80 cm, 120 cm, 160 cm from the top release point.",
+            "Release the marble from rest at top and start stopwatch.",
+            "Measure time taken to reach each mark, repeating 3 times for average."
+          ],
+          "precautions": [
+            "Release the ball gently without imparting any initial push.",
+            "Keep the angle of inclination small to reduce timing errors."
+          ],
+          "observations": "Distance traveled increases proportionally to square of time: s proportional to t^2, confirming constant acceleration.",
+          "conclusion": "The rolling ball undergoes uniformly accelerated rectilinear motion: a = 2s / t^2."
+        }
+      ],
+      "summary_points": [
+        "Motion is relative to chosen reference point.",
+        "Acceleration is zero in uniform motion."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "An athlete completes one round of a circular track of diameter 200 m in 40 s. What will be the distance covered and the displacement at the end of 2 minutes 20 s?",
+          "question_text_te": "ఒక అథ్లెట్ 200 మీ. వ్యాసం గల వృత్తాకార ట్రాక్‌ను 40 సెకన్లలో ఒక చుట్టు పూర్తి చేస్తాడు. 2 నిమిషాల 20 సెకన్ల చివరిలో ప్రయాణించిన దూరం మరియు స్థానభ్రంశం ఎంత?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A bus starting from rest moves with a uniform acceleration of $0.1\\text{ m s}^{-2}$ for 2 minutes. Find (a) the speed acquired, (b) the distance travelled.",
+          "question_text_te": "విరామ స్థానం నుండి బయలుదేరిన బస్సు 2 నిమిషాల పాటు $0.1\\text{ m s}^{-2}$ సమత్వరణంతో కదులుతుంది. (a) పొందిన వేగం, (b) ప్రయాణించిన దూరం కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "8M",
+          "question_text_en": "Derive the three equations of motion ($v = u + at, s = ut + \\frac{1}{2}at^2, v^2 - u^2 = 2as$) using the velocity-time graph.",
+          "question_text_te": "వేగ-కాల గ్రాఫ్ ఆధారంగా మూడు చలన సమీకరణాలను ($v = u + at, s = ut + \\frac{1}{2}at^2, v^2 - u^2 = 2as$) ఉత్పాదించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Force and Laws of Motion",
+      "title_te": "బలము మరియు చలన నియమాలు",
+      "branch": "Physics",
+      "semester": 2,
+      "pages_scert": "1 - 38",
+      "learning_outcomes": [
+        "Explain balanced and unbalanced forces and their effects.",
+        "State Newton's First Law of Motion and define inertia and mass.",
+        "State Newton's Second Law of Motion and derive F = ma.",
+        "State Newton's Third Law of Motion and Law of Conservation of Momentum."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Inertia",
+          "term_te": "జడత్వం",
+          "definition": "The natural tendency of an object to resist a change in its state of rest or of uniform motion."
+        },
+        {
+          "term": "Momentum (p)",
+          "term_te": "ద్రవ్యవేగం (p)",
+          "definition": "The product of mass and velocity of an object: p = mv, with SI unit kg m/s."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Newton's First Law of Motion",
+          "statement": "An object remains in a state of rest or of uniform motion in a straight line unless compelled to change that state by an applied unbalanced force."
+        },
+        {
+          "name": "Newton's Second Law of Motion",
+          "statement": "The rate of change of momentum of an object is directly proportional to the applied unbalanced force in the direction of force: F = ma."
+        },
+        {
+          "name": "Newton's Third Law of Motion",
+          "statement": "To every action, there is an equal and opposite reaction, and they act on two different bodies."
+        },
+        {
+          "name": "Law of Conservation of Linear Momentum",
+          "statement": "In an isolated system, the total linear momentum before collision is equal to the total linear momentum after collision: m1 u1 + m2 u2 = m1 v1 + m2 v2."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "p = mv",
+        "F = m a = m\\frac{v - u}{t}",
+        "F_{AB} = -F_{BA} \\quad (\\text{Action-Reaction Pair})",
+        "m_1 u_1 + m_2 u_2 = m_1 v_1 + m_2 v_2 \\quad (\\text{Conservation of Momentum})"
+      ],
+      "key_diagrams": [
+        "Coin dropping into glass when card is flicked (Inertia)",
+        "Two spring balances demonstrating equal and opposite action-reaction"
+      ],
+      "activities": [
+        {
+          "activity_no": "8.4",
+          "title": "Demonstrating Newton's Third Law with Two Spring Balances",
+          "title_te": "రెండు స్ప్రింగ్ త్రాసులతో న్యూటన్ మూడవ నియమ నిరూపణ",
+          "type": "lab_activity",
+          "aim": "To prove that action and reaction are equal in magnitude and opposite in direction using two connected spring balances.",
+          "apparatus": [
+            "Two identical spring balances A and B",
+            "Rigid support / wall hook"
+          ],
+          "procedure": [
+            "Attach the ring of spring balance B to a rigid fixed hook on the wall.",
+            "Hook the free hook of spring balance A into the hook of balance B.",
+            "Pull the free ring end of balance A horizontally.",
+            "Observe and note down the force readings on both balances A and B simultaneously."
+          ],
+          "precautions": [
+            "Ensure both spring balances are calibrated to read zero when relaxed.",
+            "Pull smoothly without jerking to maintain steady pointer reading."
+          ],
+          "observations": "Both spring balances show identical force readings in opposite directions.",
+          "conclusion": "Force exerted by A on B (action) equals force exerted by B on A (reaction) in opposite directions."
+        }
+      ],
+      "summary_points": [
+        "Inertia depends on the mass of an object.",
+        "Linear momentum is conserved in all collisions."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why do you fall in the forward direction when a moving bus brakes to a stop and fall backwards when it accelerates from rest?",
+          "question_text_te": "కదులుతున్న బస్సు అకస్మాత్తుగా బ్రేక్ వేసినప్పుడు మనం ముందుకు, బస్సు హఠాత్తుగా కదిలినప్పుడు వెనుకకు ఎందుకు పడతాము?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A constant force acts on an object of mass 5 kg for a duration of 2 s. It increases the object's velocity from $3\\text{ m s}^{-1}$ to $7\\text{ m s}^{-1}$. Find the magnitude of the applied force.",
+          "question_text_te": "5 కిలోల ద్రవ్యరాశి గల వస్తువుపై 2 సెకన్ల పాటు పనిచేసే స్థిర బలం దాని వేగాన్ని $3\\text{ m s}^{-1}$ నుండి $7\\text{ m s}^{-1}$ కు పెంచుతుంది. ప్రయోగించిన బలం పరిమాణాన్ని కనుగొనండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to verify that action and reaction forces are equal and opposite using two spring balances.",
+          "question_text_te": "రెండు స్ప్రింగ్ త్రాసులను ఉపయోగించి చర్య మరియు ప్రతిచర్య బలాలు సమానం మరియు వ్యతిరేకమని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does a fielder in cricket pull his hands backwards while catching a fast-moving cricket ball?",
+          "question_text_te": "క్రికెట్ ఫీల్డర్ వేగంగా వస్తున్న బంతిని పట్టుకునేటప్పుడు చేతులను వెనుకకు ఎందుకు లాగుతాడు?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Gravitation",
+      "title_te": "గురుత్వాకర్షణ",
+      "branch": "Physics",
+      "semester": 2,
+      "pages_scert": "39 - 64",
+      "learning_outcomes": [
+        "State the Universal Law of Gravitation and its mathematical form.",
+        "Differentiate between acceleration due to gravity (g) and universal gravitational constant (G).",
+        "Distinguish between mass and weight.",
+        "Explain thrust and pressure, Archimedes' Principle, and relative density."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Universal Law of Gravitation",
+          "term_te": "విశ్వ గురుత్వాకర్షణ నియమం",
+          "definition": "Every object in the universe attracts every other object with a force directly proportional to the product of their masses and inversely proportional to the square of the distance between them."
+        },
+        {
+          "term": "Archimedes' Principle",
+          "term_te": "ఆర్కిమెడిస్ సూత్రం",
+          "definition": "When a body is immersed fully or partially in a fluid, it experiences an upward buoyant force that is equal to the weight of the fluid displaced by it."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Kepler's Three Laws of Planetary Motion",
+          "statement": "Planets move in elliptical orbits with the Sun at one focus; Area vector sweeps equal areas in equal intervals of time; Square of orbital period is proportional to cube of semi-major axis: T^2 proportional to R^3."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "F = G\\frac{M m}{d^2}, \\quad G = 6.674 \\times 10^{-11} \\text{ N m}^2/\\text{kg}^2",
+        "g = \\frac{GM}{R^2} \\approx 9.8 \\text{ m/s}^2 \\text{ (on Earth surface)}",
+        "W = mg, \\quad W_{\\text{moon}} = \\frac{1}{6} W_{\\text{earth}}",
+        "\\text{Pressure} = \\frac{\\text{Thrust}}{\\text{Area}} = \\frac{F}{A}",
+        "\\text{Relative Density} = \\frac{\\text{Density of Substance}}{\\text{Density of Water at } 4^\\circ\\text{C}}"
+      ],
+      "key_diagrams": [
+        "Gravitational attraction between two masses M and m separated by distance d",
+        "Archimedes principle setup with eureka overflow can and measuring cylinder"
+      ],
+      "activities": [
+        {
+          "activity_no": "9.7",
+          "title": "Verification of Archimedes' Principle",
+          "title_te": "ఆర్కిమెడిస్ సూత్ర నిరూపణ ప్రయోగం",
+          "type": "lab_activity",
+          "aim": "To verify that the buoyant force on a submerged body equals the weight of displaced liquid.",
+          "apparatus": [
+            "Spring balance",
+            "Solid metal cylinder",
+            "Overflow can (Eureka can)",
+            "Measuring cylinder",
+            "Thread",
+            "Water"
+          ],
+          "procedure": [
+            "Fill Eureka can with water up to spout level until excess drains out.",
+            "Place dry measuring cylinder under spout.",
+            "Weigh the metal cylinder in air using spring balance (W1).",
+            "Lower cylinder gently into Eureka can and note spring balance reading (W2).",
+            "Measure volume and weight of displaced water in measuring cylinder (W_disp)."
+          ],
+          "precautions": [
+            "Ensure cylinder does not touch bottom or sides of overflow can.",
+            "Do not splash water while lowering the solid body."
+          ],
+          "observations": "Loss of weight (W1 - W2) equals weight of water collected in measuring cylinder (W_disp).",
+          "conclusion": "Buoyant force equals weight of fluid displaced, confirming Archimedes' Principle."
+        }
+      ],
+      "summary_points": [
+        "Weight varies with local g, while mass remains constant throughout universe.",
+        "Bodies float when buoyant force equals their total weight."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "State the Universal Law of Gravitation and write its formula.",
+          "question_text_te": "విశ్వ గురుత్వాకర్షణ నియమాన్ని తెలిపి దాని గణిత సూత్రాన్ని రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Gravitational force between two objects is $F$. How will this force change when (a) distance is halved, (b) mass of one object is doubled?",
+          "question_text_te": "రెండు వస్తువుల మధ్య గురుత్వాకర్షణ బలం $F$. (a) దూరం సగానికి తగ్గితే, (b) ఒక వస్తువు ద్రవ్యరాశి రెట్టింపయితే ఈ బలం ఎలా మారుతుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe a lab experiment to verify Archimedes' principle using an overflow can and spring balance.",
+          "question_text_te": "స్ప్రింగ్ త్రాసు మరియు ఓవర్‌ఫ్లో పాత్రను ఉపయోగించి ఆర్కిమెడిస్ సూత్రాన్ని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_information_skills",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Relative density of silver is 10.8. The density of water is $10^3\\text{ kg m}^{-3}$. What is the density of silver in SI unit?",
+          "question_text_te": "వెండి సాపేక్ష సాంద్రత 10.8. నీటి సాంద్రత $10^3\\text{ kg m}^{-3}$. SI పద్ధతిలో వెండి సాంద్రత ఎంత?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Work and Energy",
+      "title_te": "పని మరియు శక్తి",
+      "branch": "Physics",
+      "semester": 2,
+      "pages_scert": "65 - 92",
+      "learning_outcomes": [
+        "Define scientific work, positive work, negative work, and zero work.",
+        "Explain kinetic energy, potential energy, and derive expressions.",
+        "State and prove the Law of Conservation of Energy.",
+        "Define power and commercial unit of electrical energy (kWh)."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Work Done (W)",
+          "term_te": "జరిగిన పని (W)",
+          "definition": "Work done on an object is defined as magnitude of force multiplied by displacement in the direction of force: W = F . s."
+        },
+        {
+          "term": "Kinetic Energy (E_k)",
+          "term_te": "గతిజ శక్తి (E_k)",
+          "definition": "The energy possessed by an object on account of its motion: E_k = (1/2) m v^2."
+        },
+        {
+          "term": "Power (P)",
+          "term_te": "సామర్థ్యం (P)",
+          "definition": "The rate of doing work or rate of transfer of energy: P = W / t, unit Watt (W)."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Law of Conservation of Energy",
+          "statement": "Energy can neither be created nor destroyed; it can only be transformed from one form to another. Total energy of an isolated system remains constant."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "W = F \\cdot s = F s \\cos\\theta",
+        "E_k = \\frac{1}{2}m v^2",
+        "E_p = m g h \\quad (\\text{Gravitational Potential Energy})",
+        "E_{\\text{total}} = E_k + E_p = \\text{Constant}",
+        "P = \\frac{W}{t}, \\quad 1\\text{ kW} = 1000\\text{ W}",
+        "1\\text{ kWh} = 3.6 \\times 10^6 \\text{ J}"
+      ],
+      "key_diagrams": [
+        "Free fall of body showing transformation of potential energy into kinetic energy",
+        "Oscillating simple pendulum energy conservation"
+      ],
+      "activities": [
+        {
+          "activity_no": "10.13",
+          "title": "Demonstration of Transformation and Conservation of Mechanical Energy",
+          "title_te": "యాంత్రిక శక్తి పరివర్తన మరియు నిత్యత్వ ప్రదర్శన",
+          "type": "lab_activity",
+          "aim": "To observe energy transformation in a simple pendulum and verify mechanical energy conservation.",
+          "apparatus": [
+            "Metallic bob",
+            "Light thread (1.5 m)",
+            "Rigid stand",
+            "Stopwatch",
+            "Meter scale"
+          ],
+          "procedure": [
+            "Suspend bob from rigid stand using thread.",
+            "Pull bob aside to extreme position A at height h and release from rest.",
+            "Observe motion passing through mean position B to opposite extreme C.",
+            "Record velocity at lowest point B and maximum height attained at extremes."
+          ],
+          "precautions": [
+            "Displace bob by small angle (less than 15 degrees) to maintain simple harmonic motion.",
+            "Ensure thread does not stretch or slip."
+          ],
+          "observations": "At extreme points, energy is purely potential (mgh); at lowest point, energy is purely kinetic (1/2 mv^2 = mgh).",
+          "conclusion": "Total mechanical energy E = E_k + E_p remains conserved at all points of oscillation."
+        }
+      ],
+      "summary_points": [
+        "Work is done only when force causes displacement in its direction.",
+        "Total energy remains constant throughout all transformations."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is the work done by the force of gravity on a satellite moving around the Earth in a circular orbit? Justify your answer.",
+          "question_text_te": "భూమి చుట్టూ వృత్తాకార కక్ష్యలో తిరుగుతున్న ఉపగ్రహంపై గురుత్వాకర్షణ బలం చేసే పని ఎంత? మీ సమాధానాన్ని సమర్థించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "An object of mass 15 kg is moving with a uniform velocity of $4\\text{ m s}^{-1}$. What is the kinetic energy possessed by the object?",
+          "question_text_te": "15 కిలోల ద్రవ్యరాశి గల వస్తువు $4\\text{ m s}^{-1}$ సమవేగంతో కదులుతుంది. ఆ వస్తువు గతిజ శక్తి ఎంత?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "State the Law of Conservation of Energy and prove that the total mechanical energy of a freely falling body remains constant at all points.",
+          "question_text_te": "శక్తి నిత్యత్వ నియమాన్ని తెలిపి స్వేచ్ఛగా పడే వస్తువు యొక్క మొత్తం యాంత్రిక శక్తి అన్ని బిందువుల వద్ద స్థిరంగా ఉంటుందని నిరూపించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "An electric heater is rated 1500 W. How much energy does it use in 10 hours? Express in commercial units (kWh).",
+          "question_text_te": "ఒక ఎలక్ట్రిక్ హీటర్ రేటింగ్ 1500 W. అది 10 గంటలలో వినియోగించే విద్యుత్ శక్తి ఎంత? వాణిజ్య ప్రమాణాలలో (kWh) తెలపండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Sound",
+      "title_te": "ధ్వని",
+      "branch": "Physics",
+      "semester": 2,
+      "pages_scert": "93 - 126",
+      "learning_outcomes": [
+        "Explain production and propagation of sound waves as mechanical longitudinal waves.",
+        "Describe characteristics: wavelength, frequency, time period, amplitude, and pitch.",
+        "State laws of reflection of sound and conditions for echo and reverberation.",
+        "Explain applications of ultrasound (cleaning, crack detection, echocardiography, SONAR)."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Wavelength (\\lambda)",
+          "term_te": "తరంగదైర్ఘ్యం",
+          "definition": "The distance between two consecutive compressions or two consecutive rarefactions."
+        },
+        {
+          "term": "Frequency (\\nu)",
+          "term_te": "పౌనఃపున్యం",
+          "definition": "The number of complete sound wave oscillations per unit time, measured in Hertz (Hz)."
+        },
+        {
+          "term": "SONAR",
+          "term_te": "సోనార్ (SONAR)",
+          "definition": "Sound Navigation and Ranging: A technique using ultrasonic waves to measure distance, direction, and speed of underwater objects."
+        }
+      ],
+      "scientific_laws_and_principles": [
+        {
+          "name": "Laws of Reflection of Sound",
+          "statement": "The angle of incidence of sound equals the angle of reflection; incident sound wave, reflected wave, and normal at the point of incidence all lie in the same plane."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "v = \\nu \\lambda = \\frac{\\lambda}{T}",
+        "T = \\frac{1}{\\nu}",
+        "2d = v \\times t \\implies d = \\frac{vt}{2} \\quad (\\text{Echo and SONAR Equation})"
+      ],
+      "key_diagrams": [
+        "Longitudinal sound wave showing compressions and rarefactions",
+        "Reflection of sound apparatus setup with two hollow tubes and clock"
+      ],
+      "activities": [
+        {
+          "activity_no": "11.5",
+          "title": "Demonstrating the Laws of Reflection of Sound",
+          "title_te": "ధ్వని పరావర్తన నియమాల ప్రయోగ నిరూపణ",
+          "type": "lab_activity",
+          "aim": "To verify that the angle of incidence of sound equals the angle of reflection.",
+          "apparatus": [
+            "Two identical hollow cardboard / plastic pipes (1 m long)",
+            "Ticking watch / mobile timer",
+            "Flat vertical wooden board reflector",
+            "Protractor board screen"
+          ],
+          "procedure": [
+            "Place two hollow pipes at an angle facing the reflecting board.",
+            "Place a ticking watch near open end of pipe 1.",
+            "Listen through open end of pipe 2, adjusting its angle until ticking sound is heard loudest.",
+            "Measure angles made by both pipes with normal to reflecting board."
+          ],
+          "precautions": [
+            "Ensure the room is completely quiet.",
+            "Place a vertical cardboard screen between the two pipes to prevent direct sound transmission."
+          ],
+          "observations": "The ticking sound is heard clearest and loudest when angle of incidence equals angle of reflection (i = r).",
+          "conclusion": "Sound obeys the laws of reflection similar to light."
+        }
+      ],
+      "summary_points": [
+        "Sound requires a material medium to propagate.",
+        "Humans hear frequencies in audible range 20 Hz to 20,000 Hz."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What is sound and how is it produced?",
+          "question_text_te": "ధ్వని అంటే ఏమిటి? అది ఎలా ఉత్పత్తి అవుతుంది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "A sound wave has a frequency of 2 kHz and wavelength 35 cm. How long will it take to travel 1.5 km?",
+          "question_text_te": "ఒక ధ్వని తరంగ పౌనఃపున్యం 2 kHz మరియు తరంగదైర్ఘ్యం 35 సెం.మీ. అది 1.5 కి.మీ. దూరం ప్రయాణించడానికి ఎంత సమయం పడుతుంది?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an activity to demonstrate that sound needs a material medium for propagation using a bell jar and vacuum pump.",
+          "question_text_te": "బెల్ జార్ మరియు వాక్యూమ్ పంపును ఉపయోగించి ధ్వని ప్రసారానికి యానకం అవసరమని నిరూపించే ప్రయోగాన్ని వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain how defects in metal blocks can be detected using ultrasound.",
+          "question_text_te": "అల్ట్రాసౌండ్ ఉపయోగించి లోహపు దిమ్మలలోని లోపాలను ఎలా గుర్తించవచ్చో వివరించండి."
+        }
+      ]
+    }
+  ]
+}

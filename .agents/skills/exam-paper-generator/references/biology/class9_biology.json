@@ -1,0 +1,640 @@
+{
+  "book_metadata": {
+    "title_en": "Biological Science - Class 9 (AP SCERT 2024-25)",
+    "title_te": "జీవ శాస్త్రం - తొమ్మిదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9th Class",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 6,
+    "source_pdfs": [
+      "9_Biology_Textbook.pdf"
+    ],
+    "total_pages": 148
+  },
+  "academic_standards_framework": {
+    "AS1": "Conceptual Understanding",
+    "AS2": "Asking Questions and Making Hypothesis",
+    "AS3": "Experimentation and Field Investigation",
+    "AS4": "Information Skills and Projects",
+    "AS5": "Communication through Drawing and Model Making",
+    "AS6": "Daily Life Application and Concern to Biodiversity",
+    "AS7": "Appreciation and Aesthetic Sense / Values"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "The Fundamental Unit of Life",
+      "title_te": "జీవక్రియల ప్రాథమిక ప్రమాణం - కణం",
+      "pages_scert": "1 - 25",
+      "learning_outcomes": [
+        "Explain that the cell is the basic structural and functional unit of all living organisms.",
+        "Describe Cell Theory postulated by Schleiden, Schwann, and Virchow.",
+        "Differentiate between prokaryotic and eukaryotic cells, and plant and animal cells.",
+        "Understand diffusion and osmosis across selectively permeable plasma membrane.",
+        "Identify functions of cell organelles: nucleus, mitochondria, plastids, endoplasmic reticulum, Golgi apparatus, lysosomes, vacuoles."
+      ],
+      "theorems_and_key_concepts": [
+        "Cell Theory: All plants and animals are composed of cells; Cell is the basic unit of life; All cells arise from pre-existing cells (Omnis cellula-e-cellula).",
+        "Plasma membrane structure: Fluid mosaic model of lipids and proteins.",
+        "Mitochondria are known as the powerhouses of the cell because they synthesize ATP.",
+        "Plastids: Chloroplasts contain chlorophyll for photosynthesis; Chromoplasts impart color; Leucoplasts store starch and oils."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Osmosis",
+          "term_te": "ద్రవాభిసరణం (ఆస్మాసిస్)",
+          "definition": "The passage of water molecules from a region of higher water concentration to a region of lower water concentration through a selectively permeable membrane."
+        },
+        {
+          "term": "Plasmolysis",
+          "term_te": "ప్లాస్మోలైసిస్",
+          "definition": "The shrinkage or contraction of the contents of a plant cell away from the cell wall when placed in a hypertonic solution."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "6\\text{CO}_2 + 12\\text{H}_2\\text{O} \\xrightarrow[\\text{Chlorophyll}]{\\text{Light}} \\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 + 6\\text{H}_2\\text{O}",
+        "\\text{C}_6\\text{H}_{12}\\text{O}_6 + 6\\text{O}_2 \\rightarrow 6\\text{CO}_2 + 6\\text{H}_2\\text{O} + 38\\text{ ATP} \\quad (\\text{Cellular Respiration})"
+      ],
+      "key_diagrams": [
+        "Ultra-structure of Plant Cell vs Animal Cell",
+        "Temporary mount of onion peel cells under compound microscope",
+        "Structure of Mitochondria with cristae"
+      ],
+      "activities": [
+        {
+          "activity_no": "1.1",
+          "title": "Preparation of Temporary Stained Mount of Onion Peel",
+          "title_te": "ఉల్లిపొర కణాల తాత్కాలిక స్లైడ్ తయారీ మరియు పరిశీలన",
+          "type": "lab_activity",
+          "aim": "To prepare a temporary stained mount of onion peel to observe plant cells and their nucleus under a microscope.",
+          "apparatus": [
+            "Onion bulb",
+            "Watch glass",
+            "Glass slide",
+            "Coverslip",
+            "Forceps",
+            "Needle",
+            "Safranin stain",
+            "Glycerin",
+            "Compound microscope",
+            "Blotting paper"
+          ],
+          "procedure": [
+            "Take a small piece of fresh onion bulb and peel off the transparent epidermal membrane from inner concave surface using forceps.",
+            "Transfer the peel immediately into a watch glass containing water to prevent drying.",
+            "Add 1-2 drops of safranin stain to the watch glass and leave for 2 minutes.",
+            "Transfer the stained peel onto a clean glass slide with a brush and add a drop of glycerin.",
+            "Gently place a coverslip over the peel using a needle at an angle to prevent air bubbles.",
+            "Remove excess glycerin using blotting paper and observe under low and high power of microscope."
+          ],
+          "precautions": [
+            "Avoid folding of the peel while placing on the glass slide.",
+            "Ensure no air bubbles are trapped under the coverslip."
+          ],
+          "observations": "Large number of rectangular, compactly arranged plant cells are seen. Each cell exhibits a distinct cell wall, large central vacuole, cytoplasm, and a prominent nucleus near the periphery.",
+          "conclusion": "The plant cell possesses a rigid cellulose cell wall and defined nucleus, confirming that the cell is the structural unit of the onion peel."
+        }
+      ],
+      "summary_points": [
+        "Cells are enclosed by plasma membrane and have distinct organelles.",
+        "Plant cells differ from animal cells by possessing cell wall, plastids, and large vacuoles."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is the plasma membrane called a selectively permeable membrane?",
+          "question_text_te": "ప్లాస్మా పొరను ఎంపిక చేసిన పారగమ్య త్వచం అని ఎందుకు పిలుస్తారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Make a comparison and write down ways in which plant cells are different from animal cells.",
+          "question_text_te": "వృక్ష కణాలకు మరియు జంతు కణాలకు మధ్య గల ముఖ్యమైన భేదాలను పట్టిక రూపంలో రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe the laboratory procedure to prepare a temporary mount of onion peel to observe plant cells under headings: Aim, Apparatus, Procedure, Precautions, Observations.",
+          "question_text_te": "ఉల్లిపొర కణాలను మైక్రోస్కోప్ కింద పరిశీలించే తాత్కాలిక స్లైడ్ తయారీ ప్రయోగాన్ని లక్ష్యం, పరికరాలు, పద్ధతి, జాగ్రత్తలు, పరిశీలనల శీర్షికలతో వివరించండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram of a Plant Cell.",
+          "question_text_te": "వృక్ష కణం యొక్క చక్కని నామకరణం చేసిన పటాన్ని గీయండి."
+        },
+        {
+          "question_no": 5,
+          "academic_standard": "AS2_asking_questions_hypothesis",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What happens if the plasma membrane ruptures or breaks down in a living cell?",
+          "question_text_te": "సజీవ కణంలో ప్లాస్మా పొర పగిలిపోతే లేదా విచ్ఛిన్నమైతే ఏమి జరుగుతుంది?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Tissues",
+      "title_te": "కణజాలాలు",
+      "pages_scert": "26 - 52",
+      "learning_outcomes": [
+        "Define a tissue as a group of similar cells performing a specific function.",
+        "Classify plant tissues into meristematic (apical, intercalary, lateral) and permanent tissues (simple and complex).",
+        "Differentiate between parenchyma, collenchyma, and sclerenchyma.",
+        "Explain functions of complex permanent tissues: xylem (tracheids, vessels, xylem parenchyma, xylem fibres) and phloem (sieve tubes, companion cells, phloem parenchyma, phloem fibres).",
+        "Classify animal tissues: epithelial, connective (blood, bone, cartilage, areolar, adipose), muscular (striated, unstriated, cardiac), and nervous tissue."
+      ],
+      "theorems_and_key_concepts": [
+        "Meristematic tissue cells are active, have dense cytoplasm, thin cellulose walls, prominent nuclei, and lack vacuoles.",
+        "Sclerenchyma cells are dead, have thickened lignified cell walls with no internal space, providing mechanical strength.",
+        "Xylem transports water and minerals unidirectionally from roots to leaves.",
+        "Phloem translocates photosynthetic food bidirectionally between leaves and storage organs.",
+        "Neuron is the structural and functional unit of the nervous system consisting of cyton, dendrites, and axon."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Tissue",
+          "term_te": "కణజాలం",
+          "definition": "A cluster of cells with a common origin and similar structure that work together to perform a particular specialized function."
+        },
+        {
+          "term": "Differentiation",
+          "term_te": "విభేదనం",
+          "definition": "The developmental process of taking up a permanent shape, size, and function by cells derived from meristematic tissue."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Xylem} = \\text{Tracheids} + \\text{Vessels} + \\text{Xylem Parenchyma} + \\text{Xylem Sclerenchyma}",
+        "\\text{Phloem} = \\text{Sieve Tubes} + \\text{Companion Cells} + \\text{Phloem Parenchyma} + \\text{Phloem Fibres}"
+      ],
+      "key_diagrams": [
+        "Location of apical, intercalary, and lateral meristems in plant body",
+        "Transverse sections of Parenchyma, Collenchyma, and Sclerenchyma",
+        "Neuron (nerve cell) structure showing cell body, axon, and dendrites"
+      ],
+      "activities": [
+        {
+          "activity_no": "2.1",
+          "title": "Growth of Roots in Onion Bulbs (Meristematic Tissue Observation)",
+          "title_te": "ఉల్లిగడ్డ వేర్ల పెరుగుదల - విభాజ్య కణజాల పరిశీలన",
+          "type": "lab_activity",
+          "aim": "To observe root tip growth and determine the effect of removing the apical meristem.",
+          "apparatus": [
+            "Two glass jars filled with water",
+            "Two onion bulbs A and B",
+            "Scissors / blade",
+            "Ruler"
+          ],
+          "procedure": [
+            "Place one onion bulb on each jar with roots dipping in water.",
+            "Measure root lengths daily for 3 days.",
+            "On day 4, cut root tips of bulb B by about 1 cm using scissors.",
+            "Continue recording root lengths in both jars for 5 more days."
+          ],
+          "precautions": [
+            "Keep water level touching base of bulbs throughout.",
+            "Cut tips cleanly without crushing root tissue."
+          ],
+          "observations": "Roots of bulb A continue growing, while roots of bulb B stop growing after tips are removed.",
+          "conclusion": "Growth occurs at root tips due to apical meristem; cutting tips removes meristematic cells, halting growth."
+        }
+      ],
+      "summary_points": [
+        "Plant tissues are divided into meristematic and permanent tissues.",
+        "Animal tissues comprise epithelial, connective, muscular, and nervous tissues."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Define the term 'tissue'.",
+          "question_text_te": "'కణజాలం' అనే పదాన్ని నిర్వచించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Differentiate between parenchyma, collenchyma, and sclerenchyma on the basis of their cell wall.",
+          "question_text_te": "కణకవచ లక్షణాల ఆధారంగా మృదుకణజాలం, స్థూలకోణ కణజాలం, దృఢ కణజాలాల మధ్య భేదాలను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "4M",
+          "question_text_en": "Draw a neat, labeled diagram of a Neuron.",
+          "question_text_te": "నాడీ కణం యొక్క చక్కని నామకరణం చేసిన పటాన్ని గీయండి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe an experiment to observe the growth of roots in onion bulbs and demonstrate apical meristem function.",
+          "question_text_te": "ఉల్లిగడ్డ వేర్ల పెరుగుదలను గమనించి కొన విభాజ్య కణజాలం పనితీరును నిరూపించే ప్రయోగాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Diversity in Living Organisms",
+      "title_te": "జీవులలో వైవిధ్యం",
+      "pages_scert": "53 - 78",
+      "learning_outcomes": [
+        "Understand the basis of classification of living organisms.",
+        "Explain Whittaker's Five Kingdom Classification: Monera, Protista, Fungi, Plantae, Animalia.",
+        "Classify Kingdom Plantae into Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, and Angiosperms.",
+        "Classify Kingdom Animalia into non-chordates (Porifera to Echinodermata) and chordates (Vertebrata: Pisces, Amphibia, Reptilia, Aves, Mammalia).",
+        "Understand binomial nomenclature proposed by Carolus Linnaeus."
+      ],
+      "theorems_and_key_concepts": [
+        "Classification reflects evolutionary history (phylogeny).",
+        "Binomial Nomenclature consists of two Latinized words: Genus (capitalized) and species (lowercase).",
+        "Vertebrata possess notochord, dorsal nerve cord, paired gill pouches, and coelomic body."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Binomial Nomenclature",
+          "term_te": "ద్వినామీకరణం",
+          "definition": "The formal scientific system of naming organisms using two components: generic name and specific epithet."
+        },
+        {
+          "term": "Cryptogams",
+          "term_te": "క్రిప్టోగాములు (పుష్పించని మొక్కలు)",
+          "definition": "Plants with hidden reproductive organs that do not produce seeds (Thallophytes, Bryophytes, Pteridophytes)."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Scientific Name} = \\textit{Genus} + \\textit{species} \\quad (\\text{e.g. } \\textit{Homo sapiens}, \\, \\textit{Mangifera indica})"
+      ],
+      "key_diagrams": [
+        "Whittaker's Five Kingdom Classification hierarchy chart",
+        "Flowchart of Plant Kingdom classification based on body differentiation and vascular tissue"
+      ],
+      "activities": [
+        {
+          "activity_no": "3.1",
+          "title": "Observation of Spirogyra under Microscope",
+          "title_te": "స్పైరోగైరా శైవలం సూక్ష్మదర్శిని పరిశీలన",
+          "type": "lab_activity",
+          "aim": "To observe the filament structure and spiral chloroplasts of Spirogyra.",
+          "apparatus": [
+            "Pond water sample with green filamentous algae",
+            "Glass slide",
+            "Coverslip",
+            "Compound microscope",
+            "Forceps",
+            "Glycerin"
+          ],
+          "procedure": [
+            "Collect green slimy filaments from fresh pond water.",
+            "Place 1-2 filaments on a glass slide in a drop of water.",
+            "Cover with coverslip and observe under compound microscope."
+          ],
+          "precautions": [
+            "Separate the filaments gently to prevent overlapping.",
+            "Keep specimen moist with glycerin."
+          ],
+          "observations": "Unbranched green cylindrical filaments with ribbon-shaped spiral chloroplasts containing pyrenoids are visible.",
+          "conclusion": "Spirogyra belongs to Thallophyta (green algae)."
+        }
+      ],
+      "summary_points": [
+        "Organisms are classified into five kingdoms based on cell structure and nutrition.",
+        "Animals are classified based on symmetry, germ layers, and coelom."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the basis of Whittaker's Five Kingdom Classification?",
+          "question_text_te": "విట్టేకర్ ప్రతిపాదించిన ఐదు రాజ్యాల వర్గీకరణకు ప్రాతిపదిక ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How are gymnosperms and angiosperms different from each other?",
+          "question_text_te": "వివృత బీజాలు మరియు ఆవృత బీజాల మధ్య గల భేదాలను వివరించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why is biodiversity conservation essential for ecological balance?",
+          "question_text_te": "పర్యావరణ సమతుల్యత కోసం జీవవైవిధ్య సంరక్షణ ఎందుకు అవసరం?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Why Do We Fall Ill?",
+      "title_te": "మనం ఎందుకు అనారోగ్యం పాలవుతాము?",
+      "pages_scert": "79 - 102",
+      "learning_outcomes": [
+        "Distinguish between health ('a state of complete physical, mental, and social well-being') and disease.",
+        "Differentiate acute diseases from chronic diseases, and infectious from non-infectious diseases.",
+        "Identify infectious agents: viruses, bacteria, fungi, protozoans, worms.",
+        "Explain means of transmission: air-borne, water-borne, sexual, vectors.",
+        "Understand principles of prevention and treatment, and immunization."
+      ],
+      "theorems_and_key_concepts": [
+        "Health is individual as well as community dependent.",
+        "Infectious diseases are caused by biological pathogens and can spread from person to person.",
+        "Principle of Immunization: Introducing weakened pathogen stimulates immune memory producing antibodies without causing severe disease."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Immunization",
+          "term_te": "వ్యాధి నిరోధకత / టీకా విధానం",
+          "definition": "The process of developing immunity against infectious pathogens through vaccination."
+        },
+        {
+          "term": "Vector",
+          "term_te": "వ్యాధి వాహకం (వెక్టర్)",
+          "definition": "An intermediate organism (such as female Anopheles mosquito) that transmits infectious pathogens from a reservoir to a host."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Antigen} + \\text{Antibody} \\rightarrow \\text{Antigen-Antibody Complex} \\quad (\\text{Immune Response})"
+      ],
+      "key_diagrams": [
+        "Common modes of disease transmission flowchart (Direct and Indirect contact)",
+        "Microscopic view of common human pathogens (Bacteria, Virus, Protozoa)"
+      ],
+      "activities": [
+        {
+          "activity_no": "4.1",
+          "title": "Community Health Survey on Common Infectious Diseases",
+          "title_te": "స్థానిక సమాజంలో వ్యాధుల సర్వే",
+          "type": "lab_activity",
+          "aim": "To survey local neighborhood community for incidence of infectious diseases and analyze sanitation factors.",
+          "apparatus": [
+            "Survey questionnaire",
+            "Data tabulation sheet",
+            "Writing pad"
+          ],
+          "procedure": [
+            "Survey 10 households in your neighborhood.",
+            "Record family members who suffered from diseases in the last 6 months (cold, diarrhea, malaria, dengue).",
+            "Examine neighborhood drinking water source and stagnant water drainage conditions.",
+            "Tabulate disease occurrence vs hygiene levels."
+          ],
+          "precautions": [
+            "Seek consent from households before asking health survey questions.",
+            "Maintain hygiene while inspecting surroundings."
+          ],
+          "observations": "Incidence of water-borne and vector-borne diseases is noticeably higher in areas with poor drainage and open garbage disposal.",
+          "conclusion": "Clean drinking water, vector control, and public sanitation are essential public health measures."
+        }
+      ],
+      "summary_points": [
+        "Disease-free is not identical to healthy.",
+        "Prevention of disease is far more effective than cure."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Differentiate between acute and chronic diseases with one example of each.",
+          "question_text_te": "తీవ్రమైన (స్వల్పకాలిక) మరియు దీర్ఘకాలిక వ్యాధుల మధ్య భేదాలను ఒక్కొక్క ఉదాహరణతో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What precautions can you take in your school to reduce the incidence of infectious diseases?",
+          "question_text_te": "మీ పాఠశాలలో అంటువ్యాధుల వ్యాప్తిని నివారించడానికి మీరు ఎలాంటి ముందస్తు జాగ్రత్తలు తీసుకుంటారు?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is immunization? Explain the principle behind vaccination.",
+          "question_text_te": "రోగనిరోధకత అంటే ఏమిటి? టీకాల వెనుక ఉన్న శాస్త్రీయ సూత్రాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Natural Resources",
+      "title_te": "సహజ వనరులు - జీవావరణం",
+      "pages_scert": "103 - 124",
+      "learning_outcomes": [
+        "Understand the abiotic components of biosphere: air, water, soil.",
+        "Explain the role of atmosphere in climate control and wind formation.",
+        "Understand air, water, and soil pollution and their impacts.",
+        "Describe biogeochemical cycles: Water cycle, Nitrogen cycle, Carbon cycle, Oxygen cycle.",
+        "Explain greenhouse effect, global warming, and ozone layer depletion."
+      ],
+      "theorems_and_key_concepts": [
+        "Biogeochemical cycles maintain dynamic equilibrium of nutrients in the biosphere.",
+        "Nitrogen fixation converts atmospheric N2 into usable nitrates and nitrites via Rhizobium bacteria.",
+        "Ozone layer (O3) in stratosphere protects earth from harmful solar ultraviolet radiation."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Greenhouse Effect",
+          "term_te": "హరితగృహ ప్రభావం",
+          "definition": "The trapping of terrestrial infrared radiation by atmospheric greenhouse gases (CO2, CH4, water vapor), keeping Earth's surface warm."
+        },
+        {
+          "term": "Biogeochemical Cycle",
+          "term_te": "జీవభూ రసాయన వలయం",
+          "definition": "The cyclic movement of essential nutrient elements through biotic and abiotic components of the biosphere."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{O}_2 + h\\nu \\rightarrow \\text{O} + \\text{O}, \\quad \\text{O} + \\text{O}_2 \\rightarrow \\text{O}_3 \\quad (\\text{Ozone Formation})",
+        "\\text{N}_2 \\xrightarrow{\\text{Rhizobium / Lightning}} \\text{NO}_3^- / \\text{NH}_4^+ \\quad (\\text{Nitrogen Fixation})"
+      ],
+      "key_diagrams": [
+        "Nitrogen Cycle in Nature schematic diagram",
+        "Carbon Cycle showing photosynthesis and fossil fuel combustion"
+      ],
+      "activities": [
+        {
+          "activity_no": "5.2",
+          "title": "Demonstrating Soil Erosion and Protective Role of Vegetation",
+          "title_te": "మృత్తికా క్రమక్షయం మరియు వృక్షసంపద రక్షణ పాత్ర ప్రదర్శన",
+          "type": "lab_activity",
+          "aim": "To observe that vegetation cover prevents soil erosion caused by flowing water.",
+          "apparatus": [
+            "Two identical wooden trays with drainage holes",
+            "Garden soil",
+            "Green grass sod / growing seedlings",
+            "Watering can with sprinkler"
+          ],
+          "procedure": [
+            "Fill both trays equally with loose garden soil.",
+            "In tray A, grow grass / seedlings until green cover establishes; leave tray B bare.",
+            "Tilt both trays at equal slope into collection beakers.",
+            "Pour equal amount of water slowly using sprinkler over both trays.",
+            "Compare volume and muddiness of runoff water collected."
+          ],
+          "precautions": [
+            "Pour water at identical rate and height on both trays.",
+            "Keep tray slope identical."
+          ],
+          "observations": "Water collected from bare soil tray B is heavily muddy and contains eroded topsoil; runoff from tray A with vegetation is largely clear.",
+          "conclusion": "Plant roots bind soil particles and foliage reduces impact of raindrops, effectively preventing soil erosion."
+        }
+      ],
+      "summary_points": [
+        "Atmosphere regulates Earth's temperature.",
+        "Nutrients cycle continuously between physical environment and living organisms."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How is our atmosphere different from the atmospheres on Venus and Mars?",
+          "question_text_te": "శుక్రుడు మరియు అంగారక గ్రహాల వాతావరణంతో పోలిస్తే భూమి వాతావరణం ఏ విధంగా విభిన్నమైనది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS5_drawing_and_model_making",
+          "question_type": "diagram_task",
+          "marks_weightage": "8M",
+          "question_text_en": "Draw a schematic diagram of the Nitrogen Cycle in nature and label all key stages.",
+          "question_text_te": "ప్రకృతిలో నత్రజని వలయం యొక్క చక్కని రేఖాచిత్రాన్ని గీసి ముఖ్యమైన దశలను గుర్తించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the greenhouse effect? How is human activity contributing to global warming?",
+          "question_text_te": "హరితగృహ ప్రభావం అంటే ఏమిటి? మానవ కార్యకలాపాలు భూతాపోన్నతికి (గ్లోబల్ వార్మింగ్) ఎలా కారణమవుతున్నాయి?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Improvement in Food Resources",
+      "title_te": "ఆహార వనరులలో అభివృద్ధి",
+      "pages_scert": "125 - 148",
+      "learning_outcomes": [
+        "Understand the need for increasing sustainable food production through Green Revolution and White Revolution.",
+        "Explain crop variety improvement: hybridisation, high yield, disease resistance, agronomic traits.",
+        "Explain crop production management: nutrient management (manures, fertilizers), irrigation, cropping patterns (mixed, intercropping, crop rotation).",
+        "Explain crop protection management: weed, insect pest, and disease control.",
+        "Explain animal husbandry: cattle farming, poultry farming, fish production (capture, culture, composite fish culture), and apiculture (beekeeping)."
+      ],
+      "theorems_and_key_concepts": [
+        "Crops require 16 essential nutrients: Air provides C and O; Water provides H; Soil supplies 13 nutrients (6 macro and 7 micro).",
+        "Composite fish culture maximizes fish yield by stocking surface feeders (Catla), column feeders (Rohu), and bottom feeders (Mrigal/Common Carp).",
+        "Intercropping and crop rotation maintain soil fertility and reduce pest infestation."
+      ],
+      "core_concepts_and_definitions": [
+        {
+          "term": "Intercropping",
+          "term_te": "మిశ్రమ పంట / అంతర పంట విధానం",
+          "definition": "Growing two or more crops simultaneously on the same field in a definite row pattern (e.g. soybean + maize)."
+        },
+        {
+          "term": "Vermicompost",
+          "term_te": "వర్మీకంపోస్ట్",
+          "definition": "Compost prepared using earthworms to hasten the decomposition of plant and animal waste."
+        }
+      ],
+      "key_formulas_and_equations": [
+        "\\text{Total Essential Nutrients (16)} = \\text{Air(2)} + \\text{Water(1)} + \\text{Macronutrients(6)} + \\text{Micronutrients(7)}",
+        "\\text{Macronutrients} = \\text{N, P, K, Ca, Mg, S}"
+      ],
+      "key_diagrams": [
+        "Composite fish culture schematic showing feeding zones",
+        "Intercropping pattern representation in fields"
+      ],
+      "activities": [
+        {
+          "activity_no": "6.1",
+          "title": "Visit to a Local Agricultural Farm / Dairy Farm",
+          "title_te": "స్థానిక వ్యవసాయ క్షేత్రం / పాడి పరిశ్రమ సందర్శన",
+          "type": "lab_activity",
+          "aim": "To observe modern animal husbandry practices in cattle management and milk production.",
+          "apparatus": [
+            "Observation notebook",
+            "Interview questionnaire for farm manager",
+            "Camera / pen"
+          ],
+          "procedure": [
+            "Visit a government or cooperative dairy farm.",
+            "Observe cattle shelter design: roof, slope of floor, ventilation, drainage.",
+            "Record breeds maintained: indigenous (Red Sindhi, Sahiwal) and exotic (Jersey, Holstein-Friesian).",
+            "Inquire about feed: roughage (fodder) vs concentrate (proteins and minerals).",
+            "Observe hygiene and vaccination schedules for prevention of diseases."
+          ],
+          "precautions": [
+            "Maintain hygiene and bio-security protocols upon entering farm premises.",
+            "Do not disturb or agitate animals."
+          ],
+          "observations": "Cross-breeding indigenous cows with exotic breeds produces high milk-yielding animals with high disease resistance.",
+          "conclusion": "Proper shelter, nutritious feed, cross-breeding, and health care are essential components of scientific cattle management."
+        }
+      ],
+      "summary_points": [
+        "Sustainable agriculture balances high yield with environmental preservation.",
+        "Mixed farming and composite aquaculture maximize farm productivity."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Explain any one method of crop production that ensures high yield.",
+          "question_text_te": "అధిక దిగుబడిని ఇచ్చే ఏదైనా ఒక పంట ఉత్పత్తి విధానాన్ని వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_conceptual_understanding",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why are manure and fertilizers used in fields? Compare their advantages and disadvantages.",
+          "question_text_te": "పొలాల్లో సహజ ఎరువులు (పశువుల ఎరువు) మరియు రసాయన ఎరువులను ఎందుకు వాడతారు? వాటి లాభనష్టాలను పోల్చండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS6_daily_life_application",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What are the advantages of composite fish culture?",
+          "question_text_te": "మిశ్రమ చేపల పెంపకం (కాంపోజిట్ ఫిష్ కల్చర్) వల్ల కలిగే ప్రయోజనాలు ఏమిటి?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_experimentation",
+          "question_type": "experiment",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe a field investigation activity visiting a local dairy farm to study cattle management practices.",
+          "question_text_te": "పాడి పశువుల సంరక్షణ పద్ధతులను అధ్యయనం చేయడానికి స్థానిక డెయిరీ ఫారమ్‌ను సందర్శించే క్షేత్ర పరిశీలన విధానాన్ని వివరించండి."
+        }
+      ]
+    }
+  ]
+}

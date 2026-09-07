@@ -1,0 +1,666 @@
+{
+  "book_metadata": {
+    "title_hi": "लहर-1 (द्वितीय भाषा हिंदी) - कक्षा 6 (AP SCERT 2024-25)",
+    "title_en": "Lahar-1 (Hindi Second Language) - Class 6",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "6th Class",
+    "medium": "Hindi Second Language",
+    "total_chapters": 12,
+    "source_pdfs": [
+      "6_Hindi_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "सुनना-बोलना / पढ़ना-समझना",
+    "AS2": "अभिव्यक्ति - सृजनात्मकता",
+    "AS3": "भाषा की बात / व्याकरण"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "पाठशाला में पहला दिन एवं बालगीत",
+      "title_hi": "पाठशाला में पहला दिन एवं बालगीत",
+      "title_en": "Pathshala Mein Pehla Din",
+      "genre": "चित्र पठन एवं बालगीत (सन्नद्धता कार्यक्रम)",
+      "theme": "विद्यालय प्रवेश एवं वर्णमाला अभ्यास",
+      "learning_outcomes": [
+        "चित्र देखकर अपने शब्दों में बातचीत करना।",
+        "सरल बालगीत को हाव-भाव और लय के साथ गाना।",
+        "हिंदी वर्णमाला के स्वर, व्यंजन और मात्राओं की पहचान करना।"
+      ],
+      "summary_points": [
+        "बच्चे विद्यालय में शिक्षकों और सहपाठियों से मिलकर नए मित्र बनाते हैं।",
+        "चल मेरे घोड़े चल-चल-चल गीत के माध्यम से मौखिक अभिव्यक्ति का विकास होता है।",
+        "अ से ज्ञ तक वर्णमाला के अक्षरों का शुद्ध उच्चारण और लेखन अभ्यास।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "पाठशाला": "विद्यालय, स्कूल",
+          "घोड़ा": "अश्व, तुरंग"
+        },
+        "varnamala": "स्वर (11: अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ), व्यंजन (33: क से ह), संयुक्त व्यंजन (क्ष, त्र, ज्ञ, श्र)"
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "पाठशाला के पहले दिन का चित्र देखकर बताइए कि बच्चे क्या-क्या कर रहे हैं?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "आपकी पाठशाला में कौन-कौन सी चीजें हैं? अपनी पाठशाला के बारे में चार वाक्य लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "क से शुरू होने वाले किन्हीं चार सरल शब्दों को लिखिए (जैसे: कमल, कलम, कबूतर, कप)।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "बारिश",
+      "title_hi": "बारिश",
+      "title_en": "Barish",
+      "genre": "बालगीत",
+      "theme": "वर्षा ऋतु और प्रकृति का आनंद",
+      "learning_outcomes": [
+        "वर्षा ऋतु पर आधारित बालगीत का सस्वर वाचन करना।",
+        "वर्षा से होने वाले लाभों को समझना (खेती, हरियाली, जल संचयन)।",
+        "तुक वाले (समान लय वाले) शब्दों की पहचान करना।"
+      ],
+      "summary_points": [
+        "बरसा पानी रिमझिम रिमझिम, खेले आओ मिलकर हम।",
+        "बारिश के आगमन से चारों ओर हरियाली छा जाती है और मौसम सुहावना हो जाता है।",
+        "कागज़ की नाव बनाकर पानी में तैराने से बालमन प्रसन्न होता है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "बारिश": "वर्षा, मेघ, बरसात",
+          "पानी": "जल, नीर, तोय"
+        },
+        "tukant_shabd": [
+          "पानी - नानी",
+          "गीत - मीत",
+          "नाव - गाँव"
+        ],
+        "vilom_shabd": {
+          "आना": "जाना",
+          "हँसना": "रोना"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "बारिश के दिनों में आप अपने मित्रों के साथ क्या-क्या खेल खेलते हैं?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "वर्षा ऋतु पर एक छोटा सा निबंध या चार पंक्तियों की कविता लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "समान अर्थ वाले शब्द लिखिए: (क) पानी, (ख) घर।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "तितली",
+      "title_hi": "तितली",
+      "title_en": "Titli",
+      "genre": "बालगीत",
+      "theme": "प्रकृति प्रेम एवं कीट-पतंगों का सौंदर्य",
+      "learning_outcomes": [
+        "रंग-बिरंगी तितली के जीवन और फूलों पर मंडराने के व्यवहार को समझना।",
+        "प्रकृति के प्रति सौंदर्यबोध और संवेदनशीलता विकसित करना।",
+        "रंगों के नाम और वचन परिवर्तन का अभ्यास करना।"
+      ],
+      "summary_points": [
+        "तितली रंग-बिरंगे पंखों वाली अत्यंत सुंदर कीट है जो फूलों का रस पीती है।",
+        "फूल-फूल पर उड़ती और इठलाती तितली बच्चों को आकर्षित करती है।",
+        "प्रकृति के संतुलन में परागण (Pollination) के लिए तितलियाँ अत्यंत महत्वपूर्ण हैं।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "तितली": "चंचल कीट",
+          "उपवन": "बगीचा, वाटिका",
+          "सुंदर": "खूबसूरत, मनोहर"
+        },
+        "vachan": {
+          "तितली": "तितलियाँ",
+          "फूल": "फूल",
+          "पंखा": "पंखे",
+          "कली": "कलियाँ"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "तितली को देखकर बच्चों के मन में क्या इच्छा जागती है?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "एक सुंदर तितली का चित्र बनाकर उसमें अपने मनपसंद रंग भरिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "वचन बदलिए: (क) तितली, (ख) कली, (ग) पत्ता।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "ऊँट चला",
+      "title_hi": "ऊँट चला",
+      "title_en": "Oont Chala",
+      "genre": "बालगीत",
+      "theme": "रेगिस्तान का जहाज (ऊँट) और जीव-जंतु",
+      "learning_outcomes": [
+        "ऊँट की शारीरिक विशेषताओं (लंबी गर्दन, कूबड़, गद्देदार पैर) को जानना।",
+        "रेगिस्तान में ऊँट के महत्व को समझना।",
+        "संज्ञा शब्दों और क्रिया शब्दों का वाक्य प्रयोग करना।"
+      ],
+      "summary_points": [
+        "ऊँट चला भाई ऊँट चला, हिलता-डुलता ऊँट चला।",
+        "ऊँट की पीठ ऊँची होती है और वह रेत में आसानी से चल सकता है।",
+        "ऊँट भारी बोझ ढोने और रेगिस्तान में सवारी करने के काम आता है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "ऊँट": "रेगिस्तानी पशु",
+          "बालू": "रेत, सिकता",
+          "बोझ": "भार, वजन"
+        },
+        "sangya": [
+          "ऊँट",
+          "रेत",
+          "बालू",
+          "पीठ"
+        ],
+        "kriya": [
+          "चला",
+          "बैठेगा",
+          "उठाए"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "ऊँट को 'रेगिस्तान का जहाज' क्यों कहा जाता है?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "रेगिस्तान में रहने वाले जानवरों और पौधों के बारे में एक छोटा विवरण लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "विलोम शब्द लिखिए: (क) ऊँचा, (ख) भारी, (ग) आगे।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "मेरा देश महान है",
+      "title_hi": "मेरा देश महान है",
+      "title_en": "Mera Desh Mahan Hai",
+      "genre": "देशभक्ति गीत / कविता",
+      "theme": "भारत देश की महिमा एवं राष्ट्रीय गौरव",
+      "learning_outcomes": [
+        "भारत की प्राकृतिक सुंदरता, हिमालय पर्वत, गंगा नदी और विविधता का गौरव अनुभव करना।",
+        "देशभक्ति और राष्ट्रीय एकता की भावना का विकास करना।",
+        "समानार्थी शब्द और शुद्ध वर्तनी का ज्ञान प्राप्त करना।"
+      ],
+      "summary_points": [
+        "उत्तर में हिमालय पर्वत भारत के मुकुट के समान शोभित है।",
+        "गंगा, यमुना, गोदावरी, कृष्णा जैसी पवित्र नदियाँ देश को शस्य-श्यामला बनाती हैं।",
+        "विभिन्न धर्मों और भाषाओं के लोग यहाँ एकता और भाईचारे के साथ रहते हैं।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "महान": "विशाल, श्रेष्ठ",
+          "हिमगिरि": "हिमालय, बर्फ का पर्वत",
+          "सागर": "समुद्र, जलधि"
+        },
+        "paryayvachi": {
+          "पर्वत": [
+            "पहाड़",
+            "अचल",
+            "गिरि"
+          ],
+          "नदी": [
+            "सरिता",
+            "तटिनी",
+            "तरंगिणी"
+          ]
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कवि ने भारत देश को महान क्यों कहा है? दो कारण बताइए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "राष्ट्रीय एकता को बढ़ावा देने वाले चार देशभक्ति नारे (स्लोगन) लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सही वर्तनी वाले शब्द पर गोला लगाइए: (क) हिमालया / हिमालय, (ख) पर्बत / पर्वत।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "मेरी बहना",
+      "title_hi": "मेरी बहना",
+      "title_en": "Meri Behna",
+      "genre": "बालगीत / कविता",
+      "theme": "पारिवारिक प्रेम एवं भाई-बहन का स्नेह",
+      "learning_outcomes": [
+        "परिवार के सदस्यों के बीच परस्पर स्नेह और सहयोग के महत्व को समझना।",
+        "भाई-बहन के पवित्र रिश्ते और रक्षाबंधन के भाव को महसूस करना।",
+        "स्त्रीलिंग और पुल्लिंग शब्दों का अंतर पहचानना।"
+      ],
+      "summary_points": [
+        "मेरी बहना प्यारी है, सारे घर की दुलारी है।",
+        "वह मीठी बोली बोलती है और सबको खुश रखती है।",
+        "परिवार में मिल-जुलकर रहने से घर स्वर्ग जैसा बन जाता है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "दुलारी": "प्यारी, लाड़ली",
+          "सदा": "हमेशा, सर्वदा"
+        },
+        "ling_badlo": {
+          "भाई": "बहन",
+          "माता": "पिता",
+          "बेटा": "बेटी",
+          "चाचा": "चाची"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कविता में बहन के स्वभाव के बारे में क्या बताया गया है?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "रक्षाबंधन के त्योहार पर आप अपने घर में क्या-क्या करते हैं? संक्षेप में लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "लिंग बदलिए: (क) भाई, (ख) लड़का, (ग) नाना।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "खिलौनेवाला",
+      "title_hi": "खिलौनेवाला",
+      "title_en": "Khilounewala",
+      "genre": "बालगीत / कविता",
+      "theme": "बाल मनोविज्ञान एवं कल्पनाशीलता",
+      "learning_outcomes": [
+        "खिलौनों के प्रति बच्चों के आकर्षण और उत्साह को समझना।",
+        "कविता का लयबद्ध पाठ करना।",
+        "प्रत्यय (-वाला) का प्रयोग कर नए शब्द बनाना सीखना।"
+      ],
+      "summary_points": [
+        "गली में तरह-तरह के खिलौने लेकर खिलौनेवाला आया है।",
+        "तोता, गेंद, मोटरगाड़ी, रेलगाड़ी, गुड़िया और धनुष-बाण देखकर बच्चे उत्साहित होते हैं।",
+        "बच्चा रामचंद्र की तरह धनुष-बाण लेकर ताड़का जैसे दुष्टों का नाश करने की कल्पना करता है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "खिलौना": "खेलने की वस्तु",
+          "धनुष": "कमान, चाप"
+        },
+        "pratyay_wala": {
+          "खिलौना + वाला": "खिलौनेवाला",
+          "दूध + वाला": "दूधवाला",
+          "फल + वाला": "फलवाला",
+          "सब्जी + वाला": "सब्जीवाला"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "खिलौनेवाले के पास कौन-कौन से खिलौने हैं?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "आपका सबसे मनपसंद खिलौना कौन सा है और वह आपको क्यों पसंद है?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "'-वाला' जोड़कर तीन नए शब्द बनाइए (जैसे: चाय + वाला = चायवाला)।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "तरकारी दरबार",
+      "title_hi": "तरकारी दरबार",
+      "title_en": "Tarkari Darbar",
+      "genre": "बालगीत / एकांकी",
+      "theme": "हरी सब्जियों का महत्व एवं स्वास्थ्य संरक्षण",
+      "learning_outcomes": [
+        "विभिन्न सब्जियों के नाम, स्वाद और पौष्टिकता को जानना।",
+        "नाट्य रूपांतरण और संवाद शैली में बोलना सीखना।",
+        "विशेषण शब्दों (रंग, आकार, गुण) की पहचान करना।"
+      ],
+      "summary_points": [
+        "सब्जियों के दरबार में आलू राजा, भिंडी रानी, गाजर मंत्री और टमाटर सेनापति बनते हैं।",
+        "हरी पत्तेदार सब्जियाँ खाने से शरीर स्वस्थ, बलवान और निरोगी रहता है।",
+        "बच्चों को जंक फूड छोड़कर ताजी सब्जियाँ और फल खाने की प्रेरणा मिलती है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "तरकारी": "सब्जी, शाक",
+          "दरबार": "राजसभा"
+        },
+        "visheshan": {
+          "लाल टमाटर": "लाल (गुणवाचक विशेषण)",
+          "मीठी गाजर": "मीठी (गुणवाचक विशेषण)",
+          "ताजी भिंडी": "ताजी (गुणवाचक विशेषण)"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "तरकारी दरबार में किस सब्जी को राजा बनाया गया और क्यों?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "हरी सब्जियाँ हमारे स्वास्थ्य के लिए क्यों लाभदायक हैं? चार वाक्य लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सब्जियों के रंगों के नाम लिखिए: (क) टमाटर, (ख) बैंगन, (ग) पालक।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "दो मित्र",
+      "title_hi": "दो मित्र",
+      "title_en": "Do Mitra",
+      "genre": "कहानी (पंचतंत्र आधारित)",
+      "theme": "सच्ची मित्रता एवं संकट में धैर्य",
+      "learning_outcomes": [
+        "सच्चे मित्र की पहचान करना (संकट के समय साथ देने वाला ही सच्चा मित्र होता है)।",
+        "कहानी को पढ़कर मुख्य विचार और नैतिक शिक्षा ग्रहण करना।",
+        "सरल मुहावरों का अर्थ और वाक्य प्रयोग सीखना।"
+      ],
+      "summary_points": [
+        "दो मित्र जंगल से गुजर रहे थे तभी सामने से एक विशाल भालू आता दिखाई दिया।",
+        "पहला मित्र तुरंत अपनी जान बचाने के लिए पेड़ पर चढ़ गया।",
+        "दूसरा मित्र पेड़ पर चढ़ना नहीं जानता था; उसने सांस रोककर जमीन पर मुर्दे के समान लेटने की युक्ति लगाई।",
+        "भालू ने उसे सूंघा और मरा हुआ समझकर चला गया। स्वार्थी मित्र को शर्मिंदा होना पड़ा।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "मित्र": "दोस्त, सखा",
+          "संकट": "मुसीबत, विपत्ति"
+        },
+        "muhavare": {
+          "नौ दो ग्यारह होना": "भाग जाना",
+          "हवा हो जाना": "गायब हो जाना"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "भालू के आने पर दूसरे मित्र ने अपनी जान कैसे बचाई?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "'सच्चा मित्र वही है जो विपत्ति में काम आए' - इस विषय पर अपने विचार लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "मुहावरे का अर्थ लिखकर वाक्य में प्रयोग कीजिए: 'नौ दो ग्यारह होना'।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "जन्म दिन",
+      "title_hi": "जन्म दिन",
+      "title_en": "Janam Din",
+      "genre": "वार्तालाप",
+      "theme": "शिष्टाचार, सामाजिक सौहार्द एवं उत्सव",
+      "learning_outcomes": [
+        "संवाद और वार्तालाप के माध्यम से बातचीत की कला सीखना।",
+        "जन्मदिन पर बड़ों का आशीर्वाद लेने और मित्रों को धन्यवाद देने का शिष्टाचार जानना।",
+        "काल (भूतकाल, वर्तमान काल, भविष्य काल) की प्रारंभिक समझ बनाना।"
+      ],
+      "summary_points": [
+        "अमन के जन्मदिन पर उसके सभी मित्र उपहार लेकर उसके घर आते हैं।",
+        "घर को गुब्बारों और फूलों से सजाया गया है; सब मिलकर बधाई गीत गाते हैं।",
+        "अमन अपने माता-पिता के चरण छूकर आशीर्वाद लेता है और पर्यावरण संरक्षण के लिए एक पौधा लगाता है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "उपहार": "भेंट, तोहफ़ा",
+          "बधाई": "शुभकामना"
+        },
+        "kaal": {
+          "वर्तमान काल": "अमन केक काट रहा है।",
+          "भूतकाल": "कल अमन का जन्मदिन था।",
+          "भविष्य काल": "कल हम सब मिलकर खेलेंगे।"
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "अमन ने अपने जन्मदिन पर क्या अच्छा काम करने का संकल्प लिया?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपने मित्र को उसके जन्मदिन पर शुभकामना संदेश (बधाई पत्र) लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "वाक्य किस काल में है, पहचानिए: 'हम सब कल पिकनिक जाएंगे'।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "प्यासा कौआ और खट्टे अंगूर",
+      "title_hi": "प्यासा कौआ और खट्टे अंगूर",
+      "title_en": "Pyasa Kauva aur Khatte Angoor",
+      "genre": "चित्र कथा (पठन हेतु)",
+      "theme": "बुद्धिबल, लगन एवं आत्म-संतोष",
+      "learning_outcomes": [
+        "चित्रों के माध्यम से कहानी के क्रम को समझना और सुनाना।",
+        "कठिन परिस्थिति में हिम्मत न हारकर बुद्धि से समाधान खोजना।",
+        "विपरीत परिस्थितियों में बहाने बनाने के बजाय मेहनत करने का संदेश पाना।"
+      ],
+      "summary_points": [
+        "प्यासे कौए ने घड़े में कंकड़ डालकर पानी का स्तर ऊपर उठाया और अपनी प्यास बुझाई ('जहाँ चाह, वहाँ राह')।",
+        "लोमड़ी ऊँचे अंगूरों तक नहीं पहुँच पाई तो उसने कह दिया कि 'अंगूर खट्टे हैं'।",
+        "मेहनत और लगन से हर असंभव काम संभव हो जाता है।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "घड़ा": "मटका, कुंभ",
+          "कंकड़": "छोटे पत्थर"
+        },
+        "lokokti": [
+          "जहाँ चाह वहाँ राह"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "घड़े में पानी कम होने पर कौए ने पानी पीने के लिए क्या युक्ति लगाई?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "'जहाँ चाह, वहाँ राह' कहावत का अर्थ अपने शब्दों में समझाइए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "विलोम शब्द लिखिए: (क) खट्टा, (ख) ऊपर।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "साबरमती का संत",
+      "title_hi": "साबरमती का संत",
+      "title_en": "Sabarmati Ka Sant",
+      "genre": "राष्ट्रभक्ति पद्य / गीत (पुनरावृत्ति)",
+      "theme": "महात्मा गांधी, सत्य, अहिंसा और स्वाधीनता",
+      "learning_outcomes": [
+        "राष्ट्रपिता महात्मा गांधी के सत्य और अहिंसा के सिद्धांतों को समझना।",
+        "बिना अस्त्र-शस्त्र के स्वाधीनता आंदोलन का नेतृत्व करने के अदम्य साहस की सराहना करना।",
+        "देशभक्ति गीतों का सामूहिक गान करना।"
+      ],
+      "summary_points": [
+        "दे दी हमें आज़ादी बिना खड्ग बिना ढाल, साबरमती के संत तूने कर दिया कमाल।",
+        "गांधीजी ने चरखा चलाकर स्वदेशी का संदेश दिया और सत्य-अहिंसा के मार्ग पर चलकर अंग्रेजों को देश छोड़ने पर विवश किया।",
+        "गांधीजी के विचार आज भी पूरी दुनिया को शांति और सद्भाव का मार्ग दिखाते हैं।"
+      ],
+      "vocabulary_and_grammar": {
+        "shabdarth": {
+          "खड्ग": "तलवार",
+          "ढाल": "रक्षा का अस्त्र",
+          "कमाल": "अद्भुत कार्य"
+        },
+        "paryayvachi": {
+          "सत्य": [
+            "सच, यथार्थ"
+          ],
+          "शांति": [
+            "अमन, चैन"
+          ]
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "गीत में 'साबरमती का संत' किसे कहा गया है और उनके दो प्रमुख सिद्धांत कौन से थे?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_hi": "महात्मा गांधी के जीवन से हमें कौन-कौन सी अच्छी आदतें सीखनी चाहिए? संक्षेप में लिखिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "समानार्थी शब्द लिखिए: (क) सत्य, (ख) आजादी।"
+        }
+      ]
+    }
+  ]
+}

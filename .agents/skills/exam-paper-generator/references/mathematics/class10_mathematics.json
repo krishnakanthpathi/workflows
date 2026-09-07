@@ -1,0 +1,303 @@
+{
+  "book_metadata": {
+    "title_en": "Mathematics - Class 10 (AP SSC 2024-25)",
+    "title_te": "గణితం - పదవ తరగతి",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "10th Class (SSC)",
+    "medium": "Bilingual (English & Telugu)",
+    "total_chapters": 14,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "semester_2": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    "source_pdfs": [
+      "10_Maths_SEM-1_textbook_2024-25.pdf",
+      "10_Maths_SEM-2_textbook_2024-25.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Problem Solving (Algorithmic computations, solving equations, proofs)",
+    "AS2": "Reasoning and Proof (Mathematical proofs, deductive logic, justifying steps)",
+    "AS3": "Communication (Expressing mathematical concepts, notation, terms)",
+    "AS4": "Connections (Connecting math across topics and real life: Trigonometry with Heights & Distances, Linear equations with cost/speed)",
+    "AS5": "Representation and Visualization (Graphs, geometrical constructions, coordinate plane)"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Real Numbers",
+      "title_te": "వాస్తవ సంఖ్యలు",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "The Fundamental Theorem of Arithmetic: Every composite number can be expressed as a unique product of primes.",
+        "Prime factorization method for HCF and LCM: $\\text{HCF}(a, b) \\times \\text{LCM}(a, b) = a \\times b$",
+        "Revisiting Irrational Numbers: Proof of irrationality of $\\sqrt{2}, \\sqrt{3}, \\sqrt{5}$, and numbers like $3 + 2\\sqrt{5}$, $1/\\sqrt{2}$ by contradiction.",
+        "Terminating and non-terminating repeating decimals: $q = 2^n 5^m$ condition."
+      ],
+      "formulas_katex": [
+        "\\text{HCF}(a, b) \\times \\text{LCM}(a, b) = a \\times b",
+        "\\text{Let } p \\text{ be a prime. If } p \\mid a^2, \\text{ then } p \\mid a.",
+        "\\text{A rational number } \\frac{p}{q} \\text{ has a terminating decimal expansion iff } q = 2^n 5^m."
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "Polynomials",
+      "title_te": "బహుపదులు",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Geometrical meaning of the zeroes of a polynomial (x-intercepts of parabola $y = ax^2 + bx + c$).",
+        "Relationship between zeroes and coefficients of a quadratic polynomial: Sum of zeroes $\\alpha + \\beta = -b/a$, Product of zeroes $\\alpha\\beta = c/a$.",
+        "Cubic polynomial: $\\alpha + \\beta + \\gamma = -b/a$, $\\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = c/a$, $\\alpha\\beta\\gamma = -d/a$.",
+        "Formation of quadratic polynomial: $k[x^2 - (\\alpha + \\beta)x + \\alpha\\beta]$."
+      ],
+      "formulas_katex": [
+        "p(x) = ax^2 + bx + c \\implies \\alpha + \\beta = -\\frac{b}{a}, \\quad \\alpha\\beta = \\frac{c}{a}",
+        "k[x^2 - (\\text{Sum of zeroes})x + (\\text{Product of zeroes})]",
+        "p(x) = ax^3 + bx^2 + cx + d \\implies \\alpha + \\beta + \\gamma = -\\frac{b}{a}, \\quad \\alpha\\beta + \\beta\\gamma + \\gamma\\alpha = \\frac{c}{a}, \\quad \\alpha\\beta\\gamma = -\\frac{d}{a}"
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Pair of Linear Equations in Two Variables",
+      "title_te": "రెండు చరరాశులలో రేఖీయ సమీకరణాల జత",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Standard form: $a_1x + b_1y + c_1 = 0$ and $a_2x + b_2y + c_2 = 0$.",
+        "Consistency conditions: Intersecting ($a_1/a_2 \\neq b_1/b_2$ unique solution), Parallel ($a_1/a_2 = b_1/b_2 \\neq c_1/c_2$ no solution, inconsistent), Coincident ($a_1/a_2 = b_1/b_2 = c_1/c_2$ infinitely many solutions, dependent).",
+        "Algebraic methods: Substitution Method, Elimination Method.",
+        "Word problems: Speed, distance, upstream/downstream, age problems, fractions."
+      ],
+      "formulas_katex": [
+        "\\frac{a_1}{a_2} \\neq \\frac{b_1}{b_2} \\implies \\text{Intersecting lines, Unique solution (Consistent)}",
+        "\\frac{a_1}{a_2} = \\frac{b_1}{b_2} \\neq \\frac{c_1}{c_2} \\implies \\text{Parallel lines, No solution (Inconsistent)}",
+        "\\frac{a_1}{a_2} = \\frac{b_1}{b_2} = \\frac{c_1}{c_2} \\implies \\text{Coincident lines, Infinitely many solutions (Consistent)}"
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "Quadratic Equations",
+      "title_te": "వర్గ సమీకరణాలు",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Standard form: $ax^2 + bx + c = 0, a \\neq 0$.",
+        "Solution by Factorisation method (splitting the middle term).",
+        "Quadratic Formula (Sridharacharya's formula): $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$.",
+        "Nature of roots based on Discriminant $D = b^2 - 4ac$: $D > 0$ two distinct real roots, $D = 0$ two equal real roots, $D < 0$ no real roots."
+      ],
+      "formulas_katex": [
+        "D = b^2 - 4ac \\quad (\\text{Discriminant})",
+        "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}",
+        "D > 0 \\implies \\text{Two distinct real roots}",
+        "D = 0 \\implies \\text{Two equal real roots } \\left(-\\frac{b}{2a}\\right)",
+        "D < 0 \\implies \\text{No real roots}"
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "Arithmetic Progressions",
+      "title_te": "అంకశ్రేఢులు",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Definition of AP: First term $a$, common difference $d = a_{k+1} - a_k$.",
+        "nth term of an AP: $a_n = a + (n-1)d$.",
+        "Sum of first n terms of an AP: $S_n = \\frac{n}{2}[2a + (n-1)d] = \\frac{n}{2}[a + l]$.",
+        "Arithmetic Mean: $b = \\frac{a+c}{2}$ for terms $a, b, c$ in AP."
+      ],
+      "formulas_katex": [
+        "a_n = a + (n-1)d",
+        "S_n = \\frac{n}{2}[2a + (n-1)d] = \\frac{n}{2}(a + l)",
+        "a_n = S_n - S_{n-1}",
+        "\\sum_{k=1}^n k = \\frac{n(n+1)}{2}"
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Triangles",
+      "title_te": "త్రిభుజాలు",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Similar figures vs Congruent figures.",
+        "Basic Proportionality Theorem (Thales Theorem): If a line is drawn parallel to one side of a triangle intersecting other two sides, it divides the two sides in the same ratio.",
+        "Converse of BPT.",
+        "Criteria for Similarity of Triangles: AAA (or AA) similarity criterion, SSS similarity criterion, SAS similarity criterion."
+      ],
+      "formulas_katex": [
+        "\\text{BPT: In } \\triangle ABC, \\text{ if } DE \\parallel BC \\implies \\frac{AD}{DB} = \\frac{AE}{EC}",
+        "\\text{AA Similarity: If two angles of one triangle are equal to two angles of another, triangles are similar.}"
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Coordinate Geometry",
+      "title_te": "నిరూపక జ్యామితి",
+      "semester": 1,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-1_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Distance Formula: Distance between $P(x_1, y_1)$ and $Q(x_2, y_2)$ is $\\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.",
+        "Distance from Origin: $\\sqrt{x^2 + y^2}$.",
+        "Section Formula: Internal division in ratio $m_1:m_2$ is $\\left(\\frac{m_1x_2 + m_2x_1}{m_1+m_2}, \\frac{m_1y_2 + m_2y_1}{m_1+m_2}\\right)$.",
+        "Midpoint Formula: $\\left(\\frac{x_1+x_2}{2}, \\frac{y_1+y_2}{2}\\right)$.",
+        "Centroid of a Triangle: $\\left(\\frac{x_1+x_2+x_3}{3}, \\frac{y_1+y_2+y_3}{3}\\right)$."
+      ],
+      "formulas_katex": [
+        "d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}",
+        "P(x, y) = \\left( \\frac{m_1x_2 + m_2x_1}{m_1 + m_2}, \\frac{m_1y_2 + m_2y_1}{m_1 + m_2} \\right)",
+        "\\text{Midpoint} = \\left( \\frac{x_1 + x_2}{2}, \\frac{y_1 + y_2}{2} \\right)",
+        "G = \\left( \\frac{x_1 + x_2 + x_3}{3}, \\frac{y_1 + y_2 + y_3}{3} \\right)"
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "Introduction to Trigonometry",
+      "title_te": "త్రికోణమితి పరిచయం",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Trigonometric Ratios of an acute angle in a right triangle: $\\sin, \\cos, \\tan, \\csc, \\sec, \\cot$.",
+        "Values of trigonometric ratios of standard angles: $0^\\circ, 30^\\circ, 45^\\circ, 60^\\circ, 90^\\circ$.",
+        "Trigonometric Identities: $\\sin^2\\theta + \\cos^2\\theta = 1$, $1 + \\tan^2\\theta = \\sec^2\\theta$, $1 + \\cot^2\\theta = \\csc^2\\theta$."
+      ],
+      "formulas_katex": [
+        "\\sin\\theta = \\frac{\\text{Opp}}{\\text{Hyp}}, \\quad \\cos\\theta = \\frac{\\text{Adj}}{\\text{Hyp}}, \\quad \\tan\\theta = \\frac{\\text{Opp}}{\\text{Adj}} = \\frac{\\sin\\theta}{\\cos\\theta}",
+        "\\sin^2\\theta + \\cos^2\\theta = 1",
+        "1 + \\tan^2\\theta = \\sec^2\\theta \\iff \\sec^2\\theta - \\tan^2\\theta = 1",
+        "1 + \\cot^2\\theta = \\csc^2\\theta \\iff \\csc^2\\theta - \\cot^2\\theta = 1"
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title_en": "Some Applications of Trigonometry",
+      "title_te": "త్రికోణమితి అనువర్తనాలు",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Line of sight, Horizontal line.",
+        "Angle of Elevation: Angle formed by line of sight with horizontal when object is above observer.",
+        "Angle of Depression: Angle formed by line of sight with horizontal when object is below observer.",
+        "Solving Heights and Distances problems involving single or double right triangles using $\\tan\\theta, \\sin\\theta$."
+      ],
+      "formulas_katex": [
+        "\\tan\\theta = \\frac{\\text{Height of object (Opposite)}}{\\text{Distance from foot (Adjacent)}}",
+        "\\text{Angle of Depression from top} = \\text{Angle of Elevation from bottom (Alternate interior angles)}"
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title_en": "Circles",
+      "title_te": "వృత్తాలు",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Secant and Tangent to a Circle.",
+        "Theorem 10.1: The tangent at any point of a circle is perpendicular to the radius through the point of contact ($OP \\perp XY$).",
+        "Number of tangents from a point: Inside circle (0), on circle (1), outside circle (2).",
+        "Theorem 10.2: The lengths of tangents drawn from an external point to a circle are equal ($PA = PB$)."
+      ],
+      "formulas_katex": [
+        "OP \\perp \\text{Tangent at } P",
+        "PA = PB \\quad (\\text{Tangents from external point } P)",
+        "\\angle APB + \\angle AOB = 180^\\circ \\quad (\\text{Supplementary angles})"
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title_en": "Areas Related to Circles",
+      "title_te": "వృత్తాలకు సంబంధించిన వైశాల్యాలు",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Perimeter and Area of a Circle: $C = 2\\pi r, A = \\pi r^2$.",
+        "Sector of a Circle (Minor and Major): Area of sector $= \\frac{\\theta}{360^\\circ} \\times \\pi r^2$, Length of arc $l = \\frac{\\theta}{360^\\circ} \\times 2\\pi r$.",
+        "Segment of a Circle: Area of minor segment = Area of sector - Area of corresponding triangle."
+      ],
+      "formulas_katex": [
+        "A = \\pi r^2, \\quad C = 2\\pi r",
+        "\\text{Area of Sector} = \\frac{\\theta}{360^\\circ} \\pi r^2 = \\frac{1}{2}lr",
+        "\\text{Length of Arc } l = \\frac{\\theta}{360^\\circ} 2\\pi r",
+        "\\text{Area of Segment} = \\frac{\\theta}{360^\\circ} \\pi r^2 - \\frac{1}{2}r^2 \\sin\\theta"
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title_en": "Surface Areas and Volumes",
+      "title_te": "ఉపరితల వైశాల్యాలు మరియు ఘనపరిమాణాలు",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Surface area and volume of combination of solids (Cylinder, Cone, Hemisphere, Sphere, Cuboid, Cube).",
+        "Conversion of solid from one shape to another (Volume remains conserved).",
+        "Total surface area of combination = visible surface area of individual components."
+      ],
+      "formulas_katex": [
+        "\\text{Cylinder: CSA} = 2\\pi rh, \\quad \\text{TSA} = 2\\pi r(r+h), \\quad V = \\pi r^2h",
+        "\\text{Cone: } l = \\sqrt{r^2 + h^2}, \\quad \\text{CSA} = \\pi rl, \\quad \\text{TSA} = \\pi r(r+l), \\quad V = \\frac{1}{3}\\pi r^2h",
+        "\\text{Sphere: TSA} = 4\\pi r^2, \\quad V = \\frac{4}{3}\\pi r^3",
+        "\\text{Hemisphere: CSA} = 2\\pi r^2, \\quad \\text{TSA} = 3\\pi r^2, \\quad V = \\frac{2}{3}\\pi r^3"
+      ]
+    },
+    {
+      "chapter_no": 13,
+      "title_en": "Statistics",
+      "title_te": "సాంఖ్యక శాస్త్రం",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Mean of grouped data: Direct method ($\\bar{x} = \\frac{\\sum f_ix_i}{\\sum f_i}$), Assumed Mean method ($\\bar{x} = a + \\frac{\\sum f_id_i}{\\sum f_i}$), Step-deviation method ($\\bar{x} = a + \\left(\\frac{\\sum f_iu_i}{\\sum f_i}\\right)h$).",
+        "Mode of grouped data: $\\text{Mode} = l + \\left(\\frac{f_1 - f_0}{2f_1 - f_0 - f_2}\\right)h$.",
+        "Median of grouped data: $\\text{Median} = l + \\left(\\frac{\\frac{n}{2} - cf}{f}\\right)h$.",
+        "Empirical relationship between measures of central tendency: $3\\text{Median} = \\text{Mode} + 2\\text{Mean}$."
+      ],
+      "formulas_katex": [
+        "\\bar{x} = \\frac{\\sum f_i x_i}{\\sum f_i} = a + \\frac{\\sum f_i d_i}{\\sum f_i} = a + \\left(\\frac{\\sum f_i u_i}{\\sum f_i}\\right)h",
+        "\\text{Mode} = l + \\left( \\frac{f_1 - f_0}{2f_1 - f_0 - f_2} \\right)h",
+        "\\text{Median} = l + \\left( \\frac{\\frac{n}{2} - cf}{f} \\right)h",
+        "3\\text{Median} = \\text{Mode} + 2\\text{Mean}"
+      ]
+    },
+    {
+      "chapter_no": 14,
+      "title_en": "Probability",
+      "title_te": "సంభావ్యత",
+      "semester": 2,
+      "pdf": "/Users/krishnakanth/Downloads/ap_scert_class10/10_Maths_SEM-2_textbook_2024-25.pdf",
+      "theorems_and_key_concepts": [
+        "Theoretical (Classical) Probability: $P(E) = \\frac{\\text{Number of outcomes favourable to } E}{\\text{Total number of possible outcomes}}$.",
+        "Elementary events and compound events: Sum of probabilities of all elementary events is 1.",
+        "Complementary events: $P(E) + P(\\bar{E}) = 1$.",
+        "Impossible event ($P = 0$) and Sure/Certain event ($P = 1$).",
+        "Range of probability: $0 \\le P(E) \\le 1$.",
+        "Standard experiments: Tossing coins (1, 2, 3 coins), Rolling dice (1, 2 dice), Well-shuffled deck of 52 playing cards."
+      ],
+      "formulas_katex": [
+        "P(E) = \\frac{n(E)}{n(S)}",
+        "0 \\le P(E) \\le 1",
+        "P(E) + P(\\bar{E}) = 1 \\iff P(\\bar{E}) = 1 - P(E)",
+        "\\text{Pack of 52 cards: 4 suits (Spades, Hearts, Diamonds, Clubs of 13 each), 26 Red, 26 Black, 12 Face cards (J, Q, K)}"
+      ]
+    }
+  ]
+}

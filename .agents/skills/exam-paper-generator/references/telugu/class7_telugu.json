@@ -1,0 +1,598 @@
+{
+  "book_metadata": {
+    "title_te": "తెలుగు వాచకం - ఏడవ తరగతి (AP SCERT 2024-25)",
+    "title_en": "Telugu Reader - Class 7 (First Language)",
+    "board": "ఆంధ్రప్రదేశ్ ప్రభుత్వం (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "7వ తరగతి",
+    "medium": "తెలుగు ప్రథమ భాష",
+    "total_chapters": 12,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "source_pdfs": [
+      "7_Telugu_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "అవగాహన - ప్రతిస్పందన",
+    "AS2": "వ్యక్తీకరణ - సృజనాత్మకత",
+    "AS3": "భాషాంశాలు",
+    "AS4": "వ్యాకరణాంశాలు"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "అక్షరం",
+      "title_en": "Aksharam",
+      "semester": 1,
+      "prakriya": "వచన కవిత",
+      "ithivrittam": "చదువు విశిష్టత",
+      "kavi": "రావినూతల ప్రేమకిశోర్",
+      "learning_outcomes": [
+        "చదువు యొక్క గొప్పతనాన్ని, తల్లి ఆశయాలను అర్థం చేసుకోవడం.",
+        "వచన కవితా శైలిని ఆస్వాదించడం మరియు స్వయంగా కవితలు రాయడం.",
+        "సంధులు, పర్యాయపదాలు మరియు జాతీయాలను గుర్తించి ప్రయోగించడం."
+      ],
+      "theorems_and_key_concepts": [
+        "అక్షరం చదువు యొక్క శక్తిని, తల్లి నిస్వార్థ ప్రేమను మరియు అక్షరాలతో మనిషికి ఉన్న శాశ్వత బంధాన్ని తెలియజేస్తుంది.",
+        "కవి పరిచయం: రావినూతల ప్రేమకిశోర్ ప్రకాశం జిల్లా కొండపి గ్రామ వాస్తవ్యులు.",
+        "వ్యాకరణం: ఉత్వ సంధి (ఉత్తునకు అచ్చు పరమగునపుడు సంధి నిత్యము)."
+      ],
+      "summary_points": [
+        "కవి నిద్రపోతున్నప్పుడు కూడా అక్షరాలే కవాతు చేస్తూ కంటికి నిద్ర రాకుండా చేస్తాయి.",
+        "తల్లి ఆశలు నెరవేర్చడానికి నిరంతరం చదువుకోవాలనే భావన వ్యక్తమవుతుంది."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "అక్షరం పాఠం ఆధారంగా కవికి అక్షరాలతో ఉన్న అనుబంధాన్ని వివరించండి.",
+          "question_text_en": "Explain the poet's bond with letters based on the poem Aksharam."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_te": "మీ జీవితంలో తల్లి ప్రాధాన్యతను మరియు చదువు విలువను వివరిస్తూ స్వంత మాటల్లో వ్యాసం రాయండి.",
+          "question_text_en": "Write an essay in your own words on the importance of mother and education in your life."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది పదాలకు పర్యాయపదాలు రాయండి: (అ) అక్షరం, (ఆ) తల్లి.",
+          "question_text_en": "Write synonyms for the given words: (a) Aksharam, (b) Thalli."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది సంధి పదాలను విడదీసి సంధి పేరు రాయండి: గురుతులందరు, మేలైనది.",
+          "question_text_en": "Split the sandhi words and name the sandhi rule: Gurutulandaru, Melainadi."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "మాయాకంబళి",
+      "title_en": "Mayakambali",
+      "semester": 1,
+      "prakriya": "జానపద కథ",
+      "ithivrittam": "మానవ స్వభావం",
+      "kavi": "కలువకొలను సదానంద",
+      "learning_outcomes": [
+        "జానపద కథల విశిష్టతను మరియు కథన నైపుణ్యాలను పెంపొందించుకోవడం.",
+        "దురాశ వల్ల కలిగే అనర్థాలను గ్రహించి సన్మార్గంలో నడవడం."
+      ],
+      "theorems_and_key_concepts": [
+        "మాయాకంబళిని పొందిన వ్యక్తి అనుభవించిన ఆనందం, అత్యాశ వల్ల కలిగిన నష్టాలు మానవ సహజ స్వభావాన్ని ప్రతిబింబిస్తాయి.",
+        "కలువకొలను సదానంద చిత్తూరు జిల్లా పాకాల వాస్తవ్యులు; కేంద్ర సాహిత్య అకాడమీ బాలసాహిత్య పురస్కార గ్రహీత.",
+        "వ్యాకరణం: ఇత్వ సంధి (ఏమ్యాదుల ఇత్తునకు సంధి వైకల్పికము)."
+      ],
+      "summary_points": [
+        "మంత్ర శక్తులు లేదా అద్భుత వస్తువుల కంటే సచ్ఛీలత మరియు కష్టపడే తత్వమే గొప్పవని కథ తెలియజేస్తుంది."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మాయాకంబళి వల్ల కథానాయకుడికి కలిగిన లాభనష్టాలు ఏమిటి?",
+          "question_text_en": "What were the merits and demerits experienced by the protagonist due to the magical blanket?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "మీకు మాయాకంబళి దొరికితే మీరు సమాజానికి ఎలాంటి మంచి పనులు చేస్తారో ఊహించి రాయండి.",
+          "question_text_en": "Imagine and write what good deeds you would do for society if you found a magical blanket."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది పదాలకు విగ్రహవాక్యాలు రాసి సమాసం పేరు గుర్తించండి: మాయాకంబళి, ధర్మబుద్ధి.",
+          "question_text_en": "Write analytical phrases and identify samasa for: Mayakambali, Dharmabuddhi."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "చిన్నిశిశువు",
+      "title_en": "Chinnishishuvu",
+      "semester": 1,
+      "prakriya": "పదకవిత (సంకీర్తన)",
+      "ithivrittam": "శైశవ వర్ణన / భక్తి",
+      "kavi": "తాళ్ళపాక అన్నమయ్య",
+      "learning_outcomes": [
+        "అన్నమాచార్యుల సంకీర్తనా వైభవాన్ని మరియు భక్తి రసాన్ని ఆస్వాదించడం.",
+        "బాలకృష్ణుని ముగ్ధమోహన శైశవ లీలలను పదకవిత ద్వారా గ్రహించడం."
+      ],
+      "theorems_and_key_concepts": [
+        "తాళ్ళపాక అన్నమాచార్యులు పదకవితా పితామహుడు; తిరుమల వేంకటేశ్వరునిపై 32 వేల సంకీర్తనలు రచించారు.",
+        "చిన్నిశిశువు కీర్తనలో చిన్నికృష్ణుని చేతి వెన్నముద్ద, నడకల మువ్వల సవ్వడి, మోము అందాన్ని లాలిత్యంగా వర్ణించారు.",
+        "వ్యాకరణం: ప్రకృతి - వికృతులు (ఆశ్చర్యం - అచ్చెరువు, దిశ - దెస)."
+      ],
+      "summary_points": [
+        "బాలకృష్ణుని పసిచేష్టలు జగమంతటికీ ఆనందాన్ని కలిగిస్తాయని అన్నమయ్య కీర్తించారు."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "అన్నమయ్య బాలకృష్ణుని అందచందాలను ఏ విధంగా వర్ణించారో తెలపండి.",
+          "question_text_en": "How does Annamayya describe the charming childhood forms of Lord Krishna?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది పదాలకు ప్రకృతి - వికృతులను రాయండి: (అ) నిద్ర, (ఆ) దిశ, (ఇ) ఆశ్చర్యం.",
+          "question_text_en": "Write prakriti-vikruti forms for: (a) Nidra, (b) Disha, (c) Aascharyam."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "మీ ఇంట్లో చిన్న పిల్లలు చేసే ముద్దుముద్దు చేష్టలను వర్ణిస్తూ నాలుగు వాక్యాలు రాయండి.",
+          "question_text_en": "Write four sentences describing sweet childhood gestures of little children in your home."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "మర్రిచెట్టు",
+      "title_en": "Marrichettu",
+      "semester": 1,
+      "prakriya": "స్వగతం / స్కెచ్",
+      "ithivrittam": "సహానుభూతి / పర్యావరణం",
+      "kavi": "త్రిపురనేని గోపీచంద్",
+      "learning_outcomes": [
+        "ప్రకృతితో మానవుని అనుబంధాన్ని, వృక్షాల నిస్వార్థ సేవను గుర్తించడం.",
+        "స్వగతం మరియు వ్యంగ్య శైలిలోని వచన రచనా నైపుణ్యాలను గ్రహించడం."
+      ],
+      "theorems_and_key_concepts": [
+        "మర్రిచెట్టు తన ఆత్మకథ రూపంలో శతాబ్దాలుగా తాను చూసిన తరతరాల మనుషుల ప్రవర్తనలను, ఆశానిరాశలను ఆవిష్కరిస్తుంది.",
+        "త్రిపురనేని గోపీచంద్ ప్రముఖ తెలుగు నవలాకారుడు, తాత్విక రచయిత; 'అసమర్థుని జీవయాత్ర' వీరి ప్రసిద్ధ నవల.",
+        "వ్యాకరణం: అత్వ సంధి (అత్తునకు సంధి బహుళముగానగు)."
+      ],
+      "summary_points": [
+        "చెట్లు ప్రతిఫలాపేక్ష లేకుండా సమస్త ప్రాణులకు నీడను, ఆశ్రయాన్ని అందిస్తాయి."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మర్రిచెట్టు తన నీడన సేదతీరిన మనుషుల గురించి ఏం చెప్పింది?",
+          "question_text_en": "What did the banyan tree say about the people who rested under its shade?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_te": "'వృక్షో రక్షతి రక్షితః' అనే సూక్తిని సమర్థిస్తూ చెట్ల ప్రాముఖ్యతపై వ్యాసం రాయండి.",
+          "question_text_en": "Write an essay justifying the importance of trees based on the maxim 'Vriksho Rakshati Rakshitah'."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది సంధులను విడదీయండి: మేనల్లుడు, ఒకానొక.",
+          "question_text_en": "Split the sandhi for: Menalludu, Okanoka."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "పద్య పరిమళం",
+      "title_en": "Padya Parimalam",
+      "semester": 1,
+      "prakriya": "శతక పద్యాలు",
+      "ithivrittam": "నైతిక విలువలు",
+      "kavi": "శతక కవులు (బద్దెన, వేమన, ధూర్జటి, పోతులూరి వీరబ్రహ్మం)",
+      "learning_outcomes": [
+        "శతక పద్యాల లక్షణాలు, మకుటం ప్రాధాన్యతను తెలుసుకోవడం.",
+        "జీవితంలో అలవర్చుకోవాల్సిన నైతిక విలువలు, సత్ప్రవర్తనను గ్రహించడం."
+      ],
+      "theorems_and_key_concepts": [
+        "శతకం అనగా నూరు లేదా నూటెనిమిది పద్యాల సంపుటి; ప్రతి పద్యానికి ఒకే మకుటం ఉండడం శతక లక్షణం.",
+        "సుమతీ శతకం (బద్దెన), వేమన శతకం (వేమన), కాళహస్తీశ్వర శతకం (ధూర్జటి).",
+        "ఛందస్సు: కందం, తేటగీతి, ఆటవెలది పద్యాల పరిచయం."
+      ],
+      "summary_points": [
+        "మంచి మాటలు, సజ్జన సాంగత్యం, పరోపకారం మానవునికి శాశ్వతమైన ఆభరణాలు."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "వేమన పద్యం ద్వారా వ్యక్తీకరించబడిన లోకనీతి ఏమిటి?",
+          "question_text_en": "What worldly wisdom is conveyed through Vemana's moral verses?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "కింది పద్యానికి ప్రతిపదార్థ తాత్పర్యాలు రాయండి: బలవంతుడ నాకేమని పలవురతో నిగ్రహించి...",
+          "question_text_en": "Write word-by-word meaning and summary for the given moral stanza."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది పదాలకు నానార్థాలు రాయండి: (అ) హరి, (ఆ) మిత్రుడు.",
+          "question_text_en": "Write contextual multiple meanings (nanarthalu) for: (a) Hari, (b) Mitrudu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "మన విశిష్ట ఉత్సవాలు",
+      "title_en": "Mana Vishishta Utsavalu",
+      "semester": 1,
+      "prakriya": "వ్యాసం",
+      "ithivrittam": "సంస్కృతి సంప్రదాయాలు",
+      "kavi": "రచయితల బృందం",
+      "learning_outcomes": [
+        "ఆంధ్రప్రదేశ్ లోని ప్రముఖ జాతరలు, ఉత్సవాల సాంస్కృతిక వైభవాన్ని తెలుసుకోవడం.",
+        "కులమతాలకు అతీతంగా ప్రజల ఐక్యతను చాటే పండుగల ప్రాముఖ్యతను గ్రహించడం."
+      ],
+      "theorems_and_key_concepts": [
+        "ఉత్తరాంధ్ర సిరిమానోత్సవం, గుణదల మేరీమాత ఉత్సవం, నెల్లూరు రొట్టెల పండుగ, కోటప్పకొండ ప్రభల తిరునాళ్ళు, లేపాక్షి ఉత్సవాలు.",
+        "ఈ ఉత్సవాలు మత సామరస్యానికి, లౌకిక విలువలకు మరియు సాంస్కృతిక సమ్మేళనానికి ప్రతీకలు.",
+        "వ్యాకరణం: ద్వంద్వ సమాసం మరియు ద్విగు సమాసం."
+      ],
+      "summary_points": [
+        "పండుగలు ప్రజలలో ఉత్సాహాన్ని నింపి సాంస్కృతిక వారసత్వాన్ని పరిరక్షిస్తాయి."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "నెల్లూరు రొట్టెల పండుగ యొక్క ప్రత్యేకత మరియు మత సామరస్య విశిష్టతను తెలపండి.",
+          "question_text_en": "State the uniqueness and communal harmony represented by the Rottela Panduga of Nellore."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "మీ ప్రాంతంలో జరిగే ఏదైనా ఒక స్థానిక తిరునాళ్ళు లేదా జాతరను వర్ణిస్తూ మిత్రునికి లేఖ రాయండి.",
+          "question_text_en": "Write a letter to a friend describing a local fair or festival held in your region."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది సమాసాలను గుర్తించి పేరు రాయండి: (అ) నవరాత్రులు, (ఆ) తల్లిదండ్రులు.",
+          "question_text_en": "Identify the samasa for: (a) Navarathrulu, (b) Thallidandrulu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "కప్పతల్లి పెళ్లి",
+      "title_en": "Kappathalli Pelli",
+      "semester": 2,
+      "prakriya": "గేయం",
+      "ithivrittam": "ఆచారం - సంప్రదాయం / గ్రామీణ జీవనం",
+      "kavi": "చావలి బంగారమ్మ",
+      "learning_outcomes": [
+        "వర్షాల కోసం పల్లెల్లో చేసే ఆచారాలు, కప్పతల్లి పెళ్లి సంప్రదాయాన్ని అవగతం చేసుకోవడం.",
+        "గేయ కవితా శైలిని లయబద్ధంగా గానం చేయడం."
+      ],
+      "theorems_and_key_concepts": [
+        "కరువు సమయంలో వానలు కురవాలని గ్రామాల్లో కప్పలకు పెళ్లిళ్లు చేసి వరుణ దేవుణ్ని ప్రార్థించే జానపద ఆచారం.",
+        "చావలి బంగారమ్మ ఆధునిక తెలుగు కవయిత్రి; గ్రామీణ జీవనాన్ని, స్త్రీ హృదయాన్ని ఆర్ద్రంగా చిత్రించారు.",
+        "వ్యాకరణం: యడాగమ సంధి (సంధిలేని చోట స్వరంబుకంటె పరంబైన స్వరమునకు యడాగమంబగు)."
+      ],
+      "summary_points": [
+        "రైతులకు వర్షం ప్రాణాధారమని, ప్రకృతి అనుగ్రహం కోసం చేసే పూజలే ఈ ఆచారాలని తెలియజేస్తుంది."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "పల్లెల్లో కప్పతల్లి పెళ్లి ఎందుకు చేస్తారు? దాని వెనుక ఉన్న నమ్మకం ఏమిటి?",
+          "question_text_en": "Why do villagers perform the marriage of frogs? What is the belief behind it?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "వర్షాలు సకాలంలో కురవకపోతే రైతులు ఎదుర్కొనే ఇబ్బందులను వివరిస్తూ నాలుగు వాక్యాలు రాయండి.",
+          "question_text_en": "Write four sentences describing the difficulties faced by farmers if rains fail in time."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది సంధులను విడదీయండి: మాయమ్మ (మా + య + అమ్మ), పల్లెటూరు.",
+          "question_text_en": "Split the sandhi for: Mayamma, Palleturu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "ఎద",
+      "title_en": "Eda",
+      "semester": 2,
+      "prakriya": "కథానిక",
+      "ithivrittam": "ఆశావాహ దృక్పథం / మానవతా విలువలు",
+      "kavi": "బోనం నాగభూషణం సదానంద",
+      "learning_outcomes": [
+        "కథానిక శిల్పాన్ని, పాత్రల స్వభావ చిత్రణను గ్రహించడం.",
+        "కష్టాలు ఎదురైనప్పుడు అధైర్యపడకుండా ఆశావాహ దృక్పథంతో ముందుకు సాగడం."
+      ],
+      "theorems_and_key_concepts": [
+        "జీవితంలో ఆటుపోట్లు సహజమని, ఆత్మవిశ్వాసం మరియు దయార్ద్ర హృదయంతో వాటిని జయించవచ్చని కథ సారాంశం.",
+        "వ్యాకరణం: గసడదవాదేశ సంధి పరిచయం."
+      ],
+      "summary_points": [
+        "మనిషికి ఆశే ప్రాణం; నిరాశను వీడి ధైర్యంతో జీవించడమే అసలైన గెలుపు."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కథానాయకుడిలో ఆశావాహ దృక్పథం ఎలా కలిగింది?",
+          "question_text_en": "How was an optimistic outlook awakened in the protagonist?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_te": "జీవితంలో ఆశావాహ దృక్పథం యొక్క ఆవశ్యకతను తెలియజేస్తూ కథ సమీక్ష రాయండి.",
+          "question_text_en": "Write a review of the story highlighting the necessity of an optimistic attitude in life."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది జాతీయాలకు అర్థాలు రాసి సొంత వాక్యాలు రాయండి: (అ) కంటికి రెప్పలా, (ఆ) తలమునకలగు.",
+          "question_text_en": "Write meanings and use the idioms in own sentences: (a) Kantiki reppala, (b) Thalamunakalagu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "హితోక్తులు",
+      "title_en": "Hithokthulu",
+      "semester": 2,
+      "prakriya": "అనువాద కవిత",
+      "ithivrittam": "నైతిక విలువలు / సదాచారం",
+      "kavi": "రాళ్ళపల్లి అనంతకృష్ణశర్మ",
+      "learning_outcomes": [
+        "సంస్కృత ప్రాకృత సూక్తుల తెలుగు అనువాద సౌందర్యాన్ని ఆస్వాదించడం.",
+        "మంచి ప్రవర్తన, నిజాయితీ, పెద్దల పట్ల గౌరవం వంటి సుగుణాలను అలవర్చుకోవడం."
+      ],
+      "theorems_and_key_concepts": [
+        "రాళ్ళపల్లి అనంతకృష్ణశర్మ ప్రముఖ విద్వాంసులు, సంగీత సాహిత్య కోవిదులు; గాథాసప్తశతిని తెలుగులోకి అనువదించారు.",
+        "హితోక్తులు సమాజంలో మనిషి జీవించాల్సిన సన్మార్గాన్ని సూచించే హితవచనాలు.",
+        "వ్యాకరణం: తత్సమ, తద్భవ, దేశ్య, గ్రామ్య పదాల వర్గీకరణ."
+      ],
+      "summary_points": [
+        "సత్యం, ధర్మం, దయ అనే మూడు సుగుణాలు మనిషిని ఉత్తముడిగా తీర్చిదిద్దుతాయి."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "హితోక్తులు పాఠం ద్వారా రాళ్ళపల్లి వారు అందించిన హితబోధ ఏమిటి?",
+          "question_text_en": "What beneficial advice was rendered by Rallapalli through the lesson Hithokthulu?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది పదాలను తత్సమ, తద్భవ పదాలుగా వర్గీకరించండి: అగ్ని, అగ్గి, చంద్రుడు, చందురుడు.",
+          "question_text_en": "Classify the given words into tatsama and tadbhava: Agni, Aggi, Chandrudu, Chandurudu."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "ప్రియ మిత్రునికి...",
+      "title_en": "Priya Mithruniki...",
+      "semester": 2,
+      "prakriya": "లేఖ",
+      "ithivrittam": "మానవీయ విలువలు / లలిత కళలు",
+      "kavi": "డా. సూర్యదేవర సంజీవదేవ్",
+      "learning_outcomes": [
+        "లేఖా రచనలోని విధానం మరియు మిత్రునికి భావాలను తెలియజేసే నేర్పును అలవర్చుకోవడం.",
+        "చిత్రకళ, సాహిత్యం మరియు ప్రకృతి సౌందర్యం పట్ల రసానుభూతిని పొందడం."
+      ],
+      "theorems_and_key_concepts": [
+        "సంజీవదేవ్ గుంటూరు జిల్లా తుమ్మపూడి వాస్తవ్యులు; చిత్రకారుడు, రచయిత మరియు కళా విమర్శకుడు.",
+        "లేఖలో కళల ప్రాముఖ్యత, ప్రకృతి అందాలు మరియు స్నేహబంధం యొక్క మధురిమను వివరించారు.",
+        "వ్యాకరణం: ప్రత్యక్ష మరియు పరోక్ష కథనాలు."
+      ],
+      "summary_points": [
+        "స్నేహం జీవితంలో అమూల్యమైన బహుమతి అని లేఖ తెలియజేస్తుంది."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సంజీవదేవ్ తన లేఖలో ప్రకృతి సౌందర్యాన్ని మరియు చిత్రకళను ఎలా ప్రశంసించారు?",
+          "question_text_en": "How did Sanjeeva Dev praise natural beauty and painting in his letter?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "మీ పాఠశాలలో జరిగిన వార్షికోత్సవం గురించి వివరిస్తూ మీ మిత్రునికి లేఖ రాయండి.",
+          "question_text_en": "Write a letter to your friend describing the annual day celebrations in your school."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "బాలచంద్రుని ప్రతిజ్ఞ",
+      "title_en": "Balachandruni Prathigna",
+      "semester": 2,
+      "prakriya": "ద్విపద కావ్యం",
+      "ithivrittam": "శౌర్యపరాక్రమాలు / దేశభక్తి",
+      "kavi": "శ్రీనాథుడు",
+      "learning_outcomes": [
+        "పలనాటి వీరచరిత్రలోని బాలచంద్రుని సాహసోపేత శౌర్యాన్ని తెలుసుకోవడం.",
+        "ద్విపద కావ్య ఛందస్సు మరియు ప్రాచీన వీరగాథల శైలిని ఆస్వాదించడం."
+      ],
+      "theorems_and_key_concepts": [
+        "శ్రీనాథ మహాకవి 15వ శతాబ్దపు కవిసార్వభౌముడు; పల్నాటి యుద్ధ చరిత్రను ద్విపద కావ్యంగా రచించారు.",
+        "యుద్ధరంగంలోకి వెళ్లేముందు బాలచంద్రుడు తన తల్లి ఐతాంబతో పలికిన వీరోచిత ప్రతిజ్ఞా వాక్యాలు దేశభక్తిని ప్రబోధిస్తాయి.",
+        "వ్యాకరణం: ఛందస్సు - ద్విపద లక్షణాలు (మూడు ఇంద్ర గణాలు, ఒక సూర్య గణం, 1-3 యతి మైత్రి)."
+      ],
+      "summary_points": [
+        "యుద్ధభూమిలో ప్రాణాలర్పించడమైనా మేలే కానీ పిరికివానిగా వెనుదిరగబోనని బాలచంద్రుని శపథం."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "బాలచంద్రుడు తల్లితో చేసిన ప్రతిజ్ఞ ఏమిటి? ఆయన వీరత్వాన్ని తెలపండి.",
+          "question_text_en": "What was the oath taken by Balachandrudu before his mother? Describe his valour."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_te": "దేశరక్షణలో సైనికుల త్యాగాలను ప్రశంసిస్తూ నాలుగు నినాదాలు రాయండి.",
+          "question_text_en": "Write four slogans praising the sacrifices of soldiers in defending the country."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "ద్విపద పద్య లక్షణాలను రాయండి.",
+          "question_text_en": "State the structural characteristics of Dwipada verse metre."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "స్ఫూర్తిప్రదాతలు",
+      "title_en": "Spoorthi Pradhathalu",
+      "semester": 2,
+      "prakriya": "వ్యాసం / జీవిత చరిత్రలు",
+      "ithivrittam": "స్ఫూర్తిదాయక జీవితాలు / సాంఘిక సేవ",
+      "kavi": "రచయితల బృందం",
+      "learning_outcomes": [
+        "డొక్కా సీతమ్మ, గాడిచర్ల హరిసర్వోత్తమరావు, కోడి రామ్మూర్తి నాయుడు వంటి మహనీయుల జీవితాల నుండి స్ఫూర్తి పొందడం.",
+        "సమాజ సేవ, పరోపకారం మరియు శారీరక దారుఢ్యం పట్ల ఆసక్తిని పెంపొందించుకోవడం."
+      ],
+      "theorems_and_key_concepts": [
+        "అపర అన్నపూర్ణ డొక్కా సీతమ్మ నిత్యాన్నదాన వైభవం.",
+        "ఆంధ్రతిలక్ గాడిచర్ల హరిసర్వోత్తమరావు గ్రంథాలయోద్యమం మరియు స్వాతంత్ర్య సమరం.",
+        "కలియుగ భీముడు కోడి రామ్మూర్తి నాయుడు ప్రపంచవ్యాప్త మల్లయుద్ధ విన్యాసాలు.",
+        "వ్యాకరణం: ప్రత్యయాలు మరియు విభక్తులు."
+      ],
+      "summary_points": [
+        "నిస్వార్థ సేవ మరియు దేశభక్తితో జీవించిన మహనీయుల జీవితాలు భావి తరాలకు మార్గదర్శకాలు."
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "డొక్కా సీతమ్మను 'అపర అన్నపూర్ణ' అని ఎందుకు పిలిచారో వివరించండి.",
+          "question_text_en": "Explain why Dokka Seethamma was revered as 'Apara Annapoorna'."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_te": "మీకు నచ్చిన ఒక స్ఫూర్తిప్రదాత జీవిత విశేషాలను తెలుపుతూ సమాజానికి వారి సేవలను ప్రశంసించండి.",
+          "question_text_en": "Describe the life achievements of an inspiring personality of your choice and appreciate their social service."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_te": "కింది వాక్యాల్లోని విభక్తి ప్రత్యయాలను గుర్తించి విభక్తుల పేర్లు రాయండి: సీతమ్మ చేత అన్నదానం చేయబడింది.",
+          "question_text_en": "Identify the case markers (vibhakti) in: Seethamma chetha annadaanam cheyabadindi."
+        }
+      ]
+    }
+  ]
+}

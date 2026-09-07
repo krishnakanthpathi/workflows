@@ -1,0 +1,839 @@
+{
+  "book_metadata": {
+    "title_hi": "हिंदी भारती / स्पर्श भाग 1 - कक्षा 9",
+    "title_en": "Hindi Reader - Class 9 (Second Language)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "9th Class",
+    "medium": "Hindi Second Language",
+    "total_chapters": 12,
+    "source_pdfs": [
+      "9_Hindi_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "सुनना-बोलना / पढ़ना-समझना",
+    "AS2": "अभिव्यक्ति - सृजनात्मकता",
+    "AS3": "भाषा की बात / व्याकरण"
+  },
+  "table_of_contents": [
+    {
+      "chapter_no": 1,
+      "title": "जिस देश में गंगा बहती है",
+      "title_en": "Jis Desh Mein Ganga Bahti Hai",
+      "genre": "कविता",
+      "kavi": "शैलेंद्र",
+      "learning_outcomes": [
+        "कविता का सस्वर वाचन करना तथा देशप्रेम एवं राष्ट्रीय सद्भाव की भावना का विकास करना।",
+        "भारतीय संस्कृति की उदारता, सत्यनिष्ठा एवं अतिथि सत्कार जैसे मूल्यों को ग्रहण करना।"
+      ],
+      "core_themes": [
+        "सत्यवादिता",
+        "अतिथि सत्कार",
+        "मानवता",
+        "शांति"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "According to the poet, what are the characteristics of Indians?",
+          "question_text_hi": "कवि के अनुसार भारतवासियों के क्या-क्या गुण हैं?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Why do Indians consider guests equal to God? Explain with reference to the poem.",
+          "question_text_hi": "'मेहमाँ जो हमारा होता है वो जान से प्यारा होता है'—इस पंक्ति का भाव स्पष्ट कीजिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write synonyms for: गंगा, पावन, उपकार.",
+          "question_text_hi": "पर्यायवाची शब्द लिखिए: गंगा, पावन, उपकार।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "दुःख का अधिकार",
+      "title_en": "Dukh Ka Adhikar",
+      "genre": "कहानी",
+      "author": "यशपाल",
+      "learning_outcomes": [
+        "समाज में व्याप्त अंधविश्वास, असमानता तथा अमीरी-गरीबी के भेदभाव के प्रति संवेदनशील होना।",
+        "कहानी के माध्यम से संवेदना और मानवीय सहानुभूति के महत्व को समझना।"
+      ],
+      "core_themes": [
+        "सामाजिक विषमता",
+        "संवेदना",
+        "मानवाधिकार"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why could the old woman not mourn the death of her son like the rich woman?",
+          "question_text_hi": "बुढ़िया को कोई भी उधार क्यों नहीं देना चाहता था और वह अपने बेटे के मरने पर रो भी क्यों नहीं पा रही थी?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Explain the title 'Dukh Ka Adhikar' (Right to Grief) and its social relevance.",
+          "question_text_hi": "'दुःख का अधिकार' कहानी के शीर्षक की सार्थकता स्पष्ट कीजिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Make sentences using the idioms: पहाड़ टूटना, होश उड़ना.",
+          "question_text_hi": "मुहावरों का वाक्यों में प्रयोग कीजिए: पहाड़ टूटना, होश उड़ना।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "एవरेस्ट: मेरी शिखर यात्रा",
+      "title_en": "Everest: Meri Shikhar Yatra",
+      "genre": "यात्रा-वृत्तांत",
+      "author": "बछेंद्री पाल",
+      "learning_outcomes": [
+        "पर्वतारोहण की कठिनाइयों और अदम्य साहस, धैर्य एवं आत्मविश्वास के महत्व को समझना।",
+        "भारत की प्रथम महिला एवरेस्ट विजेता बछेंद्री पाल के संघर्षमय जीवन से प्रेरणा लेना।"
+      ],
+      "core_themes": [
+        "दृढ़ संकल्प",
+        "साहस",
+        "नारी सशक्तीकरण"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What difficulties did Bachendri Pal and her team face at Camp 3?",
+          "question_text_hi": "कैंप तीन में बछेंद्री पाल और उनके दल को किन विषम परिस्थितियों का सामना करना पड़ा?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe the moment when Bachendri Pal stepped on the summit of Mount Everest on May 23, 1984.",
+          "question_text_hi": "23 मई 1984 के उस ऐतिहासिक क्षण का वर्णन कीजिए जब बछेंद्री पाल ने एवरेस्ट के शिखर पर तिरंगा फहराया।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "तुम कब जाओगे, अतिथि",
+      "title_en": "Tum Kab Jaoge, Atithi",
+      "genre": "व्यंग्य निबंध",
+      "author": "शरद जोशी",
+      "learning_outcomes": [
+        "व्यंग्य विधा के माध्यम से आधुनिक जीवन की विसंगतियों और औपचारिकता को समझना।",
+        "अतिथियों और मेजबान के बीच संबंधों के बदलते स्वरूप का विश्लेषण करना।"
+      ],
+      "core_themes": [
+        "हास्य-व्यंग्य",
+        "आधुनिक जीवनशैली"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did the author's hospitality change towards the guest from the first day to the fourth day?",
+          "question_text_hi": "पहले दिन से चौथे दिन तक अतिथि के सत्कार में क्या-क्या परिवर्तन आए?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify antonyms: आदर, उपकार, प्रत्यक्ष.",
+          "question_text_hi": "विलोम शब्द लिखिए: आदर, उपकार, प्रत्यक्ष।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "वैज्ञानिक चेतना के वाहक: चंद्रशेखर वेंकट रामन्",
+      "title_en": "Vaigyanik Chetna Ke Vahak: Chandrasekhar Venkata Raman",
+      "genre": "जीवनी",
+      "author": "धीरंजन मालवे",
+      "learning_outcomes": [
+        "भारत के महान भौतिक विज्ञानी सी.वी. रामన్ के वैज्ञानिक योगदान और 'रामన్ प्रभाव' को समझना।",
+        "सीमित संसाधनों में भी उत्कृष्ट वैज्ञानिक अनुसंधान करने की प्रेरणा प्राप्त करना।"
+      ],
+      "core_themes": [
+        "वैज्ञानिक दृष्टिकोण",
+        "अनुसंधान",
+        "नोबेल पुरस्कार"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the 'Raman Effect' and how was it discovered by Sir C.V. Raman?",
+          "question_text_hi": "'रामన్ प्रभाव' क्या है और सर सी.वी. रामన్ ने इसकी खोज किस प्रकार की?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Why is National Science Day celebrated on 28th February in India? Write an essay on C.V. Raman.",
+          "question_text_hi": "भारत में प्रतिवर्ष 28 फरवरी को राष्ट्रीय विज्ञान दिवस क्यों मनाया जाता है? सी.वी. रामన్ के योगदान पर निबंध लिखिए।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "शुक्रतारे के समान",
+      "title_en": "Shukratare Ke Saman",
+      "genre": "संस्मरण / रेखाचित्र",
+      "author": "स्वामी आनंद",
+      "learning_outcomes": [
+        "महात्मा गांधी के निजी सचिव महादेव भाई देसाई के कर्तव्यनिष्ठा और निष्काम सेवाभाव को समझना।"
+      ],
+      "core_themes": [
+        "समर्पण",
+        "कर्तव्यनिष्ठा",
+        "स्वाधीनता आंदोलन"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the author compare Mahadev Bhai Desai to the morning star (Shukratara)?",
+          "question_text_hi": "लेखक ने महादेव भाई देसाई की तुलना शुक्रतारे से क्यों की है?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "पद",
+      "title_en": "Pad",
+      "genre": "भक्ति काव्य",
+      "kavi": "संत रैदास",
+      "learning_outcomes": [
+        "संत काव्य की भाषा और निर्गुण भक्ति परंपरा को समझना।",
+        "प्रभु और भक्त के अटूट संबंध का अनुभव करना।"
+      ],
+      "core_themes": [
+        "अनन्य भक्ति",
+        "समानता",
+        "ईश्वर समर्पण"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the line: 'प्रभु जी तुम चंदन हम पानी, जाकी अंग-अंग बास समानी' in your own words.",
+          "question_text_hi": "'प्रभु जी तुम चंदन हम पानी' पद का भावार्थ अपने शब्दों में स्पष्ट कीजिए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write contemporary Hindi forms of Braj words: बास, मोरा, बाती, धागा.",
+          "question_text_hi": "समानार्थी शब्द लिखिए: बास, मोरा, बाती, धागा।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "दोहे",
+      "title_en": "Dohe",
+      "genre": "नीति काव्य",
+      "kavi": "रहीम (अब्दुर्रहीम खानखाना)",
+      "learning_outcomes": [
+        "नीतिपरक दोहों के माध्यम से व्यावहारिक जीवन मूल्यों को समझना।",
+        "दोहा छंद की संरचना और भाव-सौंदर्य को पहचानना।"
+      ],
+      "core_themes": [
+        "सदाचार",
+        "धैर्य",
+        "मित्रता",
+        "विनम्रता"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain: 'रहिमन धागा प्रेम का मत तोड़ो चटकाय / टूटे पे फिर ना जुरे, जुरे गाँठ परि जाय'.",
+          "question_text_hi": "'रहिमन धागा प्रेम का मत तोड़ो चटकाय' दोहे का भाव स्पष्ट करते हुए आपसी विश्वास का महत्व बताइए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What advice does Rahim give regarding patience in life?",
+          "question_text_hi": "'धीरज धर्म मित्र अरु नारी'—कवि रहीम के अनुसार संकट काल में मनुष्य को क्या करना चाहिए?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "गीत-अगीत",
+      "title_en": "Geet-Ageet",
+      "genre": "कविता",
+      "kavi": "रामधारी सिंह दिनकर",
+      "learning_outcomes": [
+        "प्रकृति और प्रेम के मुखरित एवं मौन भावों की तुलना करना।",
+        "कवि दिनकर की ओजस्वी और कोमलकांत पदावली का आनंद लेना।"
+      ],
+      "core_themes": [
+        "प्रकृति सौंदर्य",
+        "अभिव्यक्ति",
+        "मौन प्रेम"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the poet raise the question: 'गीत अगीत, कौन सुंदर है'?",
+          "question_text_hi": "कवि के अनुसार मुखरित गीत और मौन अगीत में से कौन अधिक सुंदर है और क्यों?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "अग्नि पथ",
+      "title_en": "Agni Path",
+      "genre": "प्रेरणादायी कविता",
+      "kavi": "हरिवंशराय बच्चन",
+      "learning_outcomes": [
+        "कठिन जीवन पथ पर बिना रुके, बिना थके आगे बढ़ते रहने की प्रेरणा प्राप्त करना।",
+        "कविता के प्रतीकात्मक और ओजस्वी शब्दों के अर्थ को समझना।"
+      ],
+      "core_themes": [
+        "संघर्ष",
+        "अदम्य उत्साह",
+        "अविराम साधना"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the central message of the poem 'Agni Path'?",
+          "question_text_hi": "'अग्नि पथ' कविता का केंद्रीय भाव अपने शब्दों में लिखिए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the significance of the pledge: 'तू न थकेगा कभी, तू न रुकेगा कभी, तू न मुड़ेगा कभी'.",
+          "question_text_hi": "'तू न थकेगा कभी, तू न रुकेगा कभी'—इस प्रतिज्ञा का छात्र जीवन में क्या महत्व है?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "नए इलाके में / खुशबू रचते हैं हाथ",
+      "title_en": "Naye Ilake Mein / Khushboo Rachte Hain Haath",
+      "genre": "समकालीन कविता",
+      "kavi": "अरुण कमल",
+      "learning_outcomes": [
+        "शहरीकरण की तीव्र गति और बदलते सामाजिक परिवेश को समझना।",
+        "अगरबत्ती बनाने वाले शोषित श्रमजीवियों के कठिन जीवन के प्रति संवेदनशील होना।"
+      ],
+      "core_themes": [
+        "शहरीकरण",
+        "श्रमजीवी वर्ग",
+        "सामाजिक यथार्थ"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the poet get confused in the new locality?",
+          "question_text_hi": "कवि नए इलाके में अपने ठिकाने को खोजने में क्यों भ्रमित हो जाता है?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the paradox in: 'खुशबू रचते हैं हाथ' (Hands that create fragrance live in squalor).",
+          "question_text_hi": "'खुशबू रचने वाले हाथ' कैसी विषम और बदहाल परिस्थितियों में रहते हैं? स्पष्ट कीजिए।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "गिल्लू",
+      "title_en": "Gillu",
+      "genre": "रेखाचित्र / संस्मरण",
+      "author": "महादेवी वर्मा (संचयन)",
+      "learning_outcomes": [
+        "पशु-पक्षियों के प्रति संवेदनशील प्रेम और मूक प्राणियों के मनोभावों को समझना।",
+        "महादेवी वर्मा की चित्रात्मक भाषा-शैली और संस्मरण कला का आनंद लेना।"
+      ],
+      "core_themes": [
+        "पशु-प्रेम",
+        "पर्यावरण संवेदनशीलता",
+        "मूक संवाद"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Mahadevi Varma nurse the injured baby squirrel (Gillu) back to life?",
+          "question_text_hi": "महादेवी वर्मा ने घायल नन्हे गिलहरी के बच्चे (गिल्लू) का उपचार किस प्रकार किया?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write about an experience where you showed care and kindness to a domestic or wild animal.",
+          "question_text_hi": "किसी पालतू या असहाय पशु-पक्षी की सहायता करने के अपने अनुभव का वर्णन कीजिए।"
+        }
+      ]
+    }
+  ],
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "जिस देश में गंगा बहती है",
+      "title_en": "Jis Desh Mein Ganga Bahti Hai",
+      "genre": "कविता",
+      "kavi": "शैलेंद्र",
+      "learning_outcomes": [
+        "कविता का सस्वर वाचन करना तथा देशप्रेम एवं राष्ट्रीय सद्भाव की भावना का विकास करना।",
+        "भारतीय संस्कृति की उदारता, सत्यनिष्ठा एवं अतिथि सत्कार जैसे मूल्यों को ग्रहण करना।"
+      ],
+      "core_themes": [
+        "सत्यवादिता",
+        "अतिथि सत्कार",
+        "मानवता",
+        "शांति"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "According to the poet, what are the characteristics of Indians?",
+          "question_text_hi": "कवि के अनुसार भारतवासियों के क्या-क्या गुण हैं?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_en": "Why do Indians consider guests equal to God? Explain with reference to the poem.",
+          "question_text_hi": "'मेहमाँ जो हमारा होता है वो जान से प्यारा होता है'—इस पंक्ति का भाव स्पष्ट कीजिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write synonyms for: गंगा, पावन, उपकार.",
+          "question_text_hi": "पर्यायवाची शब्द लिखिए: गंगा, पावन, उपकार।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "दुःख का अधिकार",
+      "title_en": "Dukh Ka Adhikar",
+      "genre": "कहानी",
+      "author": "यशपाल",
+      "learning_outcomes": [
+        "समाज में व्याप्त अंधविश्वास, असमानता तथा अमीरी-गरीबी के भेदभाव के प्रति संवेदनशील होना।",
+        "कहानी के माध्यम से संवेदना और मानवीय सहानुभूति के महत्व को समझना।"
+      ],
+      "core_themes": [
+        "सामाजिक विषमता",
+        "संवेदना",
+        "मानवाधिकार"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why could the old woman not mourn the death of her son like the rich woman?",
+          "question_text_hi": "बुढ़िया को कोई भी उधार क्यों नहीं देना चाहता था और वह अपने बेटे के मरने पर रो भी क्यों नहीं पा रही थी?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Explain the title 'Dukh Ka Adhikar' (Right to Grief) and its social relevance.",
+          "question_text_hi": "'दुःख का अधिकार' कहानी के शीर्षक की सार्थकता स्पष्ट कीजिए।"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Make sentences using the idioms: पहाड़ टूटना, होश उड़ना.",
+          "question_text_hi": "मुहावरों का वाक्यों में प्रयोग कीजिए: पहाड़ टूटना, होश उड़ना।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "एవरेस्ट: मेरी शिखर यात्रा",
+      "title_en": "Everest: Meri Shikhar Yatra",
+      "genre": "यात्रा-वृत्तांत",
+      "author": "बछेंद्री पाल",
+      "learning_outcomes": [
+        "पर्वतारोहण की कठिनाइयों और अदम्य साहस, धैर्य एवं आत्मविश्वास के महत्व को समझना।",
+        "भारत की प्रथम महिला एवरेस्ट विजेता बछेंद्री पाल के संघर्षमय जीवन से प्रेरणा लेना।"
+      ],
+      "core_themes": [
+        "दृढ़ संकल्प",
+        "साहस",
+        "नारी सशक्तीकरण"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What difficulties did Bachendri Pal and her team face at Camp 3?",
+          "question_text_hi": "कैंप तीन में बछेंद्री पाल और उनके दल को किन विषम परिस्थितियों का सामना करना पड़ा?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Describe the moment when Bachendri Pal stepped on the summit of Mount Everest on May 23, 1984.",
+          "question_text_hi": "23 मई 1984 के उस ऐतिहासिक क्षण का वर्णन कीजिए जब बछेंद्री पाल ने एवरेस्ट के शिखर पर तिरंगा फहराया।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "तुम कब जाओगे, अतिथि",
+      "title_en": "Tum Kab Jaoge, Atithi",
+      "genre": "व्यंग्य निबंध",
+      "author": "शरद जोशी",
+      "learning_outcomes": [
+        "व्यंग्य विधा के माध्यम से आधुनिक जीवन की विसंगतियों और औपचारिकता को समझना।",
+        "अतिथियों और मेजबान के बीच संबंधों के बदलते स्वरूप का विश्लेषण करना।"
+      ],
+      "core_themes": [
+        "हास्य-व्यंग्य",
+        "आधुनिक जीवनशैली"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did the author's hospitality change towards the guest from the first day to the fourth day?",
+          "question_text_hi": "पहले दिन से चौथे दिन तक अतिथि के सत्कार में क्या-क्या परिवर्तन आए?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify antonyms: आदर, उपकार, प्रत्यक्ष.",
+          "question_text_hi": "विलोम शब्द लिखिए: आदर, उपकार, प्रत्यक्ष।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "वैज्ञानिक चेतना के वाहक: चंद्रशेखर वेंकट रामन्",
+      "title_en": "Vaigyanik Chetna Ke Vahak: Chandrasekhar Venkata Raman",
+      "genre": "जीवनी",
+      "author": "धीरंजन मालवे",
+      "learning_outcomes": [
+        "भारत के महान भौतिक विज्ञानी सी.वी. रामన్ के वैज्ञानिक योगदान और 'रामన్ प्रभाव' को समझना।",
+        "सीमित संसाधनों में भी उत्कृष्ट वैज्ञानिक अनुसंधान करने की प्रेरणा प्राप्त करना।"
+      ],
+      "core_themes": [
+        "वैज्ञानिक दृष्टिकोण",
+        "अनुसंधान",
+        "नोबेल पुरस्कार"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the 'Raman Effect' and how was it discovered by Sir C.V. Raman?",
+          "question_text_hi": "'रामన్ प्रभाव' क्या है और सर सी.वी. रामన్ ने इसकी खोज किस प्रकार की?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Why is National Science Day celebrated on 28th February in India? Write an essay on C.V. Raman.",
+          "question_text_hi": "भारत में प्रतिवर्ष 28 फरवरी को राष्ट्रीय विज्ञान दिवस क्यों मनाया जाता है? सी.वी. रामన్ के योगदान पर निबंध लिखिए।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "शुक्रतारे के समान",
+      "title_en": "Shukratare Ke Saman",
+      "genre": "संस्मरण / रेखाचित्र",
+      "author": "स्वामी आनंद",
+      "learning_outcomes": [
+        "महात्मा गांधी के निजी सचिव महादेव भाई देसाई के कर्तव्यनिष्ठा और निष्काम सेवाभाव को समझना।"
+      ],
+      "core_themes": [
+        "समर्पण",
+        "कर्तव्यनिष्ठा",
+        "स्वाधीनता आंदोलन"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why did the author compare Mahadev Bhai Desai to the morning star (Shukratara)?",
+          "question_text_hi": "लेखक ने महादेव भाई देसाई की तुलना शुक्रतारे से क्यों की है?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "पद",
+      "title_en": "Pad",
+      "genre": "भक्ति काव्य",
+      "kavi": "संत रैदास",
+      "learning_outcomes": [
+        "संत काव्य की भाषा और निर्गुण भक्ति परंपरा को समझना।",
+        "प्रभु और भक्त के अटूट संबंध का अनुभव करना।"
+      ],
+      "core_themes": [
+        "अनन्य भक्ति",
+        "समानता",
+        "ईश्वर समर्पण"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the line: 'प्रभु जी तुम चंदन हम पानी, जाकी अंग-अंग बास समानी' in your own words.",
+          "question_text_hi": "'प्रभु जी तुम चंदन हम पानी' पद का भावार्थ अपने शब्दों में स्पष्ट कीजिए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Write contemporary Hindi forms of Braj words: बास, मोरा, बाती, धागा.",
+          "question_text_hi": "समानार्थी शब्द लिखिए: बास, मोरा, बाती, धागा।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "दोहे",
+      "title_en": "Dohe",
+      "genre": "नीति काव्य",
+      "kavi": "रहीम (अब्दुर्रहीम खानखाना)",
+      "learning_outcomes": [
+        "नीतिपरक दोहों के माध्यम से व्यावहारिक जीवन मूल्यों को समझना।",
+        "दोहा छंद की संरचना और भाव-सौंदर्य को पहचानना।"
+      ],
+      "core_themes": [
+        "सदाचार",
+        "धैर्य",
+        "मित्रता",
+        "विनम्रता"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain: 'रहिमन धागा प्रेम का मत तोड़ो चटकाय / टूटे पे फिर ना जुरे, जुरे गाँठ परि जाय'.",
+          "question_text_hi": "'रहिमन धागा प्रेम का मत तोड़ो चटकाय' दोहे का भाव स्पष्ट करते हुए आपसी विश्वास का महत्व बताइए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What advice does Rahim give regarding patience in life?",
+          "question_text_hi": "'धीरज धर्म मित्र अरु नारी'—कवि रहीम के अनुसार संकट काल में मनुष्य को क्या करना चाहिए?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "गीत-अगीत",
+      "title_en": "Geet-Ageet",
+      "genre": "कविता",
+      "kavi": "रामधारी सिंह दिनकर",
+      "learning_outcomes": [
+        "प्रकृति और प्रेम के मुखरित एवं मौन भावों की तुलना करना।",
+        "कवि दिनकर की ओजस्वी और कोमलकांत पदावली का आनंद लेना।"
+      ],
+      "core_themes": [
+        "प्रकृति सौंदर्य",
+        "अभिव्यक्ति",
+        "मौन प्रेम"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the poet raise the question: 'गीत अगीत, कौन सुंदर है'?",
+          "question_text_hi": "कवि के अनुसार मुखरित गीत और मौन अगीत में से कौन अधिक सुंदर है और क्यों?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "अग्नि पथ",
+      "title_en": "Agni Path",
+      "genre": "प्रेरणादायी कविता",
+      "kavi": "हरिवंशराय बच्चन",
+      "learning_outcomes": [
+        "कठिन जीवन पथ पर बिना रुके, बिना थके आगे बढ़ते रहने की प्रेरणा प्राप्त करना।",
+        "कविता के प्रतीकात्मक और ओजस्वी शब्दों के अर्थ को समझना।"
+      ],
+      "core_themes": [
+        "संघर्ष",
+        "अदम्य उत्साह",
+        "अविराम साधना"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "What is the central message of the poem 'Agni Path'?",
+          "question_text_hi": "'अग्नि पथ' कविता का केंद्रीय भाव अपने शब्दों में लिखिए।"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the significance of the pledge: 'तू न थकेगा कभी, तू न रुकेगा कभी, तू न मुड़ेगा कभी'.",
+          "question_text_hi": "'तू न थकेगा कभी, तू न रुकेगा कभी'—इस प्रतिज्ञा का छात्र जीवन में क्या महत्व है?"
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "नए इलाके में / खुशबू रचते हैं हाथ",
+      "title_en": "Naye Ilake Mein / Khushboo Rachte Hain Haath",
+      "genre": "समकालीन कविता",
+      "kavi": "अरुण कमल",
+      "learning_outcomes": [
+        "शहरीकरण की तीव्र गति और बदलते सामाजिक परिवेश को समझना।",
+        "अगरबत्ती बनाने वाले शोषित श्रमजीवियों के कठिन जीवन के प्रति संवेदनशील होना।"
+      ],
+      "core_themes": [
+        "शहरीकरण",
+        "श्रमजीवी वर्ग",
+        "सामाजिक यथार्थ"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Why does the poet get confused in the new locality?",
+          "question_text_hi": "कवि नए इलाके में अपने ठिकाने को खोजने में क्यों भ्रमित हो जाता है?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "Explain the paradox in: 'खुशबू रचते हैं हाथ' (Hands that create fragrance live in squalor).",
+          "question_text_hi": "'खुशबू रचने वाले हाथ' कैसी विषम और बदहाल परिस्थितियों में रहते हैं? स्पष्ट कीजिए।"
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "गिल्लू",
+      "title_en": "Gillu",
+      "genre": "रेखाचित्र / संस्मरण",
+      "author": "महादेवी वर्मा (संचयन)",
+      "learning_outcomes": [
+        "पशु-पक्षियों के प्रति संवेदनशील प्रेम और मूक प्राणियों के मनोभावों को समझना।",
+        "महादेवी वर्मा की चित्रात्मक भाषा-शैली और संस्मरण कला का आनंद लेना।"
+      ],
+      "core_themes": [
+        "पशु-प्रेम",
+        "पर्यावरण संवेदनशीलता",
+        "मूक संवाद"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_en": "How did Mahadevi Varma nurse the injured baby squirrel (Gillu) back to life?",
+          "question_text_hi": "महादेवी वर्मा ने घायल नन्हे गिलहरी के बच्चे (गिल्लू) का उपचार किस प्रकार किया?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_en": "Write about an experience where you showed care and kindness to a domestic or wild animal.",
+          "question_text_hi": "किसी पालतू या असहाय पशु-पक्षी की सहायता करने के अपने अनुभव का वर्णन कीजिए।"
+        }
+      ]
+    }
+  ]
+}

@@ -34,6 +34,7 @@ def main():
     parser.add_argument("--toast", type=str, help="Show Android toast message")
     parser.add_argument("--snap", type=str, help="Capture photo and save to file path")
     parser.add_argument("--camera", type=int, default=0, help="Camera sensor ID (0=rear, 1=front)")
+    parser.add_argument("--discord-test", action="store_true", help="Dispatch test push alert via Armin Discord Webhook")
     parser.add_argument("--cmd", type=str, help="Execute remote shell command on node")
     
     args = parser.parse_args()
@@ -78,6 +79,10 @@ def main():
             with open(args.snap, "wb") as f:
                 f.write(raw)
             print(f"📸 Captured {len(raw)} bytes to {args.snap}")
+
+        elif args.discord_test:
+            res = post("/api/discord/test", {})
+            print(f"🔔 Discord Alert Sent: {res.get('message', res)}")
 
         elif args.cmd:
             res = post("/api/terminal", {"command": args.cmd})

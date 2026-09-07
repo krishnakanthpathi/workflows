@@ -1,0 +1,857 @@
+{
+  "book_metadata": {
+    "title_te": "తెలుగు వాచకం - ఆరవ తరగతి (AP SCERT 2024-25)",
+    "title_en": "Telugu Reader - Class 6 (First Language)",
+    "board": "ఆంధ్రప్రదేశ్ ప్రభుత్వం (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "6వ తరగతి",
+    "medium": "తెలుగు ప్రథమ భాష",
+    "total_chapters": 12,
+    "source_pdfs": [
+      "6_Telugu_Textbook.pdf",
+      "6_Telugu_language_Textbook_SL.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "అవగాహన - ప్రతిస్పందన",
+    "AS2": "వ్యక్తీకరణ - సృజనాత్మకత",
+    "AS3": "భాషాంశాలు",
+    "AS4": "వ్యాకరణాంశాలు"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "అమ్మ ఒడి",
+      "title_en": "Amma Odi",
+      "prakriya": "గేయం",
+      "ithivrittam": "తల్లిప్రేమ",
+      "kavi": "బి.వి. నరసింహారావు",
+      "learning_outcomes": [
+        "అమ్మ గొప్పతనాన్ని వర్ణించే గేయాన్ని లయబద్ధంగా ఆలపించడం.",
+        "తల్లి ప్రేమ, త్యాగాల ప్రాముఖ్యతను గ్రహించి గౌరవించడం.",
+        "వర్ణమాల, అచ్చులు, హల్లులు, ఉభయాక్షరాల వర్గీకరణను గుర్తించడం."
+      ],
+      "poems_and_stanzas": [
+        {
+          "stanza_no": 1,
+          "type": "గేయం",
+          "poem_text": "అమ్మ ఒడి చదువుల బడి\nమా యమ్మ కనుల కాంతులు మాకు దివ్వెలమ్మా..\nఅమ్మ చెప్పిన మంచి మాటలు\nనిత్యం మా మనసున మెలిగే సూక్తులమ్మా..",
+          "bhavam": "అమ్మ ఒడే మాకు మొదటి పాఠశాల. అమ్మ కళ్లలోని కాంతులు మాకు దీపాలు. అమ్మ చెప్పే మంచి మాటలే మా జీవితానికి మార్గదర్శకాలు."
+        }
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "అమ్మ": [
+            "తల్లి",
+            "మాత",
+            "జనని"
+          ],
+          "దివ్వె": [
+            "దీపం",
+            "ప్రమిద"
+          ],
+          "కన్ను": [
+            "నేత్రం",
+            "నయనం",
+            "అక్షి"
+          ]
+        },
+        "nanarthalu": {
+          "బడి": [
+            "పాఠశాల",
+            "సమూహం"
+          ]
+        },
+        "prakriti_vikruti": {
+          "దివ్వె": "దీపము",
+          "అమ్మ": "అంబ"
+        }
+      },
+      "grammar": {
+        "varnamala": "అచ్చులు (16), హల్లులు (36), ఉభయాక్షరాలు (3: సున్న, అరసున్న, విసర్గ)",
+        "dvitva_samyukta": "ద్విత్వాక్షరాలు (ఒక హల్లుకు అదే హల్లు ఒత్తు చేరడం), సంయుక్తాక్షరాలు (ఒక హల్లుకు వేరే హల్లు ఒత్తు చేరడం)"
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "అమ్మ ఒడిని మొదటి బడి అని కవి ఎందుకు అన్నాడు? మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "మీ అమ్మ గొప్పతనాన్ని వివరిస్తూ నాలుగు వాక్యాలు రాయండి లేదా అమ్మపై ఒక చిన్న కవిత రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు పర్యాయపదాలు రాయండి: (a) తల్లి, (b) నేత్రం."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలలో ద్విత్వాక్షరాలు, సంయుక్తాక్షరాలను గుర్తించి వేరుచేయండి: 'అమ్మ', 'పుస్తకం', 'నాన్న', 'విద్య'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "తృప్తి",
+      "title_en": "Trupthi",
+      "prakriya": "కథానిక",
+      "ithivrittam": "మానవ విలువలు",
+      "kavi": "సత్యం శంకరమంచి",
+      "learning_outcomes": [
+        "ఇతరులకు సహాయం చేయడంలో, ఇతరులు కడుపునిండా తింటుంటే చూసి ఆనందించడంలో గల నిజమైన తృప్తిని అర్థం చేసుకోవడం.",
+        "సత్యం శంకరమంచి కథా శైలిని, అమరావతి కథల విశిష్టతను తెలుసుకోవడం.",
+        "ఉత్వ సంధి సూత్రాన్ని, ఉదాహరణలను సాధించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "విందు": [
+            "భోజనం",
+            "ఆతిథ్యం"
+          ],
+          "ఆనందం": [
+            "సంతోషం",
+            "ముదము",
+            "హర్షం"
+          ]
+        },
+        "nanarthalu": {
+          "వంశం": [
+            "కులము",
+            "వెదురు"
+          ]
+        },
+        "jathiyalu": [
+          "కడుపు నిండు",
+          "ఆబగా చూచు"
+        ]
+      },
+      "grammar": {
+        "sandhulu": [
+          "ఉత్వ సంధి: ఉత్తునకు అచ్చు పరమగునపుడు సంధి అగును. ఉదా: రాముడు + అతడు = రాముడతడు, వారు + ఇచ్చిరి = వారిచ్చిరి."
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "పూర్ణయ్య పాత్ర ద్వారా రచయిత సమాజానికి ఏ సందేశాన్ని ఇచ్చాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "మీ ఇంట్లో లేదా పాఠశాలలో జరిగిన ఒక విందు సందర్భంలో మీకు కలిగిన తృప్తిని వివరిస్తూ ఒక పేరా రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలను ఉపయోగించి సొంత వాక్యాలు రాయండి: (a) ఆబగా, (b) పరితృప్తి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది సంధి పదాలను విడదీసి, సంధి పేరు రాయండి: (a) మేమందరం (మేము + అందరం), (b) చాలినంత (చాలిన + అంత / చాలును + అంత)."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "మాకొద్దీ తెల్లదొరతనం",
+      "title_en": "Maa Koddee Tella Dorathanam",
+      "prakriya": "గేయం",
+      "ithivrittam": "దేశభక్తి",
+      "kavi": "గరిమెళ్ళ సత్యనారాయణ",
+      "learning_outcomes": [
+        "బ్రిటిష్ వారి అణచివేతకు వ్యతిరేకంగా సాగిన స్వాతంత్ర్య పోరాట భావాలను గ్రహించడం.",
+        "గరిమెళ్ళ సత్యనారాయణ విప్లవ దేశభక్తి గేయాలలోని భావోద్వేగాన్ని ఆస్వాదించడం.",
+        "సవర్ణదీర్ఘ సంధి సూత్రాన్ని, ఉదాహరణలను సాధించడం."
+      ],
+      "poems_and_stanzas": [
+        {
+          "stanza_no": 1,
+          "type": "గేయం",
+          "poem_text": "మాకొద్దీ తెల్లదొరతనము - దేవా\nమాకొద్దీ తెల్లదొరతనము..\nమా ప్రాణాలపై పొంచి మానాలు హరియించే..\nమాకొద్దీ తెల్లదొరతనము..",
+          "bhavam": "ఓ దేవుడా! మా ప్రాణాలను హరించి, మానమర్యాదలను దోచుకునే ఈ బ్రిటిష్ పాలకుల తెల్ల దొరతనం మాకు ఎంతమాత్రం వద్దు."
+        }
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "దొర": [
+            "ప్రభువు",
+            "పాలకుడు",
+            "రాజు"
+          ],
+          "ధరణి": [
+            "భూమి",
+            "వసుధ",
+            "పుడమి"
+          ]
+        },
+        "prakriti_vikruti": {
+          "దేవుడు": "దేవర",
+          "ప్రాణము": "పానము"
+        }
+      },
+      "grammar": {
+        "sandhulu": [
+          "సవర్ణదీర్ఘ సంధి: అ, ఇ, ఉ, ఋ లకు సవర్ణములైన అచ్చులు పరమైనపుడు వాని దీర్ఘము ఏకాదేశమగును. ఉదా: దేవ + ఆలయం = దేవాలయం, భాను + ఉదయం = భానూదయం."
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "బ్రిటిష్ వారి పాలనలో భారతీయులు అనుభవించిన కష్టాలను గరిమెళ్ళ సత్యనారాయణ గేయంలో ఎలా వర్ణించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "దేశభక్తిని పెంపొందించే నాలుగు నినాదాలను (స్లోగన్స్) సొంతంగా తయారుచేసి రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది ప్రకృతి పదాలకు వికృతి పదాలు రాయండి: (a) ప్రాణము, (b) ధర్మము."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సవర్ణదీర్ఘ సంధికి రెండు ఉదాహరణలను రాసి, సూత్రాన్ని వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "సమయస్ఫూర్తి",
+      "title_en": "Samayasphurthi",
+      "prakriya": "కథ",
+      "ithivrittam": "సమయస్ఫూర్తి",
+      "kavi": "కందుకూరి వీరేశలింగం",
+      "learning_outcomes": [
+        "ఆపద వచ్చినప్పుడు భయపడకుండా సమయస్ఫూర్తితో, వివేకంతో వ్యవహరించడం నేర్చుకోవడం.",
+        "పంచతంత్ర నీతి కథల విశిష్టతను గ్రహించడం.",
+        "తెలుగు విభక్తులు మరియు వాటి ప్రత్యయాలను గుర్తించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "మిత్రుడు": [
+            "స్నేహితుడు",
+            "సఖుడు",
+            "నెచ్చెలి"
+          ],
+          "శత్రువు": [
+            "అరి",
+            "వైరి",
+            "విరోధి"
+          ]
+        },
+        "jathiyalu": [
+          "కంటికి రెప్పలా",
+          "ప్రాణభయంతో పరుగెత్తు"
+        ]
+      },
+      "grammar": {
+        "vibhakthulu": [
+          "ప్రథమా విభక్తి: డు, ము, వు, లు",
+          "ద్వితీయా విభక్తి: నిన్, నున్, లన్, కూర్చి, గురించి",
+          "తృతీయా విభక్తి: చేతన్, చేన్, తోడన్, తోన్",
+          "చతుర్థీ విభక్తి: కొఱకున్, కై",
+          "పంచమీ విభక్తి: వలనన్, కంటెన్, పట్టి",
+          "షష్ఠీ విభక్తి: కిన్, కున్, యొక్క, లోన్, లోపలన్",
+          "సప్తమీ విభక్తి: అందున్, నన్",
+          "సంబోధనా ప్రథమా విభక్తి: ఓ, ఓయి, ఓరీ, ఓసీ"
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "పిల్లి, ఎలుక కథ ద్వారా మీరు గ్రహించిన ముఖ్యమైన నీతి ఏమిటి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "మీ జీవితంలో లేదా మీరు చూసిన ఏదైనా ఒక సంఘటనలో సమయస్ఫూర్తితో ప్రమాదం నుండి బయటపడిన విధానాన్ని వర్ణించండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు నానార్థాలు రాయండి: (a) హరి, (b) కాలము."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది వాక్యాలలోని విభక్తి ప్రత్యయాలను గుర్తించి, అవి ఏ విభక్తులో రాయండి: (a) రాముడు బాణముతో రావణుని సంహరించెను, (b) దేశము కొరకు ప్రాణాలర్పించెను."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "మన మహనీయులు",
+      "title_en": "Mana Mahaneeyulu",
+      "prakriya": "వ్యాసం (ఉపవాచకం)",
+      "ithivrittam": "దేశభక్తి / ఆదర్శ జీవితాలు",
+      "kavi": "రచయితల బృందం",
+      "learning_outcomes": [
+        "ఆంధ్ర రాష్ట్ర సాధన కోసం ప్రాణాలర్పించిన అమరజీవి పొట్టి శ్రీరాములు త్యాగాన్ని తెలుసుకోవడం.",
+        "భారత జాతీయ పతాక రూపకర్త పింగళి వెంకయ్య, ఆంధ్రకేసరి టంగుటూరి ప్రకాశం పంతులు వంటి మహనీయుల జీవితాల నుండి స్ఫూర్తి పొందడం."
+      ],
+      "summary_points": [
+        "పొట్టి శ్రీరాములు ప్రత్యేక ఆంధ్ర రాష్ట్రం కోసం 58 రోజులు ఆమరణ నిరాహార దీక్ష చేసి ప్రాణత్యాగం చేశారు.",
+        "పింగళి వెంకయ్య రూపొందించిన త్రివర్ణ పతాకం భారత స్వాతంత్ర్య సమరంలో జాతికి ఐక్యతా సంకేతంగా నిలిచింది.",
+        "సైమన్ కమిషన్ బహిష్కరణ సమయంలో బ్రిటిష్ తుపాకులకు గుండెనెదురొడ్డి 'ఆంధ్రకేసరి' అనిపించుకున్న ధీరుడు టంగుటూరి ప్రకాశం పంతులు."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "కీర్తి": [
+            "యశస్సు",
+            "ఖ్యాతి"
+          ],
+          "సమరం": [
+            "యుద్ధం",
+            "పోరాటం",
+            "రణం"
+          ]
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "ఆంధ్ర రాష్ట్ర అవతరణకు పొట్టి శ్రీరాములు చేసిన త్యాగం ఎటువంటిది?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "పింగళి వెంకయ్య జీవితం ఆధారంగా జాతీయ పతాకం విశిష్టతను వివరిస్తూ ఉపన్యాస వ్యాసం రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సొంత వాక్యంలో ప్రయోగించండి: 'ఆమరణ నిరాహార దీక్ష', 'తుపాకికి గుండెనెదురొడ్డు'."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలను విడదీసి సంధిని గుర్తించండి: (a) మహనీయులు (మహా + ఈయులు / మహా + అనుభావులు), (b) దేశభక్తి (దేశము యొక్క భక్తి - షష్ఠీ తత్పురుష సమాసం)."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "సుభాషితాలు",
+      "title_en": "Subhashitalu",
+      "prakriya": "శతక పద్యాలు",
+      "ithivrittam": "నైతిక విలువలు",
+      "kavi": "శతక కవులు (వేమన, బద్దెన, నార్ల వెంకటేశ్వరరావు)",
+      "learning_outcomes": [
+        "శతక పద్యాలను భావయుక్తంగా, రాగయుక్తంగా ధారాళంగా చదవడం, కంఠస్థం చేయడం.",
+        "పద్యాలలోని నీతులను, నైతిక విలువలను జీవితంలో ఆచరించడం.",
+        "మకుటం అంటే ఏమిటో తెలుసుకోవడం మరియు ఛందస్సులోని ఆటవెలది, తేటగీతి లక్షణాలు గ్రహించడం."
+      ],
+      "poems_and_stanzas": [
+        {
+          "stanza_no": 1,
+          "type": "ఆటవెలది",
+          "poem_text": "మేడిపండు చూడు మేలిమై యుండును\nపొట్టవిప్పి చూడు పురుగులుండు\nపిరికివాని మదిని బింకమీలాగురా\nవిశ్వదాభిరామ వినుర వేమ!",
+          "pratipadartham": "మేడిపండున్ = మేడిపండును; చూడు = పరిశీలించి చూస్తే; మేలిమై యుండును = పైకి ఎంతో అందంగా కనిపిస్తుంది; పొట్టన్ + విప్పి + చూడు = లోపల విప్పి చూస్తే; పురుగులు + ఉండున్ = క్రిమికీటకాలు ఉంటాయి; పిరికివాని మదిని = పిరికివాడి మనస్సులోని; బింకము = గర్వం, ధైర్యం; ఈలాగురా = ఈ విధమైనదే సుమా; విశ్వదాభిరామ వినుర వేమ = సర్వ జగత్తును పోషించే ఓ ప్రభూ! వేమనా వినుము.",
+          "bhavam": "మేడిపండు పైకి చూడటానికి ఎంతో నిగనిగలాడుతూ అందంగా ఉంటుంది. కానీ దాన్ని విప్పి చూస్తే లోపల పురుగులుంటాయి. పిరికివాడి మనస్సు కూడా పైకి గంభీరంగా కనిపించినా, లోపల పిరికితనంతో నిండి ఉంటుంది."
+        },
+        {
+          "stanza_no": 2,
+          "type": "కందం",
+          "poem_text": "ఎప్పుడు సంపద గలిగిన\nనప్పుడు బంధువులు వత్తురది యెట్లన్నన్\nదెప్పలుగా జెఱువు నిండిన\nగప్పలు పదివేలు చేరు గదరా సుమతీ!",
+          "bhavam": "చెరువు నిండుగా నీరు చేరినప్పుడు వేలాది కప్పలు వాటంతట అవే చేరుతాయి. అలాగే మనిషి దగ్గర సంపద ఉన్నప్పుడు బంధువులు వచ్చి చేరుతారు."
+        }
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "సంపద": [
+            "సిరి",
+            "ఐశ్వర్యం",
+            "లక్ష్మి"
+          ],
+          "చెరువు": [
+            "తటాకం",
+            "జలాశయం"
+          ]
+        },
+        "nanarthalu": {
+          "మది": [
+            "మనస్సు",
+            "బుద్ధి"
+          ]
+        }
+      },
+      "grammar": {
+        "chandassu": "ఆటవెలది (ఇనగణములు మూడు, ఇంద్రగణములు రెండు), కందం, మకుటం (పద్యం చివర ఉండే నియత పాదం లేదా పదం)"
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "మేడిపండుతో పిరికివాని మనస్సును వేమన ఎందుకు పోల్చాడో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'నిజమైన స్నేహం సంపదను బట్టి ఉండదు' అనే విషయాన్ని సుమతీ శతక పద్యం ఆధారంగా వివరిస్తూ రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు అర్థాలు, పర్యాయపదాలు రాయండి: (a) బింకము, (b) తటాకము."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "శతక లక్షణాలలో 'మకుటం' అంటే ఏమిటి? సుమతీ శతకం మరియు వేమన శతకాలలోని మకుటాలను పేర్కొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "మమకారం",
+      "title_en": "Mamakaaram",
+      "prakriya": "కథ",
+      "ithivrittam": "భాషాభిరుచి",
+      "kavi": "చిలుకూరి దేవపుత్ర",
+      "learning_outcomes": [
+        "మాతృభాష పట్ల గౌరవం, ఆదరాభిమానాలు కలిగి ఉండటం.",
+        "గ్రామీణ జీవనం, కుటుంబ అనుబంధాలలోని ఆత్మీయతను ఆస్వాదించడం.",
+        "సమాసాలు: ద్వంద్వ సమాసం మరియు ద్విగు సమాసాలను గుర్తించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "మమకారం": [
+            "ప్రేమ",
+            "వాత్సల్యం",
+            "అనురాగం"
+          ],
+          "పల్లె": [
+            "గ్రామం",
+            "ఊరు"
+          ]
+        },
+        "jathiyalu": [
+          "కలకాలం వర్ధిల్లు",
+          "గుండె కరుగు"
+        ]
+      },
+      "grammar": {
+        "samasalu": [
+          "ద్వంద్వ సమాసం: ఉభయ పదార్థ ప్రధానమైనది ద్వంద్వ సమాసం. ఉదా: తల్లిదండ్రులు (తల్లియును, తండ్రియును), అన్నదమ్ములు.",
+          "ద్విగు సమాసం: సంఖ్యా పూర్వకమైనది ద్విగు సమాసం. ఉదా: నవరసాలు (తొమ్మిది సంఖ్య గల రసాలు), ముల్లోకాలు."
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కథలో తాతయ్యకు తెలుగు భాష పట్ల గల మమకారం ఎలాంటిదో వివరించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "మాతృభాష గొప్పతనాన్ని తెలుపుతూ మీ మిత్రునికి ఒక లేఖ రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది విగ్రహవాక్యాలకు సమాస పదాలను రాయండి: (a) సూర్యుడును, చంద్రుడును, (b) నాలుగు సంఖ్య గల వేదాలు."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "ద్వంద్వ సమాసం మరియు ద్విగు సమాసాల మధ్య గల తేడాను రెండేసి ఉదాహరణలతో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "మేలుకొలుపు",
+      "title_en": "Melukolupu",
+      "prakriya": "పద్యం",
+      "ithivrittam": "సమానత్వం",
+      "kavi": "కుసుమ ధర్మన్న",
+      "learning_outcomes": [
+        "సమాజంలో అసమానతలను రూపుమాపి సమసమాజాన్ని నిర్మించాలనే కవి ఆకాంక్షను గ్రహించడం.",
+        "సాంఘిక దురాచారాలను నిర్మూలించడానికి విద్య ఆవశ్యకతను గుర్తించడం.",
+        "ఉపమాలంకారం యొక్క లక్షణాలను తెలుసుకోవడం."
+      ],
+      "poems_and_stanzas": [
+        {
+          "stanza_no": 1,
+          "type": "పద్యం",
+          "poem_text": "మేలుకొనుడో యన్నలారా! మేలుకొనుడిక!\nకాలమంతయు దాటిపోయెను కనులు తెరువుడిక!\nవిద్యలేకను బాగుపడగలరొక్కరైనా?\nవిద్యయేగా మనకు వెలుగని నమ్మి బ్రతుకుడిక!",
+          "bhavam": "ఓ సోదరులారా! మేల్కొనండి. కాలమంతా వృథాగా గడిచిపోయింది. కళ్ళు తెరవండి. చదువు లేకుండా ఎవరూ బాగుపడలేరు. విద్యయే మన జీవితాలకు వెలుగునిచ్చే జ్యోతి అని నమ్మి జీవించండి."
+        }
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "వెలుగు": [
+            "కాంత్",
+            "ప్రభ",
+            "జ్యోతి"
+          ],
+          "బ్రతుకు": [
+            "జీవనం",
+            "జీవితం"
+          ]
+        }
+      },
+      "grammar": {
+        "alankaralu": [
+          "ఉపమాలంకారం: ఉపమేయ, ఉపమానములకు మనోహరమైన సాదృశ్యము (పోలిక) చెప్పుట ఉపమాలంకారం. అంగాలు: ఉపమేయం, ఉపమానం, సమాన ధర్మం, ఉపమావాచకం (వలె, లాగ)."
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కుసుమ ధర్మన్న ప్రజలను ఏ విధంగా మేల్కొలపడానికి ప్రయత్నించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'విద్యయే మానవునికి నిజమైన భూషణం' అనే అంశంపై మీ భావాలను ఒక ప్రసంగ వ్యాసంగా రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సొంత వాక్యాలలో ప్రయోగించండి: (a) కనులు తెరువు, (b) బాగుపడు."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "'ఆమె ముఖం చంద్రబింబం వలె ప్రకాశిస్తున్నది' - ఈ వాక్యంలోని అలంకారాన్ని గుర్తించి, ఉపమేయ ఉపమానాలను రాయండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "ధర్మ నిర్ణయం",
+      "title_en": "Dharma Nirnayam",
+      "prakriya": "చారిత్రక కథ / స్థలపురాణం",
+      "ithivrittam": "న్యాయపాలన",
+      "kavi": "సేకరణ / కరణం బాలసుబ్రహ్మణ్యం పిళ్ళై",
+      "learning_outcomes": [
+        "చట్టం ముందు అందరూ సమానులే అనే రాజనీతిని, మనునీతి చోళుని నిష్పక్షపాత న్యాయపాలనను తెలుసుకోవడం.",
+        "కర్తరి వాక్యం మరియు కర్మణి వాక్యాల నిర్మాణాన్ని గుర్తించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "రాజు": [
+            "నృపుడు",
+            "భూపతి",
+            "మహీపాలుడు"
+          ],
+          "న్యాయం": [
+            "ధర్మం",
+            "నీతి"
+          ]
+        },
+        "prakriti_vikruti": {
+          "ధర్మం": "దమ్మము",
+          "రాజ": "రాయ"
+        }
+      },
+      "grammar": {
+        "kartari_karmani": [
+          "కర్తరి వాక్యం: కర్త ప్రాధాన్యంగా గల వాక్యం. ఉదా: రాజు న్యాయాన్ని తీర్చెను.",
+          "కర్మణి వాక్యం: కర్మ ప్రాధాన్యంగా గల వాక్యం ('బడింది' చేరుతుంది). ఉదా: రాజుచేత న్యాయము తీర్చబడెను."
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "గోవుకు జరిగిన అన్యాయానికి చోళరాజు ఎలాంటి ధర్మ నిర్ణయాన్ని తీసుకున్నాడు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "'తప్పు చేసినవాడు ఎంతటివాడైనా శిక్ష అనుభవించాల్సిందే' అనే సూత్రంపై మీ అభిప్రాయాన్ని రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు నానార్థాలు రాయండి: (a) తీర్పు, (b) పాదము."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది కర్తరి వాక్యాన్ని కర్మణి వాక్యంగా మార్చండి: 'రచయిత కథను రచించెను'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "త్రిజట స్వప్నం",
+      "title_en": "Trijata Swapnam",
+      "prakriya": "పద్యం",
+      "ithivrittam": "సహానుభూతి / దైవభక్తి",
+      "kavi": "మొల్ల (ఆతుకూరి మొల్ల)",
+      "learning_outcomes": [
+        "మొల్ల రామాయణ విశిష్టతను, తొలి తెలుగు మహిళా రామాయణ కవయిత్రి మొల్ల ప్రతిభను తెలుసుకోవడం.",
+        "కష్టాలలో ఉన్నవారికి ఓదార్పునివ్వడం, సద్భావంతో మాట్లాడటం గొప్ప సద్గుణమని గ్రహించడం.",
+        "పద్య పఠనం, ప్రతిపదార్థ తాత్పర్యాల అవగాహన."
+      ],
+      "poems_and_stanzas": [
+        {
+          "stanza_no": 1,
+          "type": "కందం",
+          "poem_text": "కలలోన రామచంద్రుడు\nనెలకొన్న ప్రతాపమహిమ నెగడగ రావన్\nకులమును గూల్చి విభీషణు\nనెలమిన్ లంకాపురమున కీశుని చేసెన్!",
+          "pratipadartham": "కలలోనన్ = నా స్వప్నములో; రామచంద్రుడు = శ్రీరాముడు; నెలకొన్న = నిండిన; ప్రతాప మహిమ = శౌర్య ప్రభావముతో; రావణ కులమును = రావణాసురుని వంశాన్ని; కూల్చి = అంతమొందించి; విభీషణున్ = విభీషణుడిని; ఎలమిన్ = సంతోషముతో; లంకాపురమునకున్ = లంకానగరానికి; ఈశుని చేసెన్ = ప్రభువుగా చేసెను.",
+          "bhavam": "నా కలలో శ్రీరాముడు తన అపార పరాక్రమంతో రాక్షస వంశాన్ని సంహరించి, విభీషణుడిని లంకా రాజ్యానికి రాజుగా పట్టాభిషేకం చేశాడు అని త్రిజట రాక్షస స్త్రీలకు వివరించింది."
+        }
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "కల": [
+            "స్వప్నం",
+            "నిద్రానోచన"
+          ],
+          "ఈశుడు": [
+            "ప్రభువు",
+            "రాజు",
+            "స్వామి"
+          ]
+        }
+      },
+      "grammar": {
+        "chandassu": "కందం (నల, గగ, భ, జ, స గణములు, బేసి గణము జ-గణము కారాదు, 6వ గణము నల లేదా జ-గణము కావాలి)."
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "త్రిజట కన్న స్వప్నంలో రాముని విజయం మరియు రావణుని పతనం ఏ విధంగా కనిపించాయి?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "కష్టాలలో ఉన్న తోటివారికి ధైర్యం చెప్పడం ఎందుకు అవసరమో మీ సొంత మాటల్లో రాయండి."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు వికృతి రూపాలు రాయండి: (a) స్వప్నము, (b) ప్రతాపము."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "కంద పద్య లక్షణాలను రెండింటిని పేర్కొనండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "డూడూ బసవన్న",
+      "title_en": "Doo Doo Basavanna",
+      "prakriya": "జీవిత చిత్రం",
+      "ithivrittam": "సంస్కృతి / జానపద కళలు",
+      "kavi": "డా. రావూరి భరద్వాజ",
+      "learning_outcomes": [
+        "తెలుగు సంక్రాంతి సంస్కృతి, గంగిరెద్దుల వారి జీవన చిత్రణను తెలుసుకోవడం.",
+        "జ్ఞానపీఠ్ పురస్కార గ్రహీత డా. రావూరి భరద్వాజ గారి సరళ శైలిని ఆస్వాదించడం.",
+        "జానపద కళారూపాల ఔన్నత్యాన్ని గుర్తించి గౌరవించడం."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "ఎద్దు": [
+            "వృషభం",
+            "బసవన్న",
+            "ఆంబోతు"
+          ],
+          "పండుగ": [
+            "పర్వదినం",
+            "ఉత్సవం"
+          ]
+        },
+        "jathiyalu": [
+          "తల ఊపు",
+          "డోలు దరువేయు"
+        ]
+      },
+      "grammar": {
+        "sandhulu": [
+          "రుగాగమ సంధి: పేదాది శబ్దములకు ఆలు శబ్దము పరమగునపుడు రుగాగమంబగు. ఉదా: పేద + ఆలు = పేదరాలు, బీద + ఆలు = బీదరాలు."
+        ]
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "సంక్రాంతి వేళ గంగిరెద్దుల వాడు బసవన్నను ఎలా అలంకరించి ఊరేగిస్తాడో వర్ణించండి."
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "అంతరించిపోతున్న ప్రాచీన జానపద కళారూపాలను రక్షించుకోవడానికి మనం చేయవలసిన పనులేవి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది జాతీయాలకు అర్థాలు రాసి సొంత వాక్యాలు రాయండి: (a) డూడూ బసవన్నలా తలఊపు, (b) చేదోడు వాదోడు."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "రుగాగమ సంధి సూత్రాన్ని రాసి, ఒక ఉదాహరణతో వివరించండి."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "ఎంత మంచివారమ్మా..!",
+      "title_en": "Entha Manchivaaramma..!",
+      "prakriya": "వ్యాసం (ఉపవాచకం)",
+      "ithivrittam": "జీవన వైవిధ్యం / గిరిజన సంస్కృతి",
+      "kavi": "వెన్నెలకంటి రాఘవయ్య",
+      "learning_outcomes": [
+        "యానాదులు, చెంచులు వంటి గిరిజన తెగల స్వచ్ఛమైన మనస్తత్వాన్ని, వారి ప్రకృతి అనుబంధాన్ని అర్థం చేసుకోవడం.",
+        "సమాజంలో విభిన్న జీవన విధానాల పట్ల గౌరవం, సానుభూతిని పెంపొందించుకోవడం."
+      ],
+      "summary_points": [
+        "యానాదులు అత్యంత నిరాడంబరమైన, నిజాయితీతో కూడిన జీవితాన్ని గడుపుతారు.",
+        "ప్రకృతితో మమేకమై జీవించే గిరిజనులకు అబద్ధాలు ఆడటం, దొంగతనం చేయడం వంటి మోసపూరిత గుణాలు తెలియవు.",
+        "వెన్నెలకంటి రాఘవయ్య గిరిజనుల సంక్షేమం కోసం జీవితాంతం కృషి చేసిన సంఘసేవకుడు."
+      ],
+      "vocabulary": {
+        "paryayapadalu": {
+          "అడవి": [
+            "అరణ్యం",
+            "కాననము",
+            "విపినము"
+          ],
+          "సత్యం": [
+            "నిజం",
+            "నిక్కం"
+          ]
+        }
+      },
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_avagahana_pratispandana",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "యానాదుల జీవన విధానం, వారి నిజాయితీని రచయిత ఎందుకు అంతగా ప్రశంసించారు?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_vyaktikarana_srijanatmakata",
+          "question_type": "essay",
+          "marks_weightage": "4M",
+          "question_text_te": "ప్రకృతిని ప్రేమిస్తూ సహజ సిద్ధమైన జీవితాన్ని గడిపే గిరిజనుల నుండి ఆధునిక మానవులు నేర్చుకోవలసిన గుణాలేవి?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhashamshalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది పదాలకు నానార్థాలు రాయండి: (a) కాన, (b) చెలిమి."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS4_vyakaranamsalu",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_te": "క్రింది వాక్యంలోని ఆశ్చర్యార్థక, ప్రశ్నార్థక వాక్యాలను గుర్తించండి: 'ఎంత మంచివారమ్మా వీరు!' మరియు 'మీరు ఎక్కడికి వెళ్తున్నారు?'."
+        }
+      ]
+    }
+  ]
+}

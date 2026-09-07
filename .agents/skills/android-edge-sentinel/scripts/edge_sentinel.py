@@ -3,6 +3,8 @@ import json
 import time
 import os
 import threading
+import urllib.request
+import urllib.parse
 from datetime import datetime
 from flask import Flask, jsonify, request, send_file, Response, render_template_string
 
@@ -10,7 +12,20 @@ app = Flask(__name__)
 
 server_start_time = datetime.now()
 power_history = []
+discord_history = []
 last_power_state = None
+
+# Attempt to load from .env if present
+_env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+if os.path.isfile(_env_path):
+    with open(_env_path, "r", encoding="utf-8") as _f:
+        for _line in _f:
+            _line = _line.strip()
+            if _line and not _line.startswith("#") and "=" in _line:
+                _k, _v = _line.split("=", 1)
+                os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
+
+DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 
 # Telemetry
 telemetry = {
@@ -27,6 +42,11 @@ telemetry = {
         "bearing": 0.0,
         "provider": "gps",
         "last_fix": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    },
+    "discord": {
+        "webhook_configured": bool(DISCORD_WEBHOOK_URL),
+        "bot_name": "Armin Sentinel",
+        "last_alert": None
     },
     "last_updated": ""
 }
@@ -48,6 +68,56 @@ def run_cmd(cmd_list, timeout=5):
         return res.stdout.strip()
     except Exception as e:
         return f"Error: {str(e)}"
+
+def send_discord_webhook(embed_dict=None, content=None, event_type="ALERT"):
+    """Sends a rich embedded notification to Discord asynchronously and records dispatch history."""
+    title = (embed_dict.get("title", "Discord Alert") if embed_dict else (content or "Discord Notification"))
+    desc = (embed_dict.get("description", "") if embed_dict else "")
+    entry = {
+        "id": str(int(time.time() * 1000)),
+        "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "title": title,
+        "type": event_type,
+        "description": desc,
+        "content": content or "",
+        "status": "SENDING",
+        "status_code": None,
+        "error": None
+    }
+    discord_history.insert(0, entry)
+    if len(discord_history) > 50:
+        discord_history.pop()
+
+    def _send():
+        try:
+            if not DISCORD_WEBHOOK_URL:
+                entry["status"] = "FAILED"
+                entry["error"] = "Webhook URL not configured"
+                return
+            payload = {
+                "username": "Armin Sentinel",
+                "avatar_url": "https://i.imgur.com/4M34hi2.png",
+                "embeds": [embed_dict] if embed_dict else []
+            }
+            if content:
+                payload["content"] = content
+            data = json.dumps(payload).encode("utf-8")
+            req = urllib.request.Request(
+                DISCORD_WEBHOOK_URL,
+                data=data,
+                headers={"Content-Type": "application/json", "User-Agent": "ArminSentinel/1.0"}
+            )
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                entry["status"] = "DELIVERED"
+                entry["status_code"] = resp.getcode()
+                telemetry["discord"]["last_alert"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                print(f"[Discord Webhook] Successfully delivered alert: {title}")
+        except Exception as e:
+            entry["status"] = "FAILED"
+            entry["error"] = str(e)
+            print(f"[Discord Webhook Error] {e}")
+
+    threading.Thread(target=_send, daemon=True).start()
 
 # Dedicated Background Camera Worker
 def camera_capture_worker():
@@ -89,7 +159,7 @@ cam_thread.start()
 # Live telemetry & Outage monitoring daemon
 def monitor_daemon():
     global last_power_state, power_history, telemetry
-    print("[Sentinel Daemon] Started background monitor...")
+    print("[Sentinel Daemon] Started background monitor with Armin Discord Webhook alerts...")
     
     sensor_tick = 0
     while True:
@@ -103,6 +173,7 @@ def monitor_daemon():
                 plugged = b.get("plugged", "UNKNOWN")
                 pct = b.get("percentage", 0)
                 temp = b.get("temperature", 0)
+                voltage = b.get("voltage", 0)
                 now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 
                 # Outage Transition Checks
@@ -118,6 +189,24 @@ def monitor_daemon():
                         power_history.insert(0, event)
                         run_cmd(["termux-notification", "--title", "⚠️ Power Cut Alert", "--content", event["message"], "--sound", "--priority", "high"])
                         run_cmd(["termux-tts-speak", "Alert: Home power disconnected."])
+                        
+                        # Dispatch Discord Webhook Alert (Armin)
+                        embed = {
+                            "title": "⚠️ [CRITICAL ALERT] Power Outage Detected",
+                            "description": "**Mains power disconnected.** The Android Edge Sentinel node (`srsxb13` / realme XT) has switched to internal battery backup.",
+                            "color": 16724530,  # Red (#FF4432)
+                            "fields": [
+                                {"name": "🔋 Battery Level", "value": f"**{pct}%**", "inline": True},
+                                {"name": "🌡️ Temperature", "value": f"{temp}°C", "inline": True},
+                                {"name": "⚡ Voltage", "value": f"{voltage} mV", "inline": True},
+                                {"name": "📍 Node IP", "value": "`100.123.244.85:8000`", "inline": True},
+                                {"name": "⏰ Timestamp", "value": f"`{now_str}`", "inline": True},
+                                {"name": "🤖 Sentinel Agent", "value": "Armin Power Sentinel", "inline": True}
+                            ],
+                            "footer": {"text": "Android Edge Sentinel • Homelab 24/7 Power Monitor"}
+                        }
+                        send_discord_webhook(embed, content="🚨 **@everyone POWER OUTAGE DETECTED** — Homelab mains supply disconnected!", event_type="POWER_CUT")
+                        
                     elif last_power_state == "UNPLUGGED" and plugged.startswith("PLUGGED"):
                         event = {
                             "event": "POWER_RESTORED",
@@ -129,6 +218,23 @@ def monitor_daemon():
                         power_history.insert(0, event)
                         run_cmd(["termux-notification", "--title", "⚡ Power Restored", "--content", event["message"], "--sound"])
                         run_cmd(["termux-tts-speak", "Home power restored."])
+                        
+                        # Dispatch Discord Webhook Alert (Armin)
+                        embed = {
+                            "title": "⚡ [RESOLVED] Mains Power Restored",
+                            "description": "**Mains AC power is back online.** The node is now actively charging.",
+                            "color": 65382,  # Green (#00FF66)
+                            "fields": [
+                                {"name": "🔋 Battery Level", "value": f"**{pct}%** (Charging)", "inline": True},
+                                {"name": "🌡️ Temperature", "value": f"{temp}°C", "inline": True},
+                                {"name": "⚡ Voltage", "value": f"{voltage} mV", "inline": True},
+                                {"name": "📍 Node IP", "value": "`100.123.244.85:8000`", "inline": True},
+                                {"name": "⏰ Timestamp", "value": f"`{now_str}`", "inline": True},
+                                {"name": "🤖 Sentinel Agent", "value": "Armin Power Sentinel", "inline": True}
+                            ],
+                            "footer": {"text": "Android Edge Sentinel • Homelab 24/7 Power Monitor"}
+                        }
+                        send_discord_webhook(embed, content="✅ **Power Restored** — Homelab mains power re-established!", event_type="POWER_RESTORED")
                 
                 last_power_state = plugged
                 if len(power_history) > 50:
@@ -161,7 +267,7 @@ def monitor_daemon():
                 except:
                     pass
 
-            # 4. Wi-Fi Info & Fast Location update (every 10 ticks)
+            # 4. Wi-Fi Info
             if sensor_tick == 1:
                 wifi_raw = run_cmd(["termux-wifi-connectioninfo"], timeout=2)
                 try:
@@ -234,7 +340,7 @@ HTML_PAGE = r'''
         const { useState, useEffect, useCallback, useRef } = React;
 
         function App() {
-            const [activeTab, setActiveTab] = useState('gps');
+            const [activeTab, setActiveTab] = useState('power');
             const [data, setData] = useState({
                 battery: {},
                 system: {},
@@ -250,17 +356,28 @@ HTML_PAGE = r'''
                     provider: 'gps',
                     last_fix: '--'
                 },
+                discord: {
+                    webhook_configured: true,
+                    bot_name: 'Armin Sentinel',
+                    last_alert: null
+                },
+                discord_history: [],
                 power_history: [],
                 last_updated: '--'
             });
             const [toast, setToast] = useState(null);
+            
+            // Discord tab state
+            const [customTitle, setCustomTitle] = useState("⚡ Sentinel Alert");
+            const [customMsg, setCustomMsg] = useState("");
+            const [customLevel, setCustomLevel] = useState("info");
             
             // Terminal tab state
             const [termCmd, setTermCmd] = useState("uptime");
             const [termOutput, setTermOutput] = useState("$ Ready for commands.");
             
             // Voice & Camera state
-            const [ttsText, setTtsText] = useState("GPS coordinates locked");
+            const [ttsText, setTtsText] = useState("Sentinel operational");
             const [camLoading, setCamLoading] = useState(false);
             const [camImg, setCamImg] = useState(null);
             const [clipboardText, setClipboardText] = useState("");
@@ -280,6 +397,47 @@ HTML_PAGE = r'''
             const showToast = (msg) => {
                 setToast(msg);
                 setTimeout(() => setToast(null), 3000);
+            };
+
+            const sendCustomDiscordAlert = async () => {
+                if (!customMsg.trim()) {
+                    showToast("Please enter an alert message");
+                    return;
+                }
+                showToast("Dispatching alert to Discord...");
+                try {
+                    let color = 3447003; // blue
+                    if (customLevel === 'warning') color = 16753920; // orange
+                    if (customLevel === 'critical') color = 16724530; // red
+                    if (customLevel === 'success') color = 65382; // green
+
+                    const res = await fetch('/api/discord/alert', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            title: customTitle,
+                            message: customMsg,
+                            color: color,
+                            content: customLevel === 'critical' ? '🚨 **URGENT ALERT FROM SENTINEL NODE**' : null
+                        })
+                    });
+                    const j = await res.json();
+                    showToast("Alert dispatched!");
+                    setCustomMsg("");
+                    fetchData();
+                } catch(e) {
+                    showToast("Error dispatching alert: " + e);
+                }
+            };
+
+            const clearDiscordHistory = async () => {
+                try {
+                    await fetch('/api/discord/history', { method: 'DELETE' });
+                    showToast("Discord history cleared");
+                    fetchData();
+                } catch(e) {
+                    showToast("Error: " + e);
+                }
             };
 
             const fetchData = useCallback(async () => {
@@ -455,14 +613,16 @@ HTML_PAGE = r'''
             const coords = (data.sensors && data.sensors.accelerometer) || [0, 0, 0];
             const wifi = data.wifi || {};
             const loc = data.location || {};
+            const discord = data.discord || {};
 
             const mapUrl = loc.latitude && loc.longitude ? `https://www.openstreetmap.org/export/embed.html?bbox=${loc.longitude-0.005}%2C${loc.latitude-0.005}%2C${loc.longitude+0.005}%2C${loc.latitude+0.005}&layer=mapnik&marker=${loc.latitude}%2C${loc.longitude}` : '';
             const gmapsUrl = loc.latitude && loc.longitude ? `https://www.google.com/maps?q=${loc.latitude},${loc.longitude}` : '#';
 
             const tabs = [
+                { id: 'power', label: '⚡ POWER & UPS', badge: bat.percentage ? bat.percentage + '%' : null },
+                { id: 'discord', label: '🔔 DISCORD & ALERTS', badge: data.discord_history && data.discord_history.length > 0 ? data.discord_history.length : null },
                 { id: 'gps', label: '📍 GPS & GEOLOCATION' },
                 { id: 'camera', label: '📹 HIGH-FPS CAMERA' },
-                { id: 'power', label: '⚡ POWER & UPS', badge: bat.percentage ? bat.percentage + '%' : null },
                 { id: 'hardware', label: '🎛️ HARDWARE & SENSORS' },
                 { id: 'terminal', label: '💻 TERMINAL & HTOP' },
                 { id: 'network', label: '🌐 NETWORK & TELEMETRY' }
@@ -480,7 +640,7 @@ HTML_PAGE = r'''
                                 </span>
                                 <h1 class="text-xl font-bold tracking-tight uppercase">realme XT • Edge Sentinel</h1>
                             </div>
-                            <p class="text-xs text-mono-400 mt-1">Tailscale Node: 100.123.244.85:8000 • Snapdragon 712 ARM64</p>
+                            <p class="text-xs text-mono-400 mt-1">Tailscale Node: 100.123.244.85:8000 • Armin Bot Connected</p>
                         </div>
                         <div class="flex items-center gap-3">
                             <span class="text-xs border border-mono-800 bg-mono-900 px-3 py-1.5 rounded text-mono-400">
@@ -520,6 +680,239 @@ HTML_PAGE = r'''
                             </button>
                         ))}
                     </nav>
+
+                    {/* TAB: POWER & UPS SENTINEL */}
+                    {activeTab === 'power' && (
+                        <div class="space-y-5 animate-fadeIn">
+                            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-6 flex flex-col justify-between md:col-span-2">
+                                    <div class="flex justify-between items-start">
+                                        <span class="text-xs text-mono-400 font-bold uppercase tracking-wider">Battery Level & Charging State</span>
+                                        <span class={`text-xs font-bold px-2.5 py-1 rounded border ${bat.plugged && bat.plugged.startsWith('PLUGGED') ? 'bg-white text-black border-white' : 'bg-mono-800 text-mono-300 border-mono-700'}`}>
+                                            {bat.plugged || 'UNKNOWN'}
+                                        </span>
+                                    </div>
+                                    <div class="my-6">
+                                        <div class="text-6xl font-black tracking-tight text-white">
+                                            {bat.percentage !== undefined ? bat.percentage + '%' : '--%'}
+                                        </div>
+                                        <div class="text-sm text-mono-400 mt-2">
+                                            Charging Status: <span class="text-white font-bold">{bat.status || 'Checking...'}</span>
+                                        </div>
+                                    </div>
+                                    <div class="grid grid-cols-3 gap-2 border-t border-mono-800 pt-4 text-xs text-mono-400">
+                                        <div><span class="block text-mono-600 uppercase font-bold text-[10px]">Temperature</span><span class="text-white font-bold">{bat.temperature ? bat.temperature + '°C' : '--'}</span></div>
+                                        <div><span class="block text-mono-600 uppercase font-bold text-[10px]">Voltage</span><span class="text-white font-bold">{bat.voltage ? bat.voltage + ' mV' : '--'}</span></div>
+                                        <div><span class="block text-mono-600 uppercase font-bold text-[10px]">Health</span><span class="text-white font-bold">{bat.health || 'GOOD'}</span></div>
+                                    </div>
+                                </div>
+
+                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-6 flex flex-col justify-between">
+                                    <div>
+                                        <div class="flex items-center justify-between mb-2">
+                                            <span class="text-xs text-mono-400 font-bold uppercase tracking-wider">Discord Remote Alerts</span>
+                                            <span class="inline-flex items-center gap-1 text-[10px] px-2 py-0.5 rounded font-bold bg-green-950 text-green-400 border border-green-800">
+                                                <span class="w-1.5 h-1.5 rounded-full bg-green-400 animate-pulse"></span> {discord.webhook_configured ? 'CONNECTED' : 'STANDBY'}
+                                            </span>
+                                        </div>
+                                        <div class="text-sm font-bold text-white mb-1">{discord.bot_name || 'Armin Sentinel'}</div>
+                                        <p class="text-xs text-mono-400 leading-relaxed">
+                                            Dispatches push notifications & telemetry cards to Discord instantly on power cut / restore events.
+                                        </p>
+                                    </div>
+                                    <div class="border-t border-mono-800 pt-4 mt-4 space-y-2">
+                                        <div class="flex gap-2">
+                                            <button onClick={() => postAction('/api/discord/test', {}, 'Discord Test Alert')} class="flex-1 bg-white text-black font-bold text-xs py-2 px-3 rounded hover:bg-mono-200 transition flex items-center justify-center gap-1.5">
+                                                <span>🔔</span> TEST ALERT
+                                            </button>
+                                            <button onClick={() => setActiveTab('discord')} class="border border-mono-700 bg-mono-850 text-white font-bold text-xs py-2 px-3 rounded hover:bg-mono-800 transition flex items-center justify-center gap-1.5">
+                                                <span>📋</span> LOGS ({data.discord_history ? data.discord_history.length : 0})
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* OUTAGE LOG TABLE */}
+                            <div class="bg-mono-900 border border-mono-800 rounded-lg p-6">
+                                <span class="text-xs text-mono-400 font-bold uppercase tracking-wider block mb-4">Power Outage & Interruption History</span>
+                                <div class="overflow-x-auto">
+                                    <table class="w-full text-left text-xs border-collapse">
+                                        <thead>
+                                            <tr class="border-b border-mono-800 text-mono-400">
+                                                <th class="pb-2">TIMESTAMP</th>
+                                                <th class="pb-2">EVENT</th>
+                                                <th class="pb-2">BATTERY</th>
+                                                <th class="pb-2">DETAILS</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {data.power_history && data.power_history.length > 0 ? (
+                                                data.power_history.map((e, idx) => (
+                                                    <tr key={idx} class="border-b border-mono-850">
+                                                        <td class="py-3 font-mono">{e.timestamp}</td>
+                                                        <td class="py-3">
+                                                            <span class={`px-2 py-0.5 rounded text-[10px] font-bold ${e.event === 'POWER_CUT' ? 'bg-red-950 text-red-300 border border-red-800' : 'bg-green-950 text-green-300 border border-green-800'}`}>
+                                                                {e.event}
+                                                            </span>
+                                                        </td>
+                                                        <td class="py-3 font-bold">{e.battery_pct}%</td>
+                                                        <td class="py-3 text-mono-300">{e.message}</td>
+                                                    </tr>
+                                                ))
+                                            ) : (
+                                                <tr>
+                                                    <td colSpan="4" class="py-6 text-mono-500 text-center">
+                                                        Sentinel active with Armin Discord Webhook alerts. Unplug phone charger to trigger an outage event.
+                                                    </td>
+                                                </tr>
+                                            )}
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    )}
+
+                    {/* TAB: DISCORD & ALERTS */}
+                    {activeTab === 'discord' && (
+                        <div class="space-y-5 animate-fadeIn">
+                            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-5">
+                                    <span class="text-xs text-mono-400 font-bold uppercase tracking-wider block mb-1">Webhook Status</span>
+                                    <div class="text-xl font-bold text-white flex items-center gap-2">
+                                        <span class="w-2.5 h-2.5 rounded-full bg-green-400 animate-pulse"></span>
+                                        {discord.webhook_configured ? 'CONNECTED' : 'DISCONNECTED'}
+                                    </div>
+                                    <span class="text-[10px] text-mono-500">Armin Discord Integration</span>
+                                </div>
+                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-5">
+                                    <span class="text-xs text-mono-400 font-bold uppercase tracking-wider block mb-1">Bot Identity</span>
+                                    <div class="text-xl font-bold text-white">{discord.bot_name || 'Armin Sentinel'}</div>
+                                    <span class="text-[10px] text-mono-500">Node Alerts & Outage Broadcast</span>
+                                </div>
+                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-5">
+                                    <span class="text-xs text-mono-400 font-bold uppercase tracking-wider block mb-1">Last Dispatched</span>
+                                    <div class="text-xl font-bold text-white">{discord.last_alert ? discord.last_alert.split(' ')[1] : 'None'}</div>
+                                    <span class="text-[10px] text-mono-500">{discord.last_alert ? discord.last_alert.split(' ')[0] : 'Standby'}</span>
+                                </div>
+                            </div>
+
+                            {/* DISPATCH ACTION & CUSTOM ALERT */}
+                            <div class="bg-mono-900 border border-mono-800 rounded-lg p-6">
+                                <div class="flex justify-between items-center mb-4">
+                                    <span class="text-xs text-mono-400 font-bold uppercase tracking-wider">📤 Dispatch Custom Discord Notification</span>
+                                    <div class="flex gap-2">
+                                        <button onClick={() => postAction('/api/discord/test', {}, 'Discord Test Alert')} class="bg-white text-black font-bold text-xs py-1.5 px-3 rounded hover:bg-mono-200 transition flex items-center gap-1.5">
+                                            <span>🔔</span> TEST ALERT
+                                        </button>
+                                        <button onClick={clearDiscordHistory} class="border border-mono-700 bg-mono-850 text-mono-400 hover:text-white font-bold text-xs py-1.5 px-3 rounded hover:bg-mono-800 transition">
+                                            🗑️ CLEAR LOG
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="grid grid-cols-1 md:grid-cols-4 gap-3 mb-2">
+                                    <div class="md:col-span-1">
+                                        <label class="block text-[10px] text-mono-400 uppercase font-bold mb-1">Alert Title</label>
+                                        <input 
+                                            type="text" 
+                                            value={customTitle} 
+                                            onChange={(e) => setCustomTitle(e.target.value)} 
+                                            placeholder="Alert Title..." 
+                                            class="w-full bg-mono-950 border border-mono-800 text-white px-3 py-2 text-xs rounded focus:outline-none focus:border-white font-mono"
+                                        />
+                                    </div>
+                                    <div class="md:col-span-2">
+                                        <label class="block text-[10px] text-mono-400 uppercase font-bold mb-1">Message Content</label>
+                                        <input 
+                                            type="text" 
+                                            value={customMsg} 
+                                            onChange={(e) => setCustomMsg(e.target.value)} 
+                                            onKeyDown={(e) => e.key === 'Enter' && sendCustomDiscordAlert()}
+                                            placeholder="Type message to broadcast to Discord..." 
+                                            class="w-full bg-mono-950 border border-mono-800 text-white px-3 py-2 text-xs rounded focus:outline-none focus:border-white font-mono"
+                                        />
+                                    </div>
+                                    <div class="md:col-span-1 flex items-end gap-2">
+                                        <select 
+                                            value={customLevel} 
+                                            onChange={(e) => setCustomLevel(e.target.value)} 
+                                            class="bg-mono-950 border border-mono-800 text-white px-2 py-2 text-xs rounded focus:outline-none focus:border-white font-mono"
+                                        >
+                                            <option value="info">Info (Blue)</option>
+                                            <option value="success">Success (Green)</option>
+                                            <option value="warning">Warn (Orange)</option>
+                                            <option value="critical">Critical (Red)</option>
+                                        </select>
+                                        <button onClick={sendCustomDiscordAlert} class="bg-white text-black font-bold text-xs px-4 py-2 rounded hover:bg-mono-200 flex-1">
+                                            SEND
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            {/* DISCORD DISPATCH HISTORY TABLE */}
+                            <div class="bg-mono-900 border border-mono-800 rounded-lg p-6">
+                                <div class="flex justify-between items-center mb-4">
+                                    <span class="text-xs text-mono-400 font-bold uppercase tracking-wider">📋 Discord Delivery & Sent Monitor Log</span>
+                                    <span class="text-[10px] text-mono-500">Real-time status codes & payload tracking</span>
+                                </div>
+                                <div class="overflow-x-auto">
+                                    <table class="w-full text-left text-xs border-collapse">
+                                        <thead>
+                                            <tr class="border-b border-mono-800 text-mono-400">
+                                                <th class="pb-2">TIMESTAMP</th>
+                                                <th class="pb-2">TYPE</th>
+                                                <th class="pb-2">TITLE</th>
+                                                <th class="pb-2">STATUS</th>
+                                                <th class="pb-2">DETAILS</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            {data.discord_history && data.discord_history.length > 0 ? (
+                                                data.discord_history.map((e, idx) => (
+                                                    <tr key={idx} class="border-b border-mono-850">
+                                                        <td class="py-3 font-mono text-mono-300 whitespace-nowrap">{e.timestamp}</td>
+                                                        <td class="py-3">
+                                                            <span class={`px-2 py-0.5 rounded text-[10px] font-bold ${
+                                                                e.type === 'POWER_CUT' ? 'bg-red-950 text-red-300 border border-red-800' :
+                                                                e.type === 'POWER_RESTORED' ? 'bg-green-950 text-green-300 border border-green-800' :
+                                                                e.type === 'TEST' ? 'bg-blue-950 text-blue-300 border border-blue-800' :
+                                                                'bg-mono-800 text-mono-300 border border-mono-700'
+                                                            }`}>
+                                                                {e.type || 'ALERT'}
+                                                            </span>
+                                                        </td>
+                                                        <td class="py-3 font-bold text-white">{e.title}</td>
+                                                        <td class="py-3">
+                                                            <span class={`px-2 py-0.5 rounded text-[10px] font-bold ${
+                                                                e.status === 'DELIVERED' 
+                                                                    ? 'bg-green-950 text-green-300 border border-green-800' 
+                                                                    : e.status === 'SENDING' 
+                                                                    ? 'bg-yellow-950 text-yellow-300 border border-yellow-800' 
+                                                                    : 'bg-red-950 text-red-300 border border-red-800'
+                                                            }`}>
+                                                                {e.status === 'DELIVERED' ? '✅ DELIVERED (200)' : e.status === 'SENDING' ? '⏳ SENDING' : '❌ FAILED'}
+                                                            </span>
+                                                        </td>
+                                                        <td class="py-3 text-mono-300 font-mono text-[11px] truncate max-w-xs">
+                                                            {e.error ? <span class="text-red-400">{e.error}</span> : (e.content || e.description || 'Payload delivered')}
+                                                        </td>
+                                                    </tr>
+                                                ))
+                                            ) : (
+                                                <tr>
+                                                    <td colSpan="5" class="py-8 text-mono-500 text-center">
+                                                        No Discord alerts dispatched yet. Click "TEST ALERT" above to verify delivery.
+                                                    </td>
+                                                </tr>
+                                            )}
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    )}
 
                     {/* TAB: GPS & GEOLOCATION */}
                     {activeTab === 'gps' && (
@@ -691,89 +1084,6 @@ HTML_PAGE = r'''
                                             <p>Click <strong class="text-white">START HIGH-FPS STREAM</strong> above to start live streaming.</p>
                                         </div>
                                     )}
-                                </div>
-                            </div>
-                        </div>
-                    )}
-
-                    {/* TAB: POWER & UPS SENTINEL */}
-                    {activeTab === 'power' && (
-                        <div class="space-y-5 animate-fadeIn">
-                            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-6 flex flex-col justify-between md:col-span-2">
-                                    <div class="flex justify-between items-start">
-                                        <span class="text-xs text-mono-400 font-bold uppercase tracking-wider">Battery Level & Charging State</span>
-                                        <span class={`text-xs font-bold px-2.5 py-1 rounded border ${bat.plugged && bat.plugged.startsWith('PLUGGED') ? 'bg-white text-black border-white' : 'bg-mono-800 text-mono-300 border-mono-700'}`}>
-                                            {bat.plugged || 'UNKNOWN'}
-                                        </span>
-                                    </div>
-                                    <div class="my-6">
-                                        <div class="text-6xl font-black tracking-tight text-white">
-                                            {bat.percentage !== undefined ? bat.percentage + '%' : '--%'}
-                                        </div>
-                                        <div class="text-sm text-mono-400 mt-2">
-                                            Charging Status: <span class="text-white font-bold">{bat.status || 'Checking...'}</span>
-                                        </div>
-                                    </div>
-                                    <div class="grid grid-cols-3 gap-2 border-t border-mono-800 pt-4 text-xs text-mono-400">
-                                        <div><span class="block text-mono-600 uppercase font-bold text-[10px]">Temperature</span><span class="text-white font-bold">{bat.temperature ? bat.temperature + '°C' : '--'}</span></div>
-                                        <div><span class="block text-mono-600 uppercase font-bold text-[10px]">Voltage</span><span class="text-white font-bold">{bat.voltage ? bat.voltage + ' mV' : '--'}</span></div>
-                                        <div><span class="block text-mono-600 uppercase font-bold text-[10px]">Health</span><span class="text-white font-bold">{bat.health || 'GOOD'}</span></div>
-                                    </div>
-                                </div>
-
-                                <div class="bg-mono-900 border border-mono-800 rounded-lg p-6 flex flex-col justify-between">
-                                    <div>
-                                        <span class="text-xs text-mono-400 font-bold uppercase tracking-wider block mb-2">Sentinel Daemon Status</span>
-                                        <div class="text-lg font-bold text-white mb-2">24/7 Power Monitor Active</div>
-                                        <p class="text-xs text-mono-400 leading-relaxed">
-                                            Monitors charger state every 2s. Triggers high-priority Android notification & voice announcement if power disconnects.
-                                        </p>
-                                    </div>
-                                    <div class="border-t border-mono-800 pt-4 mt-4">
-                                        <button onClick={() => postAction('/api/toast', {message: 'Sentinel monitoring active'}, 'Sentinel Active')} class="w-full bg-mono-800 text-white border border-mono-700 hover:border-white font-bold text-xs py-2 px-3 rounded transition">
-                                            🚨 SENTINEL ACTIVE
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-
-                            {/* OUTAGE LOG TABLE */}
-                            <div class="bg-mono-900 border border-mono-800 rounded-lg p-6">
-                                <span class="text-xs text-mono-400 font-bold uppercase tracking-wider block mb-4">Power Outage & Interruption History</span>
-                                <div class="overflow-x-auto">
-                                    <table class="w-full text-left text-xs border-collapse">
-                                        <thead>
-                                            <tr class="border-b border-mono-800 text-mono-400">
-                                                <th class="pb-2">TIMESTAMP</th>
-                                                <th class="pb-2">EVENT</th>
-                                                <th class="pb-2">BATTERY</th>
-                                                <th class="pb-2">DETAILS</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                            {data.power_history && data.power_history.length > 0 ? (
-                                                data.power_history.map((e, idx) => (
-                                                    <tr key={idx} class="border-b border-mono-850">
-                                                        <td class="py-3 font-mono">{e.timestamp}</td>
-                                                        <td class="py-3">
-                                                            <span class={`px-2 py-0.5 rounded text-[10px] font-bold ${e.event === 'POWER_CUT' ? 'bg-red-950 text-red-300 border border-red-800' : 'bg-green-950 text-green-300 border border-green-800'}`}>
-                                                                {e.event}
-                                                            </span>
-                                                        </td>
-                                                        <td class="py-3 font-bold">{e.battery_pct}%</td>
-                                                        <td class="py-3 text-mono-300">{e.message}</td>
-                                                    </tr>
-                                                ))
-                                            ) : (
-                                                <tr>
-                                                    <td colSpan="4" class="py-6 text-mono-500 text-center">
-                                                        Sentinel active. Unplug phone charger to trigger an outage event.
-                                                    </td>
-                                                </tr>
-                                            )}
-                                        </tbody>
-                                    </table>
                                 </div>
                             </div>
                         </div>
@@ -985,9 +1295,72 @@ def api_dashboard_all():
         "sensors": telemetry["sensors"],
         "wifi": telemetry["wifi"],
         "location": telemetry["location"],
+        "discord": telemetry["discord"],
+        "discord_history": discord_history,
         "power_history": power_history,
         "last_updated": telemetry["last_updated"]
     })
+
+@app.route('/api/discord/history', methods=['GET', 'DELETE', 'OPTIONS'])
+def api_discord_history():
+    if request.method == 'OPTIONS':
+        return jsonify({})
+    if request.method == 'DELETE':
+        global discord_history
+        discord_history = []
+        return jsonify({"success": True, "message": "Discord history cleared"})
+    return jsonify({"history": discord_history, "total": len(discord_history)})
+
+@app.route('/api/discord/test', methods=['POST', 'GET', 'OPTIONS'])
+def api_discord_test():
+    if request.method == 'OPTIONS':
+        return jsonify({})
+    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    b = telemetry.get("battery", {})
+    pct = b.get("percentage", 100)
+    temp = b.get("temperature", 30.0)
+    voltage = b.get("voltage", 4200)
+    plugged = b.get("plugged", "UNKNOWN")
+    
+    embed = {
+        "title": "🔔 [TEST] Armin Discord Sentinel Operational",
+        "description": "Android Edge Sentinel node (`srsxb13` / realme XT) successfully dispatched a test notification over Tailscale mesh.",
+        "color": 3447003,  # Blue (#3498DB)
+        "fields": [
+            {"name": "🔋 Battery State", "value": f"**{pct}%** ({plugged})", "inline": True},
+            {"name": "🌡️ Temperature", "value": f"{temp}°C", "inline": True},
+            {"name": "⚡ Voltage", "value": f"{voltage} mV", "inline": True},
+            {"name": "📍 Node IP", "value": "`100.123.244.85:8000`", "inline": True},
+            {"name": "⏰ Timestamp", "value": f"`{now_str}`", "inline": True},
+            {"name": "🤖 Sentinel Agent", "value": "Armin Power Sentinel", "inline": True}
+        ],
+        "footer": {"text": "Android Edge Sentinel • Homelab 24/7 Power Monitor"}
+    }
+    send_discord_webhook(embed, content="🔔 **Armin Sentinel Test Alert**: Webhook integration verified!", event_type="TEST")
+    return jsonify({"success": True, "message": "Test alert dispatched to Discord Webhook"})
+
+@app.route('/api/discord/alert', methods=['POST', 'OPTIONS'])
+def api_discord_alert():
+    if request.method == 'OPTIONS':
+        return jsonify({})
+    data = request.get_json() or {}
+    title = data.get("title", "⚡ Sentinel Notification")
+    desc = data.get("message", "Custom alert from Android Edge Node.")
+    color = int(data.get("color", 3447003))
+    content = data.get("content", None)
+    
+    embed = {
+        "title": title,
+        "description": desc,
+        "color": color,
+        "fields": [
+            {"name": "📍 Node IP", "value": "`100.123.244.85:8000`", "inline": True},
+            {"name": "⏰ Timestamp", "value": f"`{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}`", "inline": True}
+        ],
+        "footer": {"text": "Android Edge Sentinel • Homelab 24/7 Power Monitor"}
+    }
+    send_discord_webhook(embed, content=content, event_type="MANUAL_ALERT")
+    return jsonify({"success": True, "title": title})
 
 @app.route('/api/location/fix', methods=['GET', 'POST', 'OPTIONS'])
 def api_location_fix():
@@ -1003,7 +1376,6 @@ def api_location_fix():
         telemetry["location"] = loc
         return jsonify(loc)
     except Exception as e:
-        # Return last cached location if fresh query timed out
         return jsonify(telemetry["location"])
 
 @app.route('/api/location', methods=['GET'])

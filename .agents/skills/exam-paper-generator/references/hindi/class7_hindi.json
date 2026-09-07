@@ -1,0 +1,541 @@
+{
+  "book_metadata": {
+    "title_hi": "हिंदी भारती - कक्षा 7",
+    "title_en": "Hindi Bharati - Class 7 (Second Language)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "7th Class",
+    "medium": "Hindi Second Language",
+    "total_chapters": 12,
+    "semesters": {
+      "semester_1": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "semester_2": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "source_pdfs": [
+      "7_Hindi_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "सुनना-बोलना / पढ़ना-समझना",
+    "AS2": "अभिव्यक्ति - सृजनात्मकता",
+    "AS3": "भाषा की बात / व्याकरण"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title": "ज्ञान हम को दीजिए",
+      "title_en": "Gyan Hum Ko Dijiye",
+      "semester": 1,
+      "genre": "कविता (प्रार्थना)",
+      "author": "राम नरेश त्रिपाठी",
+      "learning_outcomes": [
+        "ईश्वर से सद्बुद्धि, सदाचार और सेवा भावना की प्रार्थना करना सीखना।",
+        "कविता का सस्वर वाचन और भावार्थ ग्रहण करना।",
+        "विलोम शब्द और संयुक्त व्यंजन पहचानना।"
+      ],
+      "summary_points": [
+        "बालक प्रभु से दुर्गुणों को दूर कर ज्ञान और दयावान बनने की प्रार्थना करते हैं।",
+        "सदा सत्य बोलना, गुरुजनों की सेवा करना और देश की संस्कृति पर गर्व करना प्रमुख संदेश है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "बालक भगवान से क्या प्रार्थना करते हैं?",
+          "question_text_en": "What do the children pray to God for?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "'ज्ञान हम को दीजिए' कविता का सारांश अपने शब्दों में लिखिए।",
+          "question_text_en": "Write the summary of the poem 'Gyan Hum Ko Dijiye' in your own words."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "विलोम शब्द लिखिए: (क) ज्ञान, (ख) सत्य, (ग) प्रेम।",
+          "question_text_en": "Write antonyms for: (a) Gyan, (b) Satya, (c) Prem."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title": "होशियार कौआ",
+      "title_en": "Hoshiyar Kauva",
+      "semester": 1,
+      "genre": "चित्र-कथा",
+      "author": "लोककथा",
+      "learning_outcomes": [
+        "चित्रों के माध्यम से कहानी समझना और अभिव्यक्ति कौशल बढ़ाना।",
+        "चालाकी और चापलूसी से बचने की सूझबूझ विकसित करना।"
+      ],
+      "summary_points": [
+        "लोमड़ी के चापलूसी भरे शब्दों में न आकर कौआ अपनी रोटी बचा लेता है।",
+        "बुद्धिमत्ता और विवेक से संकट का सामना करने की सीख मिलती है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "लोमड़ी ने कौए से रोटी छीनने के लिए क्या उपाय किया?",
+          "question_text_en": "What trick did the fox play to snatch the bread from the crow?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "यदि आप कौए की जगह होते तो क्या करते? अपने विचार लिखिए।",
+          "question_text_en": "What would you do if you were in the crow's place? Write your thoughts."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "लिंग बदलिए: (क) कौआ, (ख) लोमड़ी, (ग) बालक।",
+          "question_text_en": "Change the gender for: (a) Kauva, (b) Lomdi, (c) Balak."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title": "आदिवासी नृत्य - धिंमसा",
+      "title_en": "Adivasi Nritya - Dhimsa",
+      "semester": 1,
+      "genre": "जीवन की घटना / निबंध",
+      "author": "सांस्कृतिक वृत्त",
+      "learning_outcomes": [
+        "आंध्र प्रदेश के अराकू घाटी के आदिवासी लोकनृत्य 'धिंमसा' की विशेषताएँ जानना।",
+        "पारंपरिक वाद्ययंत्रों और जनजातीय संस्कृति का आदर करना।"
+      ],
+      "summary_points": [
+        "धिंमसा नृत्य विशाखापट्टनम की अराकू घाटी में वाल्मीकि, बगाता आदि जनजातियों द्वारा त्योहारों पर सामूहिक रूप से किया जाता है।",
+        "तुडुमु, मोरी, किरीडी आदि पारंपरिक वाद्ययंत्रों की ताल पर स्त्री-पुरुष एक-दूसरे का हाथ पकड़कर लयबद्ध नृत्य करते हैं।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "धिंमसा नृत्य कहाँ और किन अवसरों पर किया जाता है?",
+          "question_text_en": "Where and on what occasions is the Dhimsa dance performed?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपने क्षेत्र के किसी प्रसिद्ध लोकनृत्य या उत्सव के बारे में चार वाक्य लिखिए।",
+          "question_text_en": "Write four sentences about a famous folk dance or festival of your region."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "समानार्थी शब्द लिखिए: (क) नृत्य, (ख) जंगल, (ग) उत्सव।",
+          "question_text_en": "Write synonyms for: (a) Nritya, (b) Jangal, (c) Utsav."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title": "हम नन्हें बच्चे",
+      "title_en": "Hum Nanhe Bachche",
+      "semester": 1,
+      "genre": "कविता (देशभक्ति)",
+      "author": "सोहनलाल द्विवेदी",
+      "learning_outcomes": [
+        "देशभक्ति, साहस और मातृभूमि के प्रति समर्पण की भावना को समझना।",
+        "कठिनाइयों से न घबराते हुए तिरंगे का मान बढ़ाने का संकल्प लेना।"
+      ],
+      "summary_points": [
+        "बच्चे उम्र के छोटे होने पर भी धुन के पक्के और वीर सिपाही बनने की प्रतिज्ञा करते हैं।",
+        "भारत माता की शान में तिरंगा फहराने और बलिदान देने का भाव प्रकट हुआ है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "बच्चे किसके गौरव का गान करने और क्या फहराने की बात करते हैं?",
+          "question_text_en": "Whose glory do the children sing and what do they wish to hoist?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "आप बड़े होकर देश की सेवा किस प्रकार करना चाहते हैं? संक्षेप में लिखिए।",
+          "question_text_en": "How do you wish to serve the country when you grow up? Write briefly."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "वचन बदलिए: (क) बच्चा, (ख) राह, (ग) झंडा।",
+          "question_text_en": "Change the number (singular/plural) for: (a) Bachcha, (b) Raah, (c) Jhanda."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title": "ईमानदारी का फल",
+      "title_en": "Imandari Ka Phal",
+      "semester": 1,
+      "genre": "कहानी (नैतिक)",
+      "author": "लोककथा",
+      "learning_outcomes": [
+        "ईमानदारी और सत्यनिष्ठा के महत्व को जीवन में अपनाना।",
+        "लालच के दुष्परिणामों को समझना।"
+      ],
+      "summary_points": [
+        "नदी की देवी गरीब लकड़हारे की ईमानदारी से प्रसन्न होकर सोने और चाँदी की कुल्हाड़ी भी उपहार में देती है।",
+        "सच्चाई और ईमानदारी का फल हमेशा मीठा और कल्याणकारी होता है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "नदी की देवी ने लकड़हारे को सोने की कुल्हाड़ी क्यों भेंट की?",
+          "question_text_en": "Why did the river goddess gift the golden axe to the woodcutter?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_hi": "'ईमानदारी सर्वोत्तम नीति है' (Honesty is the best policy) विषय पर एक लघु निबंध लिखिए।",
+          "question_text_en": "Write a short essay on 'Honesty is the best policy'."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "संज्ञा शब्द पहचानकर लिखिए: 'सुरेश कुल्हाड़ी लेकर जंगल में गया।'",
+          "question_text_en": "Identify noun words in: 'Suresh kulhadi lekar jangal mein gaya.'"
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title": "पत्र लेखन",
+      "title_en": "Patra Lekhan",
+      "semester": 1,
+      "genre": "पत्र (छुट्टी पत्र)",
+      "author": "व्यावहारिक हिंदी",
+      "learning_outcomes": [
+        "औपचारिक पत्र लेखन के प्रारूप (स्थान, दिनांक, संबोधन, विषय, धन्यवाद) को सीखना।",
+        "प्रधानाध्यापक को दो दिन की छुट्टी के लिए आवेदन पत्र लिखना।"
+      ],
+      "summary_points": [
+        "पत्र लेखन विचारों के आदान-प्रदान और औपचारिक संवाद का शिष्ट साधन है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सुरेश ने प्रधानाध्यापक को पत्र किस कारण से लिखा था?",
+          "question_text_en": "For what reason did Suresh write a letter to the headmaster?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "अपनी बहन की शादी में जाने हेतु तीन दिन की छुट्टी के लिए प्रधानाध्यापक को प्रार्थना पत्र लिखिए।",
+          "question_text_en": "Write a leave application to the headmaster requesting three days leave to attend your sister's wedding."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "वर्ण-विच्छेद कीजिए: (क) छुट्टी, (ख) पत्र, (ग) महोदय।",
+          "question_text_en": "Perform phoneme segmentation (varna-vichchhed) for: (a) Chhutti, (b) Patra, (c) Mahodaya."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title": "कोयल",
+      "title_en": "Koyal",
+      "semester": 2,
+      "genre": "कविता",
+      "author": "सुभद्रा कुमारी चौहान",
+      "learning_outcomes": [
+        "प्रकृति के सौंदर्य और कोयल की मीठी बोली के महत्व को समझना।",
+        "मीठी वाणी बोलने की प्रेरणा प्राप्त करना।"
+      ],
+      "summary_points": [
+        "कोयल काली होते हुए भी अपनी मधुर कूक से सब का मन मोह लेती है।",
+        "मीठी बोली से मनुष्य सबका प्रिय बन सकता है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कोयल की बोली की क्या विशेषता है? वह आमों में क्या घोलती है?",
+          "question_text_en": "What is the speciality of the cuckoo's voice? What does she dissolve in mangoes?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "मीठी बोली का हमारे जीवन में क्या महत्व है? समझाइए।",
+          "question_text_en": "What is the importance of sweet speech in our life? Explain."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "पर्यायवाची शब्द लिखिए: (क) कोयल, (ख) मेघ, (ग) पेड़।",
+          "question_text_en": "Write synonyms for: (a) Koyal, (b) Megh, (c) Ped."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title": "आओ हिंदी सीखें",
+      "title_en": "Aao Hindi Seekhein",
+      "semester": 2,
+      "genre": "संवाद",
+      "author": "भाषा अभ्यास",
+      "learning_outcomes": [
+        "दैनिक जीवन में सरल हिंदी वाक्यों में बातचीत करने की दक्षता प्राप्त करना।",
+        "प्रश्न पूछने और उत्तर देने के व्याकरणिक रूपों को सीखना।"
+      ],
+      "summary_points": [
+        "मित्रों के बीच परस्पर परिचय, रुचियों और विद्यालयीन गतिविधियों पर रोचक संवाद।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "दो मित्रों के बीच बातचीत का मुख्य विषय क्या था?",
+          "question_text_en": "What was the main topic of conversation between the two friends?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "बाजार में फल खरीदते समय ग्राहक और दुकानदार के बीच होने वाले संवाद को चार वाक्यों में लिखिए।",
+          "question_text_en": "Write four sentences of dialogue between a customer and a fruit vendor in the market."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "grammar_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "सर्वनाम शब्द पहचानिए: 'हम सब मिलकर हिंदी सीखेंगे।'",
+          "question_text_en": "Identify pronouns in: 'Hum sab milkar Hindi seekhenge.'"
+        }
+      ]
+    },
+    {
+      "chapter_no": 9,
+      "title": "साहसी बालक",
+      "title_en": "Sahasi Balak",
+      "semester": 2,
+      "genre": "कहानी (प्रेरक)",
+      "author": "प्रेरक प्रसंग",
+      "learning_outcomes": [
+        "साहस, निर्भीकता और परोपकार की भावना को अपनाना।",
+        "आपदा के समय सूझबूझ और तत्परता से दूसरों की रक्षा करना।"
+      ],
+      "summary_points": [
+        "एक छोटे बालक ने अपनी जान जोखिम में डालकर नदी में डूबते साथी की जान बचाई।",
+        "साहस और धैर्य से बड़ी से बड़ी विपत्ति का सामना किया जा सकता है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "बालक ने डूबते हुए बच्चे को कैसे बचाया?",
+          "question_text_en": "How did the boy rescue the drowning child?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "साहसी बालक की वीरता पर अपने विचार लिखिए।",
+          "question_text_en": "Write your thoughts on the bravery of the courageous boy."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "विशेषण और विशेष్య अलग कीजिए: 'साहसी बालक', 'गहरी नदी'।",
+          "question_text_en": "Separate adjectives and nouns for: 'Sahasi balak', 'Gahri nadi'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 10,
+      "title": "कबीर की वाणी",
+      "title_en": "Kabir Ki Vani",
+      "semester": 2,
+      "genre": "दोहा (नीति)",
+      "author": "कबीरदास",
+      "learning_outcomes": [
+        "कबीर के दोहों के गूढ़ नीतिपरक और मानवीय अर्थ को समझना।",
+        "सत्य, संतोष और विनम्रता का आचरण करना।"
+      ],
+      "summary_points": [
+        "ऐसी बानी बोलिए मन का आपा खोय, औरन को सीतल करै आपहु सीतल होय।",
+        "बड़ा भया तो क्या भया जैसे पेड़ खजूर, पंथी को छाया नहीं फल लागै अति दूर।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कबीर के अनुसार हमें कैसी वाणी बोलनी चाहिए और क्यों?",
+          "question_text_en": "According to Kabir, what kind of words should we speak and why?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "खजूर के पेड़ के उदाहरण से कबीर क्या समझाना चाहते हैं?",
+          "question_text_en": "What does Kabir convey through the example of a date palm tree?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "तद्भव शब्दों के मानक रूप लिखिए: (क) बानी, (ख) आपा, (ग) सीतल।",
+          "question_text_en": "Write standard Hindi forms for: (a) Baani, (b) Aapa, (c) Seetal."
+        }
+      ]
+    },
+    {
+      "chapter_no": 11,
+      "title": "सफलता का मंत्र",
+      "title_en": "Safalta Ka Mantra",
+      "semester": 2,
+      "genre": "कहानी (प्रेरक)",
+      "author": "प्रेरक प्रसंग",
+      "learning_outcomes": [
+        "कठोर परिश्रम, निरंतर अभ्यास और समय की पाबंदी को सफलता की कुंजी समझना।",
+        "आलस्य त्यागकर लक्ष्य प्राप्ति के लिए समर्पित रहना।"
+      ],
+      "summary_points": [
+        "परिश्रम ही सफलता की कुंजी है; बिना मेहनत के कोई भी लक्ष्य हासिल नहीं किया जा सकता।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "सफलता प्राप्त करने के लिए कौन-से गुण आवश्यक हैं?",
+          "question_text_en": "What qualities are necessary to achieve success?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "essay",
+          "marks_weightage": "8M",
+          "question_text_hi": "'परिश्रम का महत्व' विषय पर अपने शब्दों में एक निबंध लिखिए।",
+          "question_text_en": "Write an essay on 'Importance of Hard Work' in your own words."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "उपसर्ग पहचानिए: (क) सफलता, (ख) परिश्रम, (ग) अनुशासन।",
+          "question_text_en": "Identify prefixes (upsarg) in: (a) Safalta, (b) Parishram, (c) Anushasan."
+        }
+      ]
+    },
+    {
+      "chapter_no": 12,
+      "title": "कोंडापल्ली की यात्रा",
+      "title_en": "Kondapalli Ki Yatra",
+      "semester": 2,
+      "genre": "यात्रा वर्णन",
+      "author": "सांस्कृतिक वृत्त",
+      "learning_outcomes": [
+        "आंध्र प्रदेश के विजयवाड़ा के पास कोंडापल्ली के प्रसिद्ध लकड़ी के खिलौनों की कला को जानना।",
+        "हस्तशिल्प और कारीगरों के परिश्रम का सम्मान करना।"
+      ],
+      "summary_points": [
+        "कोंडापल्ली के खिलौने 'तेनुकु చెక్క' (पोंनिकी लकड़ी) से बनाए जाते हैं और विश्व प्रसिद्ध हैं।",
+        "दशहरा और संक्रांति के अवसरों पर बोम्मल कोलुవు में इन खिलौनों की विशेष प्रतिष्ठा होती है।"
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_sunna_bolna_padhna",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_hi": "कोंडापल्ली किसलिए प्रसिद्ध है? यहाँ के खिलौने किस लकड़ी से बनते हैं?",
+          "question_text_en": "Why is Kondapalli famous? From what wood are the toys made here?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS2_abhivyakti_srijanatmakta",
+          "question_type": "short_answer",
+          "marks_weightage": "4M",
+          "question_text_hi": "आपने हाल ही में की गई किसी दर्शनीय स्थल की यात्रा का वर्णन करते हुए पाँच वाक्य लिखिए।",
+          "question_text_en": "Write five sentences describing a tour to a scenic place you undertook recently."
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS3_bhasha_ki_baat",
+          "question_type": "vocabulary_task",
+          "marks_weightage": "2M",
+          "question_text_hi": "वाक्य में प्रयोग कीजिए: (क) प्रसिद्ध, (ख) कारीगर, (ग) खिलौने।",
+          "question_text_en": "Use in own sentences: (a) Prasiddha, (b) Kaarigar, (c) Khilaune."
+        }
+      ]
+    }
+  ]
+}

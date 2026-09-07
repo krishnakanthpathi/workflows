@@ -1,0 +1,574 @@
+{
+  "book_metadata": {
+    "title_en": "Honeysuckle - English Reader Class 6 (AP SCERT 2024-25)",
+    "title_te": "ఇంగ్లీషు రీడర్ - ఆరవ తరగతి (హనీసకిల్)",
+    "board": "Government of Andhra Pradesh (SCERT / BSEAP)",
+    "academic_year": "2024-25",
+    "class": "6th Class",
+    "medium": "English",
+    "total_chapters": 8,
+    "source_pdfs": [
+      "6_English_Textbook.pdf"
+    ]
+  },
+  "academic_standards_framework": {
+    "AS1": "Reading Comprehension",
+    "AS2": "Vocabulary and Grammar",
+    "AS3": "Creative Discourses"
+  },
+  "chapters": [
+    {
+      "chapter_no": 1,
+      "title_en": "Who Did Patrick's Homework? & A House, A Home",
+      "title_te": "పాట్రిక్ హోంవర్క్ ఎవరు చేశారు? & ఒక ఇల్లు, ఒక నివాసం",
+      "prose_title": "Who Did Patrick's Homework? (by Carol Moore)",
+      "poem_title": "A House, A Home (by Lorraine M. Halli)",
+      "author": "Carol Moore / Lorraine M. Halli",
+      "learning_outcomes": [
+        "Recognize that self-reliance and hard work lead to genuine success.",
+        "Distinguish between the physical structure of a 'house' (bricks, stone, wood) and the emotional bonds of a 'home' (family, love, unselfish acts).",
+        "Master phrasal verbs, compound words, and rhyming patterns in poetry."
+      ],
+      "summary_points": [
+        "Patrick hated homework and loved playing games like baseball and Nintendo.",
+        "An elf agreed to grant a wish to do Patrick's homework for 35 days, but constantly asked Patrick for help with dictionary, math tables, and history.",
+        "In the process of guiding the elf, Patrick himself studied day and night and scored 'A' grades in all subjects.",
+        "The poem distinguishes a house (brick, mortar, glass) from a home (family members caring, sharing, and loving unconditionally)."
+      ],
+      "vocabulary_and_grammar": {
+        "phrasal_verbs": [
+          "look up",
+          "clean up",
+          "do over",
+          "keep up"
+        ],
+        "compound_words": [
+          "homework",
+          "courtyard",
+          "chimney",
+          "fireplace"
+        ],
+        "rhyming_words": [
+          "hard - yard",
+          "wood - good",
+          "others - brothers"
+        ]
+      },
+      "discourses": [
+        {
+          "type": "Diary Entry",
+          "prompt": "Imagine you are Patrick. Write a diary entry on the day you received straight 'A' grades from your teachers."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did Patrick think his cat was playing with? What was it really?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "According to the poet Lorraine M. Halli, what makes a house a 'home'?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Fill in the blanks with appropriate phrasal verbs from the box: [look up, out of luck, true to his word]. (a) Can you ______ this difficult word in the dictionary? (b) The elf, ______, began to do Patrick's homework."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "major_discourse",
+          "marks_weightage": "10M",
+          "question_text_en": "Write a diary entry as Patrick reflecting on how helping the tiny elf actually transformed you into a model, hardworking student."
+        }
+      ]
+    },
+    {
+      "chapter_no": 2,
+      "title_en": "How the Dog Found Himself a New Master! & The Kite",
+      "title_te": "కుక్క తనకు కొత్త యజమానిని ఎలా కనుగొంది! & గాలిపటం",
+      "prose_title": "How the Dog Found Himself a New Master! (Folk Tale)",
+      "poem_title": "The Kite (by Harry Behn)",
+      "author": "Folk Tale / Harry Behn",
+      "learning_outcomes": [
+        "Trace the evolutionary folk story of dog domestication from wild wolves to man's most loyal companion.",
+        "Appreciate the vivid imagery, rhythm, and motion of a flying kite described by Harry Behn.",
+        "Learn collective nouns (a pack of wolves, a herd of cows, a flock of sheep) and degrees of comparison."
+      ],
+      "summary_points": [
+        "Dogs were once their own masters until one dog decided to serve the strongest creature on earth.",
+        "He served the wolf, then the bear, then the lion, but left each upon realizing a stronger master existed.",
+        "Finally, seeing the lion afraid of man, the dog chose man as his permanent, faithful companion.",
+        "The poem captures the soaring beauty of a bright new kite in the blue sky and its sudden flutter when snagged on a tree."
+      ],
+      "vocabulary_and_grammar": {
+        "collective_nouns": {
+          "wolves": "a pack of wolves",
+          "cows": "a herd of cows",
+          "ships": "a fleet of ships",
+          "flowers": "a bouquet of flowers"
+        },
+        "degrees_of_comparison": [
+          "strong - stronger - strongest",
+          "bright - brighter - brightest",
+          "fierce - fiercer - fiercest"
+        ]
+      },
+      "discourses": [
+        {
+          "type": "Story Writing",
+          "prompt": "Write a short narrative describing an act of loyalty shown by a pet dog."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the dog say goodbye to the bear? Who did he choose as his next master?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How does a kite look when it is new in a clear blue sky? When does it become a ragged thing?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Complete each sentence with a suitable collective noun: (a) A ______ of cattle was grazing peacefully in the meadow. (b) A ______ of wolves howled through the cold forest."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "minor_discourse",
+          "marks_weightage": "5M",
+          "question_text_en": "Design an attractive poster for the Annual Kite Festival (Sankranti Patang Mahotsav) organized in your town."
+        }
+      ]
+    },
+    {
+      "chapter_no": 3,
+      "title_en": "Taro's Reward & The Quarrel",
+      "title_te": "తారో బహుమతి & తగాదా",
+      "prose_title": "Taro's Reward (Japanese Folktale)",
+      "poem_title": "The Quarrel (by Eleanor Farjeon)",
+      "author": "Japanese Folktale / Eleanor Farjeon",
+      "learning_outcomes": [
+        "Value filial devotion, obedience, and selflessness towards elderly parents.",
+        "Understand how minor sibling quarrels start over petty issues and resolve through mutual realization.",
+        "Use suffixes (-ful, -less) and rhyming couplets effectively."
+      ],
+      "summary_points": [
+        "Taro, a poor young woodcutter, worked hard to buy expensive sake to warm his frail, shivering old father.",
+        "A magical waterfall provided delicious warm sake to Taro because of his noble devotion, but yielded only plain cold water to greedy villagers.",
+        "The Emperor of Japan rewarded Taro with twenty pieces of gold to encourage all children to honor and obey their parents.",
+        "The poem portrays brother-sister quarreling: beginning from a minor thing, turning bitter, and ending with a warm apology."
+      ],
+      "vocabulary_and_grammar": {
+        "suffixes": {
+          "care + ful": "careful",
+          "care + less": "careless",
+          "thought + ful": "thoughtful",
+          "thought + less": "thoughtless"
+        },
+        "antonyms": {
+          "delicious": "tasteless, bitter",
+          "greedy": "generous",
+          "frail": "robust, sturdy"
+        }
+      },
+      "discourses": [
+        {
+          "type": "Letter Writing",
+          "prompt": "Write a letter to your friend describing why Taro's filial devotion inspired you."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why did the magic waterfall give Taro sake and other people only cold water?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "How did the quarrel between the siblings in Eleanor Farjeon's poem start and how did it end?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Make nouns from the following adjectives by adding '-ness' or '-ity': (a) honest, (b) kind, (c) noble, (d) bitter."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "major_discourse",
+          "marks_weightage": "10M",
+          "question_text_en": "Write a formal letter to your school Principal requesting permission to stage a play on 'Taro's Reward' for Parents' Day."
+        }
+      ]
+    },
+    {
+      "chapter_no": 4,
+      "title_en": "An Indian – American Woman in Space: Kalpana Chawla & Beauty",
+      "title_te": "అంతరిక్షంలో ఒక భారతీయ - అమెరికన్ మహిళ: కల్పనా చావ్లా & అందం",
+      "prose_title": "An Indian – American Woman in Space: Kalpana Chawla (Biographical Prose)",
+      "poem_title": "Beauty (by E-Yeh-Shure)",
+      "author": "Biographical Feature / E-Yeh-Shure",
+      "learning_outcomes": [
+        "Get inspired by Kalpana Chawla's grit, determination, and historic aerospace achievements.",
+        "Understand that true beauty exists not only in external sights and sounds, but within good deeds and honest thoughts.",
+        "Form technical vocabulary related to space exploration and prefixes (un-, in-, dis-)."
+      ],
+      "summary_points": [
+        "Kalpana Chawla, born in Karnal (Haryana), graduated in aeronautical engineering and became the first Indian-born woman astronaut in space.",
+        "She flew her first mission on Columbia in 1997 and spent 16 days in space doing 80 scientific experiments.",
+        "Tragically, Space Shuttle Columbia disintegrated on February 1, 2003 during atmospheric re-entry, claiming the lives of all seven crew members.",
+        "E-Yeh-Shure's poem reveals beauty is seen in sunlight, corn, and trees; heard in wind, rain, and singing; and felt inside one's own mind in noble deeds."
+      ],
+      "vocabulary_and_grammar": {
+        "space_terms": [
+          "astronaut",
+          "aerospace",
+          "re-entry",
+          "orbiter",
+          "payload"
+        ],
+        "prefixes": {
+          "able": "unable",
+          "possible": "impossible",
+          "obey": "disobey",
+          "known": "unknown"
+        }
+      },
+      "discourses": [
+        {
+          "type": "Biographical Sketch",
+          "prompt": "Write a biographical tribute on Kalpana Chawla highlighting her inspirational message to youth: 'The path from dreams to success does exist'."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was Kalpana Chawla's inspirational message to students of Punjab Engineering College from aboard Columbia?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "According to the poet E-Yeh-Shure, where can beauty be seen, heard, and experienced within oneself?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Add suitable prefixes (un-, in-, dis-) to create antonyms: (a) dependent, (b) regular, (c) approve, (d) conscious."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "major_discourse",
+          "marks_weightage": "10M",
+          "question_text_en": "Imagine you were invited to give a morning assembly speech on 'National Science Day'. Prepare a speech honoring the scientific spirit of Kalpana Chawla."
+        }
+      ]
+    },
+    {
+      "chapter_no": 5,
+      "title_en": "A Different Kind of School & Where Do All the Teachers Go?",
+      "title_te": "ఒక విభిన్నమైన పాఠశాల & ఉపాధ్యాయులందరూ ఎక్కడికి వెళతారు?",
+      "prose_title": "A Different Kind of School (by E.V. Lucas)",
+      "poem_title": "Where Do All the Teachers Go? (by Peter Dixon)",
+      "author": "E.V. Lucas / Peter Dixon",
+      "learning_outcomes": [
+        "Cultivate deep empathy, sensitivity, and helpfulness towards differently-abled persons.",
+        "Appreciate experimental schooling where character, compassion, and shared responsibility are taught as living experiences.",
+        "Understand modal auxiliaries (can, could, should, must) and child perceptions of teachers."
+      ],
+      "summary_points": [
+        "Miss Beam's school focused on teaching kindness, citizenship, and thoughtfulness rather than just rote scholastic knowledge.",
+        "Students observed simulated days: Blind Day, Lame Day, Deaf Day, Injured Day, and Dumb Day to experience disabilities first-hand.",
+        "On Blind Day, eyes were bandaged overnight and a classmate acted as helper, creating mutual compassion.",
+        "Peter Dixon's poem humorously explores a six-year-old child's curiosity about whether teachers live ordinary human lives (washing socks, wearing pajamas, watching TV)."
+      ],
+      "vocabulary_and_grammar": {
+        "modals": [
+          "must",
+          "ought to",
+          "should",
+          "could",
+          "can"
+        ],
+        "adverbial_phrases": [
+          "in the end",
+          "at all costs",
+          "to a great extent"
+        ]
+      },
+      "discourses": [
+        {
+          "type": "Notice Writing",
+          "prompt": "Draft a notice informing students about an upcoming 'Sensitivity and Inclusion Week' organized at your school."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What was the main system and aim of Miss Beam's school according to the author?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Which day did the children find the most difficult in Miss Beam's school? Why?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Fill in blanks with appropriate modals (should, must, can): (a) We ______ be kind and sensitive to disabled people. (b) ______ you guide me across the busy street?"
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "minor_discourse",
+          "marks_weightage": "5M",
+          "question_text_en": "Draft a notice for your school notice board inviting volunteers to assist visually impaired students during their annual exams."
+        }
+      ]
+    },
+    {
+      "chapter_no": 6,
+      "title_en": "Who I Am & The Wonderful Words",
+      "title_te": "నేను ఎవరు & అద్భుతమైన పదాలు",
+      "prose_title": "Who I Am (Many Voices: Radha, Nasir, Rohit, Serbjit, Peter, Dolma)",
+      "poem_title": "The Wonderful Words (by Mary O'Neill)",
+      "author": "NCERT Voices / Mary O'Neill",
+      "learning_outcomes": [
+        "Celebrate diversity in human personalities, aspirations, talents, and multiple intelligences.",
+        "Recognize that every individual has unique strengths (visual, bodily-kinesthetic, interpersonal, musical).",
+        "Understand the creative power of words to express thoughts clearly and beautifully."
+      ],
+      "summary_points": [
+        "Six children voice their dreams: Radha loves climbing trees; Nasir wants to become a seed collector to save family cotton crops; Rohit dreams of world travel; Serbjit gets angry when adults disbelieve truth; Peter loves cinema Sundays; Dolma aspires to become Prime Minister of India.",
+        "The lesson demonstrates multiple intelligences theory: visual, musical, bodily, interpersonal, and mathematical.",
+        "Mary O'Neill's poem reminds us never to let a thought shrivel and die for lack of words; English is a wonderful game to groom and pair thoughts."
+      ],
+      "vocabulary_and_grammar": {
+        "adjectives_of_personality": [
+          "adventurous",
+          "observant",
+          "determined",
+          "truthful",
+          "creative"
+        ],
+        "figures_of_speech": [
+          "metaphor: Words are the food and dress of thought"
+        ]
+      },
+      "discourses": [
+        {
+          "type": "Self-Profile / Essay",
+          "prompt": "Write a self-profile essay entitled 'Who I Am: My Strengths, Hobbies, and Aspirations'."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does Nasir want to learn how to preserve seeds? How will it help his family?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does the poet Mary O'Neill say that 'words are the food and dress of thought'?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Match the personality types with their descriptions: (a) Bodily-Kinesthetic, (b) Interpersonal. Descriptions: (1) Good at understanding people and feelings, (2) Good with body movement, sports, and crafts."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "major_discourse",
+          "marks_weightage": "10M",
+          "question_text_en": "Write a descriptive essay on 'My Life Goal: What I Want to Become and How I Plan to Serve Society'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 7,
+      "title_en": "Fair Play & Vocation",
+      "title_te": "నిష్పక్షపాత న్యాయం & జీవన వృత్తి",
+      "prose_title": "Fair Play (by Munshi Premchand)",
+      "poem_title": "Vocation (by Rabindranath Tagore)",
+      "author": "Munshi Premchand / Rabindranath Tagore",
+      "learning_outcomes": [
+        "Understand that justice transcends personal friendship ('The voice of the Panch is the voice of God').",
+        "Analyze character development and reconciliation between Jumman Shaikh and Algu Chowdhry.",
+        "Appreciate Rabindranath Tagore's depiction of a child's yearning for carefree freedom when observing hawkers, gardeners, and night watchmen."
+      ],
+      "summary_points": [
+        "Jumman Shaikh and Algu Chowdhry were intimate village friends.",
+        "When Jumman's aged aunt transferred her property, Jumman and his wife mistreated her; the aunt took her grievance to the village panchayat.",
+        "Algu, chosen as head Panch, gave a verdict against Jumman, causing enmity.",
+        "Later, when Algu's own bullock dispute reached the Panchayat, Jumman was made head Panch and realized the solemn duty of impartiality, ruling in Algu's favor.",
+        "In 'Vocation', a schoolboy wishes to become a bangle-seller, a gardener, or a night watchman walking with a lantern, envying their apparent freedom."
+      ],
+      "vocabulary_and_grammar": {
+        "idioms": [
+          "swallow the insult",
+          "make up one's mind",
+          "bone of contention",
+          "ill-will"
+        ],
+        "compound_sentences": [
+          "coordinating conjunctions: and, but, yet, so"
+        ]
+      },
+      "discourses": [
+        {
+          "type": "Dialogue Writing",
+          "prompt": "Write a conversation between Algu Chowdhry and Jumman Shaikh after the panchayat verdict when they reconcile as true friends."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What did the aunt mean when she said: 'The Panch knows neither friend nor enemy'? How was this proved in the story?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Why does the child in Rabindranath Tagore's poem 'Vocation' wish to become a gardener?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Use the following idiomatic phrases in meaningful sentences of your own: (a) take to heart, (b) make up one's mind."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "major_discourse",
+          "marks_weightage": "10M",
+          "question_text_en": "Write a narrative story illustrating the proverb: 'Truth and justice always triumph in the end'."
+        }
+      ]
+    },
+    {
+      "chapter_no": 8,
+      "title_en": "The Banyan Tree",
+      "title_te": "మర్రి చెట్టు",
+      "prose_title": "The Banyan Tree (by Ruskin Bond)",
+      "poem_title": "Nature Observation and Wildlife Duel",
+      "author": "Ruskin Bond",
+      "learning_outcomes": [
+        "Appreciate nature, giant banyan trees as flourishing ecosystems, and keen wildlife observation.",
+        "Analyze Ruskin Bond's vivid narrative style describing the classic wilderness combat between a grey mongoose and a black cobra.",
+        "Understand sensory descriptive language, motion verbs, and adjectives of drama."
+      ],
+      "summary_points": [
+        "The author as a boy spent hours reading in the branches of a grand sixty-year-old banyan tree.",
+        "From his hidden platform on a warm April afternoon, he witnessed a thrilling duel between a three-foot mongoose and a six-foot black cobra.",
+        "A crow and a myna watched the fight, trying to join the fray; the crow was struck by the cobra and died, while the myna stayed on a safe cactus.",
+        "With lightning speed and tactical dodging, the mongoose wore out the venomous cobra and ultimately emerged victorious."
+      ],
+      "vocabulary_and_grammar": {
+        "vivid_action_verbs": [
+          "darted",
+          "hissed",
+          "struck",
+          "snapped",
+          "glided",
+          "whipped"
+        ],
+        "adverbs_of_manner": [
+          "swiftly",
+          "grimly",
+          "cautiously",
+          "defensively"
+        ]
+      },
+      "discourses": [
+        {
+          "type": "Eyewitness Report",
+          "prompt": "Write an eyewitness account of the dramatic battle between the mongoose and cobra observed from the banyan tree."
+        }
+      ],
+      "chapter_end_exercises": [
+        {
+          "question_no": 1,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What were the warning signs and battle tactics used by the cobra to terrify the mongoose?"
+        },
+        {
+          "question_no": 2,
+          "academic_standard": "AS1_reading_comprehension",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "What happened to the crow when it repeatedly tried to interfere in the fight between the snake and mongoose?"
+        },
+        {
+          "question_no": 3,
+          "academic_standard": "AS2_vocabulary_grammar",
+          "question_type": "short_answer",
+          "marks_weightage": "2M",
+          "question_text_en": "Identify the adverbs in the following sentences and state their type: (a) The mongoose darted swiftly into the bushes. (b) The cobra defended itself cautiously."
+        },
+        {
+          "question_no": 4,
+          "academic_standard": "AS3_creative_discourses",
+          "question_type": "major_discourse",
+          "marks_weightage": "10M",
+          "question_text_en": "Write a descriptive article for your school magazine entitled 'The Grand Old Banyan Tree: A Miniature Wildlife Sanctuary'."
+        }
+      ]
+    }
+  ]
+}
