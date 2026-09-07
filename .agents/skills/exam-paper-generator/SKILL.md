@@ -208,13 +208,28 @@ JSON FORMAT SCHEMA:
           "q_no": 15,
           "heading": "Answer either (A) or (B):",
           "marks": "8M",
-          "choice_a": {"type": "essay", "title": "A) First essay prompt...", "format": "Key points..."},
-          "choice_b": {"type": "essay", "title": "B) Second essay prompt...", "format": "Key points..."}
+          "choice_a": {
+            "type": "essay",
+            "title": "A) Calculate the Mean, Median, and Mode for the following data set using a complete table:",
+            "table": {
+              "headers": ["Class Interval", "0-10", "10-20", "20-30", "30-40", "40-50"],
+              "rows": [["Frequency", "7", "15", "22", "10", "6"]]
+            },
+            "format": "Key formula and steps..."
+          },
+          "choice_b": {
+            "type": "essay",
+            "title": "B) Second essay prompt...",
+            "format": "Key points..."
+          }
         }
       ]
     }
   ]
 }
+
+TABLE SUPPORT NOTE:
+Tables can be provided either as structured JSON objects ("table": {"headers": [...], "rows": [...]}) or embedded directly as standard Markdown tables (| Col 1 | Col 2 |\n|---|---|\n| Val 1 | Val 2 |) in question text or choice titles. The compiler engine automatically parses and renders both into authentic, print-ready board exam tables.
 ```
 
 ---

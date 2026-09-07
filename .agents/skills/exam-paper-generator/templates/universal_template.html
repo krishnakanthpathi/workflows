@@ -279,9 +279,11 @@
     .data-table {
       width: 100%;
       border-collapse: collapse;
-      margin: 8px 0;
+      margin: 10px 0;
       font-size: 10.5pt;
       text-align: center;
+      page-break-inside: avoid;
+      break-inside: avoid;
     }
 
     .data-table th, .data-table td {
@@ -290,8 +292,13 @@
     }
 
     .data-table th {
-      background: #ffffff;
+      background: #f8fafc;
       font-weight: 700;
+    }
+
+    .data-table td {
+      background: #ffffff;
+      font-weight: normal !important;
     }
 
     .sub-questions-list {
@@ -381,6 +388,26 @@
         <div class="q-text" style="white-space: pre-line;"><strong>{{ q.q_no }}.</strong> {{ q.question }}</div>
         <div class="marks-pill">{{ q.marks }}</div>
       </div>
+      {% if q.table %}
+      <table class="data-table">
+        <thead>
+          <tr>
+            {% for th in q.table.headers %}
+            <th>{{ th }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in q.table.rows %}
+          <tr>
+            {% for cell in row %}
+            <td>{{ cell }}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
 
       <!-- DATA ANALYSIS / TABLE QUESTION -->
       {% elif q.type == 'data_analysis' %}
@@ -426,6 +453,26 @@
       <!-- CHOICE A -->
       <div class="choice-card">
         <div class="choice-title">{{ q.choice_a.title }}</div>
+        {% if q.choice_a.table %}
+        <table class="data-table">
+          <thead>
+            <tr>
+              {% for th in q.choice_a.table.headers %}
+              <th>{{ th }}</th>
+              {% endfor %}
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in q.choice_a.table.rows %}
+            <tr>
+              {% for cell in row %}
+              <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        {% endif %}
         {% if q.choice_a.format %}
         <div class="choice-format">{{ q.choice_a.format }}</div>
         {% endif %}
@@ -443,6 +490,26 @@
       <!-- CHOICE B -->
       <div class="choice-card">
         <div class="choice-title">{{ q.choice_b.title }}</div>
+        {% if q.choice_b.table %}
+        <table class="data-table">
+          <thead>
+            <tr>
+              {% for th in q.choice_b.table.headers %}
+              <th>{{ th }}</th>
+              {% endfor %}
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in q.choice_b.table.rows %}
+            <tr>
+              {% for cell in row %}
+              <td>{{ cell }}</td>
+              {% endfor %}
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+        {% endif %}
         {% if q.choice_b.format %}
         <div class="choice-format">{{ q.choice_b.format }}</div>
         {% endif %}
@@ -461,6 +528,26 @@
         <div class="q-text"><strong>{{ q.q_no }}.</strong> {{ q.question or q.heading }}</div>
         {% if q.marks %}<div class="marks-pill">{{ q.marks }}</div>{% endif %}
       </div>
+      {% if q.table %}
+      <table class="data-table">
+        <thead>
+          <tr>
+            {% for th in q.table.headers %}
+            <th>{{ th }}</th>
+            {% endfor %}
+          </tr>
+        </thead>
+        <tbody>
+          {% for row in q.table.rows %}
+          <tr>
+            {% for cell in row %}
+            <td>{{ cell }}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
       {% endif %}
 
     </div>

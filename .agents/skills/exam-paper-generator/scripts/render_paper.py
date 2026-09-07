@@ -12,6 +12,7 @@ import argparse
 import glob
 import json
 import os
+import re
 import subprocess
 import sys
 from jinja2 import Environment, FileSystemLoader
@@ -37,6 +38,79 @@ def find_chrome():
             return p
     return None
 
+def convert_md_table_to_html(md_table_str):
+    """Converts a multi-line markdown table string into a styled HTML table."""
+    lines = [l.strip() for l in md_table_str.strip().splitlines() if l.strip()]
+    if len(lines) < 2:
+        return md_table_str
+    
+    headers = [c.strip() for c in lines[0].strip('|').split('|')]
+    sep_idx = -1
+    for idx, l in enumerate(lines):
+        if re.match(r'^\s*\|?(\s*:?-+:?\s*\|)+\s*:?-+:?\s*\|?\s*$', l):
+            sep_idx = idx
+            break
+            
+    if sep_idx == -1:
+        return md_table_str
+        
+    rows = []
+    for l in lines[sep_idx + 1:]:
+        if '|' in l:
+            cells = [c.strip() for c in l.strip('|').split('|')]
+            rows.append(cells)
+            
+    html = ['<table class="data-table">', '  <thead><tr>']
+    for h in headers:
+        html.append(f'    <th>{h}</th>')
+    html.append('  </tr></thead>')
+    html.append('  <tbody>')
+    for r in rows:
+        html.append('    <tr>')
+        for c in r:
+            html.append(f'      <td>{c}</td>')
+        html.append('    </tr>')
+    html.append('  </tbody>')
+    html.append('</table>')
+    return '\n'.join(html)
+
+def process_markdown_tables_in_text(text):
+    """
+    Scans a text string for markdown table blocks and replaces them
+    with semantic <table class="data-table"> HTML markup.
+    """
+    if not isinstance(text, str) or '|' not in text:
+        return text
+        
+    lines = text.splitlines()
+    result = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        # Detect if current line and next line form a markdown table header + separator
+        if i + 1 < len(lines) and '|' in line and re.match(r'^\s*\|?(\s*:?-+:?\s*\|)+\s*:?-+:?\s*\|?\s*$', lines[i+1]):
+            table_lines = [line, lines[i+1]]
+            j = i + 2
+            while j < len(lines) and '|' in lines[j] and lines[j].strip().startswith('|'):
+                table_lines.append(lines[j])
+                j += 1
+            result.append(convert_md_table_to_html('\n'.join(table_lines)))
+            i = j
+        else:
+            result.append(line)
+            i += 1
+    return '\n'.join(result)
+
+def preprocess_exam_data(data):
+    """Recursively processes exam data to convert markdown tables to HTML tables."""
+    if isinstance(data, dict):
+        return {k: preprocess_exam_data(v) for k, v in data.items()}
+    elif isinstance(data, list):
+        return [preprocess_exam_data(x) for x in data]
+    elif isinstance(data, str):
+        return process_markdown_tables_in_text(data)
+    return data
+
 def detect_template(data):
     """Detect whether to use the Language/Hindi template or Universal STEM/General template."""
     if "metadata" in data and ("subject_hindi" in data["metadata"] or "blueprint_table" in data):
@@ -58,6 +132,9 @@ def render_json(json_path, out_dir=None):
     print(f"[*] Reading JSON data from: {json_path}")
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
+
+    # Preprocess data to convert any embedded markdown tables to HTML
+    data = preprocess_exam_data(data)
 
     template_name = detect_template(data)
     
