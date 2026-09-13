@@ -12,33 +12,52 @@ import urllib.request
 import json
 
 REQUIRED_PYTHON_PACKAGES = {
-    "PIL": "pillow",
-    "pypdf": "pypdf"
+    "PIL": ("pillow", "python3-pil"),
+    "pypdf": ("pypdf", "python3-pypdf")
 }
 
-def install_python_package(pkg_name: str):
-    """Auto-install a missing Python package using uv or pip."""
-    print(f"[*] Auto-installing missing Python package: {pkg_name}...", file=sys.stderr)
-    cmd = []
-    if shutil.which("uv"):
-        cmd = ["uv", "pip", "install", pkg_name]
-    else:
-        cmd = [sys.executable, "-m", "pip", "install", pkg_name]
+
+def install_python_package(mod_name: str, pypi_name: str, apt_name: str):
+    """Auto-install a missing Python package using uv, pip, or apt."""
+    print(f"[*] Checking/installing Python package: {pypi_name}...", file=sys.stderr)
     
-    try:
-        subprocess.run(cmd, check=True)
-        print(f"[+] Successfully installed {pkg_name}", file=sys.stderr)
-    except subprocess.CalledProcessError as e:
-        print(f"[!] Failed to install {pkg_name}: {e}", file=sys.stderr)
+    # 1. Try uv
+    if shutil.which("uv"):
+        try:
+            subprocess.run(["uv", "pip", "install", pypi_name], check=True, capture_output=True)
+            print(f"[+] Successfully installed {pypi_name} via uv", file=sys.stderr)
+            return
+        except Exception:
+            pass
+
+    # 2. Try pip
+    res = subprocess.run([sys.executable, "-m", "pip", "--version"], capture_output=True)
+    if res.returncode == 0:
+        try:
+            subprocess.run([sys.executable, "-m", "pip", "install", pypi_name], check=True, capture_output=True)
+            print(f"[+] Successfully installed {pypi_name} via pip", file=sys.stderr)
+            return
+        except Exception:
+            pass
+
+    # 3. Try apt-get on Linux
+    if sys.platform.startswith("linux") and shutil.which("apt-get"):
+        try:
+            cmd = ["sudo", "apt-get", "install", "-y", apt_name]
+            subprocess.run(cmd, check=True, capture_output=True)
+            print(f"[+] Successfully installed {apt_name} via apt", file=sys.stderr)
+            return
+        except Exception:
+            pass
 
 
 def ensure_python_dependencies():
     """Verify and auto-install required Python libraries."""
-    for mod_name, pkg_name in REQUIRED_PYTHON_PACKAGES.items():
+    for mod_name, (pypi_name, apt_name) in REQUIRED_PYTHON_PACKAGES.items():
         try:
             __import__(mod_name)
         except ImportError:
-            install_python_package(pkg_name)
+            install_python_package(mod_name, pypi_name, apt_name)
 
 
 def ensure_system_binaries():
@@ -64,8 +83,7 @@ def ensure_ollama_model(model_name: str = "glm-ocr", endpoint: str = "http://loc
                 print(f"[*] Ollama model '{model_name}' not found locally. Pulling...", file=sys.stderr)
                 if shutil.which("ollama"):
                     subprocess.run(["ollama", "pull", model_name], check=True)
-    except Exception as e:
-        # Ollama might be offline or endpoint custom; do not crash
+    except Exception:
         pass
 
 
