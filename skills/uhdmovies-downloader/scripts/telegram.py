@@ -24,24 +24,37 @@ def dispatch_telegram(tg_url_or_proto, label="Video File"):
     else:
         tg_proto_url = tg_url_or_proto
 
-    print(f"[*] Launching Telegram for '{label}'...")
-    subprocess.run(["open", tg_proto_url], check=True)
-    time.sleep(2)
+    import platform
+    current_os = platform.system().lower()
 
-    applescript = """
-    tell application "Telegram" to activate
-    delay 1
-    tell application "System Events"
-        tell process "Telegram"
-            key code 36
+    if current_os == "darwin":
+        print(f"[*] Launching Telegram for '{label}' on macOS...")
+        subprocess.run(["open", tg_proto_url], check=True)
+        time.sleep(2)
+
+        applescript = """
+        tell application "Telegram" to activate
+        delay 1
+        tell application "System Events"
+            tell process "Telegram"
+                key code 36
+            end tell
         end tell
-    end tell
-    """
-    res = subprocess.run(["osascript", "-e", applescript], capture_output=True, text=True)
-    if res.returncode == 0:
-        print("[+] Successfully sent START and accepted file prompt in Telegram.")
+        """
+        res = subprocess.run(["osascript", "-e", applescript], capture_output=True, text=True)
+        if res.returncode == 0:
+            print("[+] Successfully sent START and accepted file prompt in Telegram.")
+        else:
+            print(f"[-] AppleScript notice: {res.stderr.strip() or 'Prompt focused.'}")
+    elif current_os == "linux":
+        print(f"[*] Launching Telegram for '{label}' on Linux...")
+        try:
+            subprocess.run(["xdg-open", tg_proto_url], check=True)
+            print("[+] Dispatched tg:// URL via xdg-open on Linux.")
+        except Exception as e:
+            print(f"[-] Could not open via xdg-open: {e}. Protocol URL: {tg_proto_url}")
     else:
-        print(f"[-] AppleScript notice: {res.stderr.strip() or 'Prompt focused.'}")
+        print(f"[*] Telegram deep link: {tg_proto_url}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
