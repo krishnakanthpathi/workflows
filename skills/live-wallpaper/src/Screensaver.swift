@@ -25,7 +25,9 @@ class ScreensaverWindow {
     let containerView: NSView
     let playerView: AVPlayerView
     let imageLayer: CALayer
-    let clockLabel: NSTextField
+    let timeLabel: NSTextField
+    let dateLabel: NSTextField
+    let shadowHost: NSView
     var player: AVQueuePlayer?
     var looper: AVPlayerLooper?
     var clockTimer: Timer?
@@ -63,33 +65,88 @@ class ScreensaverWindow {
         playerView.wantsLayer = true
         playerView.layer?.opacity = 0.0
 
-        // Minimalist Clock HUD
-        clockLabel = NSTextField(labelWithString: "")
-        clockLabel.font = NSFont.monospacedDigitSystemFont(ofSize: 44, weight: .light)
-        clockLabel.textColor = NSColor(white: 1.0, alpha: 0.85)
-        clockLabel.alignment = .right
-        clockLabel.wantsLayer = true
-        clockLabel.shadow = {
+        // Frosted Glass HUD Capsule
+        let cardWidth: CGFloat = 380
+        let cardHeight: CGFloat = 145
+        let cardX = (screen.frame.width - cardWidth) / 2
+        let cardY = screen.frame.height * 0.65 - (cardHeight / 2)
+        let cardFrame = NSRect(x: cardX, y: cardY, width: cardWidth, height: cardHeight)
+
+        shadowHost = NSView(frame: cardFrame)
+        shadowHost.wantsLayer = true
+        shadowHost.autoresizingMask = [.minXMargin, .maxXMargin, .minYMargin, .maxYMargin]
+        shadowHost.shadow = {
             let s = NSShadow()
-            s.shadowBlurRadius = 10
-            s.shadowColor = NSColor.black.withAlphaComponent(0.7)
+            s.shadowBlurRadius = 32
+            s.shadowColor = NSColor.black.withAlphaComponent(0.45)
+            s.shadowOffset = NSSize(width: 0, height: -8)
+            return s
+        }()
+
+        let glassView = NSVisualEffectView(frame: NSRect(origin: .zero, size: cardFrame.size))
+        glassView.material = .hudWindow
+        glassView.blendingMode = .withinWindow
+        glassView.state = .active
+        glassView.wantsLayer = true
+        glassView.layer?.cornerRadius = 28
+        glassView.layer?.masksToBounds = true
+        glassView.layer?.borderColor = NSColor(white: 1.0, alpha: 0.22).cgColor
+        glassView.layer?.borderWidth = 1.0
+
+        // Specular gradient reflection
+        let gradient = CAGradientLayer()
+        gradient.frame = NSRect(origin: .zero, size: cardFrame.size)
+        gradient.colors = [
+            NSColor(white: 1.0, alpha: 0.15).cgColor,
+            NSColor(white: 1.0, alpha: 0.02).cgColor
+        ]
+        gradient.startPoint = CGPoint(x: 0.5, y: 0.0)
+        gradient.endPoint = CGPoint(x: 0.5, y: 1.0)
+        glassView.layer?.addSublayer(gradient)
+
+        timeLabel = NSTextField(labelWithString: "")
+        timeLabel.font = NSFont.monospacedDigitSystemFont(ofSize: 64, weight: .light)
+        timeLabel.textColor = NSColor(white: 1.0, alpha: 0.95)
+        timeLabel.alignment = .center
+        timeLabel.isBordered = false
+        timeLabel.drawsBackground = false
+        timeLabel.isBezeled = false
+        timeLabel.isEditable = false
+        timeLabel.frame = NSRect(x: 0, y: 48, width: cardWidth, height: 75)
+        timeLabel.wantsLayer = true
+        timeLabel.shadow = {
+            let s = NSShadow()
+            s.shadowBlurRadius = 12
+            s.shadowColor = NSColor.black.withAlphaComponent(0.4)
             s.shadowOffset = NSSize(width: 0, height: -2)
             return s
         }()
-        let clockWidth: CGFloat = 360
-        let clockHeight: CGFloat = 70
-        let margin: CGFloat = 40
-        clockLabel.frame = NSRect(
-            x: screen.frame.width - clockWidth - margin,
-            y: margin,
-            width: clockWidth,
-            height: clockHeight
-        )
-        clockLabel.autoresizingMask = [.minXMargin, .maxYMargin]
+
+        dateLabel = NSTextField(labelWithString: "")
+        dateLabel.font = NSFont.systemFont(ofSize: 15, weight: .medium)
+        dateLabel.textColor = NSColor(white: 1.0, alpha: 0.78)
+        dateLabel.alignment = .center
+        dateLabel.isBordered = false
+        dateLabel.drawsBackground = false
+        dateLabel.isBezeled = false
+        dateLabel.isEditable = false
+        dateLabel.frame = NSRect(x: 0, y: 22, width: cardWidth, height: 24)
+        dateLabel.wantsLayer = true
+        dateLabel.shadow = {
+            let s = NSShadow()
+            s.shadowBlurRadius = 8
+            s.shadowColor = NSColor.black.withAlphaComponent(0.4)
+            s.shadowOffset = NSSize(width: 0, height: -1)
+            return s
+        }()
+
+        glassView.addSubview(timeLabel)
+        glassView.addSubview(dateLabel)
+        shadowHost.addSubview(glassView)
 
         containerView.layer?.addSublayer(imageLayer)
         containerView.addSubview(playerView)
-        containerView.addSubview(clockLabel)
+        containerView.addSubview(shadowHost)
         window.contentView = containerView
     }
 
@@ -131,9 +188,14 @@ class ScreensaverWindow {
     }
 
     func updateClock() {
-        let formatter = DateFormatter()
-        formatter.dateFormat = "HH:mm"
-        clockLabel.stringValue = formatter.string(from: Date())
+        let now = Date()
+        let timeFormatter = DateFormatter()
+        timeFormatter.timeStyle = .short
+        timeLabel.stringValue = timeFormatter.string(from: now)
+
+        let dateFormatter = DateFormatter()
+        dateFormatter.dateFormat = "EEEE, MMMM d"
+        dateLabel.stringValue = dateFormatter.string(from: now)
     }
 
     func hide(completion: @escaping () -> Void) {
