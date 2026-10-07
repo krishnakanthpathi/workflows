@@ -2,7 +2,17 @@ import Foundation
 
 // MARK: - LaunchAgent Service Management
 
-func installService(sources: [String], interval: Double, perSpace: Bool, isMuted: Bool, volume: Float, shuffle: Bool, screensaverIdle: Double?) {
+func installService(
+    sources: [String],
+    interval: Double,
+    perSpace: Bool,
+    isMuted: Bool,
+    volume: Float,
+    shuffle: Bool,
+    screensaverIdle: Double?,
+    syncLockScreen: Bool = true,
+    lockOnScreensaver: Bool = false
+) {
     let binPath = "/Users/krishnakanth/.local/bin/live-wallpaper"
     var args: [String] = [binPath]
     if !isMuted {
@@ -18,6 +28,12 @@ func installService(sources: [String], interval: Double, perSpace: Bool, isMuted
     }
     if let ss = screensaverIdle, ss > 0 {
         args.append(contentsOf: ["--screensaver", "\(Int(ss))"])
+    }
+    if lockOnScreensaver {
+        args.append("--lock")
+    }
+    if !syncLockScreen {
+        args.append("--no-sync-lockscreen")
     }
     args.append(contentsOf: sources)
 

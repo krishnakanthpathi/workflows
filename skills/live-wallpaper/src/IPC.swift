@@ -35,6 +35,15 @@ func stopRunning() {
     }
 }
 
+func lockRunning() {
+    if sendCommand("LOCK") {
+        print("Requested lock screen sequence from running live wallpaper engine.")
+    } else {
+        lockSystemScreen()
+        print("Locked macOS screen.")
+    }
+}
+
 func printStatus() {
     guard let pid = getRunningPID() else {
         print("Live wallpaper is not running.")
@@ -52,8 +61,9 @@ func printStatus() {
             print("Interval: \(state.interval > 0 ? "\(Int(state.interval))s" : "Loop-based (0s)")")
         }
         if let ss = state.screensaverIdle, ss > 0 {
-            print("Screensaver auto-trigger: \(Int(ss))s idle")
+            print("Screensaver auto-trigger: \(Int(ss))s idle\(state.lockOnScreensaver ?? false ? " [Lock on Wake Armed]" : "")")
         }
+        print("Lock Screen Sync: \(state.syncLockScreen ?? true ? "Active" : "Disabled")")
         print("Audio: \(state.isMuted ? "Muted" : "\(Int(state.volume * 100))%")")
         print("Queue count: \(state.items.count)")
     } else {
@@ -70,8 +80,9 @@ func printQueue() {
 
     let modeDesc = state.perSpace ? "Native Per-Desktop Space Pinning (0ms Real-Time)" : (state.interval > 0 ? "Interval: \(Int(state.interval))s" : "Loop-based")
     let ssDesc = (state.screensaverIdle ?? 0) > 0 ? " | Screensaver: \(Int(state.screensaverIdle!))s idle" : ""
+    let lockDesc = (state.lockOnScreensaver ?? false) ? " [Lock on Wake]" : ""
     print("Live Wallpaper Queue (\(state.items.count) items):")
-    print("\(modeDesc)\(ssDesc) | Audio: \(state.isMuted ? "Muted" : "\(Int(state.volume * 100))%")\n")
+    print("\(modeDesc)\(ssDesc)\(lockDesc) | Audio: \(state.isMuted ? "Muted" : "\(Int(state.volume * 100))%")\n")
 
     for (i, item) in state.items.enumerated() {
         let marker = (i == state.currentIndex) ? "-> [ACTIVE]" : "           "

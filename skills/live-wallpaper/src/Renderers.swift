@@ -209,6 +209,14 @@ class ScreenRenderer {
         playerView.player = nil
     }
 
+    func pause() {
+        player?.pause()
+    }
+
+    func resume() {
+        player?.play()
+    }
+
     func teardown() {
         cleanupVideo()
         window.orderOut(nil)

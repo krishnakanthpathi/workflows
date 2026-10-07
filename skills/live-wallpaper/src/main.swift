@@ -10,11 +10,14 @@ var interval: Double = -1
 var perSpace = false
 var shuffle = false
 var screensaverIdle: Double? = nil
+var syncLockScreen = true
+var lockOnScreensaver = false
 var rawSources: [String] = []
 var screensaverSources: [String] = []
 var isServiceCommand = false
 var serviceAction = ""
 var isScreensaverCommand = false
+var isLockCommand = false
 
 let rawArgs = Array(CommandLine.arguments.dropFirst())
 var index = 0
@@ -28,7 +31,8 @@ func printHelp() {
       live-wallpaper <COMMAND>
 
     COMMANDS:
-      screensaver [SOURCES...]    Launch fullscreen screensaver overlay immediately
+      lock [SOURCES...]          Sync wallpaper & lock macOS screen immediately
+      screensaver [SOURCES...]   Launch fullscreen screensaver overlay immediately
       status                     Print running instance status and playback mode
       queue, list                Display current queue with space bindings
       next                       Advance to next wallpaper
@@ -47,6 +51,9 @@ func printHelp() {
       -s, --shuffle              Randomize wallpaper playback order
       --screensaver [seconds]    Enable auto-screensaver on idle (default: 180s)
       --screensaver-source <src> Dedicated media path or directory for screensaver
+      --lock, --lock-on-screensaver  Lock macOS screen when waking from screensaver
+      --sync-lockscreen          Continuously mirror wallpaper to Lock Screen (default: on)
+      --no-sync-lockscreen       Disable Lock Screen wallpaper mirroring
       -h, --help                 Display this help menu
     """
     print(help)
@@ -91,6 +98,14 @@ while index < rawArgs.count {
             screensaverSources.append(rawArgs[index + 1])
             index += 1
         }
+    case "--lock", "--lock-on-screensaver", "--lock-wake":
+        lockOnScreensaver = true
+    case "--sync-lockscreen":
+        syncLockScreen = true
+    case "--no-sync-lockscreen":
+        syncLockScreen = false
+    case "lock", "--lock-now":
+        isLockCommand = true
     case "screensaver", "--screensaver-test":
         isScreensaverCommand = true
     case "stop", "--stop":
@@ -168,7 +183,9 @@ if isServiceCommand {
             isMuted: isMuted,
             volume: volume,
             shuffle: shuffle,
-            screensaverIdle: screensaverIdle
+            screensaverIdle: screensaverIdle,
+            syncLockScreen: syncLockScreen,
+            lockOnScreensaver: lockOnScreensaver
         )
         exit(0)
     } else if serviceAction == "status" {
@@ -179,6 +196,37 @@ if isServiceCommand {
     } else {
         print("Usage: live-wallpaper service [install|uninstall|status]")
         exit(1)
+    }
+}
+
+// Lock Command
+if isLockCommand {
+    if getRunningPID() != nil {
+        if rawSources != ["~/Pictures/Wallpapers"] {
+            let resolved = expandSources(rawSources)
+            if let item = resolved.first {
+                LockScreenManager.shared.syncLockScreen(for: item) { _ in
+                    lockRunning()
+                    exit(0)
+                }
+                RunLoop.main.run(until: Date().addingTimeInterval(0.6))
+            }
+        }
+        lockRunning()
+        exit(0)
+    }
+
+    // Standalone lock without running daemon
+    let resolved = expandSources(rawSources)
+    if let item = resolved.first {
+        LockScreenManager.shared.syncLockScreen(for: item) { _ in
+            lockSystemScreen()
+            exit(0)
+        }
+        RunLoop.main.run(until: Date().addingTimeInterval(0.6))
+    } else {
+        lockSystemScreen()
+        exit(0)
     }
 }
 
@@ -198,7 +246,7 @@ if isScreensaverCommand {
         fputs("Error: No valid screensaver items found in \(ssSources.joined(separator: ", "))\n", stderr)
         exit(1)
     }
-    ScreensaverManager.shared.runStandalone(items: items, isMuted: isMuted, volume: volume)
+    ScreensaverManager.shared.runStandalone(items: items, isMuted: isMuted, volume: volume, lockOnWake: lockOnScreensaver)
     exit(0)
 }
 
@@ -250,8 +298,9 @@ if isDaemon && ProcessInfo.processInfo.environment["LIVE_WALLPAPER_DAEMON"] != "
             print("Interval: \(effectiveInterval > 0 ? "\(Int(effectiveInterval))s" : "Loop-based")")
         }
         if let ss = screensaverIdle, ss > 0 {
-            print("Screensaver auto-trigger: \(Int(ss))s idle")
+            print("Screensaver auto-trigger: \(Int(ss))s idle\(lockOnScreensaver ? " [Lock on Wake Armed]" : "")")
         }
+        print("Lock Screen Sync: \(syncLockScreen ? "Enabled" : "Disabled")")
         print("Audio: \(isMuted ? "Muted" : "\(Int(volume * 100))%")")
         exit(0)
     } catch {
@@ -300,7 +349,9 @@ let delegate = WallpaperApp(
     isMuted: isMuted,
     volume: volume,
     shuffle: shuffle,
-    screensaverIdle: screensaverIdle
+    screensaverIdle: screensaverIdle,
+    syncLockScreen: syncLockScreen,
+    lockOnScreensaver: lockOnScreensaver
 )
 app.delegate = delegate
 app.run()

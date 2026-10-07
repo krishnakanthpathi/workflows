@@ -16,6 +16,7 @@ swiftc -O \
     "${SRC_DIR}/MediaResolver.swift" \
     "${SRC_DIR}/Renderers.swift" \
     "${SRC_DIR}/Screensaver.swift" \
+    "${SRC_DIR}/LockScreen.swift" \
     "${SRC_DIR}/IPC.swift" \
     "${SRC_DIR}/Service.swift" \
     "${SRC_DIR}/WallpaperApp.swift" \

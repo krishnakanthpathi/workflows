@@ -17,10 +17,13 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
     let volume: Float
     let shuffleQueue: Bool
     let screensaverIdle: Double?
+    let syncLockScreen: Bool
+    let lockOnScreensaver: Bool
 
     var rotationTimer: Timer?
     var sigusr1Source: DispatchSourceSignal?
     var lastSpaceIndex: Int = -1
+    var isScreenLocked: Bool = false
 
     init(
         items: [QueueItem],
@@ -30,7 +33,9 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
         isMuted: Bool,
         volume: Float,
         shuffle: Bool,
-        screensaverIdle: Double? = nil
+        screensaverIdle: Double? = nil,
+        syncLockScreen: Bool = true,
+        lockOnScreensaver: Bool = false
     ) {
         self.items = items
         self.screensaverItems = screensaverItems
@@ -40,6 +45,8 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
         self.volume = volume
         self.shuffleQueue = shuffle
         self.screensaverIdle = screensaverIdle
+        self.syncLockScreen = syncLockScreen
+        self.lockOnScreensaver = lockOnScreensaver
         if shuffle {
             self.items.shuffle()
         }
@@ -62,12 +69,27 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
         // Configure screensaver if idle threshold set
         if let idle = screensaverIdle, idle > 0 {
             let ssItems = screensaverItems.isEmpty ? items : screensaverItems
-            ScreensaverManager.shared.configure(items: ssItems, isMuted: isMuted, volume: volume, idleThreshold: idle)
+            ScreensaverManager.shared.configure(
+                items: ssItems,
+                isMuted: isMuted,
+                volume: volume,
+                idleThreshold: idle,
+                lockOnWake: lockOnScreensaver
+            )
             ScreensaverManager.shared.startIdleMonitoring()
         }
 
+        // Configure system screen lock/unlock monitor for zero power consumption
+        ScreenLockMonitor.shared.onLock = { [weak self] in
+            self?.handleScreenLocked()
+        }
+        ScreenLockMonitor.shared.onUnlock = { [weak self] in
+            self?.handleScreenUnlocked()
+        }
+        ScreenLockMonitor.shared.startMonitoring()
+
         if perSpace {
-            // Watch for space changes to sync audio and state
+            // Watch for space changes to sync audio, lock screen, and state
             let timer = Timer(timeInterval: 0.15, repeats: true) { [weak self] _ in
                 self?.syncActiveSpace()
             }
@@ -150,6 +172,44 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
         renderers.removeAll()
     }
 
+    func handleScreenLocked() {
+        guard !isScreenLocked else { return }
+        isScreenLocked = true
+        rotationTimer?.invalidate()
+        rotationTimer = nil
+
+        if perSpace {
+            for w in spaceWindows {
+                w.deactivate()
+            }
+        } else {
+            for r in renderers {
+                r.pause()
+            }
+        }
+        print("[POWER_SAVER] Screen locked: video rendering paused (0% CPU).")
+        fflush(stdout)
+    }
+
+    func handleScreenUnlocked() {
+        guard isScreenLocked else { return }
+        isScreenLocked = false
+
+        if perSpace {
+            let currentIdx = getCurrentSpaceIndex()
+            if spaceWindows.indices.contains(currentIdx) {
+                spaceWindows[currentIdx].activate(isMuted: isMuted, volume: volume)
+            }
+        } else {
+            for r in renderers {
+                r.resume()
+            }
+            startTimerIfNeeded()
+        }
+        print("[POWER_SAVER] Screen unlocked: video rendering resumed.")
+        fflush(stdout)
+    }
+
     func syncActiveSpace() {
         let currentIdx = getCurrentSpaceIndex()
         if currentIdx != lastSpaceIndex {
@@ -162,11 +222,14 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
             if spaceWindows.indices.contains(oldIndex) {
                 spaceWindows[oldIndex].deactivate()
             }
-            if spaceWindows.indices.contains(currentIdx) {
+            if !isScreenLocked && spaceWindows.indices.contains(currentIdx) {
                 spaceWindows[currentIdx].activate(isMuted: isMuted, volume: volume)
             }
 
             let activeItem = items[currentIndex]
+            if syncLockScreen && !isScreenLocked {
+                LockScreenManager.shared.syncLockScreen(for: activeItem)
+            }
             print("ACTIVE_DESKTOP_SPACE [Desktop \(currentIdx + 1)]: \(activeItem.displayName)")
             fflush(stdout)
         }
@@ -194,6 +257,9 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
 
         saveState()
         let activeItem = items[currentIndex]
+        if syncLockScreen && !isScreenLocked {
+            LockScreenManager.shared.syncLockScreen(for: activeItem)
+        }
         print("LIVE_WALLPAPER_ACTIVE [\(currentIndex + 1)/\(items.count)]: \(activeItem.displayName)")
         fflush(stdout)
     }
@@ -255,7 +321,9 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
             volume: volume,
             currentItem: currentName,
             items: items,
-            screensaverIdle: screensaverIdle
+            screensaverIdle: screensaverIdle,
+            syncLockScreen: syncLockScreen,
+            lockOnScreensaver: lockOnScreensaver
         )
         if let data = try? JSONEncoder().encode(state) {
             try? data.write(to: URL(fileURLWithPath: stateFile))
@@ -302,6 +370,15 @@ class WallpaperApp: NSObject, NSApplicationDelegate {
             }
         case "SCREENSAVER":
             ScreensaverManager.shared.activate()
+        case "LOCK":
+            let activeItem = items.indices.contains(currentIndex) ? items[currentIndex] : nil
+            if let item = activeItem, syncLockScreen {
+                LockScreenManager.shared.syncLockScreen(for: item) { _ in
+                    lockSystemScreen()
+                }
+            } else {
+                lockSystemScreen()
+            }
         default:
             nextWallpaper()
         }

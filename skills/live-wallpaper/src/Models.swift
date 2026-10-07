@@ -38,6 +38,8 @@ struct EngineState: Codable {
     let currentItem: String
     let items: [QueueItem]
     let screensaverIdle: Double?
+    let syncLockScreen: Bool?
+    let lockOnScreensaver: Bool?
 }
 
 // MARK: - Constants & Paths
@@ -47,6 +49,8 @@ let stateFile = NSString(string: "~/.live-wallpaper.state").expandingTildeInPath
 let cmdFile = NSString(string: "~/.live-wallpaper.cmd").expandingTildeInPath
 let logFile = NSString(string: "~/.live-wallpaper.log").expandingTildeInPath
 let plistFile = NSString(string: "~/Library/LaunchAgents/com.antigravity.live-wallpaper.plist").expandingTildeInPath
+let lockScreenFile = NSString(string: "~/.live-wallpaper-lockscreen.jpg").expandingTildeInPath
+let lockCacheDir = NSString(string: "~/.live-wallpaper-cache").expandingTildeInPath
 
 let imageExtensions: Set<String> = ["png", "jpg", "jpeg", "heic", "webp", "gif", "bmp", "tiff", "tif"]
 let videoExtensions: Set<String> = ["mp4", "mov", "m4v", "mkv", "avi", "webm", "m3u8"]

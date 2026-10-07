@@ -2,6 +2,9 @@ import Cocoa
 import AVFoundation
 import AVKit
 import IOKit
+import IOKit.pwr_mgt
+import CoreText
+import QuartzCore
 
 // MARK: - System Idle Detection
 
@@ -18,6 +21,120 @@ func getSystemIdleTime() -> Double {
     return 0
 }
 
+// MARK: - macOS Dock-Style Frosted Glass Clock
+
+class DockGlassClockView: NSView {
+    let glassEffect: NSVisualEffectView
+    let specGradient: CAGradientLayer
+    let timeLabel: NSTextField
+    let dateLabel: NSTextField
+    let lockBadge: NSTextField?
+    let isLockArmed: Bool
+
+    init(frame: NSRect, isLockArmed: Bool = false) {
+        self.isLockArmed = isLockArmed
+        glassEffect = NSVisualEffectView(frame: NSRect(origin: .zero, size: frame.size))
+        glassEffect.material = .hudWindow
+        glassEffect.blendingMode = .withinWindow
+        glassEffect.state = .active
+        glassEffect.alphaValue = 0.38 // Highly transparent, airy frosted glass
+        glassEffect.wantsLayer = true
+        glassEffect.layer?.cornerRadius = 34
+        glassEffect.layer?.masksToBounds = true
+        glassEffect.layer?.borderColor = NSColor(white: 1.0, alpha: 0.16).cgColor
+        glassEffect.layer?.borderWidth = 1.0
+
+        // Dock-like subtle top specular light reflection
+        specGradient = CAGradientLayer()
+        specGradient.frame = NSRect(origin: .zero, size: frame.size)
+        specGradient.colors = [
+            NSColor(white: 1.0, alpha: 0.10).cgColor,
+            NSColor(white: 1.0, alpha: 0.01).cgColor
+        ]
+        specGradient.startPoint = CGPoint(x: 0.5, y: 0.0)
+        specGradient.endPoint = CGPoint(x: 0.5, y: 1.0)
+        glassEffect.layer?.addSublayer(specGradient)
+
+        let timeY: CGFloat = isLockArmed ? 58 : 52
+        let dateY: CGFloat = isLockArmed ? 28 : 22
+
+        timeLabel = NSTextField(labelWithString: "")
+        timeLabel.frame = NSRect(x: 0, y: timeY, width: frame.width, height: 86)
+        timeLabel.font = NSFont.monospacedDigitSystemFont(ofSize: 74, weight: .light)
+        timeLabel.textColor = NSColor(white: 1.0, alpha: 0.98)
+        timeLabel.alignment = .center
+        timeLabel.isBordered = false
+        timeLabel.drawsBackground = false
+        timeLabel.isBezeled = false
+        timeLabel.isEditable = false
+        timeLabel.wantsLayer = true
+        timeLabel.shadow = {
+            let s = NSShadow()
+            s.shadowBlurRadius = 10
+            s.shadowColor = NSColor.black.withAlphaComponent(0.5)
+            s.shadowOffset = NSSize(width: 0, height: -2)
+            return s
+        }()
+
+        dateLabel = NSTextField(labelWithString: "")
+        dateLabel.frame = NSRect(x: 0, y: dateY, width: frame.width, height: 26)
+        dateLabel.font = NSFont.systemFont(ofSize: 16, weight: .medium)
+        dateLabel.textColor = NSColor(white: 1.0, alpha: 0.85)
+        dateLabel.alignment = .center
+        dateLabel.isBordered = false
+        dateLabel.drawsBackground = false
+        dateLabel.isBezeled = false
+        dateLabel.isEditable = false
+        dateLabel.wantsLayer = true
+        dateLabel.shadow = {
+            let s = NSShadow()
+            s.shadowBlurRadius = 8
+            s.shadowColor = NSColor.black.withAlphaComponent(0.5)
+            s.shadowOffset = NSSize(width: 0, height: -1)
+            return s
+        }()
+
+        if isLockArmed {
+            let badge = NSTextField(labelWithString: "🔒 Lock on Wake Armed")
+            badge.frame = NSRect(x: 0, y: 10, width: frame.width, height: 16)
+            badge.font = NSFont.systemFont(ofSize: 11, weight: .semibold)
+            badge.textColor = NSColor(white: 1.0, alpha: 0.65)
+            badge.alignment = .center
+            badge.isBordered = false
+            badge.drawsBackground = false
+            badge.isBezeled = false
+            badge.isEditable = false
+            self.lockBadge = badge
+        } else {
+            self.lockBadge = nil
+        }
+
+        super.init(frame: frame)
+        self.wantsLayer = true
+        self.shadow = {
+            let s = NSShadow()
+            s.shadowBlurRadius = 32
+            s.shadowColor = NSColor.black.withAlphaComponent(0.40)
+            s.shadowOffset = NSSize(width: 0, height: -8)
+            return s
+        }()
+
+        self.addSubview(glassEffect)
+        self.addSubview(timeLabel)
+        self.addSubview(dateLabel)
+        if let b = lockBadge {
+            self.addSubview(b)
+        }
+    }
+
+    required init?(coder: NSCoder) { fatalError() }
+
+    func update(time: String, date: String) {
+        timeLabel.stringValue = time
+        dateLabel.stringValue = date
+    }
+}
+
 // MARK: - Screensaver Window
 
 class ScreensaverWindow {
@@ -25,14 +142,12 @@ class ScreensaverWindow {
     let containerView: NSView
     let playerView: AVPlayerView
     let imageLayer: CALayer
-    let timeLabel: NSTextField
-    let dateLabel: NSTextField
-    let shadowHost: NSView
+    let dockGlassClockView: DockGlassClockView
     var player: AVQueuePlayer?
     var looper: AVPlayerLooper?
     var clockTimer: Timer?
 
-    init(screen: NSScreen) {
+    init(screen: NSScreen, isLockArmed: Bool = false) {
         window = NSWindow(
             contentRect: screen.frame,
             styleMask: [.borderless],
@@ -65,88 +180,20 @@ class ScreensaverWindow {
         playerView.wantsLayer = true
         playerView.layer?.opacity = 0.0
 
-        // Frosted Glass HUD Capsule
-        let cardWidth: CGFloat = 380
-        let cardHeight: CGFloat = 145
-        let cardX = (screen.frame.width - cardWidth) / 2
-        let cardY = screen.frame.height * 0.65 - (cardHeight / 2)
+        // macOS Dock-Style Frosted Glass Clock Capsule (Top Left)
+        let cardWidth: CGFloat = 460
+        let cardHeight: CGFloat = 160
+        let margin: CGFloat = 60
+        let cardX = margin
+        let cardY = screen.frame.height - cardHeight - margin
         let cardFrame = NSRect(x: cardX, y: cardY, width: cardWidth, height: cardHeight)
 
-        shadowHost = NSView(frame: cardFrame)
-        shadowHost.wantsLayer = true
-        shadowHost.autoresizingMask = [.minXMargin, .maxXMargin, .minYMargin, .maxYMargin]
-        shadowHost.shadow = {
-            let s = NSShadow()
-            s.shadowBlurRadius = 32
-            s.shadowColor = NSColor.black.withAlphaComponent(0.45)
-            s.shadowOffset = NSSize(width: 0, height: -8)
-            return s
-        }()
-
-        let glassView = NSVisualEffectView(frame: NSRect(origin: .zero, size: cardFrame.size))
-        glassView.material = .hudWindow
-        glassView.blendingMode = .withinWindow
-        glassView.state = .active
-        glassView.wantsLayer = true
-        glassView.layer?.cornerRadius = 28
-        glassView.layer?.masksToBounds = true
-        glassView.layer?.borderColor = NSColor(white: 1.0, alpha: 0.22).cgColor
-        glassView.layer?.borderWidth = 1.0
-
-        // Specular gradient reflection
-        let gradient = CAGradientLayer()
-        gradient.frame = NSRect(origin: .zero, size: cardFrame.size)
-        gradient.colors = [
-            NSColor(white: 1.0, alpha: 0.15).cgColor,
-            NSColor(white: 1.0, alpha: 0.02).cgColor
-        ]
-        gradient.startPoint = CGPoint(x: 0.5, y: 0.0)
-        gradient.endPoint = CGPoint(x: 0.5, y: 1.0)
-        glassView.layer?.addSublayer(gradient)
-
-        timeLabel = NSTextField(labelWithString: "")
-        timeLabel.font = NSFont.monospacedDigitSystemFont(ofSize: 64, weight: .light)
-        timeLabel.textColor = NSColor(white: 1.0, alpha: 0.95)
-        timeLabel.alignment = .center
-        timeLabel.isBordered = false
-        timeLabel.drawsBackground = false
-        timeLabel.isBezeled = false
-        timeLabel.isEditable = false
-        timeLabel.frame = NSRect(x: 0, y: 48, width: cardWidth, height: 75)
-        timeLabel.wantsLayer = true
-        timeLabel.shadow = {
-            let s = NSShadow()
-            s.shadowBlurRadius = 12
-            s.shadowColor = NSColor.black.withAlphaComponent(0.4)
-            s.shadowOffset = NSSize(width: 0, height: -2)
-            return s
-        }()
-
-        dateLabel = NSTextField(labelWithString: "")
-        dateLabel.font = NSFont.systemFont(ofSize: 15, weight: .medium)
-        dateLabel.textColor = NSColor(white: 1.0, alpha: 0.78)
-        dateLabel.alignment = .center
-        dateLabel.isBordered = false
-        dateLabel.drawsBackground = false
-        dateLabel.isBezeled = false
-        dateLabel.isEditable = false
-        dateLabel.frame = NSRect(x: 0, y: 22, width: cardWidth, height: 24)
-        dateLabel.wantsLayer = true
-        dateLabel.shadow = {
-            let s = NSShadow()
-            s.shadowBlurRadius = 8
-            s.shadowColor = NSColor.black.withAlphaComponent(0.4)
-            s.shadowOffset = NSSize(width: 0, height: -1)
-            return s
-        }()
-
-        glassView.addSubview(timeLabel)
-        glassView.addSubview(dateLabel)
-        shadowHost.addSubview(glassView)
+        dockGlassClockView = DockGlassClockView(frame: cardFrame, isLockArmed: isLockArmed)
+        dockGlassClockView.autoresizingMask = [.maxXMargin, .minYMargin]
 
         containerView.layer?.addSublayer(imageLayer)
         containerView.addSubview(playerView)
-        containerView.addSubview(shadowHost)
+        containerView.addSubview(dockGlassClockView)
         window.contentView = containerView
     }
 
@@ -191,11 +238,13 @@ class ScreensaverWindow {
         let now = Date()
         let timeFormatter = DateFormatter()
         timeFormatter.timeStyle = .short
-        timeLabel.stringValue = timeFormatter.string(from: now)
+        let timeString = timeFormatter.string(from: now)
 
         let dateFormatter = DateFormatter()
         dateFormatter.dateFormat = "EEEE, MMMM d"
-        dateLabel.stringValue = dateFormatter.string(from: now)
+        let dateString = dateFormatter.string(from: now)
+
+        dockGlassClockView.update(time: timeString, date: dateString)
     }
 
     func hide(completion: @escaping () -> Void) {
@@ -242,13 +291,17 @@ class ScreensaverManager {
     var idleCheckTimer: Timer?
     var eventMonitors: [Any] = []
     var initialMousePos: NSPoint?
+    var displaySleepAssertionID: IOPMAssertionID = 0
+    var activationTime: CFTimeInterval = 0
     var isStandalone = false
+    var lockOnWake: Bool = false
 
-    func configure(items: [QueueItem], isMuted: Bool, volume: Float, idleThreshold: Double?) {
+    func configure(items: [QueueItem], isMuted: Bool, volume: Float, idleThreshold: Double?, lockOnWake: Bool = false) {
         self.items = items
         self.isMuted = isMuted
         self.volume = volume
         self.idleThreshold = idleThreshold
+        self.lockOnWake = lockOnWake
     }
 
     func startIdleMonitoring() {
@@ -270,23 +323,37 @@ class ScreensaverManager {
     func activate() {
         guard !isRunning, !items.isEmpty else { return }
         isRunning = true
+        activationTime = CACurrentMediaTime()
         initialMousePos = NSEvent.mouseLocation
 
+        // Prevent macOS from putting display to sleep while custom screensaver is playing
+        _ = IOPMAssertionCreateWithName(
+            kIOPMAssertionTypePreventUserIdleDisplaySleep as CFString,
+            IOPMAssertionLevel(kIOPMAssertionLevelOn),
+            "LiveWallpaperScreensaver" as CFString,
+            &displaySleepAssertionID
+        )
+
         // Build screensaver windows for each monitor
-        windows = NSScreen.screens.map { ScreensaverWindow(screen: $0) }
+        windows = NSScreen.screens.map { ScreensaverWindow(screen: $0, isLockArmed: lockOnWake) }
         for (idx, win) in windows.enumerated() {
             let item = items[idx % items.count]
             win.show(item: item, isMuted: isMuted, volume: volume)
         }
 
         setupWakeMonitors()
-        print("SCREENSAVER_ACTIVATED: Showing on \(windows.count) display(s)")
+        print("SCREENSAVER_ACTIVATED: Showing on \(windows.count) display(s)\(lockOnWake ? " [Lock on Wake Armed]" : "")")
         fflush(stdout)
     }
 
     func dismiss() {
         guard isRunning else { return }
         removeWakeMonitors()
+
+        if displaySleepAssertionID != 0 {
+            IOPMAssertionRelease(displaySleepAssertionID)
+            displaySleepAssertionID = 0
+        }
 
         let group = DispatchGroup()
         for win in windows {
@@ -303,6 +370,10 @@ class ScreensaverManager {
             print("SCREENSAVER_DISMISSED: Resumed desktop workspace")
             fflush(stdout)
 
+            if self.lockOnWake {
+                lockSystemScreen()
+            }
+
             if self.isStandalone {
                 exit(0)
             }
@@ -314,34 +385,40 @@ class ScreensaverManager {
 
         // Global events: mouse clicks, keystrokes
         let global = NSEvent.addGlobalMonitorForEvents(matching: [.keyDown, .leftMouseDown, .rightMouseDown, .otherMouseDown, .scrollWheel, .mouseMoved]) { [weak self] event in
+            guard let self = self else { return }
+            if CACurrentMediaTime() - self.activationTime < 0.8 { return }
+
             if event.type == .mouseMoved {
-                if let initial = self?.initialMousePos {
+                if let initial = self.initialMousePos {
                     let cur = NSEvent.mouseLocation
                     let dx = abs(cur.x - initial.x)
                     let dy = abs(cur.y - initial.y)
-                    if dx > 15 || dy > 15 {
-                        self?.dismiss()
+                    if dx > 30 || dy > 30 {
+                        self.dismiss()
                     }
                 }
             } else {
-                self?.dismiss()
+                self.dismiss()
             }
         }
         if let g = global { eventMonitors.append(g) }
 
         // Local events
         let local = NSEvent.addLocalMonitorForEvents(matching: [.keyDown, .leftMouseDown, .rightMouseDown, .otherMouseDown, .scrollWheel, .mouseMoved]) { [weak self] event in
+            guard let self = self else { return nil }
+            if CACurrentMediaTime() - self.activationTime < 0.8 { return nil }
+
             if event.type == .mouseMoved {
-                if let initial = self?.initialMousePos {
+                if let initial = self.initialMousePos {
                     let cur = NSEvent.mouseLocation
                     let dx = abs(cur.x - initial.x)
                     let dy = abs(cur.y - initial.y)
-                    if dx > 15 || dy > 15 {
-                        self?.dismiss()
+                    if dx > 30 || dy > 30 {
+                        self.dismiss()
                     }
                 }
             } else {
-                self?.dismiss()
+                self.dismiss()
             }
             return nil
         }
@@ -355,11 +432,12 @@ class ScreensaverManager {
         eventMonitors.removeAll()
     }
 
-    func runStandalone(items: [QueueItem], isMuted: Bool, volume: Float) {
+    func runStandalone(items: [QueueItem], isMuted: Bool, volume: Float, lockOnWake: Bool = false) {
         self.isStandalone = true
         self.items = items
         self.isMuted = isMuted
         self.volume = volume
+        self.lockOnWake = lockOnWake
 
         let app = NSApplication.shared
         app.setActivationPolicy(.accessory)
