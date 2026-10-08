@@ -1,7 +1,7 @@
 ---
 name: live-wallpaper
-description: "Native macOS live wallpaper and screensaver engine using Swift, AVFoundation, and AppKit desktop window layering. Supports local video wallpapers, images, playlist queues, native Lock Screen synchronization, zero-power lock detection (0% CPU), per-desktop space mapping with 0ms delay and extreme low-power auto-pause, hardware idle-triggered screensavers, wake-on-input dismissals, directory scanning, background daemonizing (-d), unmuted audio playback, streaming URLs (HTTP/HTTPS/HLS), and LaunchAgent system service auto-start."
-version: 2.4.0
+description: "Native macOS live wallpaper and screensaver engine using Swift, AVFoundation, and AppKit desktop window layering. Supports local video wallpapers, images, playlist queues, native Lock Screen dynamic video playback, zero-power lock detection (0% CPU), per-desktop space mapping with 0ms delay and extreme low-power auto-pause, hardware idle-triggered screensavers, wake-on-input dismissals, directory scanning, background daemonizing (-d), unmuted audio playback, streaming URLs (HTTP/HTTPS/HLS), and LaunchAgent system service auto-start."
+version: 2.4.1
 author: Krishna Kanth
 license: MIT
 platforms: [macos]
@@ -12,9 +12,9 @@ hermes:
   related_skills: [media-processor, macos-python-ui]
 ---
 
-# 🖼️ macOS Live Wallpaper, Screensaver & Lock Screen Engine
+# 🖼️ macOS Live Wallpaper, Screensaver & Dynamic Lock Screen Engine
 
-High-performance, native macOS desktop wallpaper and screensaver runner built in modular Swift. Renders dynamic videos (MP4, MOV, WebM, HLS) and high-res images (PNG, JPG, HEIC, WebP) directly onto the macOS desktop layer behind Finder icons, elevates to a full-screen screensaver overlay above all windows when the system is idle, and continuously synchronizes wallpaper poster frames to the native macOS Lock Screen while automatically pausing decoders on lock (`0% CPU`).
+High-performance, native macOS desktop wallpaper and screensaver runner built in modular Swift. Renders dynamic videos (MP4, MOV, WebM, HLS) and high-res images (PNG, JPG, HEIC, WebP) directly onto the macOS desktop layer behind Finder icons, elevates to a full-screen screensaver overlay above all windows when the system is idle, and continuously injects custom videos into the macOS native Aerial engine so your video **actually plays live on the Lock Screen**!
 
 ---
 
@@ -28,13 +28,13 @@ Layer -2147483604: [LIVE WALLPAPER ENGINE] (AVPlayerLayer/CALayer)     ◄──
 Layer -2147483624: macOS System Wallpaper (WindowManager)             ◄── Desktop Bottom & Native Lock Screen
 ```
 
-* **Native Lock Screen Continuity**: Automatically extracts 4K poster frames from video wallpapers (or uses native images) and mirrors them to the macOS system desktop picture via `NSWorkspace`. When macOS locks, the Lock Screen seamlessly displays the current wallpaper!
-* **Zero-Power Lock Mode (`com.apple.screenIsLocked`)**: Listens to system-wide distributed lock events. Video decoding (`VTDecoderXPCService`) instantly pauses upon screen lock, saving 100% of GPU/CPU video overhead (`0.0%` CPU) and resumes instantly on unlock.
-* **Instant Lock Trigger (`live-wallpaper lock`)**: Synchronizes the current wallpaper and immediately invokes native macOS lock via `SACLockScreenImmediate`.
+* **Live Video on Lock Screen**: Injects the active video directly into the native macOS Aerial Lock Screen engine (`~/Library/Application Support/com.apple.wallpaper/aerials/videos/`) via zero-loss AVFoundation passthrough remuxing. When the Mac locks, `WallpaperAgent` plays your video natively at 60/120Hz on the Lock Screen!
+* **Safe Automatic Backups & Reversion**: Every original macOS Aerial asset is backed up using zero-cost APFS clones before modification. Revert anytime with `live-wallpaper restore-lockscreen`.
+* **Zero-Power Lock Mode (`com.apple.screenIsLocked`)**: Observes system-wide distributed lock events. The desktop AppKit overlay automatically pauses video decoding while locked to eliminate duplicate decoding and save 100% battery, while the native lock screen handles hardware playback.
+* **Instant Lock Trigger (`live-wallpaper lock`)**: Synchronizes the current wallpaper to both desktop and lock screen engines and immediately invokes native macOS lock via `SACLockScreenImmediate`.
 * **Lock on Screensaver Wake (`--lock`)**: Arms secure wake mode so any wake event from the screensaver overlay immediately prompts the macOS login lock screen.
 * **Native Hardware Space Pinning (0ms Latency)**: Pins dedicated windows directly to Mission Control space IDs via SkyLight `CGSAddWindowsToSpaces`. Wallpapers physically slide with trackpad gestures at 120Hz ProMotion without post-swipe switching lag.
 * **Modular Swift Architecture**: Decoupled single-responsibility modules under `src/` for clean maintainability and rapid extension.
-* **POSIX IPC Control**: Real-time signal and command dispatch (`next`, `prev`, `goto`, `add`, `screensaver`, `lock`) without stopping the background daemon.
 
 ---
 
@@ -43,7 +43,7 @@ Layer -2147483624: macOS System Wallpaper (WindowManager)             ◄── 
 | Module | Responsibility |
 | :--- | :--- |
 | **`Models.swift`** | `QueueItem`, `MediaType`, `EngineState`, state, cache, and media file path constants |
-| **`LockScreen.swift`** | Native `SACLockScreenImmediate` lock trigger, 4K poster frame extraction, cache, and `DistributedNotificationCenter` lock monitors |
+| **`LockScreen.swift`** | Native dynamic video injection into macOS Aerial engine, passthrough MOV export, `Index.plist` configuration, and restore |
 | **`SkyLight.swift`** | SkyLight CGS private framework bindings, space enumeration, and window pinning |
 | **`MediaResolver.swift`** | Directory traversal, fuzzy name matching, shorthand aliases, format detection, URL handling |
 | **`Renderers.swift`** | `SpaceWallpaperWindow` (per-space hardware sliding) & `ScreenRenderer` (regular desktop) |
@@ -59,16 +59,19 @@ Layer -2147483624: macOS System Wallpaper (WindowManager)             ◄── 
 
 The compiled binary resides in `~/.local/bin/live-wallpaper`.
 
-### 1. Lock Screen Control & Continuity
+### 1. Lock Screen Control & Live Video Playback
 
 ```bash
-# Immediately sync current wallpaper and lock macOS screen
+# Immediately sync current wallpaper (desktop + dynamic lock screen video) and lock macOS screen
 live-wallpaper lock
 
 # Lock with a specific wallpaper or video
 live-wallpaper lock naruto
 
-# Run daemon with continuous Lock Screen wallpaper synchronization (default: enabled)
+# Revert macOS lock screen back to original Apple Aerial videos
+live-wallpaper restore-lockscreen
+
+# Run daemon with dynamic Lock Screen video injection (default: enabled)
 live-wallpaper -d -p ~/Pictures/Wallpapers
 
 # Run with Lock on Screensaver Wake armed
@@ -123,7 +126,7 @@ live-wallpaper -d video1.mp4 anime-art.png video2.mov
 # View active queue with currently playing item, lock sync status, and space bindings
 live-wallpaper queue
 
-# Skip to next wallpaper (automatically syncs new poster frame to lock screen)
+# Skip to next wallpaper (automatically updates dynamic lock screen video)
 live-wallpaper next
 
 # Go back to previous wallpaper

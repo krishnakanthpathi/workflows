@@ -32,6 +32,7 @@ func printHelp() {
 
     COMMANDS:
       lock [SOURCES...]          Sync wallpaper & lock macOS screen immediately
+      restore-lockscreen         Revert macOS lock screen back to original aerials
       screensaver [SOURCES...]   Launch fullscreen screensaver overlay immediately
       status                     Print running instance status and playback mode
       queue, list                Display current queue with space bindings
@@ -106,6 +107,13 @@ while index < rawArgs.count {
         syncLockScreen = false
     case "lock", "--lock-now":
         isLockCommand = true
+    case "restore-lockscreen", "--restore-lockscreen":
+        if LockScreenManager.shared.restoreOriginalLockScreen() {
+            print("Successfully restored original macOS Lock Screen Aerial wallpaper.")
+        } else {
+            print("No Lock Screen backup found to restore.")
+        }
+        exit(0)
     case "screensaver", "--screensaver-test":
         isScreensaverCommand = true
     case "stop", "--stop":
