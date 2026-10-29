@@ -34,6 +34,24 @@ def get_idle_time_ms() -> Optional[float]:
 
     return None
 
+import shutil
+
+def find_mpv_binary() -> tuple[str, dict]:
+    """Locates mpv binary and builds required environment."""
+    env = os.environ.copy()
+    share_dir = os.path.expanduser("~/.local/share/live-wallpaper")
+    local_mpv = os.path.join(share_dir, "bin", "mpv")
+    local_lib = os.path.join(share_dir, "lib")
+
+    if shutil.which("mpv"):
+        return shutil.which("mpv"), env
+
+    if os.path.isfile(local_mpv) and os.access(local_mpv, os.X_OK):
+        env["LD_LIBRARY_PATH"] = f"{local_lib}:" + env.get("LD_LIBRARY_PATH", "")
+        return local_mpv, env
+
+    raise RuntimeError("mpv binary not found. Please install mpv: sudo apt install mpv")
+
 def run_screensaver_overlay(
     sources: List[str],
     is_muted: bool = True,
@@ -43,7 +61,6 @@ def run_screensaver_overlay(
 ) -> subprocess.Popen:
     """Launches fullscreen screensaver overlay with instant wake-on-input."""
     if not mpv_bin or not env:
-        from engine import find_mpv_binary
         mpv_bin, env = find_mpv_binary()
 
     cmd = [
@@ -80,7 +97,6 @@ def run_screensaver_overlay(
 def run_standalone_screensaver(sources: List[str]):
     """Launches screensaver immediately and blocks until user dismissal."""
     from models import resolve_media_sources
-    from engine import find_mpv_binary
 
     resolved = resolve_media_sources(sources)
     if not resolved:
