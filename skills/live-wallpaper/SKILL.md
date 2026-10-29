@@ -1,75 +1,98 @@
 ---
 name: live-wallpaper
-description: "Native macOS live wallpaper and screensaver engine using Swift, AVFoundation, and AppKit desktop window layering. Supports local video wallpapers, images, playlist queues, per-desktop space mapping with 0ms delay and extreme low-power auto-pause, hardware idle-triggered screensavers, wake-on-input dismissals, directory scanning, background daemonizing (-d), unmuted audio playback, streaming URLs (HTTP/HTTPS/HLS), and LaunchAgent system service auto-start."
-version: 2.3.0
+description: "Cross-platform macOS and Linux live wallpaper and screensaver engine. Uses modular Swift and AppKit/AVFoundation on macOS, and Python, GTK, and mpv with GPU acceleration on Linux. Supports local video wallpapers, images, playlist queues, per-desktop space/monitor mapping, hardware idle-triggered screensavers, wake-on-input dismissals, directory scanning, background daemonizing (-d), audio control, streaming URLs (HTTP/HTTPS/HLS), and LaunchAgent (macOS) / systemd (Linux) auto-start."
+version: 2.4.0
 author: Krishna Kanth
 license: MIT
-platforms: [macos]
+platforms: [macos, linux]
 metadata:
   icon: "🖼️"
 hermes:
-  tags: [macos, swift, wallpaper, live-wallpaper, screensaver, avfoundation, desktop, media, queue, images, spaces, low-power]
+  tags: [macos, linux, swift, python, mpv, wallpaper, live-wallpaper, screensaver, desktop, media, queue, images, wayland, x11, low-power]
   related_skills: [media-processor, macos-python-ui]
 ---
 
-# 🖼️ macOS Live Wallpaper & Screensaver Engine
+# 🖼️ Cross-Platform Live Wallpaper & Screensaver Engine (macOS & Linux)
 
-High-performance, native macOS desktop wallpaper and screensaver runner built in modular Swift. Renders dynamic videos (MP4, MOV, WebM, HLS) and high-res images (PNG, JPG, HEIC, WebP) directly onto the macOS desktop layer behind Finder icons, and elevates to a full-screen screensaver overlay above all windows when the system is idle using Apple Silicon hardware acceleration (`~0.4%` CPU).
-
----
-
-## ⚡ Core Architecture & Layering
-
-```
-Layer 1000:        [SCREENSAVER OVERLAY] (NSWindow.Level.screenSaver)   ◄── On Idle / Wake-on-input
-Layer    0:        Regular Application Windows (Chrome, Terminal, IDE)
-Layer -2147483603: Finder Desktop Layer (Desktop icons, shortcuts)     ◄── Desktop Top
-Layer -2147483604: [LIVE WALLPAPER ENGINE] (AVPlayerLayer/CALayer)     ◄── Behind Icons
-Layer -2147483624: macOS System Wallpaper (WindowManager)             ◄── Desktop Bottom
-```
-
-* **Native Hardware Space Pinning (0ms Latency)**: Pins dedicated windows directly to Mission Control space IDs via SkyLight `CGSAddWindowsToSpaces`. Wallpapers physically slide with trackpad gestures at 120Hz ProMotion without post-swipe switching lag.
-* **Full-Screen Screensaver Overlay**: Elevated to `NSWindow.Level.screenSaver` (Layer 1000) covering all windows, menu bar, and dock. Includes a minimal HUD clock and instant wake-on-input dismissals via Quartz and IOKit.
-* **Extreme Low-Power Auto-Pause**: Automatically pauses video decoding on inactive spaces. Keeps `VTDecoderXPCService` memory tiny (`~48 MB` instead of `1 GB+`) and CPU usage at `<2-5%` of one core.
-* **Modular Swift Architecture**: Decoupled single-responsibility modules under `src/` for clean maintainability and rapid extension.
-* **POSIX IPC Control**: Real-time signal and command dispatch (`next`, `prev`, `goto`, `add`, `screensaver`) without stopping the background daemon.
+High-performance, dual-platform desktop wallpaper and screensaver runner. Renders dynamic videos (MP4, MOV, WebM, MKV, HLS) and high-res images (PNG, JPG, HEIC, WebP) directly onto the desktop layer behind desktop icons, and elevates to a full-screen screensaver overlay above all windows when the system is idle with GPU hardware acceleration.
 
 ---
 
-## 📦 Modular Source Layout (`src/`)
+## ⚡ Architecture by Platform
 
-| Module | Responsibility |
-| :--- | :--- |
-| **`Models.swift`** | `QueueItem`, `MediaType`, `EngineState`, state and media file path constants |
-| **`SkyLight.swift`** | SkyLight CGS private framework bindings, space enumeration, and window pinning |
-| **`MediaResolver.swift`** | Directory traversal, format detection, URL handling, and source expansion |
-| **`Renderers.swift`** | `SpaceWallpaperWindow` (per-space hardware sliding) & `ScreenRenderer` (regular desktop) |
-| **`Screensaver.swift`** | `ScreensaverWindow`, IOHIDSystem idle detection, and wake-on-input global monitors |
-| **`WallpaperApp.swift`** | `NSApplicationDelegate` orchestrator, space synchronization, and playback loop |
-| **`IPC.swift`** | POSIX signal (`SIGUSR1`) command dispatch, PID tracking, queue/status inspection |
-| **`Service.swift`** | macOS LaunchAgent (`~/Library/LaunchAgents`) plist installer and manager |
-| **`main.swift`** | CLI entry point, argument parser, and command router |
+### 🍎 macOS Engine (`src/macos/`)
+* **Layering**: Native AppKit desktop window layering (`kCGDesktopWindowLevel - 1`) behind Finder icons.
+* **Hardware Space Pinning (0ms Latency)**: Pins windows directly to Mission Control space IDs via SkyLight `CGSAddWindowsToSpaces`.
+* **Low-Power Auto-Pause**: Pauses video decoding on inactive spaces.
+* **Screensaver**: Elevated to `NSWindow.Level.screenSaver` with frosted glass HUD clock and wake-on-input dismissals.
+* **Service**: Managed via macOS LaunchAgent (`~/Library/LaunchAgents`).
+
+### 🐧 Linux Engine (`src/linux/`)
+* **Layering**: GTK desktop-level window (`Gdk.WindowTypeHint.DESKTOP`, `set_keep_below(True)`) covering the display geometry behind application windows.
+* **Rendering Engine**: Hardware-accelerated `mpv` (`--hwdec=auto`, `--vo=gpu-next`) embedded directly into the desktop window XID.
+* **Idle Screensaver**: GNOME Mutter DBus (`org.gnome.Mutter.IdleMonitor`) and X11 idle tracking with instant wake-on-input dismissals.
+* **IPC Control**: Unix domain socket (`~/.cache/live-wallpaper/ipc.sock`) supporting zero-downtime queue inspection and manipulation.
+* **Service**: Managed via Linux `systemd --user` (`~/.config/systemd/user/live-wallpaper.service`).
+
+---
+
+## 📦 Source Layout
+
+```
+skills/live-wallpaper/
+├── SKILL.md
+├── bin/
+│   └── live-wallpaper         # Unified cross-platform CLI dispatcher
+├── scripts/
+│   ├── build.sh               # Platform builder & installer
+│   └── setup-linux.sh         # Linux mpv dependency installer
+└── src/
+    ├── macos/                 # Swift macOS native engine
+    │   ├── IPC.swift
+    │   ├── MediaResolver.swift
+    │   ├── Models.swift
+    │   ├── Renderers.swift
+    │   ├── Screensaver.swift
+    │   ├── Service.swift
+    │   ├── SkyLight.swift
+    │   ├── WallpaperApp.swift
+    │   └── main.swift
+    └── linux/                 # Python Linux engine
+        ├── __init__.py
+        ├── models.py          # Media discovery & queue models
+        ├── ipc.py             # Unix socket IPC client/server & PID manager
+        ├── engine.py          # GTK desktop window & mpv runner
+        ├── screensaver.py     # Mutter DBus idle detection & screensaver overlay
+        ├── service.py         # systemd user service installer & manager
+        └── main.py            # Linux CLI entrypoint
+```
 
 ---
 
 ## 🚀 Quick Command Reference
 
-The compiled binary resides in `~/.local/bin/live-wallpaper`.
+The compiled/linked binary resides in `~/.local/bin/live-wallpaper`.
 
-### 1. Per-Desktop Space Mapping (Swipe Between Desktops)
+### 1. Starting the Wallpaper Daemon
 
 ```bash
-# Bind each Mission Control virtual desktop to a distinct wallpaper (0ms delay & low power)
-live-wallpaper -d -p ~/Pictures/Wallpapers
+# Run wallpaper daemon in background with a folder of wallpapers
+live-wallpaper -d ~/Pictures/Wallpapers
 
-# Check active desktop space and mapped wallpapers
-live-wallpaper queue
+# Run with custom rotation interval (e.g. 30 seconds)
+live-wallpaper -d -i 30 ~/Pictures/Wallpapers
+
+# Shuffle playlist queue order
+live-wallpaper -d -s -i 60 ~/Pictures/Wallpapers
+
+# Run with multi-monitor / virtual desktop distribution
+live-wallpaper -d -p ~/Pictures/Wallpapers
 ```
 
 ### 2. Screensaver Mode
 
 ```bash
-# Trigger screensaver immediately (or test standalone overlay)
+# Trigger screensaver immediately (press any key or move mouse to dismiss)
 live-wallpaper screensaver
 
 # Run wallpaper daemon with auto-screensaver after 3 minutes (180s) of inactivity
@@ -79,26 +102,10 @@ live-wallpaper -d -p --screensaver 180 ~/Pictures/Wallpapers
 live-wallpaper -d -p --screensaver 300 --screensaver-source ~/Pictures/Screensavers ~/Pictures/Wallpapers
 ```
 
-### 3. Timed Playlist Queues & Directories
+### 3. Live Queue Control (Zero Downtime)
 
 ```bash
-# Play all wallpapers and images in a folder (rotates every 60s by default)
-live-wallpaper -d ~/Pictures/Wallpapers
-
-# Set custom rotation interval (e.g. 30 seconds)
-live-wallpaper -d -i 30 ~/Pictures/Wallpapers
-
-# Shuffle playlist queue order
-live-wallpaper -d -s -i 60 ~/Pictures/Wallpapers
-
-# Play specific multiple videos and images in a custom queue
-live-wallpaper -d video1.mp4 anime-art.png video2.mov
-```
-
-### 4. Live Queue Control (Zero Downtime)
-
-```bash
-# View active queue with currently playing item, screensaver status, and space bindings
+# View active queue with currently playing item and status
 live-wallpaper queue
 
 # Skip to next wallpaper
@@ -114,7 +121,7 @@ live-wallpaper goto 4
 live-wallpaper add ~/Pictures/Wallpapers/new-art.png
 ```
 
-### 5. Audio Control
+### 4. Audio Control
 
 ```bash
 # Unmute and play at 100% volume
@@ -127,7 +134,7 @@ live-wallpaper -d -a -v 35 /path/to/video.mp4
 live-wallpaper -d -m /path/to/video.mp4
 ```
 
-### 6. Streaming URLs
+### 5. Streaming URLs
 
 ```bash
 # Stream online video or HLS directly as wallpaper
@@ -135,7 +142,7 @@ live-wallpaper -d "https://example.com/stream.mp4"
 live-wallpaper -d "https://example.com/live/playlist.m3u8"
 ```
 
-### 7. Process & Service Management
+### 6. Process & Service Management
 
 ```bash
 # Check current active wallpaper, PID, and queue status
@@ -144,13 +151,13 @@ live-wallpaper status
 # Stop active wallpaper
 live-wallpaper stop
 
-# Install as macOS LaunchAgent service with screensaver support
+# Install as auto-start background service (LaunchAgent on macOS, systemd on Linux)
 live-wallpaper service install -p --screensaver 180 ~/Pictures/Wallpapers
 
 # Check service status
 live-wallpaper service status
 
-# Uninstall macOS LaunchAgent service
+# Uninstall auto-start service
 live-wallpaper service uninstall
 ```
 
@@ -161,6 +168,6 @@ live-wallpaper service uninstall
 To rebuild and install the modular engine from source:
 
 ```bash
-cd /Users/krishnakanth/Projects/workflow/skills/live-wallpaper
+cd ~/workflows/skills/live-wallpaper
 ./scripts/build.sh
 ```
