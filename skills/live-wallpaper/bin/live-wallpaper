@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+OS="$(uname -s)"
+
+if [[ "${OS}" == "Darwin" ]]; then
+    if [[ -x "${HOME}/.local/bin/live-wallpaper-macos" ]]; then
+        exec "${HOME}/.local/bin/live-wallpaper-macos" "$@"
+    else
+        echo "Error: macOS engine binary not found. Please compile it first:"
+        echo "  cd ~/workflows/skills/live-wallpaper && ./scripts/build.sh"
+        exit 1
+    fi
+elif [[ "${OS}" == "Linux" ]]; then
+    SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+    ROOT_DIR=""
+
+    # 1. Check relative to binary location
+    if [[ -f "${SCRIPT_DIR}/../src/linux/main.py" ]]; then
+        ROOT_DIR="$(cd "${SCRIPT_DIR}/.." && pwd)"
+    # 2. Check standard skill locations
+    elif [[ -f "${HOME}/.gemini/config/skills/live-wallpaper/src/linux/main.py" ]]; then
+        ROOT_DIR="${HOME}/.gemini/config/skills/live-wallpaper"
+    elif [[ -f "${HOME}/workflows/skills/live-wallpaper/src/linux/main.py" ]]; then
+        ROOT_DIR="${HOME}/workflows/skills/live-wallpaper"
+    elif [[ -f "${HOME}/.skills/live-wallpaper/src/linux/main.py" ]]; then
+        ROOT_DIR="${HOME}/.skills/live-wallpaper"
+    fi
+
+    if [[ -z "${ROOT_DIR}" || ! -f "${ROOT_DIR}/src/linux/main.py" ]]; then
+        echo "Error: Cannot locate live-wallpaper Linux source files." >&2
+        exit 1
+    fi
+
+    # Ensure standalone mpv libraries are visible if bundled
+    if [[ -d "${HOME}/.local/share/live-wallpaper/lib" ]]; then
+        export LD_LIBRARY_PATH="${HOME}/.local/share/live-wallpaper/lib:${LD_LIBRARY_PATH:-}"
+    fi
+
+    exec python3 "${ROOT_DIR}/src/linux/main.py" "$@"
+else
+    echo "Unsupported operating system: ${OS}" >&2
+    exit 1
+fi
